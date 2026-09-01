@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Catholic High School Entrance Exams</title>
+  <title>HSPT Exam Simulator</title>
   <link rel="stylesheet" href="styles.css?v=3" />
 </head>
 <body>
   <header class="topbar">
     <div class="brandbar">
-      <img id="logo" class="logo-small" alt="Catholic entrance exam logo" />
+      <img id="logo" class="logo-small" alt="HSPT Exam Simulator logo" />
 
       <div>
         <div id="brand" class="brandname"></div>
@@ -18,7 +18,6 @@
     </div>
 
     <nav class="nav">
-      <a class="navlink" href="#" data-page="home">Home</a>
       <a class="navlink" href="#" data-page="sim">Exam Simulator</a>
       <a class="navlink" href="#" data-page="pdf">Printable Practice Exams</a>
       <a class="navlink" href="#" data-page="flashcards" id="flashcardsNav">Flashcards</a>
@@ -27,43 +26,12 @@
   </header>
 
   <main class="container">
-    <section id="page-home" class="page">
-      <h2>Welcome</h2>
 
-      <p>
-        Prepare for Catholic high school admission with one platform covering
-        the HSPT, TACHS, and COOP.
-      </p>
-
-      <p class="helper">
-        Choose Exam Simulator for interactive practice or Printable Practice
-        Exams for full-length paper-based tests.
-      </p>
-
-      <div class="portalSummary">
-        <div class="summaryItem">
-          <strong>3</strong>
-          <span>Entrance Exams</span>
-        </div>
-
-        <div class="summaryItem">
-          <strong>30</strong>
-          <span>Full-Length Tests</span>
-        </div>
-
-        <div class="summaryItem">
-          <strong>14</strong>
-          <span>Practice Sections</span>
-        </div>
-      </div>
-    </section>
-
-    <section id="page-sim" class="page hidden">
+    <section id="page-sim" class="page">
       <h2>Exam Simulator</h2>
 
       <div class="panel">
-        <label class="label" for="examSelect">Choose Your Exam</label>
-        <select id="examSelect" class="select"></select>
+        <select id="examSelect" class="select hidden" aria-hidden="true" tabindex="-1"></select>
 
         <p id="familyDescription" class="helper"></p>
 
@@ -105,8 +73,7 @@
       <h2>Printable Practice Exams</h2>
 
       <p class="helper">
-        Download full-length HSPT, TACHS, and COOP practice exams for
-        paper-based study.
+        Download full-length HSPT practice exams for paper-based study.
       </p>
 
       <div id="pdfList" class="pdfList"></div>
@@ -141,7 +108,6 @@
       document.getElementById("logo").src = cfg.logoPath;
 
       const pages = {
-        home: document.getElementById("page-home"),
         sim: document.getElementById("page-sim"),
         pdf: document.getElementById("page-pdf"),
         flashcards: document.getElementById("page-flashcards")
@@ -228,12 +194,6 @@
 
       populateFamilies();
       populateSections();
-
-      if (families.length === 1) {
-        const familySelector =
-          examSelect.closest("label") || examSelect.parentElement;
-        if (familySelector) familySelector.classList.add("hidden");
-      }
 
       examSelect.addEventListener("change", populateSections);
 
