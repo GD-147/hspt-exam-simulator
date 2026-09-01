@@ -1,4 +1,4 @@
-name: Deploy Catholic Entrance Exams Portal to GitHub Pages
+name: Deploy HSPT Exam Simulator to GitHub Pages
 
 on:
   push:

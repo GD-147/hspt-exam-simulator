@@ -229,6 +229,12 @@
       populateFamilies();
       populateSections();
 
+      if (families.length === 1) {
+        const familySelector =
+          examSelect.closest("label") || examSelect.parentElement;
+        if (familySelector) familySelector.classList.add("hidden");
+      }
+
       examSelect.addEventListener("change", populateSections);
 
       sectionSelect.addEventListener("change", () => {

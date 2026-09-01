@@ -1,0 +1,121 @@
+{
+  "examId": "hspt",
+  "brandName": "HSPT Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/hspt/assets/logo.svg?v=1",
+  "accessPassword": "HSPTPREP",
+  "practiceChunkSize": 10,
+  "portalDescription": "Prepare for the HSPT with section-based practice, timed exam sessions, answer review, explanations, and printable full-length exams.",
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "examFamilies": [
+    {
+      "id": "hspt",
+      "label": "HSPT",
+      "description": "High School Placement Test practice covering five academic and reasoning sections."
+    }
+  ],
+  "sections": [
+    {
+      "id": "hspt_verbal_skills",
+      "family": "hspt",
+      "label": "HSPT Verbal Skills",
+      "timeMin": 20,
+      "timeLabel": "Recommended platform time: 20 minutes",
+      "examQuestions": 60,
+      "type": "mcq",
+      "examFiles": [
+        "hspt_verbal_skills_exam_01.json",
+        "hspt_verbal_skills_exam_02.json",
+        "hspt_verbal_skills_exam_03.json",
+        "hspt_verbal_skills_exam_04.json"
+      ]
+    },
+    {
+      "id": "hspt_quantitative_skills",
+      "family": "hspt",
+      "label": "HSPT Quantitative Skills",
+      "timeMin": 35,
+      "timeLabel": "Recommended platform time: 35 minutes",
+      "examQuestions": 52,
+      "type": "mcq",
+      "examFiles": [
+        "hspt_quantitative_skills_exam_01.json",
+        "hspt_quantitative_skills_exam_02.json",
+        "hspt_quantitative_skills_exam_03.json",
+        "hspt_quantitative_skills_exam_04.json"
+      ]
+    },
+    {
+      "id": "hspt_reading_comprehension",
+      "family": "hspt",
+      "label": "HSPT Reading Comprehension",
+      "timeMin": 35,
+      "timeLabel": "Recommended platform time: 35 minutes",
+      "examQuestions": 62,
+      "type": "mcq",
+      "examFiles": [
+        "hspt_reading_comprehension_exam_01.json",
+        "hspt_reading_comprehension_exam_02.json",
+        "hspt_reading_comprehension_exam_03.json",
+        "hspt_reading_comprehension_exam_04.json"
+      ]
+    },
+    {
+      "id": "hspt_mathematics",
+      "family": "hspt",
+      "label": "HSPT Mathematics",
+      "timeMin": 45,
+      "timeLabel": "Recommended platform time: 45 minutes",
+      "examQuestions": 64,
+      "type": "mcq",
+      "examFiles": [
+        "hspt_mathematics_exam_01.json",
+        "hspt_mathematics_exam_02.json",
+        "hspt_mathematics_exam_03.json",
+        "hspt_mathematics_exam_04.json"
+      ]
+    },
+    {
+      "id": "hspt_language",
+      "family": "hspt",
+      "label": "HSPT Language",
+      "timeMin": 30,
+      "timeLabel": "Recommended platform time: 30 minutes",
+      "examQuestions": 60,
+      "type": "mcq",
+      "examFiles": [
+        "hspt_language_exam_01.json",
+        "hspt_language_exam_02.json",
+        "hspt_language_exam_03.json",
+        "hspt_language_exam_04.json"
+      ]
+    }
+  ],
+  "printables": [
+    {
+      "family": "hspt",
+      "label": "HSPT Full-Length Practice Exam 01",
+      "file": "hspt_full_exam_01.pdf"
+    },
+    {
+      "family": "hspt",
+      "label": "HSPT Full-Length Practice Exam 02",
+      "file": "hspt_full_exam_02.pdf"
+    },
+    {
+      "family": "hspt",
+      "label": "HSPT Full-Length Practice Exam 03",
+      "file": "hspt_full_exam_03.pdf"
+    },
+    {
+      "family": "hspt",
+      "label": "HSPT Full-Length Practice Exam 04",
+      "file": "hspt_full_exam_04.pdf"
+    }
+  ],
+  "flashcards": []
+}

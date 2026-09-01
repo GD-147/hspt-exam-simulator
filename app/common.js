@@ -4,7 +4,7 @@ function getExamFromUrl() {
   const params = new URLSearchParams(window.location.search);
   return (
     params.get("exam") ||
-    "catholic-high-school-entrance-exams"
+    "hspt"
   ).toLowerCase();
 }
 
