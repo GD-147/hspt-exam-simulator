@@ -1,0 +1,1097 @@
+{
+  "title": "HSPT Mathematics Practice Test 06",
+  "examFamily": "hspt",
+  "examNumber": 6,
+  "section": "Mathematics",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": "HSPT-M6-001",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number is greatest?",
+      "choices": {
+        "A": "7/12",
+        "B": "0.56",
+        "C": "55%",
+        "D": "0.57"
+      },
+      "correct": "A",
+      "correctAnswer": "7/12",
+      "explanation": "7/12 ≈ 0.583, which is greater than 0.57, 0.56, and 0.55."
+    },
+    {
+      "id": "HSPT-M6-002",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the value of 2 1/4 ÷ 3/8?",
+      "choices": {
+        "A": "6",
+        "B": "5",
+        "C": "6 1/2",
+        "D": "7"
+      },
+      "correct": "A",
+      "correctAnswer": "6",
+      "explanation": "2 1/4 = 9/4, and 9/4 ÷ 3/8 = 9/4 × 8/3 = 6."
+    },
+    {
+      "id": "HSPT-M6-003",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the least positive number that is divisible by 8, 12, and 18?",
+      "choices": {
+        "A": "36",
+        "B": "48",
+        "C": "144",
+        "D": "72"
+      },
+      "correct": "D",
+      "correctAnswer": "72",
+      "explanation": "72 is the smallest number containing all prime factors needed for divisibility by 8, 12, and 18."
+    },
+    {
+      "id": "HSPT-M6-004",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A price decreases from $64 to $52. What is the percent decrease?",
+      "choices": {
+        "A": "12%",
+        "B": "15%",
+        "C": "18.75%",
+        "D": "16%"
+      },
+      "correct": "C",
+      "correctAnswer": "18.75%",
+      "explanation": "The decrease is $12, and 12 ÷ 64 = 0.1875 = 18.75%."
+    },
+    {
+      "id": "HSPT-M6-005",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If y = 4x − 7, what is y when x = 6?",
+      "choices": {
+        "A": "31",
+        "B": "19",
+        "C": "24",
+        "D": "17"
+      },
+      "correct": "D",
+      "correctAnswer": "17",
+      "explanation": "Substitute x = 6: y = 4(6) − 7 = 24 − 7 = 17."
+    },
+    {
+      "id": "HSPT-M6-006",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which expression is equivalent to 5(2n − 3) + 4?",
+      "choices": {
+        "A": "10n − 11",
+        "B": "10n − 19",
+        "C": "10n + 1",
+        "D": "7n − 11"
+      },
+      "correct": "A",
+      "correctAnswer": "10n − 11",
+      "explanation": "Distribute 5 to obtain 10n − 15, then add 4 to get 10n − 11."
+    },
+    {
+      "id": "HSPT-M6-007",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A machine produces 18 parts in 6 minutes at a constant rate. At this rate, how many parts will it produce in 15 minutes?",
+      "choices": {
+        "A": "36",
+        "B": "45",
+        "C": "42",
+        "D": "40"
+      },
+      "correct": "B",
+      "correctAnswer": "45",
+      "explanation": "The rate is 18 ÷ 6 = 3 parts per minute, so 3 × 15 = 45."
+    },
+    {
+      "id": "HSPT-M6-008",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Solve the inequality 4p − 9 > 19.",
+      "choices": {
+        "A": "p > 7",
+        "B": "p > 5",
+        "C": "p < 7",
+        "D": "p < 5"
+      },
+      "correct": "A",
+      "correctAnswer": "p > 7",
+      "explanation": "Add 9 to obtain 4p > 28, then divide by 4 to get p > 7."
+    },
+    {
+      "id": "HSPT-M6-009",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A regular octagon has a perimeter of 88 cm. What is the length of one side?",
+      "choices": {
+        "A": "11 cm",
+        "B": "10 cm",
+        "C": "12 cm",
+        "D": "8 cm"
+      },
+      "correct": "A",
+      "correctAnswer": "11 cm",
+      "explanation": "A regular octagon has eight equal sides, so each side is 88 ÷ 8 = 11 cm."
+    },
+    {
+      "id": "HSPT-M6-010",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A right triangle has legs measuring 9 units and 12 units. What is the length of its hypotenuse?",
+      "choices": {
+        "A": "13 units",
+        "B": "14 units",
+        "C": "15 units",
+        "D": "21 units"
+      },
+      "correct": "C",
+      "correctAnswer": "15 units",
+      "explanation": "Using the Pythagorean relationship, √(9² + 12²) = √225 = 15."
+    },
+    {
+      "id": "HSPT-M6-011",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle has a radius of 6 cm. What is its area in terms of π?",
+      "choices": {
+        "A": "12π cm²",
+        "B": "18π cm²",
+        "C": "24π cm²",
+        "D": "36π cm²"
+      },
+      "correct": "D",
+      "correctAnswer": "36π cm²",
+      "explanation": "Circle area is πr², so π(6²) = 36π cm²."
+    },
+    {
+      "id": "HSPT-M6-012",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A cyclist travels 27 miles in 1.5 hours. What is the cyclist's average speed?",
+      "choices": {
+        "A": "15 miles per hour",
+        "B": "18 miles per hour",
+        "C": "20 miles per hour",
+        "D": "24 miles per hour"
+      },
+      "correct": "B",
+      "correctAnswer": "18 miles per hour",
+      "explanation": "Average speed equals distance divided by time: 27 ÷ 1.5 = 18 miles per hour."
+    },
+    {
+      "id": "HSPT-M6-013",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A container holds 2.4 liters. How many milliliters does it hold?",
+      "choices": {
+        "A": "24,000",
+        "B": "240",
+        "C": "2,400",
+        "D": "24"
+      },
+      "correct": "C",
+      "correctAnswer": "2,400",
+      "explanation": "One liter equals 1,000 milliliters, so 2.4 liters equals 2,400 milliliters."
+    },
+    {
+      "id": "HSPT-M6-014",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The numbers 12, 18, 15, 21, and x have a mean of 17. What is x?",
+      "choices": {
+        "A": "19",
+        "B": "18",
+        "C": "17",
+        "D": "20"
+      },
+      "correct": "A",
+      "correctAnswer": "19",
+      "explanation": "Five values with mean 17 total 85; the known values total 66, so x = 19."
+    },
+    {
+      "id": "HSPT-M6-015",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A bag contains 4 white, 5 black, and 3 gray tiles. One tile is selected at random. What is the probability that it is not black?",
+      "choices": {
+        "A": "5/12",
+        "B": "1/2",
+        "C": "2/3",
+        "D": "7/12"
+      },
+      "correct": "D",
+      "correctAnswer": "7/12",
+      "explanation": "Seven of the 12 tiles are white or gray, so the probability of selecting a nonblack tile is 7/12."
+    },
+    {
+      "id": "HSPT-M6-016",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The data set 6, 9, 9, 12, 14, 14, 14, 17 is given. Which statement is true?",
+      "choices": {
+        "A": "The median is 14.",
+        "B": "The range is 9.",
+        "C": "The mean is 14.",
+        "D": "The mode is 14."
+      },
+      "correct": "D",
+      "correctAnswer": "The mode is 14.",
+      "explanation": "The value 14 occurs three times, more often than any other number in the set."
+    },
+    {
+      "id": "HSPT-M6-017",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the value of |−8| + |3 − 10|?",
+      "choices": {
+        "A": "15",
+        "B": "12",
+        "C": "5",
+        "D": "1"
+      },
+      "correct": "A",
+      "correctAnswer": "15",
+      "explanation": "|−8| = 8 and |3 − 10| = |−7| = 7, so the sum is 15."
+    },
+    {
+      "id": "HSPT-M6-018",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which fraction is equivalent to 0.375?",
+      "choices": {
+        "A": "2/5",
+        "B": "7/16",
+        "C": "5/12",
+        "D": "3/8"
+      },
+      "correct": "D",
+      "correctAnswer": "3/8",
+      "explanation": "0.375 = 375/1000, which simplifies to 3/8."
+    },
+    {
+      "id": "HSPT-M6-019",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number is prime?",
+      "choices": {
+        "A": "51",
+        "B": "57",
+        "C": "61",
+        "D": "69"
+      },
+      "correct": "C",
+      "correctAnswer": "61",
+      "explanation": "61 has no positive factors other than 1 and 61, while the other choices are divisible by 3."
+    },
+    {
+      "id": "HSPT-M6-020",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Solve: 7x − 5 = 3x + 19.",
+      "choices": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correct": "C",
+      "correctAnswer": "6",
+      "explanation": "Subtracting 3x gives 4x − 5 = 19; adding 5 gives 4x = 24, so x = 6."
+    },
+    {
+      "id": "HSPT-M6-021",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The function rule is f(n) = n² − 4. What is f(5)?",
+      "choices": {
+        "A": "21",
+        "B": "17",
+        "C": "25",
+        "D": "29"
+      },
+      "correct": "A",
+      "correctAnswer": "21",
+      "explanation": "Substitute 5 into the rule: f(5) = 5² − 4 = 25 − 4 = 21."
+    },
+    {
+      "id": "HSPT-M6-022",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A rectangular garden has a width of w feet and a length that is 5 feet greater than its width. Which expression represents its perimeter?",
+      "choices": {
+        "A": "2w + 5",
+        "B": "4w + 10",
+        "C": "2w + 10",
+        "D": "4w + 5"
+      },
+      "correct": "B",
+      "correctAnswer": "4w + 10",
+      "explanation": "The perimeter is 2w + 2(w + 5), which simplifies to 4w + 10."
+    },
+    {
+      "id": "HSPT-M6-023",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A tank contains 84 gallons of water and loses 6 gallons each hour. Which expression gives the number of gallons remaining after h hours?",
+      "choices": {
+        "A": "6h − 84",
+        "B": "84 + 6h",
+        "C": "84 − 6h",
+        "D": "78h"
+      },
+      "correct": "C",
+      "correctAnswer": "84 − 6h",
+      "explanation": "The tank begins with 84 gallons and loses 6 gallons for each hour h."
+    },
+    {
+      "id": "HSPT-M6-024",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two angles are supplementary. One angle measures 124°. What is the measure of the other angle?",
+      "choices": {
+        "A": "66°",
+        "B": "56°",
+        "C": "46°",
+        "D": "76°"
+      },
+      "correct": "B",
+      "correctAnswer": "56°",
+      "explanation": "Supplementary angles total 180°, so the missing angle is 180 − 124 = 56°."
+    },
+    {
+      "id": "HSPT-M6-025",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangular prism measures 4 cm by 5 cm by 9 cm. What is its surface area?",
+      "choices": {
+        "A": "130 cm²",
+        "B": "202 cm²",
+        "C": "180 cm²",
+        "D": "162 cm²"
+      },
+      "correct": "B",
+      "correctAnswer": "202 cm²",
+      "explanation": "Surface area is 2(4×5 + 4×9 + 5×9) = 2(20 + 36 + 45) = 202 cm²."
+    },
+    {
+      "id": "HSPT-M6-026",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two similar triangles have corresponding side lengths 6 cm and 15 cm. If another side of the smaller triangle is 8 cm, what is the corresponding side of the larger triangle?",
+      "choices": {
+        "A": "17 cm",
+        "B": "18 cm",
+        "C": "20 cm",
+        "D": "24 cm"
+      },
+      "correct": "C",
+      "correctAnswer": "20 cm",
+      "explanation": "The scale factor is 15 ÷ 6 = 2.5, so 8 × 2.5 = 20 cm."
+    },
+    {
+      "id": "HSPT-M6-027",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A movie begins at 6:47 p.m. and lasts 2 hours 18 minutes. At what time does it end?",
+      "choices": {
+        "A": "8:55 p.m.",
+        "B": "9:25 p.m.",
+        "C": "9:15 p.m.",
+        "D": "9:05 p.m."
+      },
+      "correct": "D",
+      "correctAnswer": "9:05 p.m.",
+      "explanation": "Adding 2 hours gives 8:47 p.m.; adding 18 more minutes gives 9:05 p.m."
+    },
+    {
+      "id": "HSPT-M6-028",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A board is 7 feet 6 inches long. How many inches long is the board?",
+      "choices": {
+        "A": "96 inches",
+        "B": "84 inches",
+        "C": "90 inches",
+        "D": "102 inches"
+      },
+      "correct": "C",
+      "correctAnswer": "90 inches",
+      "explanation": "Seven feet equals 84 inches; adding 6 inches gives 90 inches."
+    },
+    {
+      "id": "HSPT-M6-029",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A map uses a scale of 1 inch = 18 miles. Two towns are 3.5 inches apart on the map. What is the actual distance between them?",
+      "choices": {
+        "A": "54 miles",
+        "B": "58 miles",
+        "C": "72 miles",
+        "D": "63 miles"
+      },
+      "correct": "D",
+      "correctAnswer": "63 miles",
+      "explanation": "Multiply the map distance by the scale: 3.5 × 18 = 63 miles."
+    },
+    {
+      "id": "HSPT-M6-030",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The data set is 14, 19, 23, 27, 31, 36. What is the median?",
+      "choices": {
+        "A": "25",
+        "B": "23",
+        "C": "27",
+        "D": "28"
+      },
+      "correct": "A",
+      "correctAnswer": "25",
+      "explanation": "With six values, the median is the average of the third and fourth values: (23 + 27) ÷ 2 = 25."
+    },
+    {
+      "id": "HSPT-M6-031",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A spinner has 8 equal sections numbered 1 through 8. What is the probability of spinning a multiple of 3?",
+      "choices": {
+        "A": "1/4",
+        "B": "3/8",
+        "C": "1/2",
+        "D": "5/8"
+      },
+      "correct": "A",
+      "correctAnswer": "1/4",
+      "explanation": "The multiples of 3 are 3 and 6, giving 2 favorable outcomes out of 8, or 1/4."
+    },
+    {
+      "id": "HSPT-M6-032",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Group A has scores 8, 10, 12, 14, 16. Group B has scores 6, 11, 12, 13, 18. Which statement is true?",
+      "choices": {
+        "A": "Group B has the greater mean.",
+        "B": "The groups have the same mean and median.",
+        "C": "Group A has the greater range.",
+        "D": "Group A has the greater median."
+      },
+      "correct": "B",
+      "correctAnswer": "The groups have the same mean and median.",
+      "explanation": "Both groups total 60 for a mean of 12, and each has a median of 12."
+    },
+    {
+      "id": "HSPT-M6-033",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the value of 3/4 + 5/6?",
+      "choices": {
+        "A": "1 7/12",
+        "B": "1 1/2",
+        "C": "1 2/3",
+        "D": "1 5/12"
+      },
+      "correct": "A",
+      "correctAnswer": "1 7/12",
+      "explanation": "Using twelfths, 3/4 = 9/12 and 5/6 = 10/12; the sum is 19/12 = 1 7/12."
+    },
+    {
+      "id": "HSPT-M6-034",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which expression has a value of 18?",
+      "choices": {
+        "A": "24 ÷ 2 + 4",
+        "B": "3² + 3",
+        "C": "2 × (7 + 2)",
+        "D": "5 × 4 − 4"
+      },
+      "correct": "C",
+      "correctAnswer": "2 × (7 + 2)",
+      "explanation": "Evaluate parentheses first: 7 + 2 = 9, then 2 × 9 = 18."
+    },
+    {
+      "id": "HSPT-M6-035",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is |−14| − |5 − 9|?",
+      "choices": {
+        "A": "10",
+        "B": "−10",
+        "C": "18",
+        "D": "−18"
+      },
+      "correct": "A",
+      "correctAnswer": "10",
+      "explanation": "|−14| = 14 and |5 − 9| = 4, so 14 − 4 = 10."
+    },
+    {
+      "id": "HSPT-M6-036",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A jar is 3/10 full. After 21 marbles are added, it is 3/5 full. How many marbles does the jar hold when full?",
+      "choices": {
+        "A": "60",
+        "B": "90",
+        "C": "80",
+        "D": "70"
+      },
+      "correct": "D",
+      "correctAnswer": "70",
+      "explanation": "The added 21 marbles represent 3/10 of capacity, so full capacity is 21 ÷ 0.3 = 70."
+    },
+    {
+      "id": "HSPT-M6-037",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If f(x) = 2x² − 3, what is f(4)?",
+      "choices": {
+        "A": "26",
+        "B": "29",
+        "C": "32",
+        "D": "35"
+      },
+      "correct": "B",
+      "correctAnswer": "29",
+      "explanation": "Substitute 4: 2(4²) − 3 = 32 − 3 = 29."
+    },
+    {
+      "id": "HSPT-M6-038",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which expression represents five less than twice a number t?",
+      "choices": {
+        "A": "5 − 2t",
+        "B": "2(t − 5)",
+        "C": "5t − 2",
+        "D": "2t − 5"
+      },
+      "correct": "D",
+      "correctAnswer": "2t − 5",
+      "explanation": "Twice t is 2t, and five less than that is 2t − 5."
+    },
+    {
+      "id": "HSPT-M6-039",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A taxi fare is $4 plus $2.50 per mile. If the fare is $19, how many miles were traveled?",
+      "choices": {
+        "A": "5",
+        "B": "7",
+        "C": "6",
+        "D": "7.6"
+      },
+      "correct": "C",
+      "correctAnswer": "6",
+      "explanation": "Subtract the $4 starting fee: $15 remains; $15 ÷ $2.50 = 6 miles."
+    },
+    {
+      "id": "HSPT-M6-040",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The perimeter of a rectangle is 42 cm. Its length is 3 cm more than twice its width. What is the width?",
+      "choices": {
+        "A": "5 cm",
+        "B": "6 cm",
+        "C": "7 cm",
+        "D": "8 cm"
+      },
+      "correct": "B",
+      "correctAnswer": "6 cm",
+      "explanation": "Let width be w: 2[(2w + 3) + w] = 42, so 6w + 6 = 42 and w = 6."
+    },
+    {
+      "id": "HSPT-M6-041",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two angles are supplementary. One angle measures 38°. What is the measure of the other angle?",
+      "choices": {
+        "A": "152°",
+        "B": "52°",
+        "C": "128°",
+        "D": "142°"
+      },
+      "correct": "D",
+      "correctAnswer": "142°",
+      "explanation": "Supplementary angles total 180°, so 180° − 38° = 142°."
+    },
+    {
+      "id": "HSPT-M6-042",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A trapezoid has bases of 9 cm and 15 cm and height 6 cm. What is its area?",
+      "choices": {
+        "A": "54 cm²",
+        "B": "90 cm²",
+        "C": "144 cm²",
+        "D": "72 cm²"
+      },
+      "correct": "D",
+      "correctAnswer": "72 cm²",
+      "explanation": "The trapezoid area is 1/2(9 + 15) × 6 = 72 cm²."
+    },
+    {
+      "id": "HSPT-M6-043",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangular prism measures 3 cm by 5 cm by 8 cm. What is its surface area?",
+      "choices": {
+        "A": "94 cm²",
+        "B": "158 cm²",
+        "C": "240 cm²",
+        "D": "120 cm²"
+      },
+      "correct": "B",
+      "correctAnswer": "158 cm²",
+      "explanation": "Surface area is 2(3×5 + 3×8 + 5×8) = 2(15 + 24 + 40) = 158 cm²."
+    },
+    {
+      "id": "HSPT-M6-044",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A map scale states that 1 inch represents 18 miles. Two towns are 3.5 inches apart on the map. What is the actual distance?",
+      "choices": {
+        "A": "54 miles",
+        "B": "60 miles",
+        "C": "63 miles",
+        "D": "72 miles"
+      },
+      "correct": "C",
+      "correctAnswer": "63 miles",
+      "explanation": "Multiply the map distance by the scale: 3.5 × 18 = 63 miles."
+    },
+    {
+      "id": "HSPT-M6-045",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A runner completes 2.5 kilometers in 12 minutes. At the same rate, how many kilometers will the runner complete in 30 minutes?",
+      "choices": {
+        "A": "7.50",
+        "B": "5.25",
+        "C": "6.00",
+        "D": "6.25"
+      },
+      "correct": "D",
+      "correctAnswer": "6.25",
+      "explanation": "Thirty minutes is 2.5 times 12 minutes, so distance is 2.5 × 2.5 = 6.25 kilometers."
+    },
+    {
+      "id": "HSPT-M6-046",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The median of 7, 11, 13, x, 20 is 13. If the values are listed in increasing order, which statement must be true?",
+      "choices": {
+        "A": "x < 13",
+        "B": "x = 13",
+        "C": "x ≥ 13",
+        "D": "x > 20"
+      },
+      "correct": "C",
+      "correctAnswer": "x ≥ 13",
+      "explanation": "Since 13 is the third ordered value, the fourth value x must be at least 13."
+    },
+    {
+      "id": "HSPT-M6-047",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A spinner has 8 equal sections numbered 1 through 8. What is the probability of spinning a number that is both even and greater than 3?",
+      "choices": {
+        "A": "3/8",
+        "B": "1/2",
+        "C": "1/4",
+        "D": "5/8"
+      },
+      "correct": "A",
+      "correctAnswer": "3/8",
+      "explanation": "The favorable outcomes are 4, 6, and 8, giving 3 favorable outcomes out of 8."
+    },
+    {
+      "id": "HSPT-M6-048",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A set of six scores has a mean of 14. Five scores are 9, 12, 13, 16, and 18. What is the sixth score?",
+      "choices": {
+        "A": "14",
+        "B": "16",
+        "C": "15",
+        "D": "17"
+      },
+      "correct": "B",
+      "correctAnswer": "16",
+      "explanation": "Six scores total 6 × 14 = 84; the five known scores total 68, leaving 16."
+    },
+    {
+      "id": "HSPT-M6-049",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number is greatest?",
+      "choices": {
+        "A": "61%",
+        "B": "0.62",
+        "C": "5/8",
+        "D": "0.605"
+      },
+      "correct": "C",
+      "correctAnswer": "5/8",
+      "explanation": "5/8 = 0.625, which is greater than 0.62, 0.61, and 0.605."
+    },
+    {
+      "id": "HSPT-M6-050",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the least common multiple of 12 and 18?",
+      "choices": {
+        "A": "24",
+        "B": "30",
+        "C": "36",
+        "D": "72"
+      },
+      "correct": "C",
+      "correctAnswer": "36",
+      "explanation": "The least positive number divisible by both 12 and 18 is 36."
+    },
+    {
+      "id": "HSPT-M6-051",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which expression is equal to 2 1/4?",
+      "choices": {
+        "A": "2.04",
+        "B": "2.25",
+        "C": "2.40",
+        "D": "2.50"
+      },
+      "correct": "B",
+      "correctAnswer": "2.25",
+      "explanation": "One fourth equals 0.25, so 2 1/4 equals 2.25."
+    },
+    {
+      "id": "HSPT-M6-052",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If 4a + 3b = 29 and a = 5, what is b?",
+      "choices": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "2"
+      },
+      "correct": "A",
+      "correctAnswer": "3",
+      "explanation": "Substitute a = 5: 4(5) + 3b = 29, so 20 + 3b = 29 and b = 3."
+    },
+    {
+      "id": "HSPT-M6-053",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which inequality is equivalent to 3x + 7 < 22?",
+      "choices": {
+        "A": "x > 5",
+        "B": "x < 5",
+        "C": "x < 29/3",
+        "D": "x > 29/3"
+      },
+      "correct": "B",
+      "correctAnswer": "x < 5",
+      "explanation": "Subtract 7 to get 3x < 15, then divide by 3 to obtain x < 5."
+    },
+    {
+      "id": "HSPT-M6-054",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A machine produces 18 parts in 6 minutes at a constant rate. Which expression gives the number of parts p produced in m minutes?",
+      "choices": {
+        "A": "p = m + 12",
+        "B": "p = 3m",
+        "C": "p = 6m",
+        "D": "p = 18m"
+      },
+      "correct": "B",
+      "correctAnswer": "p = 3m",
+      "explanation": "The rate is 18 ÷ 6 = 3 parts per minute, so p = 3m."
+    },
+    {
+      "id": "HSPT-M6-055",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The first three values in a linear relationship are (1, 7), (2, 11), and (3, 15). Which rule describes the relationship?",
+      "choices": {
+        "A": "y = 4x + 3",
+        "B": "y = 3x + 4",
+        "C": "y = 4x + 7",
+        "D": "y = 7x − 3"
+      },
+      "correct": "A",
+      "correctAnswer": "y = 4x + 3",
+      "explanation": "y increases by 4 when x increases by 1, and substituting x = 1 gives y = 7."
+    },
+    {
+      "id": "HSPT-M6-056",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A right triangle has legs of 9 cm and 12 cm. What is the length of its hypotenuse?",
+      "choices": {
+        "A": "13 cm",
+        "B": "15 cm",
+        "C": "21 cm",
+        "D": "18 cm"
+      },
+      "correct": "B",
+      "correctAnswer": "15 cm",
+      "explanation": "By the Pythagorean theorem, √(9² + 12²) = √225 = 15."
+    },
+    {
+      "id": "HSPT-M6-057",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle has radius 6 cm. Using 3.14 for π, what is its area?",
+      "choices": {
+        "A": "37.68 cm²",
+        "B": "75.36 cm²",
+        "C": "113.04 cm²",
+        "D": "226.08 cm²"
+      },
+      "correct": "C",
+      "correctAnswer": "113.04 cm²",
+      "explanation": "Area is πr² = 3.14 × 6² = 3.14 × 36 = 113.04 cm²."
+    },
+    {
+      "id": "HSPT-M6-058",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two similar triangles have corresponding side lengths 6 cm and 9 cm. If another side of the smaller triangle is 10 cm, what is the corresponding side of the larger triangle?",
+      "choices": {
+        "A": "12 cm",
+        "B": "13.5 cm",
+        "C": "15 cm",
+        "D": "16 cm"
+      },
+      "correct": "C",
+      "correctAnswer": "15 cm",
+      "explanation": "The scale factor is 9 ÷ 6 = 1.5, so 10 × 1.5 = 15 cm."
+    },
+    {
+      "id": "HSPT-M6-059",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A container holds 3 quarts. How many cups does it hold?",
+      "choices": {
+        "A": "16",
+        "B": "6",
+        "C": "8",
+        "D": "12"
+      },
+      "correct": "D",
+      "correctAnswer": "12",
+      "explanation": "One quart equals 4 cups, so 3 quarts equal 3 × 4 = 12 cups."
+    },
+    {
+      "id": "HSPT-M6-060",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A movie begins at 6:38 P.M. and ends at 9:12 P.M. How long is the movie?",
+      "choices": {
+        "A": "2 hours 24 minutes",
+        "B": "2 hours 34 minutes",
+        "C": "2 hours 44 minutes",
+        "D": "3 hours 34 minutes"
+      },
+      "correct": "B",
+      "correctAnswer": "2 hours 34 minutes",
+      "explanation": "From 6:38 P.M. to 8:38 P.M. is 2 hours, and from 8:38 P.M. to 9:12 P.M. is 34 minutes."
+    },
+    {
+      "id": "HSPT-M6-061",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A 7.5-foot board is cut into pieces that are each 18 inches long. How many complete pieces can be cut?",
+      "choices": {
+        "A": "4",
+        "B": "6",
+        "C": "7",
+        "D": "5"
+      },
+      "correct": "D",
+      "correctAnswer": "5",
+      "explanation": "7.5 feet equals 90 inches; 90 ÷ 18 = 5 complete pieces."
+    },
+    {
+      "id": "HSPT-M6-062",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A bag contains 4 red, 3 blue, and 5 green tiles. One tile is chosen at random, replaced, and then another tile is chosen. What is the probability that both tiles are blue?",
+      "choices": {
+        "A": "1/16",
+        "B": "1/9",
+        "C": "1/8",
+        "D": "1/12"
+      },
+      "correct": "A",
+      "correctAnswer": "1/16",
+      "explanation": "The probability of blue each time is 3/12 = 1/4; with replacement, 1/4 × 1/4 = 1/16."
+    },
+    {
+      "id": "HSPT-M6-063",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The data set is 6, 8, 8, 11, 14, 17. If 20 is added to the set, which measure must increase?",
+      "choices": {
+        "A": "range only",
+        "B": "mode only",
+        "C": "median only",
+        "D": "both median and range"
+      },
+      "correct": "D",
+      "correctAnswer": "both median and range",
+      "explanation": "The median changes from 9.5 to 11, and the range changes from 11 to 14."
+    },
+    {
+      "id": "HSPT-M6-064",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "In a survey, 18 students chose music, 12 chose art, 15 chose sports, and 5 chose drama. What percent of the 50 students chose sports?",
+      "choices": {
+        "A": "25%",
+        "B": "30%",
+        "C": "35%",
+        "D": "40%"
+      },
+      "correct": "B",
+      "correctAnswer": "30%",
+      "explanation": "Fifteen of 50 students chose sports, and 15 ÷ 50 = 0.30 = 30%."
+    }
+  ]
+}

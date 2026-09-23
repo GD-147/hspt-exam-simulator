@@ -20,7 +20,7 @@ except ImportError:
 
 
 ROOT = Path(__file__).resolve().parents[1]
-PACK = ROOT / "packs" / "catholic-high-school-entrance-exams"
+PACK = ROOT / "packs" / "hspt"
 DATA_DIR = PACK / "data"
 IMPORTS_DIR = ROOT / "imports"
 REPORTS_DIR = IMPORTS_DIR / "reports"

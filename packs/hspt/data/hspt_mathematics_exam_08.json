@@ -1,0 +1,1097 @@
+{
+  "title": "HSPT Mathematics Practice Test 08",
+  "examFamily": "hspt",
+  "examNumber": 8,
+  "section": "Mathematics",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": "HSPT-M8-001",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Evaluate: 24 ÷ 6 + 3 × 5",
+      "choices": {
+        "A": "20",
+        "B": "19",
+        "C": "23",
+        "D": "35"
+      },
+      "correct": "B",
+      "correctAnswer": "19",
+      "explanation": "Division and multiplication come first: 24 ÷ 6 = 4 and 3 × 5 = 15, so the total is 19."
+    },
+    {
+      "id": "HSPT-M8-002",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which fraction is equivalent to 0.45?",
+      "choices": {
+        "A": "9/20",
+        "B": "4/9",
+        "C": "5/11",
+        "D": "11/20"
+      },
+      "correct": "A",
+      "correctAnswer": "9/20",
+      "explanation": "The decimal 0.45 equals 45/100, which simplifies to 9/20."
+    },
+    {
+      "id": "HSPT-M8-003",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is |−9| + |−4|?",
+      "choices": {
+        "A": "5",
+        "B": "13",
+        "C": "−13",
+        "D": "36"
+      },
+      "correct": "B",
+      "correctAnswer": "13",
+      "explanation": "Absolute values are 9 and 4, so their sum is 13."
+    },
+    {
+      "id": "HSPT-M8-004",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number is composite?",
+      "choices": {
+        "A": "31",
+        "B": "37",
+        "C": "49",
+        "D": "41"
+      },
+      "correct": "C",
+      "correctAnswer": "49",
+      "explanation": "49 = 7 × 7, so it has factors other than 1 and itself."
+    },
+    {
+      "id": "HSPT-M8-005",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If 5x − 7 = 28, what is x?",
+      "choices": {
+        "A": "5",
+        "B": "7",
+        "C": "6",
+        "D": "8"
+      },
+      "correct": "B",
+      "correctAnswer": "7",
+      "explanation": "Add 7 to get 35, then divide by 5 to get x = 7."
+    },
+    {
+      "id": "HSPT-M8-006",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which expression represents “three more than four times a number n”?",
+      "choices": {
+        "A": "3n + 4",
+        "B": "4(n + 3)",
+        "C": "7n",
+        "D": "4n + 3"
+      },
+      "correct": "D",
+      "correctAnswer": "4n + 3",
+      "explanation": "Four times n is 4n, and three more gives 4n + 3."
+    },
+    {
+      "id": "HSPT-M8-007",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If y = 2x + 5 and x = 4, what is y?",
+      "choices": {
+        "A": "13",
+        "B": "9",
+        "C": "11",
+        "D": "18"
+      },
+      "correct": "A",
+      "correctAnswer": "13",
+      "explanation": "Substitute x = 4: y = 2(4) + 5 = 13."
+    },
+    {
+      "id": "HSPT-M8-008",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A service charges a $12 fixed fee plus $6 per hour. Which expression gives the total cost C for h hours?",
+      "choices": {
+        "A": "C = 18h",
+        "B": "C = 12 + 6h",
+        "C": "C = 6 + 12h",
+        "D": "C = 12h + 6"
+      },
+      "correct": "B",
+      "correctAnswer": "C = 12 + 6h",
+      "explanation": "The total combines the fixed $12 fee with $6 multiplied by h."
+    },
+    {
+      "id": "HSPT-M8-009",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A triangle has angles measuring 48°, 67°, and x°. What is x?",
+      "choices": {
+        "A": "55°",
+        "B": "75°",
+        "C": "65°",
+        "D": "85°"
+      },
+      "correct": "C",
+      "correctAnswer": "65°",
+      "explanation": "Triangle angles total 180°, so x = 180 − 48 − 67 = 65°."
+    },
+    {
+      "id": "HSPT-M8-010",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangle has length 14 cm and width 5 cm. What is its area?",
+      "choices": {
+        "A": "19 cm²",
+        "B": "70 cm²",
+        "C": "38 cm²",
+        "D": "140 cm²"
+      },
+      "correct": "B",
+      "correctAnswer": "70 cm²",
+      "explanation": "Area equals length × width: 14 × 5 = 70 cm²."
+    },
+    {
+      "id": "HSPT-M8-011",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle has a radius of 6 cm. Using 3.14 for π, what is its circumference?",
+      "choices": {
+        "A": "113.04 cm",
+        "B": "18.84 cm",
+        "C": "75.36 cm",
+        "D": "37.68 cm"
+      },
+      "correct": "D",
+      "correctAnswer": "37.68 cm",
+      "explanation": "Circumference is 2πr = 2 × 3.14 × 6 = 37.68 cm."
+    },
+    {
+      "id": "HSPT-M8-012",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A road is 3.2 kilometers long. How many meters is this?",
+      "choices": {
+        "A": "32",
+        "B": "3,200",
+        "C": "32,000",
+        "D": "320"
+      },
+      "correct": "B",
+      "correctAnswer": "3,200",
+      "explanation": "One kilometer equals 1,000 meters, so 3.2 kilometers equals 3,200 meters."
+    },
+    {
+      "id": "HSPT-M8-013",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A recipe requires 24 ounces of juice. How many cups is that if 1 cup = 8 ounces?",
+      "choices": {
+        "A": "2 cups",
+        "B": "6 cups",
+        "C": "4 cups",
+        "D": "3 cups"
+      },
+      "correct": "D",
+      "correctAnswer": "3 cups",
+      "explanation": "24 ÷ 8 = 3 cups."
+    },
+    {
+      "id": "HSPT-M8-014",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The data set is 8, 11, 11, 13, 17. What is the mode?",
+      "choices": {
+        "A": "11",
+        "B": "13",
+        "C": "8",
+        "D": "17"
+      },
+      "correct": "A",
+      "correctAnswer": "11",
+      "explanation": "The value 11 appears more often than any other value."
+    },
+    {
+      "id": "HSPT-M8-015",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A bag contains 3 green, 4 blue, and 5 red marbles. What is the probability of selecting a blue marble?",
+      "choices": {
+        "A": "1/4",
+        "B": "1/3",
+        "C": "5/12",
+        "D": "2/3"
+      },
+      "correct": "B",
+      "correctAnswer": "1/3",
+      "explanation": "There are 12 marbles total and 4 are blue, so 4/12 = 1/3."
+    },
+    {
+      "id": "HSPT-M8-016",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The mean of five numbers is 14. Four of the numbers are 10, 12, 15, and 18. What is the fifth number?",
+      "choices": {
+        "A": "13",
+        "B": "15",
+        "C": "16",
+        "D": "14"
+      },
+      "correct": "B",
+      "correctAnswer": "15",
+      "explanation": "Five numbers with mean 14 total 70; the known values total 55, leaving 15."
+    },
+    {
+      "id": "HSPT-M8-017",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the greatest common factor of 54 and 90?",
+      "choices": {
+        "A": "18",
+        "B": "9",
+        "C": "27",
+        "D": "36"
+      },
+      "correct": "A",
+      "correctAnswer": "18",
+      "explanation": "The greatest positive integer that divides both 54 and 90 is 18."
+    },
+    {
+      "id": "HSPT-M8-018",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which value is greatest?",
+      "choices": {
+        "A": "−2.4",
+        "B": "−2.14",
+        "C": "−2.41",
+        "D": "−2.04"
+      },
+      "correct": "D",
+      "correctAnswer": "−2.04",
+      "explanation": "Among negative numbers, the value closest to zero is greatest, so −2.04 is largest."
+    },
+    {
+      "id": "HSPT-M8-019",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Estimate 19.8 × 4.1 by rounding each factor to the nearest whole number.",
+      "choices": {
+        "A": "60",
+        "B": "100",
+        "C": "120",
+        "D": "80"
+      },
+      "correct": "D",
+      "correctAnswer": "80",
+      "explanation": "19.8 rounds to 20 and 4.1 rounds to 4, giving 20 × 4 = 80."
+    },
+    {
+      "id": "HSPT-M8-020",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Simplify: 3(2x + 5) − 4x",
+      "choices": {
+        "A": "10x + 15",
+        "B": "6x + 1",
+        "C": "2x + 15",
+        "D": "2x + 5"
+      },
+      "correct": "C",
+      "correctAnswer": "2x + 15",
+      "explanation": "Distribute first: 6x + 15 − 4x = 2x + 15."
+    },
+    {
+      "id": "HSPT-M8-021",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which value of x satisfies 2(x − 3) = x + 5?",
+      "choices": {
+        "A": "8",
+        "B": "10",
+        "C": "9",
+        "D": "11"
+      },
+      "correct": "D",
+      "correctAnswer": "11",
+      "explanation": "Expand to 2x − 6 = x + 5, then subtract x and add 6 to get x = 11."
+    },
+    {
+      "id": "HSPT-M8-022",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A cyclist travels 42 miles in 3 hours at a constant rate. At that rate, how far will the cyclist travel in 5 hours?",
+      "choices": {
+        "A": "56 miles",
+        "B": "60 miles",
+        "C": "84 miles",
+        "D": "70 miles"
+      },
+      "correct": "D",
+      "correctAnswer": "70 miles",
+      "explanation": "The rate is 42 ÷ 3 = 14 miles per hour, and 14 × 5 = 70 miles."
+    },
+    {
+      "id": "HSPT-M8-023",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which inequality represents all numbers x that are at least 6?",
+      "choices": {
+        "A": "x < 6",
+        "B": "x ≥ 6",
+        "C": "x > 6",
+        "D": "x ≤ 6"
+      },
+      "correct": "B",
+      "correctAnswer": "x ≥ 6",
+      "explanation": "At least 6 means 6 or any greater value, represented by x ≥ 6."
+    },
+    {
+      "id": "HSPT-M8-024",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A right triangle has legs of 9 cm and 12 cm. What is the length of the hypotenuse?",
+      "choices": {
+        "A": "15 cm",
+        "B": "13 cm",
+        "C": "18 cm",
+        "D": "21 cm"
+      },
+      "correct": "A",
+      "correctAnswer": "15 cm",
+      "explanation": "Using the Pythagorean theorem, 9² + 12² = 81 + 144 = 225, and √225 = 15."
+    },
+    {
+      "id": "HSPT-M8-025",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "The exterior angle of a regular hexagon measures",
+      "choices": {
+        "A": "45°",
+        "B": "90°",
+        "C": "60°",
+        "D": "120°"
+      },
+      "correct": "C",
+      "correctAnswer": "60°",
+      "explanation": "The exterior angles of any polygon total 360°, and 360° ÷ 6 = 60°."
+    },
+    {
+      "id": "HSPT-M8-026",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two similar rectangles have corresponding lengths 6 cm and 15 cm. If the smaller rectangle's width is 4 cm, what is the larger rectangle's width?",
+      "choices": {
+        "A": "10 cm",
+        "B": "9 cm",
+        "C": "8 cm",
+        "D": "12 cm"
+      },
+      "correct": "A",
+      "correctAnswer": "10 cm",
+      "explanation": "The scale factor is 15 ÷ 6 = 2.5, so the larger width is 4 × 2.5 = 10 cm."
+    },
+    {
+      "id": "HSPT-M8-027",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A movie begins at 6:47 p.m. and ends at 8:35 p.m. How long does it last?",
+      "choices": {
+        "A": "1 hour 38 minutes",
+        "B": "2 hours 12 minutes",
+        "C": "1 hour 48 minutes",
+        "D": "2 hours 48 minutes"
+      },
+      "correct": "C",
+      "correctAnswer": "1 hour 48 minutes",
+      "explanation": "From 6:47 to 7:47 is one hour, and from 7:47 to 8:35 is 48 minutes."
+    },
+    {
+      "id": "HSPT-M8-028",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A package weighs 5 pounds 8 ounces. How many ounces does it weigh in all?",
+      "choices": {
+        "A": "80 ounces",
+        "B": "72 ounces",
+        "C": "88 ounces",
+        "D": "96 ounces"
+      },
+      "correct": "C",
+      "correctAnswer": "88 ounces",
+      "explanation": "Five pounds equals 80 ounces; adding 8 ounces gives 88 ounces."
+    },
+    {
+      "id": "HSPT-M8-029",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "On a map, 1 inch represents 18 miles. Two towns are 3.5 inches apart on the map. What is their actual distance?",
+      "choices": {
+        "A": "54 miles",
+        "B": "81 miles",
+        "C": "72 miles",
+        "D": "63 miles"
+      },
+      "correct": "D",
+      "correctAnswer": "63 miles",
+      "explanation": "Multiply the map distance by the scale: 3.5 × 18 = 63 miles."
+    },
+    {
+      "id": "HSPT-M8-030",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The numbers of pages read by five students are 18, 22, 24, 24, and 37. What is the median?",
+      "choices": {
+        "A": "22",
+        "B": "25",
+        "C": "24",
+        "D": "37"
+      },
+      "correct": "C",
+      "correctAnswer": "24",
+      "explanation": "The values are already ordered, and the middle of five values is 24."
+    },
+    {
+      "id": "HSPT-M8-031",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A spinner has 8 equal sections: 3 yellow, 2 green, and 3 purple. What is the probability of landing on a section that is not green?",
+      "choices": {
+        "A": "3/4",
+        "B": "3/8",
+        "C": "5/8",
+        "D": "1/4"
+      },
+      "correct": "A",
+      "correctAnswer": "3/4",
+      "explanation": "Six of the eight sections are not green, so the probability is 6/8 = 3/4."
+    },
+    {
+      "id": "HSPT-M8-032",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A team scored 12, 15, 9, and 18 points in four games. How many points must it score in a fifth game to have a mean of 14 points?",
+      "choices": {
+        "A": "20",
+        "B": "14",
+        "C": "18",
+        "D": "16"
+      },
+      "correct": "D",
+      "correctAnswer": "16",
+      "explanation": "A mean of 14 over five games requires 70 points total; the first four total 54, so 16 more are needed."
+    },
+    {
+      "id": "HSPT-M8-033",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number is prime?",
+      "choices": {
+        "A": "39",
+        "B": "51",
+        "C": "57",
+        "D": "53"
+      },
+      "correct": "D",
+      "correctAnswer": "53",
+      "explanation": "53 has no positive factors other than 1 and 53."
+    },
+    {
+      "id": "HSPT-M8-034",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the value of 6 + 3 × (8 − 5)²?",
+      "choices": {
+        "A": "33",
+        "B": "45",
+        "C": "81",
+        "D": "87"
+      },
+      "correct": "A",
+      "correctAnswer": "33",
+      "explanation": "Evaluate parentheses and exponent first: (8 − 5)² = 9; then 3 × 9 = 27 and 6 + 27 = 33."
+    },
+    {
+      "id": "HSPT-M8-035",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which expression is equivalent to 2 3/5?",
+      "choices": {
+        "A": "2.35",
+        "B": "2.6",
+        "C": "3.5",
+        "D": "2.8"
+      },
+      "correct": "B",
+      "correctAnswer": "2.6",
+      "explanation": "3/5 = 0.6, so 2 3/5 = 2.6."
+    },
+    {
+      "id": "HSPT-M8-036",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is 35% of 240?",
+      "choices": {
+        "A": "96",
+        "B": "72",
+        "C": "84",
+        "D": "108"
+      },
+      "correct": "C",
+      "correctAnswer": "84",
+      "explanation": "0.35 × 240 = 84."
+    },
+    {
+      "id": "HSPT-M8-037",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If f(x) = 3x − 2, what is f(7)?",
+      "choices": {
+        "A": "17",
+        "B": "21",
+        "C": "19",
+        "D": "23"
+      },
+      "correct": "C",
+      "correctAnswer": "19",
+      "explanation": "Substitute 7 for x: 3(7) − 2 = 21 − 2 = 19."
+    },
+    {
+      "id": "HSPT-M8-038",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Solve: 4x + 7 = 3x + 18",
+      "choices": {
+        "A": "9",
+        "B": "11",
+        "C": "10",
+        "D": "25"
+      },
+      "correct": "B",
+      "correctAnswer": "11",
+      "explanation": "Subtract 3x from both sides and subtract 7 to get x = 11."
+    },
+    {
+      "id": "HSPT-M8-039",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A taxi charges a $4 starting fee plus $2 for each mile traveled. Which expression gives the total cost for m miles?",
+      "choices": {
+        "A": "4m + 2",
+        "B": "6m",
+        "C": "2m + 4",
+        "D": "2(m + 4)"
+      },
+      "correct": "C",
+      "correctAnswer": "2m + 4",
+      "explanation": "The fixed fee is 4 and the mileage charge is 2m, so the total is 2m + 4."
+    },
+    {
+      "id": "HSPT-M8-040",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The rule y = 5x + 1 relates x and y. If y = 36, what is x?",
+      "choices": {
+        "A": "5",
+        "B": "7",
+        "C": "6",
+        "D": "8"
+      },
+      "correct": "B",
+      "correctAnswer": "7",
+      "explanation": "Set 36 = 5x + 1; subtract 1 to get 35 = 5x, so x = 7."
+    },
+    {
+      "id": "HSPT-M8-041",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangle has area 96 square units and width 8 units. What is its length?",
+      "choices": {
+        "A": "12 units",
+        "B": "14 units",
+        "C": "10 units",
+        "D": "16 units"
+      },
+      "correct": "A",
+      "correctAnswer": "12 units",
+      "explanation": "Length = area ÷ width = 96 ÷ 8 = 12 units."
+    },
+    {
+      "id": "HSPT-M8-042",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two angles of a triangle measure 48° and 67°. What is the third angle?",
+      "choices": {
+        "A": "55°",
+        "B": "75°",
+        "C": "60°",
+        "D": "65°"
+      },
+      "correct": "D",
+      "correctAnswer": "65°",
+      "explanation": "Triangle angles total 180°, so 180° − 48° − 67° = 65°."
+    },
+    {
+      "id": "HSPT-M8-043",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle has diameter 18 inches. What is its radius?",
+      "choices": {
+        "A": "9 inches",
+        "B": "8 inches",
+        "C": "36 inches",
+        "D": "6 inches"
+      },
+      "correct": "A",
+      "correctAnswer": "9 inches",
+      "explanation": "The radius is half the diameter, so 18 ÷ 2 = 9 inches."
+    },
+    {
+      "id": "HSPT-M8-044",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A container holds 2.75 liters. How many milliliters is that?",
+      "choices": {
+        "A": "2,075",
+        "B": "275",
+        "C": "2,750",
+        "D": "27,500"
+      },
+      "correct": "C",
+      "correctAnswer": "2,750",
+      "explanation": "One liter equals 1,000 milliliters, so 2.75 liters equals 2,750 milliliters."
+    },
+    {
+      "id": "HSPT-M8-045",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A rectangular garden is drawn at a scale of 1 cm = 4 m. If its length on the drawing is 6.5 cm, what is the actual length?",
+      "choices": {
+        "A": "26 m",
+        "B": "24 m",
+        "C": "10.5 m",
+        "D": "32 m"
+      },
+      "correct": "A",
+      "correctAnswer": "26 m",
+      "explanation": "Multiply the drawing length by the scale: 6.5 × 4 = 26 meters."
+    },
+    {
+      "id": "HSPT-M8-046",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A data set is 6, 8, 8, 11, 13, 14. What is the range?",
+      "choices": {
+        "A": "6",
+        "B": "9",
+        "C": "8",
+        "D": "14"
+      },
+      "correct": "C",
+      "correctAnswer": "8",
+      "explanation": "The range is the greatest value minus the least value: 14 − 6 = 8."
+    },
+    {
+      "id": "HSPT-M8-047",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A bag contains 4 red, 3 blue, and 5 white marbles. What is the probability of choosing a blue marble and then, without replacement, choosing another blue marble?",
+      "choices": {
+        "A": "1/16",
+        "B": "1/12",
+        "C": "1/11",
+        "D": "1/22"
+      },
+      "correct": "D",
+      "correctAnswer": "1/22",
+      "explanation": "The probability is 3/12 × 2/11 = 6/132 = 1/22."
+    },
+    {
+      "id": "HSPT-M8-048",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The mean of five numbers is 18. Four of the numbers are 12, 17, 20, and 21. What is the fifth number?",
+      "choices": {
+        "A": "18",
+        "B": "20",
+        "C": "19",
+        "D": "22"
+      },
+      "correct": "B",
+      "correctAnswer": "20",
+      "explanation": "Five numbers with mean 18 total 90; the known numbers total 70, so the missing number is 20."
+    },
+    {
+      "id": "HSPT-M8-049",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number has exactly three positive factors?",
+      "choices": {
+        "A": "18",
+        "B": "27",
+        "C": "30",
+        "D": "25"
+      },
+      "correct": "D",
+      "correctAnswer": "25",
+      "explanation": "25 has the factors 1, 5, and 25, exactly three positive factors."
+    },
+    {
+      "id": "HSPT-M8-050",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which value is closest to √70?",
+      "choices": {
+        "A": "7",
+        "B": "9",
+        "C": "8",
+        "D": "10"
+      },
+      "correct": "C",
+      "correctAnswer": "8",
+      "explanation": "Because 8² = 64 and 9² = 81, √70 lies between 8 and 9 and is closer to 8."
+    },
+    {
+      "id": "HSPT-M8-051",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A jar is 3/5 full. What percent of the jar is empty?",
+      "choices": {
+        "A": "20%",
+        "B": "40%",
+        "C": "60%",
+        "D": "80%"
+      },
+      "correct": "B",
+      "correctAnswer": "40%",
+      "explanation": "If 3/5 is full, 2/5 is empty, and 2/5 = 40%."
+    },
+    {
+      "id": "HSPT-M8-052",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Simplify: 5a − 2(3a − 4)",
+      "choices": {
+        "A": "a + 8",
+        "B": "11a − 8",
+        "C": "−a − 8",
+        "D": "−a + 8"
+      },
+      "correct": "D",
+      "correctAnswer": "−a + 8",
+      "explanation": "Distribute −2 to get 5a − 6a + 8, which simplifies to −a + 8."
+    },
+    {
+      "id": "HSPT-M8-053",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Solve: 3(x + 4) = 2x + 19",
+      "choices": {
+        "A": "7",
+        "B": "11",
+        "C": "5",
+        "D": "15"
+      },
+      "correct": "A",
+      "correctAnswer": "7",
+      "explanation": "Expand to 3x + 12 = 2x + 19; subtract 2x and 12 to obtain x = 7."
+    },
+    {
+      "id": "HSPT-M8-054",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which inequality is equivalent to 2x − 5 < 9?",
+      "choices": {
+        "A": "x < 7",
+        "B": "x > 2",
+        "C": "x > 7",
+        "D": "x < 2"
+      },
+      "correct": "A",
+      "correctAnswer": "x < 7",
+      "explanation": "Add 5 to get 2x < 14, then divide by 2 to obtain x < 7."
+    },
+    {
+      "id": "HSPT-M8-055",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A tank contains 18 gallons and fills at 4 gallons per minute. Which equation gives the number of gallons g after t minutes?",
+      "choices": {
+        "A": "g = 4t − 18",
+        "B": "g = 18t + 4",
+        "C": "g = 18 + 4t",
+        "D": "g = 22t"
+      },
+      "correct": "C",
+      "correctAnswer": "g = 18 + 4t",
+      "explanation": "The tank starts with 18 gallons and gains 4 gallons each minute, so g = 18 + 4t."
+    },
+    {
+      "id": "HSPT-M8-056",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangular prism has length 8 cm, width 3 cm, and height 4 cm. What is its surface area?",
+      "choices": {
+        "A": "136 cm²",
+        "B": "104 cm²",
+        "C": "112 cm²",
+        "D": "192 cm²"
+      },
+      "correct": "A",
+      "correctAnswer": "136 cm²",
+      "explanation": "Surface area is 2(8×3 + 8×4 + 3×4) = 2(24 + 32 + 12) = 136 cm²."
+    },
+    {
+      "id": "HSPT-M8-057",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A square has a diagonal relationship forming a right triangle with legs 6 units and 6 units. Which expression gives the diagonal length?",
+      "choices": {
+        "A": "6√2",
+        "B": "12",
+        "C": "6",
+        "D": "18"
+      },
+      "correct": "A",
+      "correctAnswer": "6√2",
+      "explanation": "By the Pythagorean theorem, d² = 6² + 6² = 72, so d = 6√2."
+    },
+    {
+      "id": "HSPT-M8-058",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "The sum of the interior angles of a pentagon is",
+      "choices": {
+        "A": "360°",
+        "B": "450°",
+        "C": "540°",
+        "D": "720°"
+      },
+      "correct": "C",
+      "correctAnswer": "540°",
+      "explanation": "A pentagon's interior-angle sum is (5 − 2) × 180° = 540°."
+    },
+    {
+      "id": "HSPT-M8-059",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A runner completes 1.5 miles. How many yards is that if 1 mile = 1,760 yards?",
+      "choices": {
+        "A": "880 yards",
+        "B": "2,640 yards",
+        "C": "1,760 yards",
+        "D": "3,520 yards"
+      },
+      "correct": "B",
+      "correctAnswer": "2,640 yards",
+      "explanation": "1.5 × 1,760 = 2,640 yards."
+    },
+    {
+      "id": "HSPT-M8-060",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A container holds 3 quarts of liquid. How many cups is that if 1 quart = 4 cups?",
+      "choices": {
+        "A": "7 cups",
+        "B": "12 cups",
+        "C": "16 cups",
+        "D": "24 cups"
+      },
+      "correct": "B",
+      "correctAnswer": "12 cups",
+      "explanation": "Multiply 3 quarts by 4 cups per quart to get 12 cups."
+    },
+    {
+      "id": "HSPT-M8-061",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A machine produces 45 parts in 15 minutes at a constant rate. How many parts does it produce in 1 hour?",
+      "choices": {
+        "A": "90",
+        "B": "135",
+        "C": "180",
+        "D": "225"
+      },
+      "correct": "C",
+      "correctAnswer": "180",
+      "explanation": "The rate is 3 parts per minute; in 60 minutes the machine produces 3 × 60 = 180 parts."
+    },
+    {
+      "id": "HSPT-M8-062",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The values 4, 7, 9, 12, and 18 have what median?",
+      "choices": {
+        "A": "7",
+        "B": "10",
+        "C": "12",
+        "D": "9"
+      },
+      "correct": "D",
+      "correctAnswer": "9",
+      "explanation": "With five ordered values, the median is the middle value, 9."
+    },
+    {
+      "id": "HSPT-M8-063",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A box contains 2 black, 5 white, and 3 gray tiles. One tile is chosen at random. What is the probability it is black or gray?",
+      "choices": {
+        "A": "4/5",
+        "B": "1/5",
+        "C": "3/5",
+        "D": "1/2"
+      },
+      "correct": "D",
+      "correctAnswer": "1/2",
+      "explanation": "There are 5 favorable tiles out of 10 total, so the probability is 5/10 = 1/2."
+    },
+    {
+      "id": "HSPT-M8-064",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A class recorded quiz scores of 70, 80, 80, 90, and 100. If the 100 is removed, how does the mean change?",
+      "choices": {
+        "A": "It decreases by 4 points.",
+        "B": "It decreases by 5 points.",
+        "C": "It stays the same.",
+        "D": "It increases by 4 points."
+      },
+      "correct": "A",
+      "correctAnswer": "It decreases by 4 points.",
+      "explanation": "The original mean is 84; without 100, the mean is 80, so it decreases by 4 points."
+    }
+  ]
+}

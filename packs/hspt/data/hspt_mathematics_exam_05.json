@@ -1,0 +1,1097 @@
+{
+  "title": "HSPT Mathematics Practice Test 05",
+  "examFamily": "hspt",
+  "examNumber": 5,
+  "section": "Mathematics",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": "HSPT-M5-001",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number is greatest?",
+      "choices": {
+        "A": "0.61",
+        "B": "62%",
+        "C": "5/8",
+        "D": "0.603"
+      },
+      "correct": "C",
+      "correctAnswer": "5/8",
+      "explanation": "The values are 0.625, 0.61, 0.62, and 0.603, so 5/8 is greatest."
+    },
+    {
+      "id": "HSPT-M5-002",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is 3 1/2 ÷ 7/12?",
+      "choices": {
+        "A": "7",
+        "B": "5",
+        "C": "4",
+        "D": "6"
+      },
+      "correct": "D",
+      "correctAnswer": "6",
+      "explanation": "Convert 3 1/2 to 7/2, then multiply by 12/7: 7/2 × 12/7 = 6."
+    },
+    {
+      "id": "HSPT-M5-003",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the least common multiple of 16 and 24?",
+      "choices": {
+        "A": "32",
+        "B": "40",
+        "C": "48",
+        "D": "96"
+      },
+      "correct": "C",
+      "correctAnswer": "48",
+      "explanation": "The smallest positive number divisible by both 16 and 24 is 48."
+    },
+    {
+      "id": "HSPT-M5-004",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the greatest common factor of 84 and 126?",
+      "choices": {
+        "A": "14",
+        "B": "28",
+        "C": "42",
+        "D": "21"
+      },
+      "correct": "C",
+      "correctAnswer": "42",
+      "explanation": "Both numbers are divisible by 42, and no larger positive factor divides both."
+    },
+    {
+      "id": "HSPT-M5-005",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is 18% of 250?",
+      "choices": {
+        "A": "40",
+        "B": "45",
+        "C": "50",
+        "D": "36"
+      },
+      "correct": "B",
+      "correctAnswer": "45",
+      "explanation": "Multiply 250 by 0.18 to obtain 45."
+    },
+    {
+      "id": "HSPT-M5-006",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A value decreases from 90 to 72. What is the percent decrease?",
+      "choices": {
+        "A": "18%",
+        "B": "22%",
+        "C": "25%",
+        "D": "20%"
+      },
+      "correct": "D",
+      "correctAnswer": "20%",
+      "explanation": "The decrease is 18, and 18 ÷ 90 = 0.20, or 20%."
+    },
+    {
+      "id": "HSPT-M5-007",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the value of 6 + 3(8 − 5)²?",
+      "choices": {
+        "A": "30",
+        "B": "33",
+        "C": "27",
+        "D": "81"
+      },
+      "correct": "B",
+      "correctAnswer": "33",
+      "explanation": "Evaluate parentheses and exponent first: 6 + 3(3²) = 6 + 27 = 33."
+    },
+    {
+      "id": "HSPT-M5-008",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which is the prime factorization of 180?",
+      "choices": {
+        "A": "2² × 3² × 5",
+        "B": "2 × 3² × 5",
+        "C": "2² × 3 × 5²",
+        "D": "2³ × 3² × 5"
+      },
+      "correct": "A",
+      "correctAnswer": "2² × 3² × 5",
+      "explanation": "Dividing 180 into prime factors gives 2 × 2 × 3 × 3 × 5."
+    },
+    {
+      "id": "HSPT-M5-009",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which fraction is equivalent to 0.375?",
+      "choices": {
+        "A": "3/8",
+        "B": "5/12",
+        "C": "3/10",
+        "D": "7/16"
+      },
+      "correct": "A",
+      "correctAnswer": "3/8",
+      "explanation": "0.375 = 375/1000, which simplifies to 3/8."
+    },
+    {
+      "id": "HSPT-M5-010",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is |−14| + 2⁴?",
+      "choices": {
+        "A": "18",
+        "B": "30",
+        "C": "28",
+        "D": "32"
+      },
+      "correct": "B",
+      "correctAnswer": "30",
+      "explanation": "The absolute value is 14 and 2⁴ is 16; their sum is 30."
+    },
+    {
+      "id": "HSPT-M5-011",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the reciprocal of 2 2/3?",
+      "choices": {
+        "A": "2/3",
+        "B": "5/3",
+        "C": "3/8",
+        "D": "8/3"
+      },
+      "correct": "C",
+      "correctAnswer": "3/8",
+      "explanation": "The mixed number is 8/3, whose reciprocal is 3/8."
+    },
+    {
+      "id": "HSPT-M5-012",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the remainder when 157 is divided by 12?",
+      "choices": {
+        "A": "7",
+        "B": "5",
+        "C": "1",
+        "D": "11"
+      },
+      "correct": "C",
+      "correctAnswer": "1",
+      "explanation": "Twelve times 13 is 156, leaving a remainder of 1."
+    },
+    {
+      "id": "HSPT-M5-013",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number is prime?",
+      "choices": {
+        "A": "81",
+        "B": "87",
+        "C": "77",
+        "D": "83"
+      },
+      "correct": "D",
+      "correctAnswer": "83",
+      "explanation": "The number 83 has no positive factors other than 1 and 83."
+    },
+    {
+      "id": "HSPT-M5-014",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Two quantities are in the ratio 7:9 and have a total of 128. What is the smaller quantity?",
+      "choices": {
+        "A": "56",
+        "B": "49",
+        "C": "63",
+        "D": "54"
+      },
+      "correct": "A",
+      "correctAnswer": "56",
+      "explanation": "There are 16 ratio parts; each is 128 ÷ 16 = 8, and 7 × 8 = 56."
+    },
+    {
+      "id": "HSPT-M5-015",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which expression is equivalent to 4(2x − 3) + 5?",
+      "choices": {
+        "A": "8x − 7",
+        "B": "6x − 7",
+        "C": "8x + 2",
+        "D": "8x − 17"
+      },
+      "correct": "A",
+      "correctAnswer": "8x − 7",
+      "explanation": "Distribute 4 to get 8x − 12, then add 5 to obtain 8x − 7."
+    },
+    {
+      "id": "HSPT-M5-016",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Solve for x: 5x + 11 = 46.",
+      "choices": {
+        "A": "9",
+        "B": "7",
+        "C": "5",
+        "D": "6"
+      },
+      "correct": "B",
+      "correctAnswer": "7",
+      "explanation": "Subtract 11 to get 5x = 35, then divide by 5."
+    },
+    {
+      "id": "HSPT-M5-017",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Solve for y: 3(y − 4) = 2y + 9.",
+      "choices": {
+        "A": "18",
+        "B": "24",
+        "C": "21",
+        "D": "15"
+      },
+      "correct": "C",
+      "correctAnswer": "21",
+      "explanation": "Expand to 3y − 12 = 2y + 9; subtract 2y and add 12 to get y = 21."
+    },
+    {
+      "id": "HSPT-M5-018",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which inequality is equivalent to 6p − 5 ≤ 31?",
+      "choices": {
+        "A": "p ≤ 26/6",
+        "B": "p ≥ 26/6",
+        "C": "p ≥ 6",
+        "D": "p ≤ 6"
+      },
+      "correct": "D",
+      "correctAnswer": "p ≤ 6",
+      "explanation": "Add 5 to obtain 6p ≤ 36, then divide by 6."
+    },
+    {
+      "id": "HSPT-M5-019",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If a = 4 and b = −3, what is the value of 2a² − b?",
+      "choices": {
+        "A": "19",
+        "B": "41",
+        "C": "29",
+        "D": "35"
+      },
+      "correct": "D",
+      "correctAnswer": "35",
+      "explanation": "Substitute: 2(4²) − (−3) = 32 + 3 = 35."
+    },
+    {
+      "id": "HSPT-M5-020",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The formula C = 5(F − 32)/9 converts Fahrenheit temperature F to Celsius temperature C. What is C when F = 68?",
+      "choices": {
+        "A": "36",
+        "B": "18",
+        "C": "20",
+        "D": "24"
+      },
+      "correct": "C",
+      "correctAnswer": "20",
+      "explanation": "Substitute 68: 5(68 − 32)/9 = 5 × 36/9 = 20."
+    },
+    {
+      "id": "HSPT-M5-021",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "What is the slope of the line through (2, 5) and (6, 17)?",
+      "choices": {
+        "A": "3",
+        "B": "6",
+        "C": "4",
+        "D": "2"
+      },
+      "correct": "A",
+      "correctAnswer": "3",
+      "explanation": "Slope is the change in y divided by the change in x: (17 − 5)/(6 − 2) = 12/4 = 3."
+    },
+    {
+      "id": "HSPT-M5-022",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which equation represents a line with slope 4 and y-intercept −2?",
+      "choices": {
+        "A": "y = −2x + 4",
+        "B": "y = 2x − 4",
+        "C": "y = 4x − 2",
+        "D": "y = 4x + 2"
+      },
+      "correct": "C",
+      "correctAnswer": "y = 4x − 2",
+      "explanation": "Slope-intercept form is y = mx + b, so m = 4 and b = −2."
+    },
+    {
+      "id": "HSPT-M5-023",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The first three terms of a sequence are 6, 11, and 16. Which expression gives the nth term?",
+      "choices": {
+        "A": "5n + 1",
+        "B": "5n − 1",
+        "C": "6n − 1",
+        "D": "6n"
+      },
+      "correct": "A",
+      "correctAnswer": "5n + 1",
+      "explanation": "The common difference is 5, and 5(1) + 1 = 6, so the rule is 5n + 1."
+    },
+    {
+      "id": "HSPT-M5-024",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A taxi charges a $4 starting fee plus $2.50 per mile. Which expression gives the cost for m miles?",
+      "choices": {
+        "A": "6.50m",
+        "B": "4m + 2.50",
+        "C": "2.50(m + 4)",
+        "D": "2.50m + 4"
+      },
+      "correct": "D",
+      "correctAnswer": "2.50m + 4",
+      "explanation": "The variable cost is $2.50 times the miles, and the fixed starting fee adds $4."
+    },
+    {
+      "id": "HSPT-M5-025",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Twice a number decreased by 7 equals 31. What is the number?",
+      "choices": {
+        "A": "24",
+        "B": "19",
+        "C": "16",
+        "D": "12"
+      },
+      "correct": "B",
+      "correctAnswer": "19",
+      "explanation": "The equation 2x − 7 = 31 gives 2x = 38 and x = 19."
+    },
+    {
+      "id": "HSPT-M5-026",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "What is the solution to the system x + y = 14 and x − y = 4?",
+      "choices": {
+        "A": "(10, 4)",
+        "B": "(9, 5)",
+        "C": "(7, 7)",
+        "D": "(5, 9)"
+      },
+      "correct": "B",
+      "correctAnswer": "(9, 5)",
+      "explanation": "Adding the equations gives 2x = 18, so x = 9 and y = 5."
+    },
+    {
+      "id": "HSPT-M5-027",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If f(x) = 3x − 8, what is f(7)?",
+      "choices": {
+        "A": "15",
+        "B": "29",
+        "C": "13",
+        "D": "19"
+      },
+      "correct": "C",
+      "correctAnswer": "13",
+      "explanation": "Substitute 7: f(7) = 3(7) − 8 = 21 − 8 = 13."
+    },
+    {
+      "id": "HSPT-M5-028",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which value of k makes 2k/3 = 14?",
+      "choices": {
+        "A": "24",
+        "B": "21",
+        "C": "28",
+        "D": "18"
+      },
+      "correct": "B",
+      "correctAnswer": "21",
+      "explanation": "Multiply both sides by 3/2: k = 14 × 3/2 = 21."
+    },
+    {
+      "id": "HSPT-M5-029",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A rectangle's length is 3 cm more than its width. If its perimeter is 38 cm, what is its width?",
+      "choices": {
+        "A": "7 cm",
+        "B": "8 cm",
+        "C": "9 cm",
+        "D": "11 cm"
+      },
+      "correct": "B",
+      "correctAnswer": "8 cm",
+      "explanation": "Let width be w and length w + 3. Then 2w + 2(w + 3) = 38, so 4w = 32 and w = 8."
+    },
+    {
+      "id": "HSPT-M5-030",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which expression is equivalent to (x + 5)(x − 2)?",
+      "choices": {
+        "A": "x² − 3x − 10",
+        "B": "x² + 3x + 10",
+        "C": "x² + 3x − 10",
+        "D": "x² + 7x + 10"
+      },
+      "correct": "C",
+      "correctAnswer": "x² + 3x − 10",
+      "explanation": "Multiply the binomials: x² − 2x + 5x − 10 = x² + 3x − 10."
+    },
+    {
+      "id": "HSPT-M5-031",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "What is the midpoint of the segment joining (−3, 5) and (7, −1)?",
+      "choices": {
+        "A": "(2, 2)",
+        "B": "(10, −6)",
+        "C": "(5, 3)",
+        "D": "(4, 4)"
+      },
+      "correct": "A",
+      "correctAnswer": "(2, 2)",
+      "explanation": "Average the x-coordinates and y-coordinates: ((−3 + 7)/2, (5 − 1)/2) = (2, 2)."
+    },
+    {
+      "id": "HSPT-M5-032",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A right triangle has legs of 8 cm and 15 cm. What is the length of its hypotenuse?",
+      "choices": {
+        "A": "19 cm",
+        "B": "23 cm",
+        "C": "16 cm",
+        "D": "17 cm"
+      },
+      "correct": "D",
+      "correctAnswer": "17 cm",
+      "explanation": "By the Pythagorean theorem, √(8² + 15²) = √289 = 17."
+    },
+    {
+      "id": "HSPT-M5-033",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "What is the area of a trapezoid with bases 10 cm and 16 cm and height 7 cm?",
+      "choices": {
+        "A": "182 cm²",
+        "B": "84 cm²",
+        "C": "91 cm²",
+        "D": "78 cm²"
+      },
+      "correct": "C",
+      "correctAnswer": "91 cm²",
+      "explanation": "Area is 1/2(b₁ + b₂)h = 1/2(26)(7) = 91 cm²."
+    },
+    {
+      "id": "HSPT-M5-034",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A regular decagon has a perimeter of 130 cm. What is the length of each side?",
+      "choices": {
+        "A": "13 cm",
+        "B": "12 cm",
+        "C": "11 cm",
+        "D": "10 cm"
+      },
+      "correct": "A",
+      "correctAnswer": "13 cm",
+      "explanation": "A decagon has 10 equal sides, so each side is 130 ÷ 10 = 13 cm."
+    },
+    {
+      "id": "HSPT-M5-035",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "What is the area of a circle with radius 7 cm?",
+      "choices": {
+        "A": "28π cm²",
+        "B": "14π cm²",
+        "C": "98π cm²",
+        "D": "49π cm²"
+      },
+      "correct": "D",
+      "correctAnswer": "49π cm²",
+      "explanation": "Circle area is πr², so π(7²) = 49π cm²."
+    },
+    {
+      "id": "HSPT-M5-036",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Each exterior angle of a regular polygon measures 45°. How many sides does the polygon have?",
+      "choices": {
+        "A": "10",
+        "B": "12",
+        "C": "6",
+        "D": "8"
+      },
+      "correct": "D",
+      "correctAnswer": "8",
+      "explanation": "The exterior angles of a polygon total 360°, so the number of sides is 360 ÷ 45 = 8."
+    },
+    {
+      "id": "HSPT-M5-037",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "An exterior angle of a triangle measures 124°. One remote interior angle measures 57°. What is the other remote interior angle?",
+      "choices": {
+        "A": "67°",
+        "B": "71°",
+        "C": "63°",
+        "D": "57°"
+      },
+      "correct": "A",
+      "correctAnswer": "67°",
+      "explanation": "An exterior angle equals the sum of the remote interior angles, so 124° − 57° = 67°."
+    },
+    {
+      "id": "HSPT-M5-038",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "What is the sum of the interior angles of a hexagon?",
+      "choices": {
+        "A": "540°",
+        "B": "720°",
+        "C": "900°",
+        "D": "1080°"
+      },
+      "correct": "B",
+      "correctAnswer": "720°",
+      "explanation": "For a hexagon, (6 − 2) × 180° = 720°."
+    },
+    {
+      "id": "HSPT-M5-039",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangle has vertices at (1, 2), (1, 8), (9, 8), and (9, 2). What is its area?",
+      "choices": {
+        "A": "48 square units",
+        "B": "56 square units",
+        "C": "28 square units",
+        "D": "40 square units"
+      },
+      "correct": "A",
+      "correctAnswer": "48 square units",
+      "explanation": "Its dimensions are 8 units by 6 units, so the area is 48 square units."
+    },
+    {
+      "id": "HSPT-M5-040",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle has diameter 18 cm. What is its circumference?",
+      "choices": {
+        "A": "81π cm",
+        "B": "9π cm",
+        "C": "18π cm",
+        "D": "36π cm"
+      },
+      "correct": "C",
+      "correctAnswer": "18π cm",
+      "explanation": "Circumference equals π times the diameter, so it is 18π cm."
+    },
+    {
+      "id": "HSPT-M5-041",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Which transformation always preserves both length and angle measure?",
+      "choices": {
+        "A": "translation",
+        "B": "vertical compression",
+        "C": "horizontal stretch",
+        "D": "dilation with scale factor 2"
+      },
+      "correct": "A",
+      "correctAnswer": "translation",
+      "explanation": "A translation is a rigid motion, so it preserves all lengths and angle measures."
+    },
+    {
+      "id": "HSPT-M5-042",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A square has a diagonal of 10√2 cm. What is its side length?",
+      "choices": {
+        "A": "20 cm",
+        "B": "10 cm",
+        "C": "10√2 cm",
+        "D": "5 cm"
+      },
+      "correct": "B",
+      "correctAnswer": "10 cm",
+      "explanation": "A square's diagonal equals side × √2, so the side is 10 cm."
+    },
+    {
+      "id": "HSPT-M5-043",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "How many milliliters are in 3.75 liters?",
+      "choices": {
+        "A": "375",
+        "B": "3,750",
+        "C": "3,075",
+        "D": "750"
+      },
+      "correct": "B",
+      "correctAnswer": "3,750",
+      "explanation": "One liter is 1,000 milliliters, so 3.75 liters equals 3,750 milliliters."
+    },
+    {
+      "id": "HSPT-M5-044",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A car travels 156 miles in 3 hours. What is its average speed?",
+      "choices": {
+        "A": "52 mph",
+        "B": "48 mph",
+        "C": "54 mph",
+        "D": "50 mph"
+      },
+      "correct": "A",
+      "correctAnswer": "52 mph",
+      "explanation": "Average speed is distance divided by time: 156 ÷ 3 = 52 mph."
+    },
+    {
+      "id": "HSPT-M5-045",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A rectangular garden is 14 m long and 9 m wide. How much fencing is needed to enclose it?",
+      "choices": {
+        "A": "46 m",
+        "B": "23 m",
+        "C": "126 m",
+        "D": "92 m"
+      },
+      "correct": "A",
+      "correctAnswer": "46 m",
+      "explanation": "The perimeter is 2(14 + 9) = 46 m."
+    },
+    {
+      "id": "HSPT-M5-046",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "What is the volume of a cylinder with radius 4 cm and height 10 cm?",
+      "choices": {
+        "A": "40π cm³",
+        "B": "160π cm³",
+        "C": "320π cm³",
+        "D": "80π cm³"
+      },
+      "correct": "B",
+      "correctAnswer": "160π cm³",
+      "explanation": "Cylinder volume is πr²h = π(4²)(10) = 160π cm³."
+    },
+    {
+      "id": "HSPT-M5-047",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A rectangular prism measures 6 cm by 8 cm by 11 cm. What is its volume?",
+      "choices": {
+        "A": "384 cm³",
+        "B": "264 cm³",
+        "C": "528 cm³",
+        "D": "1,056 cm³"
+      },
+      "correct": "C",
+      "correctAnswer": "528 cm³",
+      "explanation": "Multiply the three dimensions: 6 × 8 × 11 = 528 cm³."
+    },
+    {
+      "id": "HSPT-M5-048",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A 15-foot ladder reaches 12 feet up a wall. How far is the ladder's base from the wall?",
+      "choices": {
+        "A": "6 ft",
+        "B": "12 ft",
+        "C": "9 ft",
+        "D": "3 ft"
+      },
+      "correct": "C",
+      "correctAnswer": "9 ft",
+      "explanation": "The wall, ground, and ladder form a right triangle: √(15² − 12²) = √81 = 9 ft."
+    },
+    {
+      "id": "HSPT-M5-049",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A room is 12 ft by 15 ft. Carpet costs $4 per square foot. What is the total carpet cost?",
+      "choices": {
+        "A": "$480",
+        "B": "$720",
+        "C": "$180",
+        "D": "$108"
+      },
+      "correct": "B",
+      "correctAnswer": "$720",
+      "explanation": "The area is 12 × 15 = 180 square feet, and 180 × $4 = $720."
+    },
+    {
+      "id": "HSPT-M5-050",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A scale drawing uses 1 cm to represent 2.5 m. A wall measures 7.2 cm on the drawing. What is its actual length?",
+      "choices": {
+        "A": "20 m",
+        "B": "18 m",
+        "C": "16 m",
+        "D": "22.5 m"
+      },
+      "correct": "B",
+      "correctAnswer": "18 m",
+      "explanation": "Multiply 7.2 by 2.5 to get 18 meters."
+    },
+    {
+      "id": "HSPT-M5-051",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Water fills 3/4 of a 28-liter container. How many liters of water are in the container?",
+      "choices": {
+        "A": "21",
+        "B": "24",
+        "C": "20",
+        "D": "18"
+      },
+      "correct": "A",
+      "correctAnswer": "21",
+      "explanation": "Three fourths of 28 is 28 ÷ 4 × 3 = 21 liters."
+    },
+    {
+      "id": "HSPT-M5-052",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A clock shows 2:35 p.m. What time will it show 1 hour 50 minutes later?",
+      "choices": {
+        "A": "4:15 p.m.",
+        "B": "5:25 p.m.",
+        "C": "3:55 p.m.",
+        "D": "4:25 p.m."
+      },
+      "correct": "D",
+      "correctAnswer": "4:25 p.m.",
+      "explanation": "Adding 1 hour gives 3:35 p.m.; adding 50 minutes gives 4:25 p.m."
+    },
+    {
+      "id": "HSPT-M5-053",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "What is the mean of 12, 15, 18, 21, and 24?",
+      "choices": {
+        "A": "17",
+        "B": "19",
+        "C": "16",
+        "D": "18"
+      },
+      "correct": "D",
+      "correctAnswer": "18",
+      "explanation": "The sum is 90, and 90 ÷ 5 = 18."
+    },
+    {
+      "id": "HSPT-M5-054",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "What is the median of 7, 11, 13, 18, 22, and 29?",
+      "choices": {
+        "A": "13",
+        "B": "15.5",
+        "C": "15",
+        "D": "18"
+      },
+      "correct": "B",
+      "correctAnswer": "15.5",
+      "explanation": "The middle values are 13 and 18, whose average is 15.5."
+    },
+    {
+      "id": "HSPT-M5-055",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "What is the mode of 4, 6, 6, 7, 8, 8, 8, 10?",
+      "choices": {
+        "A": "7",
+        "B": "10",
+        "C": "6",
+        "D": "8"
+      },
+      "correct": "D",
+      "correctAnswer": "8",
+      "explanation": "The value 8 occurs three times, more than any other value."
+    },
+    {
+      "id": "HSPT-M5-056",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "What is the range of 14, 19, 23, 31, and 38?",
+      "choices": {
+        "A": "24",
+        "B": "19",
+        "C": "52",
+        "D": "21"
+      },
+      "correct": "A",
+      "correctAnswer": "24",
+      "explanation": "Range is maximum minus minimum: 38 − 14 = 24."
+    },
+    {
+      "id": "HSPT-M5-057",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A bag contains 5 red, 7 blue, and 8 green marbles. What is the probability of selecting a blue marble?",
+      "choices": {
+        "A": "2/5",
+        "B": "7/13",
+        "C": "7/20",
+        "D": "1/4"
+      },
+      "correct": "C",
+      "correctAnswer": "7/20",
+      "explanation": "There are 20 marbles total and 7 are blue, so the probability is 7/20."
+    },
+    {
+      "id": "HSPT-M5-058",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A fair number cube is rolled once. What is the probability of rolling a number greater than 4?",
+      "choices": {
+        "A": "1/6",
+        "B": "1/3",
+        "C": "2/3",
+        "D": "1/2"
+      },
+      "correct": "B",
+      "correctAnswer": "1/3",
+      "explanation": "The favorable results are 5 and 6, so the probability is 2/6 = 1/3."
+    },
+    {
+      "id": "HSPT-M5-059",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A spinner has 8 equal sections: 3 yellow, 2 red, and 3 blue. What is the probability of not landing on red?",
+      "choices": {
+        "A": "5/8",
+        "B": "1/4",
+        "C": "3/8",
+        "D": "3/4"
+      },
+      "correct": "D",
+      "correctAnswer": "3/4",
+      "explanation": "Six of eight sections are not red, so the probability is 6/8 = 3/4."
+    },
+    {
+      "id": "HSPT-M5-060",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The mean of six numbers is 14. Five of the numbers total 61. What is the sixth number?",
+      "choices": {
+        "A": "21",
+        "B": "19",
+        "C": "25",
+        "D": "23"
+      },
+      "correct": "D",
+      "correctAnswer": "23",
+      "explanation": "All six numbers total 6 × 14 = 84; 84 − 61 = 23."
+    },
+    {
+      "id": "HSPT-M5-061",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A survey records 18 votes for art club, 12 for chess club, 15 for drama club, and 5 for music club. What percent chose drama club?",
+      "choices": {
+        "A": "25%",
+        "B": "15%",
+        "C": "35%",
+        "D": "30%"
+      },
+      "correct": "D",
+      "correctAnswer": "30%",
+      "explanation": "There are 50 votes total, and 15/50 = 30%."
+    },
+    {
+      "id": "HSPT-M5-062",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A coin is flipped and a fair number cube is rolled. What is the probability of getting heads and an even number?",
+      "choices": {
+        "A": "1/3",
+        "B": "1/6",
+        "C": "1/4",
+        "D": "1/2"
+      },
+      "correct": "C",
+      "correctAnswer": "1/4",
+      "explanation": "The events are independent: 1/2 × 3/6 = 1/4."
+    },
+    {
+      "id": "HSPT-M5-063",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The lower quartile of a data set is 18 and the upper quartile is 31. What is the interquartile range?",
+      "choices": {
+        "A": "13",
+        "B": "11",
+        "C": "49",
+        "D": "18"
+      },
+      "correct": "A",
+      "correctAnswer": "13",
+      "explanation": "Interquartile range is Q3 − Q1 = 31 − 18 = 13."
+    },
+    {
+      "id": "HSPT-M5-064",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Which sample is most likely to represent all students at a middle school?",
+      "choices": {
+        "A": "students leaving basketball practice",
+        "B": "members of the student council",
+        "C": "students eating in one lunch period",
+        "D": "every tenth student on an alphabetized school roster"
+      },
+      "correct": "D",
+      "correctAnswer": "every tenth student on an alphabetized school roster",
+      "explanation": "A systematic sample from the full roster is less biased than samples drawn from particular activities or schedules."
+    }
+  ]
+}
