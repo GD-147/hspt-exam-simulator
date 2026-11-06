@@ -53,6 +53,22 @@
         </div>
       </div>
     </section>
+
+    <!-- FULL-LENGTH SECTION TRANSITION -->
+    <section id="transitionPanel" class="page hidden">
+      <h2 id="transitionTitle">Section Complete</h2>
+      <p id="transitionDesc" class="helper"></p>
+
+      <div class="panel" style="margin-top:14px;">
+        <p class="helper">
+          Review is available only after the complete Full-Length exam.
+        </p>
+        <button id="transitionBtn" class="btn" style="margin-top:12px;">
+          Start Next Section
+        </button>
+      </div>
+    </section>
+
 <!-- ESSAY -->
 <section id="essayPanel" class="page hidden">
   <h2 id="essayTitle">Writing — Loading…</h2>
@@ -99,6 +115,8 @@
       <p id="scoreLine" class="helper"></p>
       <p id="timeLine" class="helper"></p>
 
+      <div id="sectionResults" class="panel hidden" style="margin-top:14px;"></div>
+
       <div id="review" class="review"></div>
 
       <button id="homeBtn" class="btn" style="margin-top:14px;">Back to Home</button>
@@ -107,7 +125,8 @@
   </main>
 
   <script src="common.js?v=3"></script>
-  <script src="runner.js?v=9"></script>
+  <script src="full-length.js?v=1"></script>
+  <script src="runner.js?v=10"></script>
 </body>
 </html>
 

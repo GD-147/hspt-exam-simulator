@@ -23,8 +23,8 @@
       "id": "hspt_verbal_skills",
       "family": "hspt",
       "label": "HSPT Verbal Skills",
-      "timeMin": 20,
-      "timeLabel": "Recommended platform time: 20 minutes",
+      "timeMin": 18,
+      "timeLabel": "Standard Closed HSPT time: 18 minutes",
       "examQuestions": 60,
       "type": "mcq",
       "examFiles": [
@@ -50,8 +50,8 @@
       "id": "hspt_quantitative_skills",
       "family": "hspt",
       "label": "HSPT Quantitative Skills",
-      "timeMin": 35,
-      "timeLabel": "Recommended platform time: 35 minutes",
+      "timeMin": 30,
+      "timeLabel": "Standard HSPT time: 30 minutes",
       "examQuestions": 52,
       "type": "mcq",
       "examFiles": [
@@ -77,8 +77,8 @@
       "id": "hspt_reading_comprehension",
       "family": "hspt",
       "label": "HSPT Reading Comprehension",
-      "timeMin": 35,
-      "timeLabel": "Recommended platform time: 35 minutes",
+      "timeMin": 25,
+      "timeLabel": "Standard HSPT time: 25 minutes",
       "examQuestions": 62,
       "type": "mcq",
       "examFiles": [
@@ -105,7 +105,7 @@
       "family": "hspt",
       "label": "HSPT Mathematics",
       "timeMin": 45,
-      "timeLabel": "Recommended platform time: 45 minutes",
+      "timeLabel": "Standard HSPT time: 45 minutes",
       "examQuestions": 64,
       "type": "mcq",
       "examFiles": [
@@ -131,8 +131,8 @@
       "id": "hspt_language",
       "family": "hspt",
       "label": "HSPT Language",
-      "timeMin": 30,
-      "timeLabel": "Recommended platform time: 30 minutes",
+      "timeMin": 25,
+      "timeLabel": "Standard HSPT time: 25 minutes",
       "examQuestions": 60,
       "type": "mcq",
       "examFiles": [
@@ -237,5 +237,21 @@
       "label": "HSPT Full-Length Practice Exam 16"
     }
   ],
-  "flashcards": []
+  "flashcards": [],
+  "fullLength": {
+    "id": "hspt_full_length",
+    "family": "hspt",
+    "label": "Full-Length HSPT — 298 Questions",
+    "type": "full_length",
+    "examCount": 16,
+    "totalQuestions": 298,
+    "totalTimeMin": 143,
+    "sectionIds": [
+      "hspt_verbal_skills",
+      "hspt_quantitative_skills",
+      "hspt_reading_comprehension",
+      "hspt_mathematics",
+      "hspt_language"
+    ]
+  }
 }

@@ -160,10 +160,21 @@ function qs(id) { return document.getElementById(id); }
   const sectionId = params.get("section");
   const mode = params.get("mode"); // "exam" | "practice"
 
-  const section = cfg.sections.find(s => s.id === sectionId);
+  const isFullLength = Boolean(
+    cfg.fullLength && sectionId === cfg.fullLength.id
+  );
+  const section = isFullLength
+    ? cfg.fullLength
+    : cfg.sections.find(s => s.id === sectionId);
+
   if (!section) {
     qs("title").textContent = "Error";
     qs("desc").textContent = "Unknown section.";
+    return;
+  }
+
+  if (isFullLength) {
+    await runFullLength(examId, cfg, cfg.fullLength);
     return;
   }
 

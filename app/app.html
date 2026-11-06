@@ -50,7 +50,7 @@
       </div>
 
       <div id="modePanel" class="panel hidden" style="margin-top:16px;">
-        <h3 style="margin:0 0 10px;">Select a Mode</h3>
+        <h3 id="modeTitle" style="margin:0 0 10px;">Select a Mode</h3>
 
         <div class="row">
           <button id="examModeBtn" class="btn btn-secondary">
@@ -62,8 +62,8 @@
           </button>
         </div>
 
-        <p class="helper" style="margin-top:10px;">
-          Exam Mode runs one complete selected section with recommended timing.
+        <p id="modeHelp" class="helper" style="margin-top:10px;">
+          Exam Mode runs one complete selected section with standard timing.
           Practice Mode provides shorter rotating question blocks.
         </p>
       </div>
@@ -151,9 +151,12 @@
       const modePanel = document.getElementById("modePanel");
       const examModeBtn = document.getElementById("examModeBtn");
       const practiceModeBtn = document.getElementById("practiceModeBtn");
+      const modeTitle = document.getElementById("modeTitle");
+      const modeHelp = document.getElementById("modeHelp");
 
       const families = cfg.examFamilies || [];
       const sections = cfg.sections || [];
+      const fullLength = cfg.fullLength || null;
 
       function selectedFamily() {
         return families.find(item => item.id === examSelect.value);
@@ -185,6 +188,13 @@
           sectionSelect.appendChild(option);
         });
 
+        if (fullLength && fullLength.family === examSelect.value) {
+          const option = document.createElement("option");
+          option.value = fullLength.id;
+          option.textContent = fullLength.label;
+          sectionSelect.appendChild(option);
+        }
+
         familyDescription.textContent = family
           ? family.description
           : "";
@@ -197,12 +207,30 @@
 
       examSelect.addEventListener("change", populateSections);
 
+      function configureModePanel() {
+        const isFullLength =
+          fullLength && sectionSelect.value === fullLength.id;
+
+        practiceModeBtn.classList.toggle("hidden", isFullLength);
+        examModeBtn.textContent = isFullLength
+          ? "Start Full-Length Exam"
+          : "Exam Mode";
+        modeTitle.textContent = isFullLength
+          ? "Full-Length HSPT"
+          : "Select a Mode";
+        modeHelp.textContent = isFullLength
+          ? "Five separately timed sections, 298 questions, and 143 minutes of timed work."
+          : "Exam Mode runs one complete selected section with standard timing. Practice Mode provides shorter rotating question blocks.";
+      }
+
       sectionSelect.addEventListener("change", () => {
         modePanel.classList.add("hidden");
+        configureModePanel();
       });
 
       startSim.addEventListener("click", () => {
         if (!sectionSelect.value) return;
+        configureModePanel();
         modePanel.classList.remove("hidden");
       });
 
