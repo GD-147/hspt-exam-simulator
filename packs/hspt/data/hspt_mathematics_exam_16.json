@@ -1,0 +1,1097 @@
+{
+  "title": "HSPT Mathematics Practice Test 16",
+  "examFamily": "hspt",
+  "examNumber": 16,
+  "section": "Mathematics",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": "HSPT-M16-001",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A transparent panel is divided into four equal rectangles. Exactly half of one rectangle is covered with paper. What fraction of the entire panel is covered?",
+      "choices": {
+        "A": "1/8",
+        "B": "1/2",
+        "C": "1/4",
+        "D": "3/8"
+      },
+      "correct": "A",
+      "correctAnswer": "1/8",
+      "explanation": "One rectangle is 1/4 of the panel; covering half of that rectangle covers 1/2 × 1/4 = 1/8 of the whole."
+    },
+    {
+      "id": "HSPT-M16-002",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A gauge reads −12 meters, which is 4 meters lower than the actual water level. The actual level then rises another 3 meters. What is the new actual level?",
+      "choices": {
+        "A": "−8 meters",
+        "B": "−5 meters",
+        "C": "−13 meters",
+        "D": "−19 meters"
+      },
+      "correct": "B",
+      "correctAnswer": "−5 meters",
+      "explanation": "Correcting a reading that is 4 meters too low gives −8 meters; the later 3-meter rise gives −5 meters."
+    },
+    {
+      "id": "HSPT-M16-003",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "One beacon flashes at minutes 0, 8, 16, and so on. Another flashes at minutes 2, 8, 14, and so on. After minute 10, when do they next flash together?",
+      "choices": {
+        "A": "Minute 16",
+        "B": "Minute 24",
+        "C": "Minute 32",
+        "D": "Minute 26"
+      },
+      "correct": "C",
+      "correctAnswer": "Minute 32",
+      "explanation": "They coincide at minute 8 and then every least common multiple of 8 and 6, or 24 minutes; the next coincidence is minute 32."
+    },
+    {
+      "id": "HSPT-M16-004",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which list contains ALL fractions n/12 that are already in lowest terms and satisfy 1/3 < n/12 < 3/4, where n is a positive integer?",
+      "choices": {
+        "A": "5/12 and 7/12",
+        "B": "5/12, 6/12, 7/12, and 8/12",
+        "C": "4/12, 5/12, and 7/12",
+        "D": "7/12 only"
+      },
+      "correct": "A",
+      "correctAnswer": "5/12 and 7/12",
+      "explanation": "The strict bounds give n = 5, 6, 7, or 8; only 5 and 7 share no common factor with 12."
+    },
+    {
+      "id": "HSPT-M16-005",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "In the rule y = 3x + 4z, x increases by 4 and z decreases by 3. What happens to y?",
+      "choices": {
+        "A": "It stays the same.",
+        "B": "It increases by 1.",
+        "C": "It decreases by 1.",
+        "D": "It increases by 24."
+      },
+      "correct": "A",
+      "correctAnswer": "It stays the same.",
+      "explanation": "The change in y is 3 × 4 + 4 × (−3) = 12 − 12 = 0, so y stays unchanged."
+    },
+    {
+      "id": "HSPT-M16-006",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which interval contains exactly the real numbers satisfying |2x − 5| < 3?",
+      "choices": {
+        "A": "−4 < x < −1",
+        "B": "−3 < x < 3",
+        "C": "x < 1 or x > 4",
+        "D": "1 < x < 4"
+      },
+      "correct": "D",
+      "correctAnswer": "1 < x < 4",
+      "explanation": "The absolute-value inequality means −3 < 2x − 5 < 3; adding 5 and dividing by 2 gives 1 < x < 4."
+    },
+    {
+      "id": "HSPT-M16-007",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A print shop charges an $8 setup fee, $3 each for the first 4 prints, and $2 for each additional print. A bill is $34. How many prints were ordered?",
+      "choices": {
+        "A": "4",
+        "B": "7",
+        "C": "11",
+        "D": "13"
+      },
+      "correct": "C",
+      "correctAnswer": "11",
+      "explanation": "Setup and the first four prints cost $20; the remaining $14 buys seven additional prints, giving 4 + 7 = 11."
+    },
+    {
+      "id": "HSPT-M16-008",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Two values of x satisfy (x − 1)(x + 4) = 0. Which expression has the same value for both?",
+      "choices": {
+        "A": "x² + 3x",
+        "B": "x²",
+        "C": "x² − 3x",
+        "D": "x + 1"
+      },
+      "correct": "A",
+      "correctAnswer": "x² + 3x",
+      "explanation": "The solutions are 1 and −4; x² + 3x equals 4 for each, while the other expressions give different values at those inputs."
+    },
+    {
+      "id": "HSPT-M16-009",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two identical isosceles right triangles are joined along their hypotenuses, with their interiors on opposite sides of the shared edge. What is the outline of the combined figure?",
+      "choices": {
+        "A": "A scalene triangle",
+        "B": "A pentagon",
+        "C": "A rhombus with no right angles",
+        "D": "A square"
+      },
+      "correct": "D",
+      "correctAnswer": "A square",
+      "explanation": "The four outer legs are equal, and the joined 45-degree angles form right angles at the shared edge's endpoints, producing a square."
+    },
+    {
+      "id": "HSPT-M16-010",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A prism has a total of 18 edges. How many vertices does it have?",
+      "choices": {
+        "A": "6",
+        "B": "12",
+        "C": "8",
+        "D": "18"
+      },
+      "correct": "B",
+      "correctAnswer": "12",
+      "explanation": "For an n-sided base, a prism has 3n edges and 2n vertices; 3n = 18 gives n = 6 and 12 vertices."
+    },
+    {
+      "id": "HSPT-M16-011",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangle measures 5 by 12 units. One diagonal is drawn. What is the perpendicular distance from a corner not on that diagonal to the diagonal?",
+      "choices": {
+        "A": "5 units",
+        "B": "60/13 units",
+        "C": "12 units",
+        "D": "13 units"
+      },
+      "correct": "B",
+      "correctAnswer": "60/13 units",
+      "explanation": "The diagonal is 13 units and the triangle's area is 30; using the diagonal as base gives 13h/2 = 30, so h = 60/13."
+    },
+    {
+      "id": "HSPT-M16-012",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Two cords are measured to the nearest centimeter as 12 centimeters and 18 centimeters. Halfway values are rounded up. Placed end to end without overlap, their actual combined length is L. Which interval is exactly the range of possible L?",
+      "choices": {
+        "A": "29.5 cm ≤ L < 30.5 cm",
+        "B": "30 cm ≤ L < 31 cm",
+        "C": "29 cm ≤ L < 31 cm",
+        "D": "L = 30 cm"
+      },
+      "correct": "C",
+      "correctAnswer": "29 cm ≤ L < 31 cm",
+      "explanation": "The actual lengths lie in [11.5, 12.5) and [17.5, 18.5); adding the bounds gives 29 cm ≤ L < 31 cm."
+    },
+    {
+      "id": "HSPT-M16-013",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A 1:50 architectural model has a flat canopy roof with area 24 square centimeters. What is the actual canopy's area in square meters?",
+      "choices": {
+        "A": "0.12 square meter",
+        "B": "6 square meters",
+        "C": "0.6 square meter",
+        "D": "60 square meters"
+      },
+      "correct": "B",
+      "correctAnswer": "6 square meters",
+      "explanation": "Areas scale by 50² = 2,500, giving 60,000 square centimeters; dividing by 10,000 gives 6 square meters."
+    },
+    {
+      "id": "HSPT-M16-014",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A survey records only favorite flavors, with no rankings or numerical scores. Which measure can describe the most typical response?",
+      "choices": {
+        "A": "Arithmetic mean",
+        "B": "Median",
+        "C": "Numerical range",
+        "D": "Mode"
+      },
+      "correct": "D",
+      "correctAnswer": "Mode",
+      "explanation": "The mode identifies the most frequent category; mean, median, and numerical range require numerical values or an ordering that the flavors do not have."
+    },
+    {
+      "id": "HSPT-M16-015",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A bag contains one red bead and one blue bead. Draw one at random, return it, and add another bead of the same color. Then draw again. What is the probability that the second color matches the first?",
+      "choices": {
+        "A": "1/4",
+        "B": "1/3",
+        "C": "2/3",
+        "D": "1/2"
+      },
+      "correct": "C",
+      "correctAnswer": "2/3",
+      "explanation": "After either possible first draw, the bag contains two beads matching that color and one other bead, so the matching probability is 2/3."
+    },
+    {
+      "id": "HSPT-M16-016",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Six bundles have a median mass of 12 kilograms. Which statement MUST be true?",
+      "choices": {
+        "A": "At least one bundle weighs exactly 12 kilograms.",
+        "B": "The arithmetic mean is 12 kilograms.",
+        "C": "Every bundle weighs 12 kilograms.",
+        "D": "The third and fourth masses in increasing order total 24 kilograms."
+      },
+      "correct": "D",
+      "correctAnswer": "The third and fourth masses in increasing order total 24 kilograms.",
+      "explanation": "For six values, the median is the average of the third and fourth; an average of 12 requires their sum to be 24."
+    },
+    {
+      "id": "HSPT-M16-017",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Without finding the exact product, which interval must contain 49.8 × 0.201?",
+      "choices": {
+        "A": "Between 1 and 3",
+        "B": "Between 9 and 11",
+        "C": "Between 19 and 21",
+        "D": "Between 90 and 110"
+      },
+      "correct": "B",
+      "correctAnswer": "Between 9 and 11",
+      "explanation": "The factors are close to 50 and 0.2, whose product is 10; more precisely, 49 × 0.2 < 49.8 × 0.201 < 50 × 0.21."
+    },
+    {
+      "id": "HSPT-M16-018",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A positive integer leaves remainder 2 when divided by 6. What remainder does its square leave when divided by 6?",
+      "choices": {
+        "A": "0",
+        "B": "2",
+        "C": "8",
+        "D": "4"
+      },
+      "correct": "D",
+      "correctAnswer": "4",
+      "explanation": "Write the integer as 6k + 2. Its square is 36k² + 24k + 4, whose first two terms are divisible by 6."
+    },
+    {
+      "id": "HSPT-M16-019",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A three-digit palindrome reads the same forward and backward. What is the greatest three-digit palindrome divisible by 18?",
+      "choices": {
+        "A": "828",
+        "B": "888",
+        "C": "858",
+        "D": "898"
+      },
+      "correct": "A",
+      "correctAnswer": "828",
+      "explanation": "Divisibility by 18 requires an even final digit and a digit sum divisible by 9. With outer digits 8, only middle digit 2 works."
+    },
+    {
+      "id": "HSPT-M16-020",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A lift can carry at most 600 kilograms. The cargo already aboard weighs 180 kilograms. Each additional identical crate weighs x kilograms. Which inequality describes adding three crates without exceeding the limit?",
+      "choices": {
+        "A": "180x + 3 ≤ 600",
+        "B": "180 + 3x ≤ 600",
+        "C": "180 + 3x ≥ 600",
+        "D": "3(x + 180) ≤ 600"
+      },
+      "correct": "B",
+      "correctAnswer": "180 + 3x ≤ 600",
+      "explanation": "The existing 180 kilograms is counted once, three crates contribute 3x, and at most permits equality but excludes totals above 600."
+    },
+    {
+      "id": "HSPT-M16-021",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A printer's profit on n posters is P = 4n − (35 + 1.5n) dollars. What is the least whole number of posters that produces a positive profit?",
+      "choices": {
+        "A": "9",
+        "B": "15",
+        "C": "14",
+        "D": "24"
+      },
+      "correct": "B",
+      "correctAnswer": "15",
+      "explanation": "Profit simplifies to 2.5n − 35. Positive profit requires n > 14, so the least whole number of posters is 15."
+    },
+    {
+      "id": "HSPT-M16-022",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A student solves x(x − 7) = 0 by dividing both sides by x and reports only x = 7. What is the error?",
+      "choices": {
+        "A": "Dividing by x excluded the valid solution x = 0.",
+        "B": "The student should have divided by 7 instead.",
+        "C": "The equation has no solutions because its right side is zero.",
+        "D": "The solution x = 7 must be discarded because it is positive."
+      },
+      "correct": "A",
+      "correctAnswer": "Dividing by x excluded the valid solution x = 0.",
+      "explanation": "The original product is zero when x = 0 or x = 7; division by x assumes x is nonzero and loses the first solution."
+    },
+    {
+      "id": "HSPT-M16-023",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A rule has the form f(x) = ax + 3, where a is a constant. If f(f(0)) = 9, what is f(4)?",
+      "choices": {
+        "A": "5",
+        "B": "9",
+        "C": "15",
+        "D": "11"
+      },
+      "correct": "D",
+      "correctAnswer": "11",
+      "explanation": "First f(0) = 3, so f(f(0)) = f(3) = 3a + 3 = 9. Thus a = 2 and f(4) = 11."
+    },
+    {
+      "id": "HSPT-M16-024",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Point A is at (5, 3). It is rotated 180° about the point (2, −1). What are the coordinates of its image?",
+      "choices": {
+        "A": "(−5, −3)",
+        "B": "(−1, 5)",
+        "C": "(−1, −5)",
+        "D": "(1, −5)"
+      },
+      "correct": "C",
+      "correctAnswer": "(−1, −5)",
+      "explanation": "The center must be the midpoint of A and its image: the image is (2 × 2 − 5, 2 × (−1) − 3) = (−1, −5)."
+    },
+    {
+      "id": "HSPT-M16-025",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two tangents from point P touch a circle at A and B. PA = 3x + 2 and PB = 5x − 8. What is the total length PA + PB?",
+      "choices": {
+        "A": "34",
+        "B": "17",
+        "C": "10",
+        "D": "24"
+      },
+      "correct": "A",
+      "correctAnswer": "34",
+      "explanation": "Tangents from the same exterior point have equal lengths: 3x + 2 = 5x − 8 gives x = 5, so both lengths are 17."
+    },
+    {
+      "id": "HSPT-M16-026",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "ABCDE is a regular pentagon whose vertices are named in order around its boundary. Segments AC and AD are drawn. What is the measure of angle CAD?",
+      "choices": {
+        "A": "18°",
+        "B": "54°",
+        "C": "36°",
+        "D": "72°"
+      },
+      "correct": "C",
+      "correctAnswer": "36°",
+      "explanation": "Each pentagon angle is 108°. Isosceles triangles ABC and AED each have a 36° base angle at A, leaving 108° − 36° − 36° = 36°."
+    },
+    {
+      "id": "HSPT-M16-027",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Runner P takes 5 minutes per kilometer. Runner Q takes 32 seconds per 100 meters. Over the same distance, which runner has the faster pace?",
+      "choices": {
+        "A": "Runner Q",
+        "B": "They have equal paces.",
+        "C": "Runner P",
+        "D": "Their paces cannot be compared without their total distances."
+      },
+      "correct": "C",
+      "correctAnswer": "Runner P",
+      "explanation": "Runner Q needs 10 × 32 = 320 seconds per kilometer; Runner P needs 300 seconds, so P covers a kilometer sooner."
+    },
+    {
+      "id": "HSPT-M16-028",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A metronome clicks 120 times per minute at a steady rate. The first click occurs at time 0. How many seconds elapse before the sixty-fourth click?",
+      "choices": {
+        "A": "30 seconds",
+        "B": "31.5 seconds",
+        "C": "32 seconds",
+        "D": "63 seconds"
+      },
+      "correct": "B",
+      "correctAnswer": "31.5 seconds",
+      "explanation": "There are 63 intervals from the first click to the sixty-fourth; each lasts 60/120 = 0.5 second, giving 31.5 seconds."
+    },
+    {
+      "id": "HSPT-M16-029",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A digital scale adds the same 25-gram error to every reading. A container alone reads 140 grams; the container with flour reads 515 grams. What is the flour's actual mass?",
+      "choices": {
+        "A": "350 grams",
+        "B": "400 grams",
+        "C": "375 grams",
+        "D": "490 grams"
+      },
+      "correct": "C",
+      "correctAnswer": "375 grams",
+      "explanation": "Both readings contain the same added error, so subtracting cancels it as well as the container: 515 − 140 = 375 grams."
+    },
+    {
+      "id": "HSPT-M16-030",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Which survey question is most likely to encourage agreement through its wording?",
+      "choices": {
+        "A": "Which of the two timetables do you prefer?",
+        "B": "How many times did you use either timetable last week?",
+        "C": "At what time did your most recent trip begin?",
+        "D": "Should sensible travelers support the clearly superior new timetable?"
+      },
+      "correct": "D",
+      "correctAnswer": "Should sensible travelers support the clearly superior new timetable?",
+      "explanation": "Sensible and clearly superior praise one answer in advance, pressuring respondents toward agreement; the other questions do not attach approval to a particular response."
+    },
+    {
+      "id": "HSPT-M16-031",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Three paired observations are (1, 10), (2, 20), and (3, 30). They are changed to (1, 30), (2, 20), and (3, 10). Which feature changes?",
+      "choices": {
+        "A": "The mean of the first coordinates",
+        "B": "The mean of the second coordinates",
+        "C": "The range of the second coordinates",
+        "D": "The direction of the association between the two variables"
+      },
+      "correct": "D",
+      "correctAnswer": "The direction of the association between the two variables",
+      "explanation": "The separate coordinate lists retain the same values, means, and ranges, but larger first coordinates now accompany smaller rather than larger second coordinates."
+    },
+    {
+      "id": "HSPT-M16-032",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A signal passes exactly when relay A works and at least one of relays B and C works. Each relay independently works with probability 1/2. What is the probability that the signal passes?",
+      "choices": {
+        "A": "3/8",
+        "B": "1/8",
+        "C": "1/2",
+        "D": "3/4"
+      },
+      "correct": "A",
+      "correctAnswer": "3/8",
+      "explanation": "A works with probability 1/2. Among B and C, at least one works with probability 3/4, giving (1/2)(3/4) = 3/8."
+    },
+    {
+      "id": "HSPT-M16-033",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A dial starts at 0 and advances clockwise by 3/8 of a full turn three times. After passing the starting point once, how far beyond it does the dial finish?",
+      "choices": {
+        "A": "1/8 of a turn",
+        "B": "3/8 of a turn",
+        "C": "5/8 of a turn",
+        "D": "7/8 of a turn"
+      },
+      "correct": "A",
+      "correctAnswer": "1/8 of a turn",
+      "explanation": "Three advances total 9/8 of a turn. Subtracting one complete turn leaves 9/8 − 8/8 = 1/8 of a turn."
+    },
+    {
+      "id": "HSPT-M16-034",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "How many distinct rational numbers lie strictly between 1/4 and 1/3, when there is no restriction on their denominators?",
+      "choices": {
+        "A": "None",
+        "B": "Infinitely many",
+        "C": "Exactly one",
+        "D": "Exactly twelve"
+      },
+      "correct": "B",
+      "correctAnswer": "Infinitely many",
+      "explanation": "The average of any two distinct rational numbers lies between them and is rational; repeatedly taking such averages produces more numbers in the interval."
+    },
+    {
+      "id": "HSPT-M16-035",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Positive quantities a and b satisfy a : b = 7 : 5. What percent of a + b is a − b?",
+      "choices": {
+        "A": "28 4/7%",
+        "B": "40%",
+        "C": "16 2/3%",
+        "D": "58 1/3%"
+      },
+      "correct": "C",
+      "correctAnswer": "16 2/3%",
+      "explanation": "Use a = 7k and b = 5k. The difference is 2k and the sum is 12k, so the requested fraction is 1/6."
+    },
+    {
+      "id": "HSPT-M16-036",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "How many positive integers not exceeding 1,000 are both perfect cubes and numbers with an odd number of positive factors?",
+      "choices": {
+        "A": "3",
+        "B": "2",
+        "C": "4",
+        "D": "10"
+      },
+      "correct": "A",
+      "correctAnswer": "3",
+      "explanation": "An odd factor count identifies a perfect square. A number that is both a square and a cube is a sixth power: 1, 64, or 729 here."
+    },
+    {
+      "id": "HSPT-M16-037",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "How many real values of x satisfy |x + 6| = −2?",
+      "choices": {
+        "A": "Exactly one real value",
+        "B": "Exactly two real values",
+        "C": "No real values",
+        "D": "Every real value"
+      },
+      "correct": "C",
+      "correctAnswer": "No real values",
+      "explanation": "An absolute value is always nonnegative, so |x + 6| cannot equal the negative number −2 for any real input."
+    },
+    {
+      "id": "HSPT-M16-038",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Consider E = (x² + 2x)/(x + 2). Which statement correctly simplifies E while preserving its original input restriction?",
+      "choices": {
+        "A": "E = x for every real x.",
+        "B": "E = x for every real x except −2.",
+        "C": "E = x + 2 for every real x except −2.",
+        "D": "E = x for every real x except 0."
+      },
+      "correct": "B",
+      "correctAnswer": "E = x for every real x except −2.",
+      "explanation": "Factoring the numerator gives x(x + 2), which cancels to x only when x + 2 is nonzero; the excluded input remains −2."
+    },
+    {
+      "id": "HSPT-M16-039",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A display has x trays, of which exactly 2 remain empty. Its 36 stones are divided equally among all occupied trays. Which expression gives the stones in each occupied tray, where x > 2?",
+      "choices": {
+        "A": "36/x − 2",
+        "B": "(36 − 2)/x",
+        "C": "36/(x − 2)",
+        "D": "36/(x + 2)"
+      },
+      "correct": "C",
+      "correctAnswer": "36/(x − 2)",
+      "explanation": "Only x − 2 trays receive stones, so dividing the fixed total 36 by that occupied-tray count gives 36/(x − 2)."
+    },
+    {
+      "id": "HSPT-M16-040",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For every real x, a rule satisfies f(x + 3) = f(x) − 4. If f(2) = 9, what is f(−7)?",
+      "choices": {
+        "A": "−3",
+        "B": "−19",
+        "C": "13",
+        "D": "21"
+      },
+      "correct": "D",
+      "correctAnswer": "21",
+      "explanation": "Moving an input backward by 3 increases its output by 4. From 2 to −7 requires three backward moves, so f(−7) = 9 + 12 = 21."
+    },
+    {
+      "id": "HSPT-M16-041",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "ABCD is a parallelogram with vertices in that order. A = (−1, 2), B = (3, 2), and D = (1, 5). What are the coordinates of C?",
+      "choices": {
+        "A": "(1, 2)",
+        "B": "(3, 5)",
+        "C": "(−3, −1)",
+        "D": "(5, 5)"
+      },
+      "correct": "D",
+      "correctAnswer": "(5, 5)",
+      "explanation": "The move from A to D is 2 units right and 3 up. Applying the same move from B gives C = (5, 5)."
+    },
+    {
+      "id": "HSPT-M16-042",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circular sector has central angle 150° and arc length 5π centimeters. What is the circle's radius?",
+      "choices": {
+        "A": "3 centimeters",
+        "B": "12 centimeters",
+        "C": "6 centimeters",
+        "D": "15 centimeters"
+      },
+      "correct": "C",
+      "correctAnswer": "6 centimeters",
+      "explanation": "The arc is 150/360 = 5/12 of the circumference. Thus the full circumference is 12π, and dividing by 2π gives radius 6."
+    },
+    {
+      "id": "HSPT-M16-043",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two unit squares have vertices (0, 0), (1, 0), (1, 1), (0, 1) and (1, 1), (2, 1), (2, 2), (1, 2). A tight rubber band surrounds both squares without dipping inward between them. What is its perimeter?",
+      "choices": {
+        "A": "4 + 2√2 units",
+        "B": "8 units",
+        "C": "6 units",
+        "D": "4 + √2 units"
+      },
+      "correct": "A",
+      "correctAnswer": "4 + 2√2 units",
+      "explanation": "The outer stretched boundary has four segments of length 1 and two diagonal segments spanning 1-by-1 gaps, each of length √2."
+    },
+    {
+      "id": "HSPT-M16-044",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Machine A starts at time 0 and needs 7 minutes 30 seconds to make one part. Machine B starts 2 minutes 10 seconds later and needs 4 minutes 50 seconds for another part. Assembly needs both finished parts and takes 40 seconds. What is the earliest completion time measured from time 0?",
+      "choices": {
+        "A": "7 minutes 30 seconds",
+        "B": "8 minutes 10 seconds",
+        "C": "7 minutes 40 seconds",
+        "D": "15 minutes 10 seconds"
+      },
+      "correct": "B",
+      "correctAnswer": "8 minutes 10 seconds",
+      "explanation": "B finishes at 7:00, while A finishes at 7:30. Assembly therefore starts at 7:30 and ends 40 seconds later, at 8:10."
+    },
+    {
+      "id": "HSPT-M16-045",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A fabric's width shrinks by 8% in its first wash. After washing, 2 centimeters at each side are folded out of the visible width. What prewash width is needed for a visible width of 180 centimeters?",
+      "choices": {
+        "A": "1.80 meters",
+        "B": "2.00 meters",
+        "C": "1.84 meters",
+        "D": "1.96 meters"
+      },
+      "correct": "B",
+      "correctAnswer": "2.00 meters",
+      "explanation": "The washed width must be 180 + 2 + 2 = 184 centimeters. That is 92% of the prewash width, so 184/0.92 = 200 centimeters."
+    },
+    {
+      "id": "HSPT-M16-046",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "The data are 2, 2, 4, and 7. Which value can be added so that the range stays the same but the median changes?",
+      "choices": {
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "8"
+      },
+      "correct": "A",
+      "correctAnswer": "2",
+      "explanation": "The original range is 5 and median is 3. Adding 2 preserves endpoints 2 and 7 but makes the five-value median 2."
+    },
+    {
+      "id": "HSPT-M16-047",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Five measurements have both mean 10 and median 10. One measurement equal to 10 is removed. Which statement must be true?",
+      "choices": {
+        "A": "Both the mean and median must stay 10.",
+        "B": "Only the median must stay 10.",
+        "C": "Neither the mean nor the median is guaranteed to stay 10.",
+        "D": "The mean stays 10, but the median may change."
+      },
+      "correct": "D",
+      "correctAnswer": "The mean stays 10, but the median may change.",
+      "explanation": "The sum drops from 50 to 40 across four measurements, preserving mean 10. The two remaining middle values need not average 10."
+    },
+    {
+      "id": "HSPT-M16-048",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Six equally spaced points on a circle are labeled A through F in order. Three different points are selected, with every three-point set equally likely. What is the probability that they form an equilateral triangle?",
+      "choices": {
+        "A": "1/5",
+        "B": "1/3",
+        "C": "1/2",
+        "D": "1/10"
+      },
+      "correct": "D",
+      "correctAnswer": "1/10",
+      "explanation": "Only alternating triples ACE and BDF work. There are 6 × 5 × 4 ÷ 6 = 20 three-point sets, so the probability is 2/20 = 1/10."
+    },
+    {
+      "id": "HSPT-M16-049",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "In the decimal 0.406, the tenths digit is increased by 1 and the thousandths digit is decreased by 6. What is the net increase in the number's value?",
+      "choices": {
+        "A": "0.106",
+        "B": "0.040",
+        "C": "0.094",
+        "D": "0.960"
+      },
+      "correct": "C",
+      "correctAnswer": "0.094",
+      "explanation": "The corrected decimal is 0.500. Subtracting the original gives 0.500 − 0.406 = 0.094; the two digit changes have different place values."
+    },
+    {
+      "id": "HSPT-M16-050",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the least positive integer n for which n³ is divisible by 200?",
+      "choices": {
+        "A": "10",
+        "B": "5",
+        "C": "20",
+        "D": "200"
+      },
+      "correct": "A",
+      "correctAnswer": "10",
+      "explanation": "Since 200 = 2³ × 5², n must contain factors 2 and 5 so its cube supplies both requirements. The least such n is 10."
+    },
+    {
+      "id": "HSPT-M16-051",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A 250-gram mixture contains 40% copper by mass. One fifth of the mixture is removed, with the removed portion having the same composition. Then 50 grams of pure copper is added. What percent of the final mixture is copper?",
+      "choices": {
+        "A": "52%",
+        "B": "40%",
+        "C": "60%",
+        "D": "72%"
+      },
+      "correct": "A",
+      "correctAnswer": "52%",
+      "explanation": "Initially there are 100 grams of copper. Removal leaves 80 grams in 200 grams; adding pure copper gives 130 grams in 250 grams, or 52%."
+    },
+    {
+      "id": "HSPT-M16-052",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Squaring √(x + 2) = x gives x + 2 = x², whose candidate solutions are 2 and −1. Which statement gives the solution of the ORIGINAL equation?",
+      "choices": {
+        "A": "x = 2 only",
+        "B": "x = −1 only",
+        "C": "x = 2 or x = −1",
+        "D": "There is no real solution."
+      },
+      "correct": "A",
+      "correctAnswer": "x = 2 only",
+      "explanation": "At x = 2, both sides equal 2. At x = −1, the square root equals 1 rather than −1, so that candidate is extraneous."
+    },
+    {
+      "id": "HSPT-M16-053",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A row contains n solar panels. One support stands between each adjacent pair, and one additional support stands at each end. The combined number of panels and supports is 55. How many panels are there?",
+      "choices": {
+        "A": "26",
+        "B": "28",
+        "C": "54",
+        "D": "27"
+      },
+      "correct": "D",
+      "correctAnswer": "27",
+      "explanation": "There are n − 1 interior supports and 2 end supports, making n + 1 supports. Thus 2n + 1 = 55 and n = 27."
+    },
+    {
+      "id": "HSPT-M16-054",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which choice gives ALL real solutions of |2x − 1| = |x + 2|?",
+      "choices": {
+        "A": "x = 3 only",
+        "B": "x = 3 and x = −1/3",
+        "C": "x = −3 and x = 1/3",
+        "D": "x = −1 and x = 3"
+      },
+      "correct": "B",
+      "correctAnswer": "x = 3 and x = −1/3",
+      "explanation": "Either 2x − 1 = x + 2, giving x = 3, or 2x − 1 = −x − 2, giving x = −1/3. Both satisfy the original."
+    },
+    {
+      "id": "HSPT-M16-055",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A device's F command moves f centimeters right and its B command moves b centimeters left, with f and b fixed and positive. Starting from 0 each time, FFB ends at 17 and FBB ends at 1. Where does FFFB end?",
+      "choices": {
+        "A": "18 centimeters to the right",
+        "B": "22 centimeters to the right",
+        "C": "28 centimeters to the right",
+        "D": "34 centimeters to the right"
+      },
+      "correct": "C",
+      "correctAnswer": "28 centimeters to the right",
+      "explanation": "The trials give 2f − b = 17 and f − 2b = 1, so b = 5 and f = 11. Therefore 3f − b = 28."
+    },
+    {
+      "id": "HSPT-M16-056",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A plane slices off one corner of a cube by crossing the three edges that meet at that corner. What shape is the newly exposed flat face?",
+      "choices": {
+        "A": "A triangle",
+        "B": "A square",
+        "C": "A rectangle",
+        "D": "A hexagon"
+      },
+      "correct": "A",
+      "correctAnswer": "A triangle",
+      "explanation": "The plane meets one point on each of the three edges, and the three connecting segments bound a triangular face."
+    },
+    {
+      "id": "HSPT-M16-057",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circular ring has inner radius 4 and outer radius 6. A quarter of the ring is cut out along two perpendicular radii. What is the full perimeter of that quarter-ring piece?",
+      "choices": {
+        "A": "5π + 20 units",
+        "B": "3π + 4 units",
+        "C": "10π + 4 units",
+        "D": "5π + 4 units"
+      },
+      "correct": "D",
+      "correctAnswer": "5π + 4 units",
+      "explanation": "Its outer arc is 3π and inner arc is 2π. Each of the two straight ends has length 6 − 4 = 2, giving 5π + 4."
+    },
+    {
+      "id": "HSPT-M16-058",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Portable screens form three sides of a rectangular work area; a straight wall forms the fourth. Exactly 24 meters of screens are available. What is the greatest area that can be enclosed?",
+      "choices": {
+        "A": "36 square meters",
+        "B": "72 square meters",
+        "C": "64 square meters",
+        "D": "144 square meters"
+      },
+      "correct": "B",
+      "correctAnswer": "72 square meters",
+      "explanation": "For width w, the other screened length is 24 − 2w. Area is w(24 − 2w) = 72 − 2(w − 6)², maximized at 72."
+    },
+    {
+      "id": "HSPT-M16-059",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A carton of material lists its coverage as 24 square meters. What quantity does that measurement describe?",
+      "choices": {
+        "A": "The distance around the carton",
+        "B": "The surface area the material can cover",
+        "C": "The material's thickness",
+        "D": "The space enclosed inside the carton"
+      },
+      "correct": "B",
+      "correctAnswer": "The surface area the material can cover",
+      "explanation": "Square meters measure area, so coverage refers to a surface; boundary distance and thickness are lengths, while enclosed space is volume."
+    },
+    {
+      "id": "HSPT-M16-060",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A uniform elastic cord is 1.2 meters long and has mass 30 grams. It is stretched uniformly to 1.5 meters without changing mass. What is the mass of a 30-centimeter segment of the stretched cord?",
+      "choices": {
+        "A": "7.5 grams",
+        "B": "20 grams",
+        "C": "24 grams",
+        "D": "6 grams"
+      },
+      "correct": "D",
+      "correctAnswer": "6 grams",
+      "explanation": "The stretched cord is 150 centimeters long, so 30 centimeters is one fifth of it. Uniform stretching preserves total mass, giving 30/5 = 6 grams."
+    },
+    {
+      "id": "HSPT-M16-061",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "On an original plan, 1 centimeter represents 5 meters in both directions. A copy stretches only the horizontal direction to 150% of its original size. A rectangular room measures 3 centimeters horizontally and 4 centimeters vertically on the copy. What is its actual area?",
+      "choices": {
+        "A": "300 square meters",
+        "B": "200 square meters",
+        "C": "450 square meters",
+        "D": "40 square meters"
+      },
+      "correct": "B",
+      "correctAnswer": "200 square meters",
+      "explanation": "The original horizontal length is 3/1.5 = 2 centimeters. Actual dimensions are 2 × 5 = 10 meters and 4 × 5 = 20 meters, giving area 200."
+    },
+    {
+      "id": "HSPT-M16-062",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A delivery log records damaged-item counts as 0, 2, blank, and 1. The blank means no count was recorded. Which interpretation is justified?",
+      "choices": {
+        "A": "The blank proves that the count was zero.",
+        "B": "The recorded zero must be removed before any summary is made.",
+        "C": "The blank is missing information and cannot automatically be treated as zero.",
+        "D": "The blank must equal the largest recorded count."
+      },
+      "correct": "C",
+      "correctAnswer": "The blank is missing information and cannot automatically be treated as zero.",
+      "explanation": "A recorded zero reports that no damage was counted; a blank supplies no count, so replacing it with zero would add unsupported information."
+    },
+    {
+      "id": "HSPT-M16-063",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Five measurements have minimum 0, median 4, and maximum 8. Which feature is NOT determined by that summary?",
+      "choices": {
+        "A": "The range",
+        "B": "Whether 4 occurs among the measurements",
+        "C": "Whether any measurement is greater than 8",
+        "D": "The arithmetic mean"
+      },
+      "correct": "D",
+      "correctAnswer": "The arithmetic mean",
+      "explanation": "The lists 0, 1, 4, 5, 8 and 0, 3, 4, 7, 8 fit the summary but have means 3.6 and 4.4."
+    },
+    {
+      "id": "HSPT-M16-064",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Three switches are independently set up or down, each with probability 1/2. A light is on when a majority are up. One designated switch is then reversed. What is the probability that the light's on-or-off status changes?",
+      "choices": {
+        "A": "1/4",
+        "B": "3/8",
+        "C": "1/2",
+        "D": "3/4"
+      },
+      "correct": "C",
+      "correctAnswer": "1/2",
+      "explanation": "The designated switch changes the majority exactly when the other two switches disagree. Those two disagree in 2 of their 4 equally likely settings."
+    }
+  ]
+}

@@ -1,0 +1,1069 @@
+{
+  "title": "HSPT Language Practice Test 16",
+  "examFamily": "hspt",
+  "examNumber": 16,
+  "section": "Language",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-L16-001",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly sets off a person being directly addressed within a question?",
+      "choices": {
+        "A": "Will, you Captain check the mooring before we leave?",
+        "B": "Will you Captain, check the mooring before we leave?",
+        "C": "Will you, Captain check the mooring before we leave?",
+        "D": "Will you, Captain, check the mooring before we leave?"
+      },
+      "correct": "D",
+      "correctAnswer": "Will you, Captain, check the mooring before we leave?",
+      "explanation": "Captain names the person being addressed inside the sentence, so commas separate it from the words on both sides."
+    },
+    {
+      "id": "HSPT-L16-002",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Several geese cross the mud. Which phrase correctly identifies the footprints as belonging to those geese collectively?",
+      "choices": {
+        "A": "the geese's footprints",
+        "B": "the geeses' footprints",
+        "C": "the goose's footprints",
+        "D": "the geese footprint's"
+      },
+      "correct": "A",
+      "correctAnswer": "the geese's footprints",
+      "explanation": "Geese is an irregular plural without a final s; its possessive therefore adds apostrophe-s, while footprints remains an ordinary plural."
+    },
+    {
+      "id": "HSPT-L16-003",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly uses US quotation marks and commas for a quotation inside a quotation?",
+      "choices": {
+        "A": "\"I heard \"all clear,\" but the gate remained closed,\" Ana reported.",
+        "B": "\"I heard 'all clear', but the gate remained closed,\" Ana reported.",
+        "C": "\"I heard 'all clear,' but the gate remained closed,\" Ana reported.",
+        "D": "\"I heard 'all clear,' but the gate remained closed\", Ana reported."
+      },
+      "correct": "C",
+      "correctAnswer": "\"I heard 'all clear,' but the gate remained closed,\" Ana reported.",
+      "explanation": "Use single quotation marks inside double quotation marks; in standard US punctuation, both commas remain inside their respective closing quotation marks."
+    },
+    {
+      "id": "HSPT-L16-004",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly distinguishes a title before a name from the same word naming a general occupation?",
+      "choices": {
+        "A": "professor Doran is a Professor of engineering.",
+        "B": "Professor Doran is a Professor of Engineering.",
+        "C": "professor Doran is a professor of Engineering.",
+        "D": "Professor Doran is a professor of engineering."
+      },
+      "correct": "D",
+      "correctAnswer": "Professor Doran is a professor of engineering.",
+      "explanation": "Professor is capitalized as a title directly before Doran; professor and engineering remain lowercase when used as ordinary descriptions."
+    },
+    {
+      "id": "HSPT-L16-005",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "World History II is the official title of a course. Which sentence correctly uses that title and then mentions the general subject?",
+      "choices": {
+        "A": "Her schedule lists world history II, and she enjoys studying World History.",
+        "B": "Her schedule lists World History II, and she enjoys studying world history.",
+        "C": "Her schedule lists World History II, and she enjoys studying World History.",
+        "D": "Her schedule lists World history II, and she enjoys studying world History."
+      },
+      "correct": "B",
+      "correctAnswer": "Her schedule lists World History II, and she enjoys studying world history.",
+      "explanation": "An official course title receives proper-name capitals, while a general reference to the subject world history remains lowercase."
+    },
+    {
+      "id": "HSPT-L16-006",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled name of the long-necked animal.",
+      "choices": {
+        "A": "giraffe",
+        "B": "girafe",
+        "C": "girraffe",
+        "D": "giraff"
+      },
+      "correct": "A",
+      "correctAnswer": "giraffe",
+      "explanation": "Giraffe is the standard spelling, with one r, two f's, and a final e after the doubled consonant."
+    },
+    {
+      "id": "HSPT-L16-007",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence? \"The beetle's ___ shell seemed to change color as it turned.\"",
+      "choices": {
+        "A": "irridescent",
+        "B": "iridescant",
+        "C": "iridesent",
+        "D": "iridescent"
+      },
+      "correct": "D",
+      "correctAnswer": "iridescent",
+      "explanation": "Iridescent uses one r and the ending escent; the alternatives double r, change a vowel, or omit c."
+    },
+    {
+      "id": "HSPT-L16-008",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence places only so that it identifies the front door as the sole locked door?",
+      "choices": {
+        "A": "The front door was only locked.",
+        "B": "The front door was locked only at night.",
+        "C": "Only the front door was locked.",
+        "D": "The only front door was locked."
+      },
+      "correct": "C",
+      "correctAnswer": "Only the front door was locked.",
+      "explanation": "Placing only immediately before the front door limits which door was locked; the alternatives limit an action, a time, or the number of front doors."
+    },
+    {
+      "id": "HSPT-L16-009",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The supervisor made the contractor ___ the railing and persuaded the painter ___ it.\"",
+      "choices": {
+        "A": "to inspect; finish",
+        "B": "inspecting; to finish",
+        "C": "inspect; to finish",
+        "D": "inspect; finishing"
+      },
+      "correct": "C",
+      "correctAnswer": "inspect; to finish",
+      "explanation": "Make takes an object followed by a bare verb, while persuade requires to before its verb, so inspect and to finish are correct."
+    },
+    {
+      "id": "HSPT-L16-010",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "The engineer has not inspected the cables. Which reply correctly says that the apprentice also has not inspected them?",
+      "choices": {
+        "A": "So has the apprentice.",
+        "B": "Neither has the apprentice.",
+        "C": "Neither have the apprentice.",
+        "D": "Neither does the apprentice."
+      },
+      "correct": "B",
+      "correctAnswer": "Neither has the apprentice.",
+      "explanation": "Neither preserves the negative meaning, and has matches the present-perfect statement and the singular subject apprentice."
+    },
+    {
+      "id": "HSPT-L16-011",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the word meaning that something serves two purposes: \"The foldout panel has a ___ role.\"",
+      "choices": {
+        "A": "duel",
+        "B": "duly",
+        "C": "dull",
+        "D": "dual"
+      },
+      "correct": "D",
+      "correctAnswer": "dual",
+      "explanation": "Dual means involving two functions or parts; duel names a contest, while duly and dull do not express the intended twofold role."
+    },
+    {
+      "id": "HSPT-L16-012",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that means \"reduce the appeal\" in the first blank and \"divert attention\" in the second: \"The scratch may ___ from the frame's beauty; the loud noise may ___ the viewer.\"",
+      "choices": {
+        "A": "distract; detract",
+        "B": "detract; distract",
+        "C": "detract; detract",
+        "D": "distract; distract"
+      },
+      "correct": "B",
+      "correctAnswer": "detract; distract",
+      "explanation": "Detract from means diminish worth or appeal; distract means redirect attention, so the specified meanings require different verbs."
+    },
+    {
+      "id": "HSPT-L16-013",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence best supplies the missing topic sentence?",
+      "choices": {
+        "A": "Putting a kite away properly protects its material and keeps its parts ready for the next use.",
+        "B": "A kite festival should always begin after sunset.",
+        "C": "The best way to store a kite is to hide every connector inside a tight fold.",
+        "D": "Matching rods are unnecessary once a kite has flown."
+      },
+      "correct": "A",
+      "correctAnswer": "Putting a kite away properly protects its material and keeps its parts ready for the next use.",
+      "explanation": "The paragraph explains drying and protecting the fabric as well as organizing parts for reassembly, so the topic sentence must cover both purposes.",
+      "stimulusId": "HSPT-L16-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Putting a Kite Away",
+      "stimulusText": "(1) [Topic sentence goes here.] (2) Packing a damp kite immediately can leave its fabric trapped in moisture until the next outing. (3) Spread it out to dry before folding or closing its storage bag. (4) Before removing the rods, note how each length fits into its sleeve or connector. (5) Then remove them and group the matching pieces for later assembly. (6) Some kite festivals include performances after sunset. (7) Fold the dry fabric loosely, keeping sharp rod ends from pressing directly against it. (8) Place small connectors in a separate pouch so they cannot disappear among the folds. (9) The packed parts should be protected and easy to recognize when the kite is assembled again."
+    },
+    {
+      "id": "HSPT-L16-014",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence should be deleted because it does not develop the storage procedure?",
+      "choices": {
+        "A": "Sentence 3",
+        "B": "Sentence 7",
+        "C": "Sentence 6",
+        "D": "Sentence 8"
+      },
+      "correct": "C",
+      "correctAnswer": "Sentence 6",
+      "explanation": "Sentence 6 concerns festival timing; the other sentences explain actions that protect the stored kite or keep its components available.",
+      "stimulusId": "HSPT-L16-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Putting a Kite Away",
+      "stimulusText": "(1) [Topic sentence goes here.] (2) Packing a damp kite immediately can leave its fabric trapped in moisture until the next outing. (3) Spread it out to dry before folding or closing its storage bag. (4) Before removing the rods, note how each length fits into its sleeve or connector. (5) Then remove them and group the matching pieces for later assembly. (6) Some kite festivals include performances after sunset. (7) Fold the dry fabric loosely, keeping sharp rod ends from pressing directly against it. (8) Place small connectors in a separate pouch so they cannot disappear among the folds. (9) The packed parts should be protected and easy to recognize when the kite is assembled again."
+    },
+    {
+      "id": "HSPT-L16-015",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision best combines sentences 4 and 5 while preserving the necessary order of actions?",
+      "choices": {
+        "A": "Note how the rods fit before removing them, then group matching pieces for later assembly.",
+        "B": "Remove and mix all rods before deciding whether their original positions matter.",
+        "C": "Because rods fit every sleeve equally well, remove them without noting their positions.",
+        "D": "Group the rods permanently and discard their connectors before noting how the kite fits together."
+      },
+      "correct": "A",
+      "correctAnswer": "Note how the rods fit before removing them, then group matching pieces for later assembly.",
+      "explanation": "The revision keeps observation before disassembly and grouping afterward; the alternatives reverse the useful sequence or introduce unsupported claims.",
+      "stimulusId": "HSPT-L16-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Putting a Kite Away",
+      "stimulusText": "(1) [Topic sentence goes here.] (2) Packing a damp kite immediately can leave its fabric trapped in moisture until the next outing. (3) Spread it out to dry before folding or closing its storage bag. (4) Before removing the rods, note how each length fits into its sleeve or connector. (5) Then remove them and group the matching pieces for later assembly. (6) Some kite festivals include performances after sunset. (7) Fold the dry fabric loosely, keeping sharp rod ends from pressing directly against it. (8) Place small connectors in a separate pouch so they cannot disappear among the folds. (9) The packed parts should be protected and easy to recognize when the kite is assembled again."
+    },
+    {
+      "id": "HSPT-L16-016",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly punctuates the spelled-out number in the sentence?",
+      "choices": {
+        "A": "The invoice lists seventy-four bolts.",
+        "B": "The invoice lists seventy four bolts.",
+        "C": "The invoice lists seventy, four bolts.",
+        "D": "The invoice lists seventy: four bolts."
+      },
+      "correct": "A",
+      "correctAnswer": "The invoice lists seventy-four bolts.",
+      "explanation": "Compound numbers from twenty-one through ninety-nine take a hyphen when written as words, so seventy-four is correctly joined."
+    },
+    {
+      "id": "HSPT-L16-017",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly uses commas when an introductory yes is followed by a negative response?",
+      "choices": {
+        "A": "Yes I checked the valve, but no I did not open it.",
+        "B": "Yes, I checked the valve, but no, I did not open it.",
+        "C": "Yes, I checked the valve but, no I did not open it.",
+        "D": "Yes I checked, the valve but no, I did not open it."
+      },
+      "correct": "B",
+      "correctAnswer": "Yes, I checked the valve, but no, I did not open it.",
+      "explanation": "Commas set off the introductory response words yes and no; another comma separates the complete clauses joined by but."
+    },
+    {
+      "id": "HSPT-L16-018",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly distinguishes the chemical symbol Co, meaning cobalt, from the formula CO, meaning carbon monoxide?",
+      "choices": {
+        "A": "The container marked CO holds cobalt; the detector marked Co detects carbon monoxide.",
+        "B": "The container marked co holds cobalt; the detector marked co detects carbon monoxide.",
+        "C": "The container marked cO holds cobalt; the detector marked cO detects carbon monoxide.",
+        "D": "The container marked Co holds cobalt; the detector marked CO detects carbon monoxide."
+      },
+      "correct": "D",
+      "correctAnswer": "The container marked Co holds cobalt; the detector marked CO detects carbon monoxide.",
+      "explanation": "Co uses one capital followed by lowercase o for cobalt; CO uses two capitals for carbon monoxide, so changing case changes the meaning of the notation."
+    },
+    {
+      "id": "HSPT-L16-019",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly distinguishes the agency abbreviation NASA from radar, an acronym that has become an ordinary technology word?",
+      "choices": {
+        "A": "Nasa engineers tested the Radar.",
+        "B": "NASA engineers tested the radar.",
+        "C": "NASA Engineers tested the RADAR.",
+        "D": "nasa engineers tested the radar."
+      },
+      "correct": "B",
+      "correctAnswer": "NASA engineers tested the radar.",
+      "explanation": "NASA retains its agency abbreviation's capitals; radar functions as an ordinary common noun, and engineers is also a common noun."
+    },
+    {
+      "id": "HSPT-L16-020",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled name of the fruit with many seeds enclosed in a thick rind.",
+      "choices": {
+        "A": "pomegranate",
+        "B": "pomegranite",
+        "C": "pomagranate",
+        "D": "pomegranet"
+      },
+      "correct": "A",
+      "correctAnswer": "pomegranate",
+      "explanation": "Pomegranate is the standard spelling; its middle portion is gran and its final syllable is written ate rather than ite or et."
+    },
+    {
+      "id": "HSPT-L16-021",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence? \"The underground passage twisted like a ___.\"",
+      "choices": {
+        "A": "labarynth",
+        "B": "labirynth",
+        "C": "labyrinth",
+        "D": "labyrenth"
+      },
+      "correct": "C",
+      "correctAnswer": "labyrinth",
+      "explanation": "Labyrinth is spelled with y after b and i after r; the alternatives substitute different vowels in those two positions."
+    },
+    {
+      "id": "HSPT-L16-022",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word for a substance that removes moisture from its surroundings.",
+      "choices": {
+        "A": "dessicant",
+        "B": "desiccant",
+        "C": "desicant",
+        "D": "desiccint"
+      },
+      "correct": "B",
+      "correctAnswer": "desiccant",
+      "explanation": "Desiccant has one s, two consecutive c's, and the ending ant; the alternatives alter one of those features."
+    },
+    {
+      "id": "HSPT-L16-023",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence correctly uses a singular count noun after every?",
+      "choices": {
+        "A": "Every spools have a numbered tag.",
+        "B": "Every spool have a numbered tag.",
+        "C": "Every spool has a numbered tag.",
+        "D": "Every spools has a numbered tag."
+      },
+      "correct": "C",
+      "correctAnswer": "Every spool has a numbered tag.",
+      "explanation": "Every modifies a singular count noun, spool, which takes singular has; the alternatives use a plural noun or mismatched verb."
+    },
+    {
+      "id": "HSPT-L16-024",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the pair that correctly completes the sentence: \"I remember ___ the hatch yesterday, but please remember ___ it again tonight.\"",
+      "choices": {
+        "A": "to lock; locking",
+        "B": "lock; locked",
+        "C": "locked; to locking",
+        "D": "locking; to lock"
+      },
+      "correct": "D",
+      "correctAnswer": "locking; to lock",
+      "explanation": "Remember plus a gerund recalls an earlier action; remember plus a to-infinitive concerns carrying out a required future action."
+    },
+    {
+      "id": "HSPT-L16-025",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "\"The sail needs mending\" means that the sail requires repair. Which revision preserves that meaning in a standard passive infinitive construction?",
+      "choices": {
+        "A": "The sail needs to mend.",
+        "B": "The sail needs being mend.",
+        "C": "The sail needs to be mending.",
+        "D": "The sail needs to be mended."
+      },
+      "correct": "D",
+      "correctAnswer": "The sail needs to be mended.",
+      "explanation": "Needs mending gives the sail the role of receiving repair; needs to be mended preserves that role with a passive infinitive."
+    },
+    {
+      "id": "HSPT-L16-026",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "A STATUTE is a written law, while STATURE concerns height or standing. Which sentence uses the appropriate word?",
+      "choices": {
+        "A": "The new statute establishes the maximum permitted load.",
+        "B": "The new stature establishes the maximum permitted load.",
+        "C": "The climber's statute made the low doorway difficult to use.",
+        "D": "The cabinetmaker measured his apprentice's statute in centimeters."
+      },
+      "correct": "A",
+      "correctAnswer": "The new statute establishes the maximum permitted load.",
+      "explanation": "A rule establishing a legal maximum is a statute; a person's physical height is stature, not a written law."
+    },
+    {
+      "id": "HSPT-L16-027",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence correctly uses all together or altogether to mean that the travelers waited in one group?",
+      "choices": {
+        "A": "Altogether, the travelers waited for an hour.",
+        "B": "The travelers' delay was altogether unexpected.",
+        "C": "The travelers gave up waiting altogether.",
+        "D": "The travelers waited all together under the awning."
+      },
+      "correct": "D",
+      "correctAnswer": "The travelers waited all together under the awning.",
+      "explanation": "All together means in one group or place; altogether means entirely or completely and does not express the intended gathering."
+    },
+    {
+      "id": "HSPT-L16-028",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which transition best fills the blank in sentence 4?",
+      "choices": {
+        "A": "For example",
+        "B": "As a result of its lower price",
+        "C": "Nevertheless",
+        "D": "In exactly the same way"
+      },
+      "correct": "C",
+      "correctAnswer": "Nevertheless",
+      "explanation": "Nevertheless contrasts the flexible ticket's useful refund feature with the qualification that it is not best for everyone; the other choices misstate that relationship.",
+      "stimulusId": "HSPT-L16-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Price of Flexibility",
+      "stimulusText": "(1) A travel price should be considered together with the conditions attached to it. (2) On the fictional Cedar Line, a fixed ticket costs less but cannot be refunded after purchase. (3) A flexible ticket costs more and can be refunded before departure. (4) [Transition], the flexible ticket is not automatically the better choice for every traveler. (5) Someone whose plans are settled may gain little from paying for a refund option. (6) A traveler awaiting confirmation of an appointment faces a different possibility. (7) Paying more initially could protect that person from losing the entire fare if the journey becomes unnecessary. (8) [Concluding sentence goes here.]"
+    },
+    {
+      "id": "HSPT-L16-029",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Where should this sentence be added? \"That appointment might be canceled before the planned departure.\"",
+      "choices": {
+        "A": "Immediately before sentence 1",
+        "B": "Immediately after sentence 6",
+        "C": "Immediately after sentence 2",
+        "D": "Immediately after sentence 5"
+      },
+      "correct": "B",
+      "correctAnswer": "Immediately after sentence 6",
+      "explanation": "Sentence 6 introduces the uncertain appointment, and the added sentence explains that uncertainty before sentence 7 describes the financial protection it makes relevant.",
+      "stimulusId": "HSPT-L16-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Price of Flexibility",
+      "stimulusText": "(1) A travel price should be considered together with the conditions attached to it. (2) On the fictional Cedar Line, a fixed ticket costs less but cannot be refunded after purchase. (3) A flexible ticket costs more and can be refunded before departure. (4) [Transition], the flexible ticket is not automatically the better choice for every traveler. (5) Someone whose plans are settled may gain little from paying for a refund option. (6) A traveler awaiting confirmation of an appointment faces a different possibility. (7) Paying more initially could protect that person from losing the entire fare if the journey becomes unnecessary. (8) [Concluding sentence goes here.]"
+    },
+    {
+      "id": "HSPT-L16-030",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence best concludes the passage without adding an unsupported rule?",
+      "choices": {
+        "A": "The better purchase depends on how likely the traveler is to need the protection that the higher price buys.",
+        "B": "Every traveler should buy the cheapest ticket regardless of its restrictions.",
+        "C": "The flexible ticket is worthwhile only when the trip is certain to take place.",
+        "D": "A higher initial fare guarantees that a traveler will take the journey."
+      },
+      "correct": "A",
+      "correctAnswer": "The better purchase depends on how likely the traveler is to need the protection that the higher price buys.",
+      "explanation": "The two traveler examples support matching the refund option to the risk of changed plans, rather than prescribing one ticket for everyone.",
+      "stimulusId": "HSPT-L16-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Price of Flexibility",
+      "stimulusText": "(1) A travel price should be considered together with the conditions attached to it. (2) On the fictional Cedar Line, a fixed ticket costs less but cannot be refunded after purchase. (3) A flexible ticket costs more and can be refunded before departure. (4) [Transition], the flexible ticket is not automatically the better choice for every traveler. (5) Someone whose plans are settled may gain little from paying for a refund option. (6) A traveler awaiting confirmation of an appointment faces a different possibility. (7) Paying more initially could protect that person from losing the entire fare if the journey becomes unnecessary. (8) [Concluding sentence goes here.]"
+    },
+    {
+      "id": "HSPT-L16-031",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly treats the action after the quoted speech as a separate sentence rather than as a speech tag?",
+      "choices": {
+        "A": "\"I'll take it,\" Nessa lifted the parcel.",
+        "B": "\"I'll take it.\" Nessa lifted the parcel.",
+        "C": "\"I'll take it\", Nessa lifted the parcel.",
+        "D": "\"I'll take it.\" Nessa, lifted the parcel."
+      },
+      "correct": "B",
+      "correctAnswer": "\"I'll take it.\" Nessa lifted the parcel.",
+      "explanation": "Nessa lifted the parcel describes an action, not a way of speaking, so the quotation ends with a period before that separate sentence."
+    },
+    {
+      "id": "HSPT-L16-032",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly punctuates size, shape, and material adjectives that build on one another rather than operate as coordinate descriptions?",
+      "choices": {
+        "A": "The carpenter restored a small, round, oak table.",
+        "B": "The carpenter restored a small round oak table.",
+        "C": "The carpenter restored a small round, oak table.",
+        "D": "The carpenter restored a small, round oak table."
+      },
+      "correct": "B",
+      "correctAnswer": "The carpenter restored a small round oak table.",
+      "explanation": "These cumulative modifiers build from material to shape to size; they do not take the separating commas used between coordinate adjectives."
+    },
+    {
+      "id": "HSPT-L16-033",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version places semicolons between three complete options while keeping each option's explanatory relative clause intact?",
+      "choices": {
+        "A": "The choices were to rent a van; which offered more room, to repair the cart; which needed new wheels, or to postpone the delivery; which required everyone's consent.",
+        "B": "The choices were; to rent a van, which offered more room; to repair the cart, which needed new wheels or to postpone the delivery, which required everyone's consent.",
+        "C": "The choices were to rent a van, which offered; more room, to repair the cart, which needed; new wheels, or to postpone the delivery, which required; everyone's consent.",
+        "D": "The choices were to rent a van, which offered more room; to repair the cart, which needed new wheels; or to postpone the delivery, which required everyone's consent."
+      },
+      "correct": "D",
+      "correctAnswer": "The choices were to rent a van, which offered more room; to repair the cart, which needed new wheels; or to postpone the delivery, which required everyone's consent.",
+      "explanation": "Each semicolon belongs after a complete option, including its which-clause; placing it before which or inside that clause splits an option incorrectly."
+    },
+    {
+      "id": "HSPT-L16-034",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which pair gives the two lowercase words that need capitals in this sentence? \"During october, we stayed in a canadian village near the border.\"",
+      "choices": {
+        "A": "October; Canadian",
+        "B": "Village; Border",
+        "C": "October; Border",
+        "D": "Canadian; Village"
+      },
+      "correct": "A",
+      "correctAnswer": "October; Canadian",
+      "explanation": "October is a month name and Canadian is a proper adjective; village and border are ordinary common nouns and remain lowercase."
+    },
+    {
+      "id": "HSPT-L16-035",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "The parenthesized items below continue ONE sentence rather than start separate sentences. Which version uses appropriate capitalization?",
+      "choices": {
+        "A": "The work involves (a) cleaning the joints, (b) replacing the seals, and (c) checking the pressure.",
+        "B": "The work involves (a) Cleaning the joints, (b) replacing the seals, and (c) checking the pressure.",
+        "C": "The work involves (a) cleaning the joints, (b) Replacing the seals, and (c) checking the pressure.",
+        "D": "The work involves (a) Cleaning the joints, (b) Replacing the seals, and (c) Checking the pressure."
+      },
+      "correct": "A",
+      "correctAnswer": "The work involves (a) cleaning the joints, (b) replacing the seals, and (c) checking the pressure.",
+      "explanation": "The labels do not create sentence boundaries; cleaning, replacing, and checking remain common words within the same continuous sentence."
+    },
+    {
+      "id": "HSPT-L16-036",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names the activity of traveling over snow on skis?",
+      "choices": {
+        "A": "skiiing",
+        "B": "sking",
+        "C": "skiing",
+        "D": "skiying"
+      },
+      "correct": "C",
+      "correctAnswer": "skiing",
+      "explanation": "Skiing keeps the i in ski and adds ing, producing two consecutive i's; it does not drop one or insert a third."
+    },
+    {
+      "id": "HSPT-L16-037",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word for a figure used to display clothing.",
+      "choices": {
+        "A": "manequin",
+        "B": "mannekin",
+        "C": "manniquin",
+        "D": "mannequin"
+      },
+      "correct": "D",
+      "correctAnswer": "mannequin",
+      "explanation": "Mannequin has two n's after ma and the ending equin; the alternatives omit a consonant or alter that final letter sequence."
+    },
+    {
+      "id": "HSPT-L16-038",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the word that correctly completes the sentence: \"The report contains ___ reliable information.\"",
+      "choices": {
+        "A": "a",
+        "B": "some",
+        "C": "an",
+        "D": "several"
+      },
+      "correct": "B",
+      "correctAnswer": "some",
+      "explanation": "Information is a noncount noun in this context, so some can introduce it; a, an, and several require a countable noun."
+    },
+    {
+      "id": "HSPT-L16-039",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Rosa began copying a chart at 10:00 yesterday and continued without stopping until 10:10. Which sentence correctly describes her activity at 10:05 yesterday?",
+      "choices": {
+        "A": "At 10:05, Rosa will be copying the chart.",
+        "B": "At 10:05, Rosa has copying the chart.",
+        "C": "At 10:05, Rosa was copying the chart.",
+        "D": "At 10:05, Rosa were copying the chart."
+      },
+      "correct": "C",
+      "correctAnswer": "At 10:05, Rosa was copying the chart.",
+      "explanation": "The past progressive was copying describes an activity already underway at the specified past moment and agrees with the singular subject Rosa."
+    },
+    {
+      "id": "HSPT-L16-040",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "The keeper said to Ari, \"Do not disturb the seals.\" Which sentence correctly reports that negative command?",
+      "choices": {
+        "A": "The keeper told Ari not to disturb the seals.",
+        "B": "The keeper told Ari do not disturb the seals.",
+        "C": "The keeper told Ari to not disturbed the seals.",
+        "D": "The keeper told Ari not disturbing the seals."
+      },
+      "correct": "A",
+      "correctAnswer": "The keeper told Ari not to disturb the seals.",
+      "explanation": "A reported command after told plus an object uses a to-infinitive; placing not before it correctly reports the negative instruction."
+    },
+    {
+      "id": "HSPT-L16-041",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The editor gave a clear ___ for what the team considered a ___ decision.\"",
+      "choices": {
+        "A": "rational; rationale",
+        "B": "rationale; rationale",
+        "C": "rationale; rational",
+        "D": "rational; rational"
+      },
+      "correct": "C",
+      "correctAnswer": "rationale; rational",
+      "explanation": "Rationale is a noun meaning the reasons behind a choice; rational is an adjective meaning reasonable, so the two positions require different forms."
+    },
+    {
+      "id": "HSPT-L16-042",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the words, in order, for the sense of taste, a board for mixing paints, and a platform for stacked freight.",
+      "choices": {
+        "A": "palette; palate; pallet",
+        "B": "pallet; palette; palate",
+        "C": "palate; palette; pallet",
+        "D": "palate; pallet; palette"
+      },
+      "correct": "C",
+      "correctAnswer": "palate; palette; pallet",
+      "explanation": "Palate concerns taste, palette holds an artist's colors, and pallet supports freight; the similar spellings refer to three distinct things."
+    },
+    {
+      "id": "HSPT-L16-043",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair meaning an organized plan of practice in the first blank and a military unit in the second: \"The drummer maintained a strict ___ before joining the ___.\"",
+      "choices": {
+        "A": "regiment; regimen",
+        "B": "regimen; regimen",
+        "C": "regiment; regiment",
+        "D": "regimen; regiment"
+      },
+      "correct": "D",
+      "correctAnswer": "regimen; regiment",
+      "explanation": "Regimen means an organized routine or plan; regiment names a military unit, so the intended practice and membership contexts require different nouns."
+    },
+    {
+      "id": "HSPT-L16-044",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence order most clearly presents the claim, explains its condition, shows the misleading shortened version, and concludes with a remedy?",
+      "choices": {
+        "A": "1, 2, 4, 5, 3, 6",
+        "B": "1, 3, 5, 2, 4, 6",
+        "C": "1, 5, 3, 2, 6, 4",
+        "D": "3, 5, 6, 4, 2, 1"
+      },
+      "correct": "B",
+      "correctAnswer": "1, 3, 5, 2, 4, 6",
+      "explanation": "Sentence 3 supplies the original claim, 5 explains its condition, 2 removes it, and 4 shows the result before 6 proposes a fair remedy.",
+      "stimulusId": "HSPT-L16-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Keeping the Condition",
+      "stimulusText": "(1) A quotation can copy words accurately while changing the reach of the speaker's claim. (2) A headline containing only \"The method saves time\" leaves out that requirement. (3) Suppose a technician says, \"The method saves time if the parts have already been sorted.\" (4) This shortened wording could make an unprepared reader expect an immediate benefit before doing the sorting work. (5) In the original statement, sorting is the condition under which time is saved. (6) Keeping that condition, or explaining it fairly beside the quotation, protects the statement from being expanded beyond what its speaker actually claimed."
+    },
+    {
+      "id": "HSPT-L16-045",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which title best represents the passage's purpose?",
+      "choices": {
+        "A": "Preserving the Limits of a Quoted Claim",
+        "B": "The Fastest Way to Sort Every Part",
+        "C": "Why All Short Quotations Are False",
+        "D": "Replacing a Technician's Words with a New Opinion"
+      },
+      "correct": "A",
+      "correctAnswer": "Preserving the Limits of a Quoted Claim",
+      "explanation": "The passage explains how retaining or fairly explaining a condition preserves a quotation's meaning; it does not reject all short quotations or teach sorting.",
+      "stimulusId": "HSPT-L16-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Keeping the Condition",
+      "stimulusText": "(1) A quotation can copy words accurately while changing the reach of the speaker's claim. (2) A headline containing only \"The method saves time\" leaves out that requirement. (3) Suppose a technician says, \"The method saves time if the parts have already been sorted.\" (4) This shortened wording could make an unprepared reader expect an immediate benefit before doing the sorting work. (5) In the original statement, sorting is the condition under which time is saved. (6) Keeping that condition, or explaining it fairly beside the quotation, protects the statement from being expanded beyond what its speaker actually claimed."
+    },
+    {
+      "id": "HSPT-L16-046",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly encloses the explanatory noun phrase describing the courier?",
+      "choices": {
+        "A": "The courier a cyclist carrying a blue satchel, waited outside.",
+        "B": "The courier, a cyclist carrying a blue satchel waited outside.",
+        "C": "The courier, a cyclist carrying a blue satchel, waited outside.",
+        "D": "The courier a cyclist, carrying a blue satchel waited outside."
+      },
+      "correct": "C",
+      "correctAnswer": "The courier, a cyclist carrying a blue satchel, waited outside.",
+      "explanation": "The explanatory appositive a cyclist carrying a blue satchel interrupts the main sentence, so a comma marks each of its two boundaries."
+    },
+    {
+      "id": "HSPT-L16-047",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "The original notice says, \"The north gate opens at dawn.\" Which report integrates an exact quoted phrase and correctly places the final period in American English?",
+      "choices": {
+        "A": "The notice says the north gate opens \"at dawn.\"",
+        "B": "The notice says the north gate opens, \"at dawn.\"",
+        "C": "The notice says the north gate opens \"at dawn\".",
+        "D": "The notice says the north gate opens \"after dawn.\""
+      },
+      "correct": "A",
+      "correctAnswer": "The notice says the north gate opens \"at dawn.\"",
+      "explanation": "The exact phrase at dawn fits directly into the reported clause without an introducing comma; its closing quotation mark follows the final period."
+    },
+    {
+      "id": "HSPT-L16-048",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "The semicolon below joins two independent clauses in ONE sentence. Which version uses correct capitalization?",
+      "choices": {
+        "A": "The switch was off; The screen stayed dark.",
+        "B": "The Switch was off; the Screen stayed dark.",
+        "C": "The switch was off; the screen stayed dark.",
+        "D": "the switch was off; the screen stayed dark."
+      },
+      "correct": "C",
+      "correctAnswer": "The switch was off; the screen stayed dark.",
+      "explanation": "The semicolon continues the same sentence, so the common word the after it remains lowercase; only the sentence's opening word requires a capital."
+    },
+    {
+      "id": "HSPT-L16-049",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Central processing unit is an ordinary descriptive term, not a formal proper name. Which sentence correctly writes that term and its initial-letter abbreviation?",
+      "choices": {
+        "A": "The Central Processing Unit (CPU) coordinates the calculations.",
+        "B": "The central processing unit (cpu) coordinates the calculations.",
+        "C": "The central processing unit (CPU) coordinates the calculations.",
+        "D": "The Central processing unit (Cpu) coordinates the calculations."
+      },
+      "correct": "C",
+      "correctAnswer": "The central processing unit (CPU) coordinates the calculations.",
+      "explanation": "The ordinary expanded term stays lowercase, while its conventional abbreviation is CPU; uppercase initials do not make the full descriptive phrase a proper name."
+    },
+    {
+      "id": "HSPT-L16-050",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled name of the melon.",
+      "choices": {
+        "A": "cantalope",
+        "B": "cantaloupe",
+        "C": "canteloupe",
+        "D": "cantaloupp"
+      },
+      "correct": "B",
+      "correctAnswer": "cantaloupe",
+      "explanation": "Cantaloupe includes a after t and the final sequence oupe; the other spellings change that vowel or omit or replace letters in the ending."
+    },
+    {
+      "id": "HSPT-L16-051",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence? \"The orchestra built to a powerful ___.\"",
+      "choices": {
+        "A": "cresscendo",
+        "B": "cresendo",
+        "C": "creschendo",
+        "D": "crescendo"
+      },
+      "correct": "D",
+      "correctAnswer": "crescendo",
+      "explanation": "Crescendo has one s followed by c and ends endo; the alternatives double s, omit c, or insert an extra h."
+    },
+    {
+      "id": "HSPT-L16-052",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled name of the flowering plant.",
+      "choices": {
+        "A": "chrysanthemum",
+        "B": "crysanthemum",
+        "C": "chrysanthimum",
+        "D": "chrysanthemun"
+      },
+      "correct": "A",
+      "correctAnswer": "chrysanthemum",
+      "explanation": "Chrysanthemum begins chrys, contains anthem, and ends um; the alternatives omit h, replace a vowel, or change the final consonant."
+    },
+    {
+      "id": "HSPT-L16-053",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which completion makes this a full sentence? \"What the diver discovered beneath the ledge ___.\"",
+      "choices": {
+        "A": "after the dive",
+        "B": "surprised the crew",
+        "C": "near the broken anchor",
+        "D": "before the boat returned"
+      },
+      "correct": "B",
+      "correctAnswer": "surprised the crew",
+      "explanation": "The what-clause serves as the subject; surprised the crew supplies the main predicate, whereas the other completions add only modifiers."
+    },
+    {
+      "id": "HSPT-L16-054",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence uses must to express a confident inference about a COMPLETED PAST action?",
+      "choices": {
+        "A": "They must take the early boat to arrive on time.",
+        "B": "They must be taking the boat right now.",
+        "C": "They must have taken the early boat; their berth is empty.",
+        "D": "They must take care of their boat."
+      },
+      "correct": "C",
+      "correctAnswer": "They must have taken the early boat; their berth is empty.",
+      "explanation": "Must have taken expresses a strong conclusion about an earlier completed action; the alternatives express present obligation or an action occurring now."
+    },
+    {
+      "id": "HSPT-L16-055",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the pair that correctly completes the sentence in formal written English: \"I would rather ___ here tonight, but I'd rather my guest ___ early tomorrow.\"",
+      "choices": {
+        "A": "stay; arrived",
+        "B": "to stay; arrived",
+        "C": "stay; arriving",
+        "D": "staying; to arrive"
+      },
+      "correct": "A",
+      "correctAnswer": "stay; arrived",
+      "explanation": "Would rather takes a bare verb for the speaker's own action; a separate subject takes a past form to express a present or future preference."
+    },
+    {
+      "id": "HSPT-L16-056",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The map compares long-term ___ conditions; the novel reaches its ___ scene.\"",
+      "choices": {
+        "A": "climactic; climatic",
+        "B": "climatic; climatic",
+        "C": "climactic; climactic",
+        "D": "climatic; climactic"
+      },
+      "correct": "D",
+      "correctAnswer": "climatic; climactic",
+      "explanation": "Climatic relates to climate, while climactic describes a climax or point of greatest intensity; the map and novel therefore require different adjectives."
+    },
+    {
+      "id": "HSPT-L16-057",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"In the legend, the oracle will ___; the villagers later recall the ___.\"",
+      "choices": {
+        "A": "prophecy; prophesy",
+        "B": "prophesy; prophecy",
+        "C": "prophesy; prophesy",
+        "D": "prophecy; prophecy"
+      },
+      "correct": "B",
+      "correctAnswer": "prophesy; prophecy",
+      "explanation": "Prophesy is the verb meaning to predict; prophecy is the noun naming a prediction, so will and the require those respective forms."
+    },
+    {
+      "id": "HSPT-L16-058",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the words meaning the RATE of such events in the first blank and individual EVENTS in the second: \"The report measured the ___ of faults and described several separate ___.\"",
+      "choices": {
+        "A": "incidence; incidents",
+        "B": "incidents; incidence",
+        "C": "incidence; incidence",
+        "D": "incidents; incidents"
+      },
+      "correct": "A",
+      "correctAnswer": "incidence; incidents",
+      "explanation": "Incidence denotes the rate or frequency of occurrence; incidents are individual events, so the specified rate and event meanings require different nouns."
+    },
+    {
+      "id": "HSPT-L16-059",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which added sentence would provide the most direct evidence for the recommendation in sentence 3?",
+      "choices": {
+        "A": "Readers said the colored cover looked attractive.",
+        "B": "The print shop finished thirty copies before lunch.",
+        "C": "The original colors were selected from popular travel posters.",
+        "D": "In a test of the grayscale copy, readers distinguished the solid and dashed routes even where their gray tones matched."
+      },
+      "correct": "D",
+      "correctAnswer": "In a test of the grayscale copy, readers distinguished the solid and dashed routes even where their gray tones matched.",
+      "explanation": "The test directly connects line patterns with distinguishing routes when color is unavailable; the other details concern appearance, production speed, or design inspiration.",
+      "stimulusId": "HSPT-L16-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Guide That Survives Copying",
+      "stimulusText": "(1) A transit guide uses three colors to distinguish its routes. (2) In a particular black-and-white photocopy, those colors become nearly the same gray. (3) Giving each route a different line pattern as well as a color would preserve another visible distinction. (4) One route could use a solid line, another a dashed line, and the third a dotted line. (5) The key should show the same patterns beside the corresponding route names. (6) This will make it easier to follow. (7) The aim is to keep the route information usable when color can no longer do the separating."
+    },
+    {
+      "id": "HSPT-L16-060",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision of sentence 6 most clearly identifies the proposed change and its benefit?",
+      "choices": {
+        "A": "It will improve the thing that people use.",
+        "B": "This proves that all color printing should be abandoned.",
+        "C": "Readers will follow it because it is easier than the other ones.",
+        "D": "Distinct line patterns will help readers follow each route in a copy that has no usable color."
+      },
+      "correct": "D",
+      "correctAnswer": "Distinct line patterns will help readers follow each route in a copy that has no usable color.",
+      "explanation": "The revision names line patterns, readers, routes, and the copying condition; the alternatives remain vague or add an unsupported rejection of all color printing.",
+      "stimulusId": "HSPT-L16-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Guide That Survives Copying",
+      "stimulusText": "(1) A transit guide uses three colors to distinguish its routes. (2) In a particular black-and-white photocopy, those colors become nearly the same gray. (3) Giving each route a different line pattern as well as a color would preserve another visible distinction. (4) One route could use a solid line, another a dashed line, and the third a dotted line. (5) The key should show the same patterns beside the corresponding route names. (6) This will make it easier to follow. (7) The aim is to keep the route information usable when color can no longer do the separating."
+    }
+  ]
+}

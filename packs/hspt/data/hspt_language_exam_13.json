@@ -1,0 +1,1069 @@
+{
+  "title": "HSPT Language Practice Test 13",
+  "examFamily": "hspt",
+  "examNumber": 13,
+  "section": "Language",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-L13-001",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly ends an ordinary declarative sentence with the abbreviation etc.?",
+      "choices": {
+        "A": "We packed nails, screws, etc.",
+        "B": "We packed nails, screws, etc..",
+        "C": "We packed nails, screws, etc.,",
+        "D": "We packed nails, screws, etc.;"
+      },
+      "correct": "A",
+      "correctAnswer": "We packed nails, screws, etc.",
+      "explanation": "The period belonging to etc. also ends the sentence; adding another period or a terminal comma or semicolon is unnecessary."
+    },
+    {
+      "id": "HSPT-L13-002",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which revision uses a comma to mark the omitted repetition of contains in the second clause?",
+      "choices": {
+        "A": "One drawer, contains spoons; the other forks.",
+        "B": "One drawer contains spoons; the other, forks.",
+        "C": "One drawer contains, spoons; the other forks.",
+        "D": "One drawer contains spoons; the, other forks."
+      },
+      "correct": "B",
+      "correctAnswer": "One drawer contains spoons; the other, forks.",
+      "explanation": "The comma after other marks where contains is understood, preserving the parallel relationship between the two drawers and their contents."
+    },
+    {
+      "id": "HSPT-L13-003",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly punctuates a question inside parentheses while keeping the main statement declarative?",
+      "choices": {
+        "A": "The package arrived (who sent it)? before daybreak.",
+        "B": "The package arrived (who sent it.) before daybreak?",
+        "C": "The package arrived (who sent it?) before daybreak.",
+        "D": "The package arrived (who sent it) before daybreak?"
+      },
+      "correct": "C",
+      "correctAnswer": "The package arrived (who sent it?) before daybreak.",
+      "explanation": "The parenthetical question takes its own question mark inside the parentheses, while the surrounding declarative sentence ends with a period."
+    },
+    {
+      "id": "HSPT-L13-004",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A fictional ruler is called King Alden the Fourth. Which form uses standard capitalization for the Roman numeral in the ruler's name?",
+      "choices": {
+        "A": "King Alden IV",
+        "B": "King Alden iv",
+        "C": "King Alden Iv",
+        "D": "King Alden iV"
+      },
+      "correct": "A",
+      "correctAnswer": "King Alden IV",
+      "explanation": "Roman numerals used as formal numbers in a ruler's name are conventionally uppercase; IV represents the Fourth in this name."
+    },
+    {
+      "id": "HSPT-L13-005",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which version uses standard headline-style capitalization for this book title, including its hyphenated modifier?",
+      "choices": {
+        "A": "The Self-Guided Journey",
+        "B": "The Self-guided Journey",
+        "C": "The self-Guided Journey",
+        "D": "The self-guided Journey"
+      },
+      "correct": "A",
+      "correctAnswer": "The Self-Guided Journey",
+      "explanation": "In headline-style capitalization, the first word and both major parts of self-guided are capitalized, as is the main noun Journey."
+    },
+    {
+      "id": "HSPT-L13-006",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nPlease do not ____ the height of the wave.",
+      "choices": {
+        "A": "exagerate",
+        "B": "exaggerrate",
+        "C": "exaggerate",
+        "D": "exaggerait"
+      },
+      "correct": "C",
+      "correctAnswer": "exaggerate",
+      "explanation": "Exaggerate uses two g letters and one r, with the ending ate; the alternatives omit, duplicate, or replace letters."
+    },
+    {
+      "id": "HSPT-L13-007",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word for concealment achieved by blending with surroundings.",
+      "choices": {
+        "A": "camouflage",
+        "B": "camoflage",
+        "C": "camoflauge",
+        "D": "camouflague"
+      },
+      "correct": "A",
+      "correctAnswer": "camouflage",
+      "explanation": "Camouflage includes the sequence ou after cam and ends in flage; the alternatives omit, move, or add vowels within that pattern."
+    },
+    {
+      "id": "HSPT-L13-008",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which pair correctly completes the sentence?\nWe need ____ route, but ____ routes remain closed.",
+      "choices": {
+        "A": "other; another",
+        "B": "other; other",
+        "C": "another; other",
+        "D": "another; another"
+      },
+      "correct": "C",
+      "correctAnswer": "another; other",
+      "explanation": "Another supplies the determiner for singular route; other can modify plural routes, while another cannot directly modify a plural noun."
+    },
+    {
+      "id": "HSPT-L13-009",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "On Monday, Dora told her brother, \"I will deliver the film tomorrow.\" On Tuesday morning, before the delivery, which report by her brother preserves Dora's meaning?",
+      "choices": {
+        "A": "Dora said she would deliver the film tomorrow.",
+        "B": "Dora said her brother would deliver the film today.",
+        "C": "Dora said she had delivered the film yesterday.",
+        "D": "Dora said she would deliver the film today."
+      },
+      "correct": "D",
+      "correctAnswer": "Dora said she would deliver the film today.",
+      "explanation": "Monday's tomorrow is Tuesday's today; reported will becomes would, and she preserves Dora as the person responsible for the delivery."
+    },
+    {
+      "id": "HSPT-L13-010",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which verb phrase correctly completes the sentence?\nThere ____ two gaps in the fence.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "correct": "B",
+      "correctAnswer": "are",
+      "explanation": "The real subject is the plural phrase two gaps, which follows there; it requires are rather than a singular verb phrase."
+    },
+    {
+      "id": "HSPT-L13-011",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nThese are my ____ gloves; I use them ____.",
+      "choices": {
+        "A": "every day; everyday",
+        "B": "everyday; everyday",
+        "C": "every day; every day",
+        "D": "everyday; every day"
+      },
+      "correct": "D",
+      "correctAnswer": "everyday; every day",
+      "explanation": "Everyday is an adjective meaning ordinary or routine; every day is a two-word expression meaning each day, describing frequency."
+    },
+    {
+      "id": "HSPT-L13-012",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "An indirect reference to a familiar poem is an ____; a misleading visual appearance is an ____.",
+      "choices": {
+        "A": "illusion; allusion",
+        "B": "allusion; allusion",
+        "C": "allusion; illusion",
+        "D": "illusion; illusion"
+      },
+      "correct": "C",
+      "correctAnswer": "allusion; illusion",
+      "explanation": "An allusion refers indirectly to another work or event; an illusion creates a misleading appearance, so the two contexts require different words."
+    },
+    {
+      "id": "HSPT-L13-013",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which additional FAQ question would be answered by sentences 2–5?",
+      "choices": {
+        "A": "What weight of paper should the card use?",
+        "B": "Who was the first person to solve the puzzle?",
+        "C": "How many copies of each card should be printed?",
+        "D": "How much help does each successive level provide?"
+      },
+      "correct": "D",
+      "correctAnswer": "How much help does each successive level provide?",
+      "explanation": "Sentences 2–5 describe increasing levels of assistance and the option to stop, directly answering a question about the help each level provides.",
+      "stimulusId": "HSPT-L13-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Help Under a Flap",
+      "stimulusText": "(1) Why is a hint card folded? Separate flaps let a solver choose how much help to uncover. (2) The first flap points to a specific clue without interpreting it. (3) The next flap explains a relationship among clues but leaves the final step for the solver. (4) The innermost flap contains the complete solution and its reasoning. (5) Someone who needs only a nudge can stop before seeing that solution. (6) What makes a useful first hint? It identifies a relevant feature instead of merely saying, \"Try harder.\" (7) Printing the full solution on the outside would remove the solver's choice before the solver had decided to read it."
+    },
+    {
+      "id": "HSPT-L13-014",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "A puzzle hides a city name in the initials of every other line. Which proposed FIRST hint follows the guidance in sentences 2 and 6?",
+      "choices": {
+        "A": "Join the initials of the odd-numbered lines in order.",
+        "B": "The hidden city is Lima, spelled by the selected letters.",
+        "C": "You need to concentrate and work harder.",
+        "D": "Notice the letters at the beginnings of the lines."
+      },
+      "correct": "D",
+      "correctAnswer": "Notice the letters at the beginnings of the lines.",
+      "explanation": "The correct hint points to a relevant feature without explaining which initials to select or revealing the city; the alternatives overexplain or provide no useful direction.",
+      "stimulusId": "HSPT-L13-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Help Under a Flap",
+      "stimulusText": "(1) Why is a hint card folded? Separate flaps let a solver choose how much help to uncover. (2) The first flap points to a specific clue without interpreting it. (3) The next flap explains a relationship among clues but leaves the final step for the solver. (4) The innermost flap contains the complete solution and its reasoning. (5) Someone who needs only a nudge can stop before seeing that solution. (6) What makes a useful first hint? It identifies a relevant feature instead of merely saying, \"Try harder.\" (7) Printing the full solution on the outside would remove the solver's choice before the solver had decided to read it."
+    },
+    {
+      "id": "HSPT-L13-015",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "A proposed revision says, \"Put the full solution on the outside for easy access.\" Which replacement preserves access to the solution AND the solver's control over when to see it?",
+      "choices": {
+        "A": "Remove the full solution from every version of the card.",
+        "B": "Keep the solution under the last flap, which the solver may open when ready.",
+        "C": "Put the full solution outside, but hide the first hint under a flap.",
+        "D": "Print the hints and full solution together on the outside."
+      },
+      "correct": "B",
+      "correctAnswer": "Keep the solution under the last flap, which the solver may open when ready.",
+      "explanation": "The last flap keeps the complete answer available while delaying its exposure until the solver chooses; the alternatives sacrifice access or control.",
+      "stimulusId": "HSPT-L13-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Help Under a Flap",
+      "stimulusText": "(1) Why is a hint card folded? Separate flaps let a solver choose how much help to uncover. (2) The first flap points to a specific clue without interpreting it. (3) The next flap explains a relationship among clues but leaves the final step for the solver. (4) The innermost flap contains the complete solution and its reasoning. (5) Someone who needs only a nudge can stop before seeing that solution. (6) What makes a useful first hint? It identifies a relevant feature instead of merely saying, \"Try harder.\" (7) Printing the full solution on the outside would remove the solver's choice before the solver had decided to read it."
+    },
+    {
+      "id": "HSPT-L13-016",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "An album label shortens the year 1984 to its last two digits. Which version correctly marks the omitted digits?",
+      "choices": {
+        "A": "Summer of 84'",
+        "B": "Summer of 8'4",
+        "C": "Summer of '84",
+        "D": "Summer of '84'"
+      },
+      "correct": "C",
+      "correctAnswer": "Summer of '84",
+      "explanation": "The apostrophe precedes 84 because the omitted digits 19 come before those digits; no closing apostrophe is needed."
+    },
+    {
+      "id": "HSPT-L13-017",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version uses a hyphen to make clear that a sofa will receive a NEW COVER, rather than be retrieved?",
+      "choices": {
+        "A": "We will re-cover the sofa.",
+        "B": "We will recover the sofa.",
+        "C": "We will re cover the sofa.",
+        "D": "We will rec-over the sofa."
+      },
+      "correct": "A",
+      "correctAnswer": "We will re-cover the sofa.",
+      "explanation": "Re-cover means cover again, while recover ordinarily means retrieve or regain; the hyphen distinguishes the intended word from a different existing word."
+    },
+    {
+      "id": "HSPT-L13-018",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which form correctly capitalizes the name of this religious text?",
+      "choices": {
+        "A": "a translation of the quran",
+        "B": "a Translation of the quran",
+        "C": "a translation Of the Quran",
+        "D": "a translation of the Quran"
+      },
+      "correct": "D",
+      "correctAnswer": "a translation of the Quran",
+      "explanation": "Quran is the proper name of a religious text and is capitalized; the surrounding common words do not require capitals."
+    },
+    {
+      "id": "HSPT-L13-019",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence uses standard capitalization for an ordinary reference to a century?",
+      "choices": {
+        "A": "The design dates from the Twenty-First Century.",
+        "B": "The design dates from the twenty-first Century.",
+        "C": "The design dates from the Twenty-first century.",
+        "D": "The design dates from the twenty-first century."
+      },
+      "correct": "D",
+      "correctAnswer": "The design dates from the twenty-first century.",
+      "explanation": "An ordinary century designation is a common descriptive phrase, not a proper historical name, so its words remain lowercase."
+    },
+    {
+      "id": "HSPT-L13-020",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes this introduction?\nShe is an ____ from my former neighborhood.",
+      "choices": {
+        "A": "acquaintance",
+        "B": "acquantance",
+        "C": "acquaintence",
+        "D": "aquaintance"
+      },
+      "correct": "A",
+      "correctAnswer": "acquaintance",
+      "explanation": "Acquaintance includes cq, the vowel sequence ai, and the ending ance; the alternatives omit letters or substitute the wrong ending."
+    },
+    {
+      "id": "HSPT-L13-021",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names the fragrant brown spice used in this filling?",
+      "choices": {
+        "A": "cinamon",
+        "B": "cinnamon",
+        "C": "cinnammon",
+        "D": "cinnamin"
+      },
+      "correct": "B",
+      "correctAnswer": "cinnamon",
+      "explanation": "Cinnamon uses double n, a single m, and the ending amon; the alternatives omit an n, double m, or change the final vowel."
+    },
+    {
+      "id": "HSPT-L13-022",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling names the dark outline of a figure against a lighter background?",
+      "choices": {
+        "A": "silouette",
+        "B": "silhouette",
+        "C": "silhuoette",
+        "D": "silhouete"
+      },
+      "correct": "B",
+      "correctAnswer": "silhouette",
+      "explanation": "Silhouette preserves h before ou and doubles t before the final e; the alternatives omit or rearrange parts of that spelling."
+    },
+    {
+      "id": "HSPT-L13-023",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly introduces the alternatives before this infinitive?\nWe must decide ____ to wait or leave now.",
+      "choices": {
+        "A": "if",
+        "B": "that",
+        "C": "unless",
+        "D": "whether"
+      },
+      "correct": "D",
+      "correctAnswer": "whether",
+      "explanation": "Whether can introduce alternative possibilities before a to-infinitive; if, that, and unless do not form that construction in this sentence."
+    },
+    {
+      "id": "HSPT-L13-024",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence correctly forms an exclamation about the size of a single wave?",
+      "choices": {
+        "A": "How a huge wave that was!",
+        "B": "What huge wave that was!",
+        "C": "What a huge wave that was!",
+        "D": "How huge a wave that were!"
+      },
+      "correct": "C",
+      "correctAnswer": "What a huge wave that was!",
+      "explanation": "What introduces the noun-phrase exclamation what a huge wave; the following clause keeps ordinary subject-before-verb order."
+    },
+    {
+      "id": "HSPT-L13-025",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which revision preserves the meaning of \"The crate is too wide to fit through the hatch\"?",
+      "choices": {
+        "A": "The crate is so wide that it cannot fit through the hatch.",
+        "B": "The crate is so wide that it must fit through the hatch.",
+        "C": "The crate is wide enough to fit through the hatch.",
+        "D": "The crate could fit through the hatch if it became wider."
+      },
+      "correct": "A",
+      "correctAnswer": "The crate is so wide that it cannot fit through the hatch.",
+      "explanation": "Too wide to fit expresses excessive width preventing passage; so wide that it cannot fit preserves both that cause and the negative result."
+    },
+    {
+      "id": "HSPT-L13-026",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nThe two lamps flashed ____, taking turns. ____, we could leave both switched off.",
+      "choices": {
+        "A": "alternately; Alternatively",
+        "B": "alternatively; Alternately",
+        "C": "alternately; Alternately",
+        "D": "alternatively; Alternatively"
+      },
+      "correct": "A",
+      "correctAnswer": "alternately; Alternatively",
+      "explanation": "Alternately describes taking turns; alternatively introduces another available choice, here leaving both lamps off."
+    },
+    {
+      "id": "HSPT-L13-027",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nAri and Bo received the silver and bronze medals, ____. Both thanked the judge ____.",
+      "choices": {
+        "A": "respectfully; respectively",
+        "B": "respectively; respectively",
+        "C": "respectfully; respectfully",
+        "D": "respectively; respectfully"
+      },
+      "correct": "D",
+      "correctAnswer": "respectively; respectfully",
+      "explanation": "Respectively matches Ari with silver and Bo with bronze in the stated order; respectfully describes the courteous manner of their thanks."
+    },
+    {
+      "id": "HSPT-L13-028",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "An editor converts sentences 3–4 into narration. Which version accurately preserves who proposed the idea and who supplied the correction?",
+      "choices": {
+        "A": "The designer asked for a larger handle, and the interviewer reported that ridges had been removed.",
+        "B": "The interviewer asked about a larger handle, and the designer explained that ridges had also been added.",
+        "C": "Both speakers agreed that size was the only feature changed.",
+        "D": "The interviewer explained that the first prototype had already included ridges."
+      },
+      "correct": "B",
+      "correctAnswer": "The interviewer asked about a larger handle, and the designer explained that ridges had also been added.",
+      "explanation": "The interviewer asks about size in sentence 3; the designer adds the second change in sentence 4, so both attribution and correction must remain.",
+      "stimulusId": "HSPT-L13-S02",
+      "stimulusType": "Composition Passage",
+      "stimulusTitle": "Questions for a Handle Designer",
+      "stimulusText": "(1) Interviewer: Your first door-handle prototype was smooth and narrow. (2) Designer: Yes. It looked neat, but people wearing thick gloves had trouble gripping it. (3) Interviewer: So you made the next version larger? (4) Designer: Larger, with ridges; those were two changes, not one. (5) Interviewer: Then the test proved that size alone solved the problem. (6) Designer: No. We tested the combined changes, so we cannot separate their effects from that test. (7) Interviewer: What will you try next? (8) Designer: We will compare handles of the same size with and without ridges. That should help us investigate the ridges without changing size at the same time."
+    },
+    {
+      "id": "HSPT-L13-029",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Why should an edited transcript retain sentence 6 even if sentence 5 is retained as the interviewer's remark?",
+      "choices": {
+        "A": "It confirms that the designer agrees with every word of sentence 5.",
+        "B": "It supplies an unrelated anecdote that interrupts the technical explanation.",
+        "C": "It prevents a mistaken claim in the interviewer's question from appearing to be the interview's accepted conclusion.",
+        "D": "It changes the topic from handle design to the interviewer's career."
+      },
+      "correct": "C",
+      "correctAnswer": "It prevents a mistaken claim in the interviewer's question from appearing to be the interview's accepted conclusion.",
+      "explanation": "Sentence 6 explicitly rejects the size-alone conclusion; removing it would leave the interviewer's mistaken interpretation without the designer's essential correction.",
+      "stimulusId": "HSPT-L13-S02",
+      "stimulusType": "Composition Passage",
+      "stimulusTitle": "Questions for a Handle Designer",
+      "stimulusText": "(1) Interviewer: Your first door-handle prototype was smooth and narrow. (2) Designer: Yes. It looked neat, but people wearing thick gloves had trouble gripping it. (3) Interviewer: So you made the next version larger? (4) Designer: Larger, with ridges; those were two changes, not one. (5) Interviewer: Then the test proved that size alone solved the problem. (6) Designer: No. We tested the combined changes, so we cannot separate their effects from that test. (7) Interviewer: What will you try next? (8) Designer: We will compare handles of the same size with and without ridges. That should help us investigate the ridges without changing size at the same time."
+    },
+    {
+      "id": "HSPT-L13-030",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which follow-up question would challenge a limitation of the PLANNED comparison in sentence 8 without claiming that the comparison has already been performed?",
+      "choices": {
+        "A": "Why did the completed test prove that every possible handle size works equally well?",
+        "B": "After testing ridges at one fixed size, how would you check whether they help at other sizes?",
+        "C": "Why did you decide never to test the ridges separately?",
+        "D": "How did the first prototype prove that gloves have no effect on gripping?"
+      },
+      "correct": "B",
+      "correctAnswer": "After testing ridges at one fixed size, how would you check whether they help at other sizes?",
+      "explanation": "The proposed comparison holds one size fixed; asking about other sizes examines the limits of that future result without inventing completed tests or unsupported findings.",
+      "stimulusId": "HSPT-L13-S02",
+      "stimulusType": "Composition Passage",
+      "stimulusTitle": "Questions for a Handle Designer",
+      "stimulusText": "(1) Interviewer: Your first door-handle prototype was smooth and narrow. (2) Designer: Yes. It looked neat, but people wearing thick gloves had trouble gripping it. (3) Interviewer: So you made the next version larger? (4) Designer: Larger, with ridges; those were two changes, not one. (5) Interviewer: Then the test proved that size alone solved the problem. (6) Designer: No. We tested the combined changes, so we cannot separate their effects from that test. (7) Interviewer: What will you try next? (8) Designer: We will compare handles of the same size with and without ridges. That should help us investigate the ridges without changing size at the same time."
+    },
+    {
+      "id": "HSPT-L13-031",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly shows that BOTH short and long combine with term to modify effects?",
+      "choices": {
+        "A": "short and long-term effects",
+        "B": "short-and long-term effects",
+        "C": "short- and long term effects",
+        "D": "short- and long-term effects"
+      },
+      "correct": "D",
+      "correctAnswer": "short- and long-term effects",
+      "explanation": "The suspended hyphen after short stands for the shared ending term; long-term retains its complete hyphenated form before effects."
+    },
+    {
+      "id": "HSPT-L13-032",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version best uses standard punctuation to show that a speaker is abruptly cut off in the middle of a word?",
+      "choices": {
+        "A": "\"Wait, I haven't fin…\"",
+        "B": "\"Wait, I haven't fin—\"",
+        "C": "\"Wait, I haven't fin?\"",
+        "D": "\"Wait, I haven't fin;\""
+      },
+      "correct": "B",
+      "correctAnswer": "\"Wait, I haven't fin—\"",
+      "explanation": "An em dash marks an abrupt cutoff, including an unfinished word; an ellipsis normally suggests trailing off rather than sudden interruption."
+    },
+    {
+      "id": "HSPT-L13-033",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "The parenthetical statement is a complete sentence standing on its own. Which version places its period correctly?",
+      "choices": {
+        "A": "The gauge fell silent. (Its battery had failed.)",
+        "B": "The gauge fell silent. (Its battery had failed).",
+        "C": "The gauge fell silent. (Its battery had failed.).",
+        "D": "The gauge fell silent. (Its battery had failed,)"
+      },
+      "correct": "A",
+      "correctAnswer": "The gauge fell silent. (Its battery had failed.)",
+      "explanation": "A complete sentence enclosed in parentheses takes its ending period inside the closing parenthesis, with no additional period outside."
+    },
+    {
+      "id": "HSPT-L13-034",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly distinguishes a family term used as a name from one following a possessive?",
+      "choices": {
+        "A": "I asked mom whether my Dad was home.",
+        "B": "I asked Mom whether my Dad was home.",
+        "C": "I asked Mom whether my dad was home.",
+        "D": "I asked mom whether my dad was home."
+      },
+      "correct": "C",
+      "correctAnswer": "I asked Mom whether my dad was home.",
+      "explanation": "Mom functions as a personal name and is capitalized; dad follows my and functions as an ordinary family-relationship noun."
+    },
+    {
+      "id": "HSPT-L13-035",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Use a style that capitalizes a shared geographic term in combined formal names. Which form correctly combines the fictional names Lake Vera and Lake Tano?",
+      "choices": {
+        "A": "lakes Vera and Tano",
+        "B": "Lakes Vera And Tano",
+        "C": "Lakes Vera and Tano",
+        "D": "Lakes vera and Tano"
+      },
+      "correct": "C",
+      "correctAnswer": "Lakes Vera and Tano",
+      "explanation": "The specified style capitalizes shared Lakes and the proper names Vera and Tano; the linking conjunction and remains lowercase."
+    },
+    {
+      "id": "HSPT-L13-036",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a short printed guide describing a place or service?",
+      "choices": {
+        "A": "brochure",
+        "B": "broshure",
+        "C": "brochere",
+        "D": "brocure"
+      },
+      "correct": "A",
+      "correctAnswer": "brochure",
+      "explanation": "Brochure retains the ch spelling and the ending ure; the alternatives substitute a sound-based spelling or omit a required letter."
+    },
+    {
+      "id": "HSPT-L13-037",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Select the correctly spelled name of the creamy condiment.",
+      "choices": {
+        "A": "mayonaise",
+        "B": "mayonnaise",
+        "C": "mayonnaisse",
+        "D": "maiyonnaise"
+      },
+      "correct": "B",
+      "correctAnswer": "mayonnaise",
+      "explanation": "Mayonnaise has double n and the ending aise; the alternatives lose an n, add an s, or insert an extra i."
+    },
+    {
+      "id": "HSPT-L13-038",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which pair correctly completes the active and passive versions?\nThey made us ____. We were made ____.",
+      "choices": {
+        "A": "to wait; wait",
+        "B": "wait; to wait",
+        "C": "wait; wait",
+        "D": "to wait; to wait"
+      },
+      "correct": "B",
+      "correctAnswer": "wait; to wait",
+      "explanation": "Active made takes an object followed by a bare infinitive; its passive counterpart were made takes the to-infinitive to wait."
+    },
+    {
+      "id": "HSPT-L13-039",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "At 7 p.m., the baker expects to finish at 8:30, before the guests arrive at 9. Which verb phrase uses the FUTURE PERFECT to express completion by 9?\nBy then, the baker ____ the bread.",
+      "choices": {
+        "A": "will have finished",
+        "B": "will finish",
+        "C": "has finished",
+        "D": "had finished"
+      },
+      "correct": "A",
+      "correctAnswer": "will have finished",
+      "explanation": "Will have finished is future perfect, placing the expected completion before the later future reference point rather than in the present or past."
+    },
+    {
+      "id": "HSPT-L13-040",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Replace the tools with them and the noise with it while keeping standard word order: \"She put the tools away but could not put up with the noise.\"",
+      "choices": {
+        "A": "She put away them but could not put up with it.",
+        "B": "She put them away but could not put it up with.",
+        "C": "She put them away but could not put up with it.",
+        "D": "She put away them but could not put up it with."
+      },
+      "correct": "C",
+      "correctAnswer": "She put them away but could not put up with it.",
+      "explanation": "A pronoun separates put from away, but it follows the complete inseparable expression put up with; the two verb patterns require different positions."
+    },
+    {
+      "id": "HSPT-L13-041",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word means reduce the tension of a heated disagreement, rather than spread light or another substance?",
+      "choices": {
+        "A": "diffuse",
+        "B": "defuse",
+        "C": "refuse",
+        "D": "infuse"
+      },
+      "correct": "B",
+      "correctAnswer": "defuse",
+      "explanation": "Defuse means remove tension or potential conflict; diffuse means spread out, so it does not express the intended calming action."
+    },
+    {
+      "id": "HSPT-L13-042",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nI ____ the smoke, but I am ____ to complain.",
+      "choices": {
+        "A": "loath; loathe",
+        "B": "loathe; loathe",
+        "C": "loathe; loath",
+        "D": "loath; loath"
+      },
+      "correct": "C",
+      "correctAnswer": "loathe; loath",
+      "explanation": "Loathe is the verb meaning intensely dislike; loath is the adjective meaning reluctant, used after am before the infinitive to complain."
+    },
+    {
+      "id": "HSPT-L13-043",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair expresses important in history and relating to the past, in that order?",
+      "choices": {
+        "A": "historical; historic",
+        "B": "historic; historic",
+        "C": "historical; historical",
+        "D": "historic; historical"
+      },
+      "correct": "D",
+      "correctAnswer": "historic; historical",
+      "explanation": "Historic emphasizes historical importance; historical describes a connection with past events without necessarily claiming that importance."
+    },
+    {
+      "id": "HSPT-L13-044",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision of sentence 4 preserves its image and meaning while extending the repeated opening of sentences 1–3?",
+      "choices": {
+        "A": "Let every lower edge become a matching straight line.",
+        "B": "Measure the lower edge carefully until the entire outline is closed.",
+        "C": "Let the lower edge disappear because the drawing has been abandoned.",
+        "D": "Let the lower edge stay unfinished, as though the cloud is still arriving."
+      },
+      "correct": "D",
+      "correctAnswer": "Let the lower edge stay unfinished, as though the cloud is still arriving.",
+      "explanation": "The revision repeats Let and preserves the unfinished edge and arriving-cloud image; the alternatives change the proposed action or its meaning.",
+      "stimulusId": "HSPT-L13-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Room for a Cloud",
+      "stimulusText": "(1) Let your pencil follow a cloud without expecting the cloud to wait. (2) Let one side grow heavier than the other, as though the wind has leaned against it. (3) Let a pale space interrupt the gray; not every part of the sky needs to be filled. (4) You can leave the lower edge unfinished, as though the cloud is still arriving. (5) These are invitations to notice differences, not measurements for producing matching shapes, and a wandering line may record your attention better than a perfect circle. (6) Use exactly the same closed outline for every cloud, with every edge made identical to the last."
+    },
+    {
+      "id": "HSPT-L13-045",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which replacement for sentence 6 best concludes the draft by reinforcing its invitation to individual observation and connecting with the unfinished-cloud image?",
+      "choices": {
+        "A": "Leave a little room for the cloud to become something you had not planned.",
+        "B": "Copy one approved outline until every cloud has exactly the same shape.",
+        "C": "Weather reports sometimes list rainfall amounts for several cities.",
+        "D": "Your drawing is complete only when every uncertain edge has been erased."
+      },
+      "correct": "A",
+      "correctAnswer": "Leave a little room for the cloud to become something you had not planned.",
+      "explanation": "The open-ended closing extends the arriving-cloud image and the draft's invitation to notice differences; the original sentence imposes the uniformity sentence 5 rejects.",
+      "stimulusId": "HSPT-L13-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Room for a Cloud",
+      "stimulusText": "(1) Let your pencil follow a cloud without expecting the cloud to wait. (2) Let one side grow heavier than the other, as though the wind has leaned against it. (3) Let a pale space interrupt the gray; not every part of the sky needs to be filled. (4) You can leave the lower edge unfinished, as though the cloud is still arriving. (5) These are invitations to notice differences, not measurements for producing matching shapes, and a wandering line may record your attention better than a perfect circle. (6) Use exactly the same closed outline for every cloud, with every edge made identical to the last."
+    },
+    {
+      "id": "HSPT-L13-046",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "The main title is Stone and Water; the subtitle is A Study of Walls. Which version places a colon at the correct boundary between them?",
+      "choices": {
+        "A": "Stone and Water: A Study of Walls",
+        "B": "Stone: and Water A Study of Walls",
+        "C": "Stone and Water A: Study of Walls",
+        "D": "Stone and Water A Study: of Walls"
+      },
+      "correct": "A",
+      "correctAnswer": "Stone and Water: A Study of Walls",
+      "explanation": "A colon separates the complete main title from its subtitle, so it belongs after Water rather than inside either title element."
+    },
+    {
+      "id": "HSPT-L13-047",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Use the abbreviation U.S. with BOTH of its periods. Which question is punctuated correctly?",
+      "choices": {
+        "A": "Was the parcel sent from the U.S?",
+        "B": "Was the parcel sent from the U.S.?",
+        "C": "Was the parcel sent from the U.S?.",
+        "D": "Was the parcel sent from the U.S..?"
+      },
+      "correct": "B",
+      "correctAnswer": "Was the parcel sent from the U.S.?",
+      "explanation": "The abbreviation keeps its final period, and the question adds a question mark after it; the two marks serve separate functions."
+    },
+    {
+      "id": "HSPT-L13-048",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which form capitalizes the geographic adjective while keeping the common breed noun lowercase?",
+      "choices": {
+        "A": "German shepherd",
+        "B": "german shepherd",
+        "C": "German Shepherd",
+        "D": "german Shepherd"
+      },
+      "correct": "A",
+      "correctAnswer": "German shepherd",
+      "explanation": "German is a proper geographic adjective and takes a capital; shepherd remains a common breed noun in the specified form."
+    },
+    {
+      "id": "HSPT-L13-049",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which advice-column headline uses standard headline-style capitalization, including its final preposition?",
+      "choices": {
+        "A": "Things We Can Agree on",
+        "B": "Things we Can Agree On",
+        "C": "Things We Can Agree On",
+        "D": "Things We Can agree On"
+      },
+      "correct": "C",
+      "correctAnswer": "Things We Can Agree On",
+      "explanation": "Headline style capitalizes major words and the final word, so On remains capitalized even though a short preposition would ordinarily be lowercase within a title."
+    },
+    {
+      "id": "HSPT-L13-050",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nThe shell had a ____ spiral pattern.",
+      "choices": {
+        "A": "peculair",
+        "B": "peculer",
+        "C": "peculiar",
+        "D": "pecculiar"
+      },
+      "correct": "C",
+      "correctAnswer": "peculiar",
+      "explanation": "Peculiar uses one c and the ending uliar; the alternatives reverse vowels, replace the ending, or double the c."
+    },
+    {
+      "id": "HSPT-L13-051",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled name of the small biting insect.",
+      "choices": {
+        "A": "mosqueto",
+        "B": "mosquito",
+        "C": "moskito",
+        "D": "mosquitto"
+      },
+      "correct": "B",
+      "correctAnswer": "mosquito",
+      "explanation": "Mosquito uses qu, the vowel i, and a single t before the final o; the alternatives alter those features."
+    },
+    {
+      "id": "HSPT-L13-052",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a person who starts and organizes a business?",
+      "choices": {
+        "A": "entrepreneur",
+        "B": "entreprenuer",
+        "C": "entrepenur",
+        "D": "enterpreneur"
+      },
+      "correct": "A",
+      "correctAnswer": "entrepreneur",
+      "explanation": "Entrepreneur preserves the opening entre and the ending preneur; the alternatives transpose, omit, or relocate letters within those sequences."
+    },
+    {
+      "id": "HSPT-L13-053",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which pair correctly completes the sentence?\nDeparture was delayed ____ fog, and boarding stopped ____ the visibility worsened.",
+      "choices": {
+        "A": "because; because of",
+        "B": "because of; because of",
+        "C": "because of; because",
+        "D": "because; because"
+      },
+      "correct": "C",
+      "correctAnswer": "because of; because",
+      "explanation": "Because of introduces the noun fog; because introduces the full clause the visibility worsened, so the two complements require different forms."
+    },
+    {
+      "id": "HSPT-L13-054",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the relative clause?\nThis is the cavern ____ the bats spend the winter.",
+      "choices": {
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "where"
+      },
+      "correct": "D",
+      "correctAnswer": "where",
+      "explanation": "Where supplies the location relationship for the complete clause the bats spend the winter; which would require an accompanying preposition in this construction."
+    },
+    {
+      "id": "HSPT-L13-055",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which pair forms a standard unreal PAST conditional about an action that did not happen yesterday?\nIf Nora ____ the crack yesterday, she ____ the case before shipping it.",
+      "choices": {
+        "A": "had seen; would have closed",
+        "B": "would have seen; had closed",
+        "C": "has seen; would close",
+        "D": "had seen; will close"
+      },
+      "correct": "A",
+      "correctAnswer": "had seen; would have closed",
+      "explanation": "The unreal past condition takes had seen, while its unreal past result takes would have closed; both refer to the missed opportunity yesterday."
+    },
+    {
+      "id": "HSPT-L13-056",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word means acknowledge a source in a written report?",
+      "choices": {
+        "A": "site",
+        "B": "sight",
+        "C": "cite",
+        "D": "seat"
+      },
+      "correct": "C",
+      "correctAnswer": "cite",
+      "explanation": "Cite means refer to or acknowledge a source; site names a location, while sight concerns seeing, so neither expresses the reporting action."
+    },
+    {
+      "id": "HSPT-L13-057",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly names an elected governing group and the advice it receives?\nThe village ____ sought ____ before deciding.",
+      "choices": {
+        "A": "counsel; council",
+        "B": "council; council",
+        "C": "counsel; counsel",
+        "D": "council; counsel"
+      },
+      "correct": "D",
+      "correctAnswer": "council; counsel",
+      "explanation": "Council names a governing body; counsel means advice, so the elected group is the council and what it seeks is counsel."
+    },
+    {
+      "id": "HSPT-L13-058",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair distinguishing STAFF ADMINISTRATION from INDIVIDUAL PRIVACY.\nA ____ officer handles employee records; workers keep ____ diaries at home.",
+      "choices": {
+        "A": "personal; personnel",
+        "B": "personnel; personal",
+        "C": "personnel; personnel",
+        "D": "personal; personal"
+      },
+      "correct": "B",
+      "correctAnswer": "personnel; personal",
+      "explanation": "Personnel refers to an organization's staff, fitting the officer's administrative role; personal describes private diaries belonging to individual workers."
+    },
+    {
+      "id": "HSPT-L13-059",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Where should sentence 5 be moved so the reference event is defined before sentence 2 refers to \"that moment\"?",
+      "choices": {
+        "A": "Immediately after sentence 3",
+        "B": "Immediately after sentence 4",
+        "C": "Immediately after sentence 6",
+        "D": "Immediately after sentence 1"
+      },
+      "correct": "D",
+      "correctAnswer": "Immediately after sentence 1",
+      "explanation": "Sentence 1 introduces the reference event; moving its definition directly afterward gives that moment a clear referent before offsets and their signs are explained.",
+      "stimulusId": "HSPT-L13-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Timing an Animated Footstep",
+      "stimulusText": "(1) To synchronize an animated footstep, editors compare the sound cue with a reference event. (2) All offsets are measured from that moment. (3) Positive offsets put the sound after the reference event; negative offsets put it before. (4) An offset of +3 frames means three frames later, while −3 frames means three frames earlier. (5) The reference event is the first picture frame in which the character's foot touches the surface. (6) Zero offset places the sound at that contact; it does not mean that no sound is used. (7) Changing the sound offset does not require moving the picture frame in which the foot lands."
+    },
+    {
+      "id": "HSPT-L13-060",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "An added sentence says, \"A +3 offset always puts the sound at frame 3 of the whole film.\" Which replacement clarifies the intended meaning without introducing that false absolute position?",
+      "choices": {
+        "A": "A +3 offset requires the contact to occur at frame 3 of every film.",
+        "B": "A +3 offset means three seconds after the film begins.",
+        "C": "A +3 offset means that the editor must remove all earlier sound.",
+        "D": "A +3 offset places the sound three frames after the chosen contact frame, wherever that frame occurs in the film."
+      },
+      "correct": "D",
+      "correctAnswer": "A +3 offset places the sound three frames after the chosen contact frame, wherever that frame occurs in the film.",
+      "explanation": "The offset measures a difference from the selected contact event, not an absolute frame number or a number of seconds from the film's beginning.",
+      "stimulusId": "HSPT-L13-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Timing an Animated Footstep",
+      "stimulusText": "(1) To synchronize an animated footstep, editors compare the sound cue with a reference event. (2) All offsets are measured from that moment. (3) Positive offsets put the sound after the reference event; negative offsets put it before. (4) An offset of +3 frames means three frames later, while −3 frames means three frames earlier. (5) The reference event is the first picture frame in which the character's foot touches the surface. (6) Zero offset places the sound at that contact; it does not mean that no sound is used. (7) Changing the sound offset does not require moving the picture frame in which the foot lands."
+    }
+  ]
+}

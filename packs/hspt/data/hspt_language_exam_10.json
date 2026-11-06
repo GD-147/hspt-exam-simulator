@@ -1,0 +1,1069 @@
+{
+  "title": "HSPT Language Practice Test 10",
+  "examFamily": "hspt",
+  "examNumber": 10,
+  "section": "Language",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-L10-001",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly uses a hyphen in the written-out number?",
+      "choices": {
+        "A": "The shipment contains twenty one brushes.",
+        "B": "The shipment contains twenty, one brushes.",
+        "C": "The shipment contains twenty-one brushes.",
+        "D": "The shipment contains twenty:one brushes."
+      },
+      "correct": "C",
+      "correctAnswer": "The shipment contains twenty-one brushes.",
+      "explanation": "The compound number twenty-one takes a hyphen when written as words; a space, comma, or colon does not join it correctly."
+    },
+    {
+      "id": "HSPT-L10-002",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "A formal directory requires a period after each personal initial and no commas within a name. Which version correctly shortens Dana Rae Vega under that rule?",
+      "choices": {
+        "A": "D, R, Vega",
+        "B": "D: R: Vega",
+        "C": "D. R. Vega",
+        "D": "D R, Vega"
+      },
+      "correct": "C",
+      "correctAnswer": "D. R. Vega",
+      "explanation": "D and R each replace a given name and therefore receive periods under the stated rule; no comma belongs between them and Vega."
+    },
+    {
+      "id": "HSPT-L10-003",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "An editor preserves the quotation \"Two otters was resting\" and uses [sic] immediately after the word containing the original grammatical error. Which version follows that instruction?",
+      "choices": {
+        "A": "\"Two [sic] otters was resting.\"",
+        "B": "\"Two otters were [sic] resting.\"",
+        "C": "\"Two otters was resting [sic].\"",
+        "D": "\"Two otters was [sic] resting.\""
+      },
+      "correct": "D",
+      "correctAnswer": "\"Two otters was [sic] resting.\"",
+      "explanation": "Was is the original agreement error with plural otters; placing [sic] immediately after was preserves and identifies it without silently correcting it."
+    },
+    {
+      "id": "HSPT-L10-004",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A notice wraps onto a second line inside ONE sentence; / marks the line break. Which version capitalizes only words that require capitals?",
+      "choices": {
+        "A": "Keep the Lid / closed during transport.",
+        "B": "Keep the lid / Closed during transport.",
+        "C": "Keep the lid / closed during transport.",
+        "D": "Keep the lid / closed during Transport."
+      },
+      "correct": "C",
+      "correctAnswer": "Keep the lid / closed during transport.",
+      "explanation": "A line break within a sentence does not require a capital; these ordinary nouns and the continuing word closed remain lowercase."
+    },
+    {
+      "id": "HSPT-L10-005",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A report capitalizes numbered references such as Table 2, but uses lowercase for ordinary furniture. Which sentence follows that rule?",
+      "choices": {
+        "A": "table 2 gives the dimensions of the Table beside the door.",
+        "B": "Table 2 gives the dimensions of the Table beside the door.",
+        "C": "table 2 gives the dimensions of the table beside the door.",
+        "D": "Table 2 gives the dimensions of the table beside the door."
+      },
+      "correct": "D",
+      "correctAnswer": "Table 2 gives the dimensions of the table beside the door.",
+      "explanation": "The numbered reference uses the specified capital T; the furniture description does not name a numbered report element and stays lowercase."
+    },
+    {
+      "id": "HSPT-L10-006",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled name of the paper-folding art.",
+      "choices": {
+        "A": "oragami",
+        "B": "origami",
+        "C": "origamme",
+        "D": "oragamme"
+      },
+      "correct": "B",
+      "correctAnswer": "origami",
+      "explanation": "Origami begins ori and ends gami; the alternatives change the first internal vowel or incorrectly alter the final syllables."
+    },
+    {
+      "id": "HSPT-L10-007",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a vehicle’s supporting frame?",
+      "choices": {
+        "A": "chasis",
+        "B": "chassiss",
+        "C": "chassus",
+        "D": "chassis"
+      },
+      "correct": "D",
+      "correctAnswer": "chassis",
+      "explanation": "Chassis contains double s in the middle and ends is; the alternatives omit a middle s, add a final s, or change the vowel."
+    },
+    {
+      "id": "HSPT-L10-008",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "The lamps are too bright. Which command uses the object pronoun in the correct position and form?",
+      "choices": {
+        "A": "Turn them off.",
+        "B": "Turn off them.",
+        "C": "Turn they off.",
+        "D": "Turn off they."
+      },
+      "correct": "A",
+      "correctAnswer": "Turn them off.",
+      "explanation": "With a pronoun object, this separable phrasal verb places the pronoun between turn and off; them is the required object form."
+    },
+    {
+      "id": "HSPT-L10-009",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the pair: \"They had the porter ___ the crates and got the driver ___.\"",
+      "choices": {
+        "A": "to carry; wait",
+        "B": "carried; waiting",
+        "C": "carry; to wait",
+        "D": "carrying; waited"
+      },
+      "correct": "C",
+      "correctAnswer": "carry; to wait",
+      "explanation": "Causative had followed by a person takes a bare infinitive; got followed by a person takes a to-infinitive."
+    },
+    {
+      "id": "HSPT-L10-010",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "People now believe that the sculpture was moved last year. Complete the equivalent sentence: \"The sculpture is believed ___ last year.\"",
+      "choices": {
+        "A": "to be moving",
+        "B": "to have moved",
+        "C": "to be moved",
+        "D": "to have been moved"
+      },
+      "correct": "D",
+      "correctAnswer": "to have been moved",
+      "explanation": "The perfect passive infinitive to have been moved places the completed movement before the present belief and keeps the sculpture as the receiver."
+    },
+    {
+      "id": "HSPT-L10-011",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the correct pair: \"___ the passengers ___ delayed.\"",
+      "choices": {
+        "A": "Maybe; may be",
+        "B": "May be; maybe",
+        "C": "Maybe; maybe",
+        "D": "May be; may be"
+      },
+      "correct": "A",
+      "correctAnswer": "Maybe; may be",
+      "explanation": "Maybe is the adverb meaning perhaps; may be is the modal verb phrase needed after the subject passengers."
+    },
+    {
+      "id": "HSPT-L10-012",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that distinguishes FINANCIAL CONDITIONS from INEXPENSIVE OPERATION: \"The ___ report explains trade changes; the ___ heater uses little fuel.\"",
+      "choices": {
+        "A": "economic; economical",
+        "B": "economical; economic",
+        "C": "economic; economic",
+        "D": "economical; economical"
+      },
+      "correct": "A",
+      "correctAnswer": "economic; economical",
+      "explanation": "Economic relates to an economy or financial conditions; economical describes avoiding waste or expense, as the fuel-saving heater does."
+    },
+    {
+      "id": "HSPT-L10-013",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which transition in sentence 6 best introduces the limitation of a date that sorts correctly?",
+      "choices": {
+        "A": "For that reason",
+        "B": "However",
+        "C": "Similarly",
+        "D": "For instance"
+      },
+      "correct": "B",
+      "correctAnswer": "However",
+      "explanation": "However signals the limitation of the earlier benefit: correct sorting does not by itself make a file’s contents recognizable.",
+      "stimulusId": "HSPT-L10-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Useful File Name",
+      "stimulusText": "(1) Shared files are easier to sort when their names follow a consistent pattern. (2) For a team recording weekly shoreline observations, each file name can begin with a date written in year-month-day order. (3) An ordinary alphabetical sort will then group the files by year, month, and day. (4) Months and days should each use two digits, including a leading zero when needed. (5) For example, 2026-03-07 follows this pattern. (6) ___, a name that sorts correctly can still be unhelpful if it gives no clue about the file's contents. (7) Adding a precise subject after the date can solve that problem. (8) A short agreed pattern can help the team both locate and recognize its records."
+    },
+    {
+      "id": "HSPT-L10-014",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which addition to sentence 7 best illustrates its advice without introducing an unrelated naming rule?",
+      "choices": {
+        "A": "Everyone should instead name every file newfile.",
+        "B": "For instance, 2026-03-07-tide-notes identifies both the date and the subject.",
+        "C": "Some shorelines contain more rocks than sand.",
+        "D": "A file name should never contain information about its contents."
+      },
+      "correct": "B",
+      "correctAnswer": "For instance, 2026-03-07-tide-notes identifies both the date and the subject.",
+      "explanation": "The example retains the date pattern and adds tide-notes as a meaningful subject, directly illustrating the proposed improvement.",
+      "stimulusId": "HSPT-L10-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Useful File Name",
+      "stimulusText": "(1) Shared files are easier to sort when their names follow a consistent pattern. (2) For a team recording weekly shoreline observations, each file name can begin with a date written in year-month-day order. (3) An ordinary alphabetical sort will then group the files by year, month, and day. (4) Months and days should each use two digits, including a leading zero when needed. (5) For example, 2026-03-07 follows this pattern. (6) ___, a name that sorts correctly can still be unhelpful if it gives no clue about the file's contents. (7) Adding a precise subject after the date can solve that problem. (8) A short agreed pattern can help the team both locate and recognize its records."
+    },
+    {
+      "id": "HSPT-L10-015",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "The writer wants to add: \"Without consistent digit widths, the names may not sort in the intended order.\" Where would it best explain an existing instruction?",
+      "choices": {
+        "A": "Immediately after sentence 4",
+        "B": "Immediately before sentence 1",
+        "C": "Immediately after sentence 6",
+        "D": "Immediately after sentence 8"
+      },
+      "correct": "A",
+      "correctAnswer": "Immediately after sentence 4",
+      "explanation": "The sentence explains why the two-digit requirement in sentence 4 matters, before sentence 5 illustrates that requirement.",
+      "stimulusId": "HSPT-L10-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Useful File Name",
+      "stimulusText": "(1) Shared files are easier to sort when their names follow a consistent pattern. (2) For a team recording weekly shoreline observations, each file name can begin with a date written in year-month-day order. (3) An ordinary alphabetical sort will then group the files by year, month, and day. (4) Months and days should each use two digits, including a leading zero when needed. (5) For example, 2026-03-07 follows this pattern. (6) ___, a name that sorts correctly can still be unhelpful if it gives no clue about the file's contents. (7) Adding a precise subject after the date can solve that problem. (8) A short agreed pattern can help the team both locate and recognize its records."
+    },
+    {
+      "id": "HSPT-L10-016",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly ends a sentence whose final word is the abbreviation Inc.?",
+      "choices": {
+        "A": "The parts came from Rivet Inc..",
+        "B": "The parts came from Rivet Inc.",
+        "C": "The parts came from Rivet Inc,",
+        "D": "The parts came from Rivet Inc:"
+      },
+      "correct": "B",
+      "correctAnswer": "The parts came from Rivet Inc.",
+      "explanation": "The abbreviation’s period also closes this declarative sentence; a second period is unnecessary, and a comma or colon cannot replace the sentence ending."
+    },
+    {
+      "id": "HSPT-L10-017",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Original: \"The engine is not, despite the optimistic report, ready for testing.\" Which shortened quotation uses an ellipsis while preserving the original claim?",
+      "choices": {
+        "A": "\"The engine is ... ready for testing.\"",
+        "B": "\"The engine ... is ready for testing.\"",
+        "C": "\"The engine is not ... ready for testing.\"",
+        "D": "\"The engine is ready ... not for testing.\""
+      },
+      "correct": "C",
+      "correctAnswer": "\"The engine is not ... ready for testing.\"",
+      "explanation": "The correct omission removes the intervening comment but retains not; the alternatives remove the negation or rearrange words, changing the original claim."
+    },
+    {
+      "id": "HSPT-L10-018",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly writes a letter grade and an ordinary school subject that is not a course title?",
+      "choices": {
+        "A": "She earned an A in algebra.",
+        "B": "She earned an a in algebra.",
+        "C": "She earned an A in Algebra.",
+        "D": "She earned an a in Algebra."
+      },
+      "correct": "A",
+      "correctAnswer": "She earned an A in algebra.",
+      "explanation": "The letter grade is written A; ordinary algebra is not a proper course title or language name and stays lowercase."
+    },
+    {
+      "id": "HSPT-L10-019",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A fable treats the quality patience as a character named Patience. Which sentence correctly distinguishes that character’s NAME from the ordinary quality?",
+      "choices": {
+        "A": "At dusk, patience found me without any patience.",
+        "B": "At dusk, Patience found me without any Patience.",
+        "C": "At dusk, patience found me without any Patience.",
+        "D": "At dusk, Patience found me without any patience."
+      },
+      "correct": "D",
+      "correctAnswer": "At dusk, Patience found me without any patience.",
+      "explanation": "The personified character’s proper name is Patience; the second occurrence names an ordinary quality rather than the character and stays lowercase."
+    },
+    {
+      "id": "HSPT-L10-020",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word for a journey to observe wildlife.",
+      "choices": {
+        "A": "saffari",
+        "B": "safary",
+        "C": "saffary",
+        "D": "safari"
+      },
+      "correct": "D",
+      "correctAnswer": "safari",
+      "explanation": "Safari uses one f and ends in i; the alternatives double the consonant or replace the final vowel with y."
+    },
+    {
+      "id": "HSPT-L10-021",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names nourishment or support needed to continue living?",
+      "choices": {
+        "A": "sustenence",
+        "B": "sustanance",
+        "C": "sustenance",
+        "D": "sustinance"
+      },
+      "correct": "C",
+      "correctAnswer": "sustenance",
+      "explanation": "Sustenance has the sequence susten followed by ance; the alternatives change the internal vowels in this noun for nourishment or support."
+    },
+    {
+      "id": "HSPT-L10-022",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes \"The corridor is lit by ___ tubes\"?",
+      "choices": {
+        "A": "fluorescent",
+        "B": "flourescent",
+        "C": "fluorescant",
+        "D": "fluorecsent"
+      },
+      "correct": "A",
+      "correctAnswer": "fluorescent",
+      "explanation": "Fluorescent begins fluor and ends escent; the alternatives reverse the first vowel sequence, change e to a, or transpose s and c."
+    },
+    {
+      "id": "HSPT-L10-023",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which phrase correctly expands MIGHT’VE in \"I might’ve left the ticket in my coat\"?",
+      "choices": {
+        "A": "might of",
+        "B": "might had",
+        "C": "might have",
+        "D": "might is"
+      },
+      "correct": "C",
+      "correctAnswer": "might have",
+      "explanation": "The contracted ending ’ve represents have; a modal such as might takes the base auxiliary have, not had, of, or is."
+    },
+    {
+      "id": "HSPT-L10-024",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "In \"Running this shop requires patience,\" which word is the MAIN FINITE VERB?",
+      "choices": {
+        "A": "Running",
+        "B": "requires",
+        "C": "shop",
+        "D": "patience"
+      },
+      "correct": "B",
+      "correctAnswer": "requires",
+      "explanation": "Running heads a gerund phrase functioning as the subject; requires is the present-tense main verb that states what the activity demands."
+    },
+    {
+      "id": "HSPT-L10-025",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the formal verb form: \"They covered the lamp lest its glare ___ the watcher.\"",
+      "choices": {
+        "A": "distract",
+        "B": "distracts",
+        "C": "distracted",
+        "D": "to distract"
+      },
+      "correct": "A",
+      "correctAnswer": "distract",
+      "explanation": "Lest introduces a feared consequence and can take the subjunctive base form; distract remains uninflected even though glare is singular."
+    },
+    {
+      "id": "HSPT-L10-026",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair: \"They must ___ water from the skiff before loading the ___ of hay.\"",
+      "choices": {
+        "A": "bale; bail",
+        "B": "bail; bale",
+        "C": "bail; bail",
+        "D": "bale; bale"
+      },
+      "correct": "B",
+      "correctAnswer": "bail; bale",
+      "explanation": "Bail means remove water from a boat; bale names a tightly bound bundle, such as a bundle of hay."
+    },
+    {
+      "id": "HSPT-L10-027",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair: \"The jeweler measured the diamond in ___; the editor drew a ___ to show where a word should be inserted.\"",
+      "choices": {
+        "A": "carets; carat",
+        "B": "carats; carat",
+        "C": "carets; caret",
+        "D": "carats; caret"
+      },
+      "correct": "D",
+      "correctAnswer": "carats; caret",
+      "explanation": "Carats measure gemstone mass, whereas a caret is an editing mark showing an insertion point; the contexts require those separate terms."
+    },
+    {
+      "id": "HSPT-L10-028",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "To follow sentence 1’s stated plan, which move would most improve the paragraph’s development?",
+      "choices": {
+        "A": "Move sentence 2 to follow sentence 8.",
+        "B": "Move sentence 3 to follow sentence 6.",
+        "C": "Move sentence 4 before sentence 1.",
+        "D": "Move sentence 8 between sentences 2 and 3."
+      },
+      "correct": "B",
+      "correctAnswer": "Move sentence 3 to follow sentence 6.",
+      "explanation": "Sentence 3 introduces a small surface detail before the overall arrangement is established; moving it later follows the promised general-to-detailed development.",
+      "stimulusId": "HSPT-L10-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Describing a Sculpture Aloud",
+      "stimulusText": "(1) A clear audio description should help listeners build a stable picture before adding fine details. (2) Consider a sculpture consisting of a pale sphere resting on a dark cube, with a narrow polished metal band circling the sphere. (3) A rough patch on the cube's back edge is visible only from behind. (4) The overall arrangement places the rounded form directly above the block. (5) The band tilts toward the cube's front corner. (6) It catches the light sharply, unlike the sphere's dull surface. (7) The description should also state which side is being treated as the front, so that later directions remain consistent. (8) Small features become easier to locate once the listener understands the arrangement."
+    },
+    {
+      "id": "HSPT-L10-029",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which replacement for IT in sentence 6 most clearly identifies the intended shiny element?",
+      "choices": {
+        "A": "The metal band",
+        "B": "The sculpture",
+        "C": "The dark cube",
+        "D": "The pale sphere"
+      },
+      "correct": "A",
+      "correctAnswer": "The metal band",
+      "explanation": "Sentence 6 contrasts the shiny element with the sphere’s dull surface; naming the metal band makes that reference precise rather than leaving an ambiguous pronoun.",
+      "stimulusId": "HSPT-L10-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Describing a Sculpture Aloud",
+      "stimulusText": "(1) A clear audio description should help listeners build a stable picture before adding fine details. (2) Consider a sculpture consisting of a pale sphere resting on a dark cube, with a narrow polished metal band circling the sphere. (3) A rough patch on the cube's back edge is visible only from behind. (4) The overall arrangement places the rounded form directly above the block. (5) The band tilts toward the cube's front corner. (6) It catches the light sharply, unlike the sphere's dull surface. (7) The description should also state which side is being treated as the front, so that later directions remain consistent. (8) Small features become easier to locate once the listener understands the arrangement."
+    },
+    {
+      "id": "HSPT-L10-030",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revised final sentence best connects the paragraph’s advice to its purpose?",
+      "choices": {
+        "A": "A sculpture’s price is always more useful than its shape.",
+        "B": "Only people looking directly at the sculpture can understand any description.",
+        "C": "Every surface detail should be listed before the sculpture’s main parts.",
+        "D": "A consistent viewpoint and an overall arrangement give listeners a framework for locating smaller features."
+      },
+      "correct": "D",
+      "correctAnswer": "A consistent viewpoint and an overall arrangement give listeners a framework for locating smaller features.",
+      "explanation": "The revision brings together the shared viewpoint and broad arrangement, explaining how both help listeners place the smaller details.",
+      "stimulusId": "HSPT-L10-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Describing a Sculpture Aloud",
+      "stimulusText": "(1) A clear audio description should help listeners build a stable picture before adding fine details. (2) Consider a sculpture consisting of a pale sphere resting on a dark cube, with a narrow polished metal band circling the sphere. (3) A rough patch on the cube's back edge is visible only from behind. (4) The overall arrangement places the rounded form directly above the block. (5) The band tilts toward the cube's front corner. (6) It catches the light sharply, unlike the sphere's dull surface. (7) The description should also state which side is being treated as the front, so that later directions remain consistent. (8) Small features become easier to locate once the listener understands the arrangement."
+    },
+    {
+      "id": "HSPT-L10-031",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly ends a NEUTRAL POLITE COMMAND that contains an embedded question?",
+      "choices": {
+        "A": "Please tell me where the entrance is?",
+        "B": "Please tell me where the entrance is.",
+        "C": "Please tell me where the entrance is;",
+        "D": "Please tell me where the entrance is:"
+      },
+      "correct": "B",
+      "correctAnswer": "Please tell me where the entrance is.",
+      "explanation": "Please tell me makes the main clause a command; the embedded where clause does not turn the whole sentence into a direct question."
+    },
+    {
+      "id": "HSPT-L10-032",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly places the comma between the paired comparative clauses?",
+      "choices": {
+        "A": "The faster, the wheel turned the louder the hum became.",
+        "B": "The faster the wheel, turned the louder the hum became.",
+        "C": "The faster the wheel turned, the louder the hum became.",
+        "D": "The faster the wheel turned the louder, the hum became."
+      },
+      "correct": "C",
+      "correctAnswer": "The faster the wheel turned, the louder the hum became.",
+      "explanation": "The comma separates the two linked comparative clauses after turned; the alternatives interrupt a clause instead of marking the boundary between them."
+    },
+    {
+      "id": "HSPT-L10-033",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "A complete parenthetical sentence follows another complete sentence. Which version correctly places both sentence-ending periods and capitals?",
+      "choices": {
+        "A": "The exhibit is closed. (It reopens on Monday).",
+        "B": "The exhibit is closed (It reopens on Monday.)",
+        "C": "The exhibit is closed. (it reopens on Monday.)",
+        "D": "The exhibit is closed. (It reopens on Monday.)"
+      },
+      "correct": "D",
+      "correctAnswer": "The exhibit is closed. (It reopens on Monday.)",
+      "explanation": "A separate parenthetical sentence starts with a capital and keeps its own period inside the closing parenthesis; the preceding sentence also ends independently."
+    },
+    {
+      "id": "HSPT-L10-034",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which version uses conventional capitalization for the formal letter closing YOURS TRULY?",
+      "choices": {
+        "A": "Yours truly,",
+        "B": "Yours Truly,",
+        "C": "yours Truly,",
+        "D": "yours truly,"
+      },
+      "correct": "A",
+      "correctAnswer": "Yours truly,",
+      "explanation": "In this conventional closing, the first word is capitalized and truly is lowercase; the closing is not written in title case."
+    },
+    {
+      "id": "HSPT-L10-035",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A house style capitalizes a COMPLETE sentence after a colon but not a following noun phrase. Which version follows both requirements?",
+      "choices": {
+        "A": "Only one thing mattered: the door must stay shut. They needed one thing: a key.",
+        "B": "Only one thing mattered: The door must stay shut. They needed one thing: A key.",
+        "C": "Only one thing mattered: the door must stay shut. They needed one thing: A key.",
+        "D": "Only one thing mattered: The door must stay shut. They needed one thing: a key."
+      },
+      "correct": "D",
+      "correctAnswer": "Only one thing mattered: The door must stay shut. They needed one thing: a key.",
+      "explanation": "The door must stay shut is a complete sentence, while a key is a noun phrase; the stated style treats their initial letters differently."
+    },
+    {
+      "id": "HSPT-L10-036",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word for a framework that supports climbing plants.",
+      "choices": {
+        "A": "trelis",
+        "B": "trellis",
+        "C": "trelliss",
+        "D": "trallis"
+      },
+      "correct": "B",
+      "correctAnswer": "trellis",
+      "explanation": "Trellis has double l, a single final s, and the vowel sequence e then i; the alternatives alter one of those features."
+    },
+    {
+      "id": "HSPT-L10-037",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a system of signaling with positions of flags or arms?",
+      "choices": {
+        "A": "semafore",
+        "B": "semiphore",
+        "C": "semaphore",
+        "D": "semapohre"
+      },
+      "correct": "C",
+      "correctAnswer": "semaphore",
+      "explanation": "Semaphore contains ph, begins sema, and ends phore; the alternatives replace ph, change a to i, or transpose o and h."
+    },
+    {
+      "id": "HSPT-L10-038",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the standard possessive form: \"That illustrator is a friend of ___.\"",
+      "choices": {
+        "A": "my",
+        "B": "me",
+        "C": "mine’s",
+        "D": "mine"
+      },
+      "correct": "D",
+      "correctAnswer": "mine",
+      "explanation": "The construction a friend of mine uses the independent possessive pronoun mine; my requires a following noun, and mine takes no apostrophe."
+    },
+    {
+      "id": "HSPT-L10-039",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence means that the printer CEASED its printing activity?",
+      "choices": {
+        "A": "The printer stopped to print.",
+        "B": "The printer stopped printing.",
+        "C": "The printer was about to start printing.",
+        "D": "The printer did not stop printing."
+      },
+      "correct": "B",
+      "correctAnswer": "The printer stopped printing.",
+      "explanation": "Stopped printing ends the printing activity; stopped to print instead describes pausing another activity in order to begin printing."
+    },
+    {
+      "id": "HSPT-L10-040",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which revision correctly uses SUCH while preserving \"The box was so heavy that it took two people to lift it\"?",
+      "choices": {
+        "A": "It was a such heavy box that it took two people to lift it.",
+        "B": "It was such heavy a box that it took two people to lift it.",
+        "C": "It was such a heavy box that it took two people to lift it.",
+        "D": "It was a heavy such box that it took two people to lift it."
+      },
+      "correct": "C",
+      "correctAnswer": "It was such a heavy box that it took two people to lift it.",
+      "explanation": "Before a singular count noun, this construction orders such + a + adjective + noun, giving such a heavy box."
+    },
+    {
+      "id": "HSPT-L10-041",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair: \"Light passed through the ___ curtain; tomorrow the farmers would ___ the sheep.\"",
+      "choices": {
+        "A": "sheer; shear",
+        "B": "shear; sheer",
+        "C": "sheer; sheer",
+        "D": "shear; shear"
+      },
+      "correct": "A",
+      "correctAnswer": "sheer; shear",
+      "explanation": "Sheer describes thin, partly transparent fabric; shear means cut the fleece from sheep, so the contexts require different homophones."
+    },
+    {
+      "id": "HSPT-L10-042",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair: \"She will ___ the delicate subject while wearing a silver ___.\"",
+      "choices": {
+        "A": "brooch; broach",
+        "B": "broach; broach",
+        "C": "broach; brooch",
+        "D": "brooch; brooch"
+      },
+      "correct": "C",
+      "correctAnswer": "broach; brooch",
+      "explanation": "Broach means introduce a topic for discussion; brooch names an ornamental pin worn on clothing, such as the silver accessory."
+    },
+    {
+      "id": "HSPT-L10-043",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the words meaning PURSUE A COURT CASE first and HARASS UNFAIRLY second: \"The lawyer will ___ the case; the tyrant continues to ___ people for their beliefs.\"",
+      "choices": {
+        "A": "prosecute; persecute",
+        "B": "persecute; prosecute",
+        "C": "prosecute; prosecute",
+        "D": "persecute; persecute"
+      },
+      "correct": "A",
+      "correctAnswer": "prosecute; persecute",
+      "explanation": "Prosecute means pursue legal proceedings; persecute means subject someone to persistent unfair treatment, particularly because of identity or beliefs."
+    },
+    {
+      "id": "HSPT-L10-044",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which title best expresses the paragraph’s focus on the relationship between editing and audience expectations?",
+      "choices": {
+        "A": "An Arrival the Audience Imagines",
+        "B": "How to Bake a Loaf",
+        "C": "The Bicycle’s Mechanical Parts",
+        "D": "Why Every Film Must End with a Letter"
+      },
+      "correct": "A",
+      "correctAnswer": "An Arrival the Audience Imagines",
+      "explanation": "The title highlights the inferred destination created by alternating shots, rather than treating incidental bread, bicycle parts, or the letter as the central subject.",
+      "stimulusId": "HSPT-L10-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Connection Made by Editing",
+      "stimulusText": "(1) The order of film shots can encourage an expectation without explicitly stating it. (2) A short scene shows a baker drawing bread from an oven, followed by a cyclist hurrying around a corner. (3) More shots alternate between the cooling loaves and the approaching bicycle. (4) Viewers may assume the cyclist is rushing to collect the bread. (5) No shot has actually identified the cyclist's destination. (6) The final shot shows the cyclist delivering a letter on an entirely different street. (7) That ending overturns the expectation created by the earlier editing. (8) The scene demonstrates how viewers connect adjacent images, even when the film has not yet established that the actions belong to the same event."
+    },
+    {
+      "id": "HSPT-L10-045",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision best combines sentences 6 and 7 while making their cause-and-effect connection clear?",
+      "choices": {
+        "A": "The final shot shows the cyclist delivering a letter on an entirely different street because the audience’s earlier expectation was correct.",
+        "B": "The final shot shows the cyclist delivering a letter on an entirely different street, thereby overturning the expectation created by the earlier editing.",
+        "C": "The earlier editing overturns the final shot by showing that the cyclist collects bread from the baker.",
+        "D": "The final shot shows a cyclist, and films sometimes end on different streets."
+      },
+      "correct": "B",
+      "correctAnswer": "The final shot shows the cyclist delivering a letter on an entirely different street, thereby overturning the expectation created by the earlier editing.",
+      "explanation": "Thereby explicitly links the different destination to the collapse of the earlier expectation, retaining both the event and its effect.",
+      "stimulusId": "HSPT-L10-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Connection Made by Editing",
+      "stimulusText": "(1) The order of film shots can encourage an expectation without explicitly stating it. (2) A short scene shows a baker drawing bread from an oven, followed by a cyclist hurrying around a corner. (3) More shots alternate between the cooling loaves and the approaching bicycle. (4) Viewers may assume the cyclist is rushing to collect the bread. (5) No shot has actually identified the cyclist's destination. (6) The final shot shows the cyclist delivering a letter on an entirely different street. (7) That ending overturns the expectation created by the earlier editing. (8) The scene demonstrates how viewers connect adjacent images, even when the film has not yet established that the actions belong to the same event."
+    },
+    {
+      "id": "HSPT-L10-046",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version uses the standard end mark for an ENTHUSIASTIC EXCLAMATION?",
+      "choices": {
+        "A": "How bright the lantern is?",
+        "B": "How bright the lantern is;",
+        "C": "How bright the lantern is:",
+        "D": "How bright the lantern is!"
+      },
+      "correct": "D",
+      "correctAnswer": "How bright the lantern is!",
+      "explanation": "The how construction expresses an enthusiastic exclamation, so an exclamation point supplies the appropriate ending rather than a question mark, semicolon, or colon."
+    },
+    {
+      "id": "HSPT-L10-047",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version avoids incorrectly separating the whole SUBJECT from its main verb?",
+      "choices": {
+        "A": "What the instrument measures is pressure.",
+        "B": "What the instrument measures, is pressure.",
+        "C": "What the instrument measures; is pressure.",
+        "D": "What, the instrument measures is pressure."
+      },
+      "correct": "A",
+      "correctAnswer": "What the instrument measures is pressure.",
+      "explanation": "What the instrument measures is the full subject of is; punctuation must not split that subject from its main verb or interrupt the subject clause."
+    },
+    {
+      "id": "HSPT-L10-048",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "ONE spoken sentence is interrupted by a speech tag. Which version preserves correct capitalization?",
+      "choices": {
+        "A": "\"the bridge,\" Alban said, \"will open at noon.\"",
+        "B": "\"The bridge,\" Alban said, \"will open at noon.\"",
+        "C": "\"The bridge,\" Alban said, \"Will open at noon.\"",
+        "D": "\"the bridge,\" Alban said, \"Will open at noon.\""
+      },
+      "correct": "B",
+      "correctAnswer": "\"The bridge,\" Alban said, \"will open at noon.\"",
+      "explanation": "The starts the spoken sentence; will continues that same sentence after the inserted speech tag, so it does not receive a new initial capital."
+    },
+    {
+      "id": "HSPT-L10-049",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A publisher keeps the acronym DIY uppercase, lowercases internal TO, and capitalizes BOTH parts of major hyphenated compounds. Which title follows all three requirements?",
+      "choices": {
+        "A": "A Diy Guide to Heat-Resistant Coatings",
+        "B": "A DIY Guide To Heat-Resistant Coatings",
+        "C": "A DIY Guide to Heat-Resistant Coatings",
+        "D": "A DIY Guide to Heat-resistant Coatings"
+      },
+      "correct": "C",
+      "correctAnswer": "A DIY Guide to Heat-Resistant Coatings",
+      "explanation": "DIY retains its acronym capitals, internal to stays lowercase, and Heat-Resistant capitalizes both parts under the stated compound-title rule."
+    },
+    {
+      "id": "HSPT-L10-050",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a rope used as a lasso?",
+      "choices": {
+        "A": "lariat",
+        "B": "lairat",
+        "C": "larriat",
+        "D": "lariatt"
+      },
+      "correct": "A",
+      "correctAnswer": "lariat",
+      "explanation": "Lariat has one r, one final t, and the internal sequence ria; the alternatives transpose letters or unnecessarily double a consonant."
+    },
+    {
+      "id": "HSPT-L10-051",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word for a fine writing material traditionally prepared from animal skin.",
+      "choices": {
+        "A": "velumm",
+        "B": "vellom",
+        "C": "vellum",
+        "D": "vellem"
+      },
+      "correct": "C",
+      "correctAnswer": "vellum",
+      "explanation": "Vellum uses double l and the vowel u before one final m; the alternatives move the doubling or replace that vowel."
+    },
+    {
+      "id": "HSPT-L10-052",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names time available for rest or recreation?",
+      "choices": {
+        "A": "liesure",
+        "B": "leisure",
+        "C": "leizure",
+        "D": "leisuer"
+      },
+      "correct": "B",
+      "correctAnswer": "leisure",
+      "explanation": "Leisure begins lei and ends sure; the alternatives reverse e and i, substitute z for s, or reverse the ending letters."
+    },
+    {
+      "id": "HSPT-L10-053",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Replace THE CHILD with a pronoun while preserving LOOK AFTER, meaning care for. Which sentence is standard?",
+      "choices": {
+        "A": "The volunteer will look him after.",
+        "B": "The volunteer will look after he.",
+        "C": "The volunteer will look he after.",
+        "D": "The volunteer will look after him."
+      },
+      "correct": "D",
+      "correctAnswer": "The volunteer will look after him.",
+      "explanation": "Look after keeps its preposition before the object; him is the object form, so neither moving after nor using he is correct."
+    },
+    {
+      "id": "HSPT-L10-054",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence places ALMOST so it limits HOW MANY visitors signed, rather than how near they came to signing?",
+      "choices": {
+        "A": "All visitors almost signed the book.",
+        "B": "Almost all visitors signed the book.",
+        "C": "All visitors signed almost the book.",
+        "D": "All visitors signed the book almost."
+      },
+      "correct": "B",
+      "correctAnswer": "Almost all visitors signed the book.",
+      "explanation": "Almost before all visitors limits the size of the signing group; placing it with signed instead limits completion of the action."
+    },
+    {
+      "id": "HSPT-L10-055",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the standard American English completion: \"Beneath the rafter ___ a row of small lamps.\"",
+      "choices": {
+        "A": "hang",
+        "B": "are hanging",
+        "C": "hangs",
+        "D": "have hung"
+      },
+      "correct": "C",
+      "correctAnswer": "hangs",
+      "explanation": "The postposed subject is the singular phrase a row, not plural lamps; the inverted word order therefore requires the singular verb hangs."
+    },
+    {
+      "id": "HSPT-L10-056",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the words meaning GOVERNMENT REPRESENTATIVE ABROAD first and COMFORT second: \"The ___ offered to ___ the distressed traveler.\"",
+      "choices": {
+        "A": "console; consul",
+        "B": "consul; consul",
+        "C": "console; console",
+        "D": "consul; console"
+      },
+      "correct": "D",
+      "correctAnswer": "consul; console",
+      "explanation": "Consul names an official representing a country abroad; console means comfort someone in distress, so the person and the action require different words."
+    },
+    {
+      "id": "HSPT-L10-057",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the word for a BEAR first and the word meaning HORRIFYING second: \"The photographer described a ___ bear, while the storyteller told a ___ tale.\"",
+      "choices": {
+        "A": "grisly; grizzly",
+        "B": "grizzly; grizzly",
+        "C": "grizzly; grisly",
+        "D": "grisly; grisly"
+      },
+      "correct": "C",
+      "correctAnswer": "grizzly; grisly",
+      "explanation": "Grizzly names the kind of bear, while grisly describes something horrifying; their similar sounds do not make the spellings interchangeable."
+    },
+    {
+      "id": "HSPT-L10-058",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair: \"The treasurer will ___ the funds, and the crowd will ___ after the concert.\"",
+      "choices": {
+        "A": "disburse; disperse",
+        "B": "disperse; disburse",
+        "C": "disburse; disburse",
+        "D": "disperse; disperse"
+      },
+      "correct": "A",
+      "correctAnswer": "disburse; disperse",
+      "explanation": "Disburse means pay out money, whereas disperse means scatter or spread apart; funds and a departing crowd call for those distinct verbs."
+    },
+    {
+      "id": "HSPT-L10-059",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which added detail would most directly support sentence 6?",
+      "choices": {
+        "A": "During one design discussion, the doorway may need to be moved to several alternative positions.",
+        "B": "The final display label will be printed in dark blue.",
+        "C": "A permanent connection is useful because it can never be adjusted.",
+        "D": "The architect has decided that no layout changes will be considered."
+      },
+      "correct": "A",
+      "correctAnswer": "During one design discussion, the doorway may need to be moved to several alternative positions.",
+      "explanation": "Repeated doorway moves illustrate the need to undo and revise connections, directly supporting the value of reversibility during the working stage.",
+      "stimulusId": "HSPT-L10-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Connections for a Working Model",
+      "stimulusText": "(1) The best connection for a model depends on what the model must do at its present stage. (2) An architect comparing several layouts needs to move small model walls and doorways repeatedly. (3) Permanent glue can keep the pieces firm, but removing them may damage parts that are still useful. (4) Removable clips can hold the pieces while allowing them to be repositioned. (5) The clips may show in photographs, yet that drawback may matter less during discussion than the ability to revise a layout. (6) Frequent changes make reversibility especially valuable. (7) ___, hidden attachments may be better for the display version. (8) The choice should follow the model's current purpose rather than a rule that one fastening method is always best."
+    },
+    {
+      "id": "HSPT-L10-060",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which clause best begins sentence 7 by marking the stage change that justifies a different fastening choice?",
+      "choices": {
+        "A": "Before any alternatives have been compared",
+        "B": "Because clips make revision impossible",
+        "C": "Even though display models are never shown",
+        "D": "Once the layout is settled"
+      },
+      "correct": "D",
+      "correctAnswer": "Once the layout is settled",
+      "explanation": "Once the layout is settled marks the shift from revisable working model to display version, when concealed attachments can become a higher priority.",
+      "stimulusId": "HSPT-L10-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Connections for a Working Model",
+      "stimulusText": "(1) The best connection for a model depends on what the model must do at its present stage. (2) An architect comparing several layouts needs to move small model walls and doorways repeatedly. (3) Permanent glue can keep the pieces firm, but removing them may damage parts that are still useful. (4) Removable clips can hold the pieces while allowing them to be repositioned. (5) The clips may show in photographs, yet that drawback may matter less during discussion than the ability to revise a layout. (6) Frequent changes make reversibility especially valuable. (7) ___, hidden attachments may be better for the display version. (8) The choice should follow the model's current purpose rather than a rule that one fastening method is always best."
+    }
+  ]
+}

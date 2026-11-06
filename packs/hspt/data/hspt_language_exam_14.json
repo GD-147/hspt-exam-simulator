@@ -1,0 +1,1069 @@
+{
+  "title": "HSPT Language Practice Test 14",
+  "examFamily": "hspt",
+  "examNumber": 14,
+  "section": "Language",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-L14-001",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "A style guide requires an apostrophe when forming the plural of a single lowercase letter. Which sentence follows that rule?",
+      "choices": {
+        "A": "The word committee contains two t's.",
+        "B": "The word committee contains two ts.",
+        "C": "The word committee contains two t's'.",
+        "D": "The word committee contains two ts'."
+      },
+      "correct": "A",
+      "correctAnswer": "The word committee contains two t's.",
+      "explanation": "Under the stated style rule, the plural of the single lowercase letter t is t's; the apostrophe prevents confusion with an ordinary word."
+    },
+    {
+      "id": "HSPT-L14-002",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "One speaker's uninterrupted quotation runs for two paragraphs. Under the standard convention for such quotations, where do quotation marks go?",
+      "choices": {
+        "A": "Opening and closing marks surround each paragraph separately.",
+        "B": "One opening mark begins the first paragraph; no mark begins the second; one closing mark ends it.",
+        "C": "An opening mark begins only the second paragraph; closing marks end both paragraphs.",
+        "D": "An opening mark begins each paragraph; a closing mark appears only at the end of the second."
+      },
+      "correct": "D",
+      "correctAnswer": "An opening mark begins each paragraph; a closing mark appears only at the end of the second.",
+      "explanation": "Opening marks at both paragraph beginnings identify continuing quoted speech; withholding the first paragraph's closing mark signals that the same quotation continues."
+    },
+    {
+      "id": "HSPT-L14-003",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly uses a matched pair of dashes to enclose an interruption?",
+      "choices": {
+        "A": "The sled—even without a rider, slid down the slope.",
+        "B": "The sled, even without a rider—slid down the slope.",
+        "C": "The sled—even without a rider—slid down the slope.",
+        "D": "The sled—even without a rider slid down the slope."
+      },
+      "correct": "C",
+      "correctAnswer": "The sled—even without a rider—slid down the slope.",
+      "explanation": "A pair of dashes marks both boundaries of the interruption; mixing a dash with a comma or omitting its partner breaks the requested enclosure."
+    },
+    {
+      "id": "HSPT-L14-004",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Amira spells her full name Amira de la Vega. Which version preserves that name's capitalization within a sentence?",
+      "choices": {
+        "A": "We sent the invitation to Amira De La Vega.",
+        "B": "We sent the invitation to amira de la Vega.",
+        "C": "We sent the invitation to Amira de la vega.",
+        "D": "We sent the invitation to Amira de la Vega."
+      },
+      "correct": "D",
+      "correctAnswer": "We sent the invitation to Amira de la Vega.",
+      "explanation": "The given personal name retains capital A and V with lowercase de la; being part of a name does not capitalize every connecting word."
+    },
+    {
+      "id": "HSPT-L14-005",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which version uses the conventional capitalization of a formal letter's general salutation?",
+      "choices": {
+        "A": "To whom it may concern:",
+        "B": "To Whom It May Concern:",
+        "C": "To Whom it May Concern:",
+        "D": "to Whom It May Concern:"
+      },
+      "correct": "B",
+      "correctAnswer": "To Whom It May Concern:",
+      "explanation": "The conventional general salutation capitalizes each word in To Whom It May Concern, including the short function words It and May."
+    },
+    {
+      "id": "HSPT-L14-006",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nThe pilot began a careful ____ around the storm.",
+      "choices": {
+        "A": "manuever",
+        "B": "maneuvar",
+        "C": "maneuver",
+        "D": "manuver"
+      },
+      "correct": "C",
+      "correctAnswer": "maneuver",
+      "explanation": "Maneuver is the standard US spelling, retaining the vowel sequence eu after man and ending in ver; the alternatives transpose, substitute, or omit vowels."
+    },
+    {
+      "id": "HSPT-L14-007",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word meaning an object kept as a reminder of a place or experience.",
+      "choices": {
+        "A": "souvenier",
+        "B": "suvenir",
+        "C": "souvenir",
+        "D": "souvineer"
+      },
+      "correct": "C",
+      "correctAnswer": "souvenir",
+      "explanation": "Souvenir begins with sou and ends with venir; the alternatives remove the initial o or add and rearrange letters in the ending."
+    },
+    {
+      "id": "HSPT-L14-008",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence by referring to the entire event in the first clause?\nThe lock froze, ____ delayed the departure.",
+      "choices": {
+        "A": "whom",
+        "B": "what",
+        "C": "which",
+        "D": "that"
+      },
+      "correct": "C",
+      "correctAnswer": "which",
+      "explanation": "Which can refer to the preceding event as a whole; the lock's freezing caused the delay, rather than supplying a person as an object or introducing a restrictive clause."
+    },
+    {
+      "id": "HSPT-L14-009",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence correctly expresses two linked comparative changes?",
+      "choices": {
+        "A": "The more tightly the cord is twisted, the less easily it bends.",
+        "B": "The more tightly the cord is twisted, the least easily it bends.",
+        "C": "The most tightly the cord is twisted, the less easily it bends.",
+        "D": "The more tightly the cord is twisted, the less easier it bends."
+      },
+      "correct": "A",
+      "correctAnswer": "The more tightly the cord is twisted, the less easily it bends.",
+      "explanation": "The linked construction uses the more ... the less with comparative forms; a superlative or a double comparative breaks that grammatical pattern."
+    },
+    {
+      "id": "HSPT-L14-010",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "The speaker cannot swim now. Which sentence correctly expresses a wish contrary to that present fact?",
+      "choices": {
+        "A": "I wish I could swim.",
+        "B": "I wish I can swim.",
+        "C": "I wish I will can swim.",
+        "D": "I wish I am able swim."
+      },
+      "correct": "A",
+      "correctAnswer": "I wish I could swim.",
+      "explanation": "Could after wish expresses an unreal present ability; can treats the ability as actual, while the other phrases have incorrect verb forms."
+    },
+    {
+      "id": "HSPT-L14-011",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word correctly completes the sentence?\nUnexpected questions did not ____ the experienced presenter.",
+      "choices": {
+        "A": "phase",
+        "B": "phrase",
+        "C": "frame",
+        "D": "faze"
+      },
+      "correct": "D",
+      "correctAnswer": "faze",
+      "explanation": "Faze means disturb or unsettle; phase refers to a stage or a planned sequence and does not express the presenter's composure."
+    },
+    {
+      "id": "HSPT-L14-012",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nThe report seemed ____ because its claims had strong evidence; a ____ reader might have believed it without any evidence.",
+      "choices": {
+        "A": "credulous; credible",
+        "B": "credible; credulous",
+        "C": "credible; credible",
+        "D": "credulous; credulous"
+      },
+      "correct": "B",
+      "correctAnswer": "credible; credulous",
+      "explanation": "Credible describes something worthy of belief; credulous describes someone too ready to believe, so the evidence-based report and uncritical reader require different adjectives."
+    },
+    {
+      "id": "HSPT-L14-013",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which formatting change would make sentences 2–4 easiest to consult as a reference while preserving their meaning?",
+      "choices": {
+        "A": "Place the three code entries on separate lines, each followed by its condition.",
+        "B": "Merge the code entries into one unlabeled string of letters and digits.",
+        "C": "Remove the conditions and show only the three symbols in a row.",
+        "D": "List the samples by color and omit the instructions for recording them."
+      },
+      "correct": "A",
+      "correctAnswer": "Place the three code entries on separate lines, each followed by its condition.",
+      "explanation": "Separate code-and-condition lines let a reader locate the required entry quickly while retaining the distinctions needed to use each symbol correctly.",
+      "stimulusId": "HSPT-L14-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Three Entries for Three Situations",
+      "stimulusText": "(1) A cable-testing team uses three different entries in its stretch records. (2) Write 0 only when a completed measurement shows no extension. (3) Write NR when a stretch reading was required but was not recorded. (4) Write NA when that sample was not assigned a stretch test, as with a sample selected only for a color inspection. (5) These entries do not mean the same thing: zero is an observed result, NR marks missing information, and NA marks a test that did not apply. (6) Leaving all three situations blank would hide those differences. (7) A numerical average should treat every NR entry as an observed zero."
+    },
+    {
+      "id": "HSPT-L14-014",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which proposed example would best clarify the distinction between NR and NA after sentence 4?",
+      "choices": {
+        "A": "A scheduled test with a lost reading receives NA; every color-inspection sample receives NR.",
+        "B": "A scheduled test with a lost reading receives NR; a sample assigned only a color inspection receives NA.",
+        "C": "A completed measurement showing no extension receives NR; a missing required reading receives 0.",
+        "D": "A missing required reading and an unassigned test both receive 0 because neither provides a number."
+      },
+      "correct": "B",
+      "correctAnswer": "A scheduled test with a lost reading receives NR; a sample assigned only a color inspection receives NA.",
+      "explanation": "NR identifies an absent required reading, while NA identifies a test outside the sample's assignment; the correct example preserves both categories.",
+      "stimulusId": "HSPT-L14-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Three Entries for Three Situations",
+      "stimulusText": "(1) A cable-testing team uses three different entries in its stretch records. (2) Write 0 only when a completed measurement shows no extension. (3) Write NR when a stretch reading was required but was not recorded. (4) Write NA when that sample was not assigned a stretch test, as with a sample selected only for a color inspection. (5) These entries do not mean the same thing: zero is an observed result, NR marks missing information, and NA marks a test that did not apply. (6) Leaving all three situations blank would hide those differences. (7) A numerical average should treat every NR entry as an observed zero."
+    },
+    {
+      "id": "HSPT-L14-015",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which replacement for sentence 7 resolves its conflict with the recording rules and clearly tells a reader how to calculate an average?",
+      "choices": {
+        "A": "Average every entry as zero, including all samples for which no stretch test was assigned.",
+        "B": "Convert every NR entry to NA before averaging, since both are simply missing digits.",
+        "C": "Discard all observed zeros and average only positive readings, because zero means no measurement occurred.",
+        "D": "Average only the recorded numerical readings; report required but unrecorded readings separately as NR."
+      },
+      "correct": "D",
+      "correctAnswer": "Average only the recorded numerical readings; report required but unrecorded readings separately as NR.",
+      "explanation": "Only actual numerical readings belong in the numerical average; separately reporting NR preserves missing required measurements without inventing zero results or relabeling them as inapplicable.",
+      "stimulusId": "HSPT-L14-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Three Entries for Three Situations",
+      "stimulusText": "(1) A cable-testing team uses three different entries in its stretch records. (2) Write 0 only when a completed measurement shows no extension. (3) Write NR when a stretch reading was required but was not recorded. (4) Write NA when that sample was not assigned a stretch test, as with a sample selected only for a color inspection. (5) These entries do not mean the same thing: zero is an observed result, NR marks missing information, and NA marks a test that did not apply. (6) Leaving all three situations blank would hide those differences. (7) A numerical average should treat every NR entry as an observed zero."
+    },
+    {
+      "id": "HSPT-L14-016",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly places a colon between the speaker label and the spoken words in a script?",
+      "choices": {
+        "A": "GUIDE The: tram has stopped.",
+        "B": "GUID:E The tram has stopped.",
+        "C": "GUIDE: The tram has stopped.",
+        "D": "GUIDE The tram has: stopped."
+      },
+      "correct": "C",
+      "correctAnswer": "GUIDE: The tram has stopped.",
+      "explanation": "The colon separates the complete speaker label from the speech that follows; it does not divide the label or words within the speech."
+    },
+    {
+      "id": "HSPT-L14-017",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly places a comma to set off the contrasting phrase \"not green\"?",
+      "choices": {
+        "A": "The awning was blue, not green.",
+        "B": "The awning, was blue not green.",
+        "C": "The awning was, blue not green.",
+        "D": "The awning was blue not, green."
+      },
+      "correct": "A",
+      "correctAnswer": "The awning was blue, not green.",
+      "explanation": "The contrasting phrase begins with not, so the comma belongs immediately before that phrase, without separating the subject from its verb or complement."
+    },
+    {
+      "id": "HSPT-L14-018",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A technical sheet writes the unit name volt in lowercase and its symbol V in uppercase. Which version follows both conventions?",
+      "choices": {
+        "A": "The reading was 6 Volts, written 6 V.",
+        "B": "The reading was 6 volts, written 6 v.",
+        "C": "The reading was 6 Volts, written 6 v.",
+        "D": "The reading was 6 volts, written 6 V."
+      },
+      "correct": "D",
+      "correctAnswer": "The reading was 6 volts, written 6 V.",
+      "explanation": "The written unit name stays lowercase while its case-sensitive symbol is uppercase; the correct version maintains that distinction in both forms."
+    },
+    {
+      "id": "HSPT-L14-019",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "In a fable, Chance is a character's name. Which sentence correctly distinguishes that name from the common noun chance?",
+      "choices": {
+        "A": "The crowd listened as Chance asked for a Chance to speak.",
+        "B": "The crowd listened as Chance asked for a chance to speak.",
+        "C": "The crowd listened as chance asked for a chance to speak.",
+        "D": "The crowd listened as chance asked for a Chance to speak."
+      },
+      "correct": "B",
+      "correctAnswer": "The crowd listened as Chance asked for a chance to speak.",
+      "explanation": "Chance is capitalized when it names the personified character; the later chance means an ordinary opportunity and remains lowercase."
+    },
+    {
+      "id": "HSPT-L14-020",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nA covered ____ cooled on the counter.",
+      "choices": {
+        "A": "caserole",
+        "B": "casserolle",
+        "C": "casserole",
+        "D": "casserol"
+      },
+      "correct": "C",
+      "correctAnswer": "casserole",
+      "explanation": "Casserole uses a double s, a single l, and a final e; the alternatives omit or duplicate letters in that spelling."
+    },
+    {
+      "id": "HSPT-L14-021",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word meaning a small-scale version of something.",
+      "choices": {
+        "A": "minature",
+        "B": "miniatuer",
+        "C": "minniature",
+        "D": "miniature"
+      },
+      "correct": "D",
+      "correctAnswer": "miniature",
+      "explanation": "Miniature includes the i before ature and has a single n; the alternatives omit that vowel, transpose the ending, or duplicate the consonant."
+    },
+    {
+      "id": "HSPT-L14-022",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling names the behavior of claiming moral standards that one's actions violate?",
+      "choices": {
+        "A": "hypocracy",
+        "B": "hipocrisy",
+        "C": "hypocricy",
+        "D": "hypocrisy"
+      },
+      "correct": "D",
+      "correctAnswer": "hypocrisy",
+      "explanation": "Hypocrisy begins with hypo and ends in crisy, with s rather than a second c; the alternatives change those vowel and consonant sequences."
+    },
+    {
+      "id": "HSPT-L14-023",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which verb form correctly completes this emphatic statement?\nI did ____ the latch before leaving.",
+      "choices": {
+        "A": "checks",
+        "B": "check",
+        "C": "checked",
+        "D": "checking"
+      },
+      "correct": "B",
+      "correctAnswer": "check",
+      "explanation": "Emphatic did carries the past tense and takes the base verb check; the following verb does not receive a second tense ending."
+    },
+    {
+      "id": "HSPT-L14-024",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which verb correctly treats twelve kilometers as ONE total distance?\nTwelve kilometers ____ too far to walk before dawn.",
+      "choices": {
+        "A": "are",
+        "B": "were",
+        "C": "have been",
+        "D": "is"
+      },
+      "correct": "D",
+      "correctAnswer": "is",
+      "explanation": "A measurement phrase treated as one total distance takes a singular verb, so twelve kilometers is agrees with that unitary meaning."
+    },
+    {
+      "id": "HSPT-L14-025",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence correctly uses a perfect passive infinitive to place the opening before the package's arrival?",
+      "choices": {
+        "A": "The package appears to had been opened before it arrived.",
+        "B": "The package appears to have been opened before it arrived.",
+        "C": "The package appears to having been opened before it arrived.",
+        "D": "The package appears to have be opened before it arrived."
+      },
+      "correct": "B",
+      "correctAnswer": "The package appears to have been opened before it arrived.",
+      "explanation": "After to, the perfect passive infinitive uses have been plus the past participle opened, locating the passive event earlier without using finite had."
+    },
+    {
+      "id": "HSPT-L14-026",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word correctly completes the sentence?\nThe designer had a ____ for combining unusual colors successfully.",
+      "choices": {
+        "A": "flair",
+        "B": "flare",
+        "C": "flail",
+        "D": "flaw"
+      },
+      "correct": "A",
+      "correctAnswer": "flair",
+      "explanation": "Flair means a natural aptitude or distinctive talent; flare names a burst of light or flame and does not express skill."
+    },
+    {
+      "id": "HSPT-L14-027",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nThe angler ____ the hook while the observer watched with ____ breath.",
+      "choices": {
+        "A": "baited; bated",
+        "B": "bated; baited",
+        "C": "baited; baited",
+        "D": "bated; bated"
+      },
+      "correct": "A",
+      "correctAnswer": "baited; bated",
+      "explanation": "Baited means supplied with bait; bated means held back or restrained in the expression bated breath, so the two contexts require different forms."
+    },
+    {
+      "id": "HSPT-L14-028",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "The writer wants sentence 4 to begin with an already established branch before introducing its filter. Which revision best follows that information flow?",
+      "choices": {
+        "A": "Dust is caught by a filter as one branch passes through it.",
+        "B": "A filter catches dust from one of the two branches.",
+        "C": "One branch passes through a filter that catches dust.",
+        "D": "The capture of dust occurs when a filter receives one branch."
+      },
+      "correct": "C",
+      "correctAnswer": "One branch passes through a filter that catches dust.",
+      "explanation": "The preceding sentence introduces branches; beginning with One branch continues that known information before adding the filter and its dust-catching function.",
+      "stimulusId": "HSPT-L14-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Following Two Air Routes",
+      "stimulusText": "(1) A wall vent feeds outside air into an intake duct. (2) The entry tube carries this air to a splitter. (3) The splitter divides the incoming stream into two branches. (4) Dust is caught by a filter as one branch passes through it. (5) This filtered branch then leaves through a low opening near the floor. (6) The other branch passes along an upper channel without going through the filter. (7) Small openings near the ceiling release its air into the room. (8) Describing the two branches separately helps readers follow each stream from the splitter to its own exit."
+    },
+    {
+      "id": "HSPT-L14-029",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "The writer intends entry tube in sentence 2 to name the intake duct already introduced in sentence 1. Which revision best prevents readers from imagining an additional part?",
+      "choices": {
+        "A": "Replace The entry tube with The intake duct.",
+        "B": "Replace The entry tube with A second, separate tube.",
+        "C": "Replace The entry tube with An unidentified opening.",
+        "D": "Replace The entry tube with Both intake ducts."
+      },
+      "correct": "A",
+      "correctAnswer": "Replace The entry tube with The intake duct.",
+      "explanation": "Reusing the established name makes the intended identity explicit; the alternatives introduce another part, reduce specificity, or falsely turn one duct into two.",
+      "stimulusId": "HSPT-L14-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Following Two Air Routes",
+      "stimulusText": "(1) A wall vent feeds outside air into an intake duct. (2) The entry tube carries this air to a splitter. (3) The splitter divides the incoming stream into two branches. (4) Dust is caught by a filter as one branch passes through it. (5) This filtered branch then leaves through a low opening near the floor. (6) The other branch passes along an upper channel without going through the filter. (7) Small openings near the ceiling release its air into the room. (8) Describing the two branches separately helps readers follow each stream from the splitter to its own exit."
+    },
+    {
+      "id": "HSPT-L14-030",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which caption could summarize the described system accurately, without implying that every stream passes through the filter?",
+      "choices": {
+        "A": "Both branches pass through the same filter and rejoin before leaving through one low opening.",
+        "B": "After the splitter, one branch is filtered and exits low; the other bypasses the filter and exits near the ceiling.",
+        "C": "The splitter sends all air to the ceiling openings first, and the low opening then draws it back into the filter.",
+        "D": "The wall vent draws air out of the room while the splitter blocks both outgoing branches."
+      },
+      "correct": "B",
+      "correctAnswer": "After the splitter, one branch is filtered and exits low; the other bypasses the filter and exits near the ceiling.",
+      "explanation": "The description assigns the filter and low exit to one branch and an unfiltered upper route to the other; the summary must preserve that separation.",
+      "stimulusId": "HSPT-L14-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Following Two Air Routes",
+      "stimulusText": "(1) A wall vent feeds outside air into an intake duct. (2) The entry tube carries this air to a splitter. (3) The splitter divides the incoming stream into two branches. (4) Dust is caught by a filter as one branch passes through it. (5) This filtered branch then leaves through a low opening near the floor. (6) The other branch passes along an upper channel without going through the filter. (7) Small openings near the ceiling release its air into the room. (8) Describing the two branches separately helps readers follow each stream from the splitter to its own exit."
+    },
+    {
+      "id": "HSPT-L14-031",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which phrase uses hyphens correctly?",
+      "choices": {
+        "A": "a finely-woven belt",
+        "B": "a finely woven belt",
+        "C": "a finely woven-belt",
+        "D": "a finely-woven-belt"
+      },
+      "correct": "B",
+      "correctAnswer": "a finely woven belt",
+      "explanation": "An adverb ending in -ly ordinarily does not take a hyphen before the participle it modifies, so finely woven stays open."
+    },
+    {
+      "id": "HSPT-L14-032",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly punctuates the academic credential following the name?",
+      "choices": {
+        "A": "Marta Dune, MD sent the agenda.",
+        "B": "Marta Dune MD, sent the agenda.",
+        "C": "Marta, Dune MD sent the agenda.",
+        "D": "Marta Dune, MD, sent the agenda."
+      },
+      "correct": "D",
+      "correctAnswer": "Marta Dune, MD, sent the agenda.",
+      "explanation": "The credential MD follows the name as a supplementary element and is set off with commas on both sides."
+    },
+    {
+      "id": "HSPT-L14-033",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which phrase correctly uses a possessive construction to express a travel interval of three days?",
+      "choices": {
+        "A": "three days' travel",
+        "B": "three day's travel",
+        "C": "three days travel",
+        "D": "three days's travel"
+      },
+      "correct": "A",
+      "correctAnswer": "three days' travel",
+      "explanation": "The plural days already ends in s, so its possessive form adds only an apostrophe: three days' travel."
+    },
+    {
+      "id": "HSPT-L14-034",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the formal name of the time zone?",
+      "choices": {
+        "A": "The broadcast begins at noon Eastern Standard Time.",
+        "B": "The broadcast begins at noon eastern Standard Time.",
+        "C": "The broadcast begins at noon Eastern standard time.",
+        "D": "The broadcast begins at noon eastern standard time."
+      },
+      "correct": "A",
+      "correctAnswer": "The broadcast begins at noon Eastern Standard Time.",
+      "explanation": "Eastern Standard Time is a formal time-zone name, so all three words are capitalized even within a sentence."
+    },
+    {
+      "id": "HSPT-L14-035",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the name of the Dutch city?",
+      "choices": {
+        "A": "We changed trains in the Hague.",
+        "B": "We changed trains in The hague.",
+        "C": "We changed trains in The Hague.",
+        "D": "We changed trains in the hague."
+      },
+      "correct": "C",
+      "correctAnswer": "We changed trains in The Hague.",
+      "explanation": "The city's proper name is The Hague, including its initial article, so both The and Hague retain their capitals."
+    },
+    {
+      "id": "HSPT-L14-036",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a small cloth carried for wiping the nose?",
+      "choices": {
+        "A": "hankerchief",
+        "B": "handkerchief",
+        "C": "handkercheif",
+        "D": "handkercheef"
+      },
+      "correct": "B",
+      "correctAnswer": "handkerchief",
+      "explanation": "Handkerchief retains the d in hand and uses the letter sequence chief; each alternative omits or changes part of that spelling."
+    },
+    {
+      "id": "HSPT-L14-037",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a person employed to drive a passenger car?",
+      "choices": {
+        "A": "chauffer",
+        "B": "chaffeur",
+        "C": "chauffeur",
+        "D": "chauffuer"
+      },
+      "correct": "C",
+      "correctAnswer": "chauffeur",
+      "explanation": "Chauffeur contains au, a double f, and the ending eur; the alternatives omit a letter or alter that sequence."
+    },
+    {
+      "id": "HSPT-L14-038",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the word that correctly completes the sentence in formal written English.\nThey disagreed about ___ the path was open.",
+      "choices": {
+        "A": "if",
+        "B": "that",
+        "C": "whether",
+        "D": "than"
+      },
+      "correct": "C",
+      "correctAnswer": "whether",
+      "explanation": "Whether introduces the embedded yes-or-no question after the preposition about; if does not serve that role in formal usage."
+    },
+    {
+      "id": "HSPT-L14-039",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the verb that correctly completes the sentence.\nEach traveler should check whether they ___ carrying the correct pass.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "has",
+        "D": "be"
+      },
+      "correct": "B",
+      "correctAnswer": "are",
+      "explanation": "Even when they refers to one person, it takes are. The verb agrees with they rather than the earlier singular noun traveler."
+    },
+    {
+      "id": "HSPT-L14-040",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence indicates that Nola's speaking ended, rather than that she interrupted another activity in order to speak?",
+      "choices": {
+        "A": "Nola stopped speaking.",
+        "B": "Nola stopped to speak.",
+        "C": "Nola began speaking.",
+        "D": "Nola continued speaking."
+      },
+      "correct": "A",
+      "correctAnswer": "Nola stopped speaking.",
+      "explanation": "Stopped speaking means she ceased that activity; stopped to speak instead gives the purpose for interrupting some other activity."
+    },
+    {
+      "id": "HSPT-L14-041",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the correct word.\nThe squirrel hid a ___ of acorns inside the hollow trunk.",
+      "choices": {
+        "A": "horde",
+        "B": "herd",
+        "C": "hoard",
+        "D": "heard"
+      },
+      "correct": "C",
+      "correctAnswer": "hoard",
+      "explanation": "A hoard is a stored collection kept for future use; horde and herd name groups, while heard is a verb."
+    },
+    {
+      "id": "HSPT-L14-042",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence.\nThe painter stretched the ___ while the organizers prepared to ___ households about the proposed route.",
+      "choices": {
+        "A": "canvass; canvas",
+        "B": "canvas; canvas",
+        "C": "canvass; canvass",
+        "D": "canvas; canvass"
+      },
+      "correct": "D",
+      "correctAnswer": "canvas; canvass",
+      "explanation": "Canvas is the fabric used for a painting surface; canvass is the verb meaning to solicit opinions or support."
+    },
+    {
+      "id": "HSPT-L14-043",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence.\nA guest author contributed the ___; the usher waved the audience ___.",
+      "choices": {
+        "A": "foreword; forward",
+        "B": "forward; foreword",
+        "C": "foreword; foreword",
+        "D": "forward; forward"
+      },
+      "correct": "A",
+      "correctAnswer": "foreword; forward",
+      "explanation": "A foreword is an introductory contribution to a book, while forward indicates the direction in which the usher waves people."
+    },
+    {
+      "id": "HSPT-L14-044",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which six-word line best follows the passage's guidance by presenting an event and a connected response?",
+      "choices": {
+        "A": "Pigeons rested beside the weathered statue.",
+        "B": "The square had statues and pigeons.",
+        "C": "Birds landed; newspapers reached the station.",
+        "D": "The statue blinked; the pigeons fled."
+      },
+      "correct": "D",
+      "correctAnswer": "The statue blinked; the pigeons fled.",
+      "explanation": "The statue's unexpected action prompts the pigeons' flight, creating connected change; the other lines offer a state, inventory, or unrelated events.",
+      "stimulusId": "HSPT-L14-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Six Words, Two Moments",
+      "stimulusText": "(1) A six-word story should offer an event, not just an inventory of things. (2) A draft reads, \"The statue sneezed. The pigeons scattered.\" (3) Its unexpected action produces a connected response, so the line suggests change. (4) The six words \"Tall statues overlook the empty square\" mainly describe a settled scene. (5) A tight limit makes each word's job important. (6) One verb can sometimes carry the meaning of a longer phrase. (7) Shortening a line should preserve who acts and what follows from the action. (8) The tiny story need not explain how a stone statue can sneeze in order to make the pigeons' response understandable."
+    },
+    {
+      "id": "HSPT-L14-045",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "An editor must replace \"scattered\" in sentence 2 with the two-word phrase \"flew away,\" keep the statue as the one that sneezes, and keep the entire story at six words. Which revision meets all three requirements?",
+      "choices": {
+        "A": "The statue sneezed; the pigeons flew.",
+        "B": "The statue sneezed; pigeons flew away.",
+        "C": "The statue sneezed; pigeons quickly flew.",
+        "D": "The pigeons sneezed; statues flew away."
+      },
+      "correct": "B",
+      "correctAnswer": "The statue sneezed; pigeons flew away.",
+      "explanation": "Removing the before pigeons makes room for flew away while preserving both agents and the six-word limit.",
+      "stimulusId": "HSPT-L14-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Six Words, Two Moments",
+      "stimulusText": "(1) A six-word story should offer an event, not just an inventory of things. (2) A draft reads, \"The statue sneezed. The pigeons scattered.\" (3) Its unexpected action produces a connected response, so the line suggests change. (4) The six words \"Tall statues overlook the empty square\" mainly describe a settled scene. (5) A tight limit makes each word's job important. (6) One verb can sometimes carry the meaning of a longer phrase. (7) Shortening a line should preserve who acts and what follows from the action. (8) The tiny story need not explain how a stone statue can sneeze in order to make the pigeons' response understandable."
+    },
+    {
+      "id": "HSPT-L14-046",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "A reference to a Bible passage conventionally places a colon between the chapter number and the verse number. Which reference follows that convention?",
+      "choices": {
+        "A": "Genesis 2,7",
+        "B": "Genesis 2;7",
+        "C": "Genesis 2.7",
+        "D": "Genesis 2:7"
+      },
+      "correct": "D",
+      "correctAnswer": "Genesis 2:7",
+      "explanation": "The stated convention uses a colon to separate chapter 2 from verse 7, producing the reference Genesis 2:7."
+    },
+    {
+      "id": "HSPT-L14-047",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly writes the compound color term?",
+      "choices": {
+        "A": "The glaze looked blue, green.",
+        "B": "The glaze looked bluegreen.",
+        "C": "The glaze looked blue-green.",
+        "D": "The glaze looked blue; green."
+      },
+      "correct": "C",
+      "correctAnswer": "The glaze looked blue-green.",
+      "explanation": "Blue-green names one blended color and retains its hyphen after looked; a comma or semicolon would not join that compound."
+    },
+    {
+      "id": "HSPT-L14-048",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Use sentence-style capitalization for this title: capitalize its first word and the person's name, rather than every principal word. Which version follows that style?",
+      "choices": {
+        "A": "Crossing the desert with Elena",
+        "B": "Crossing the Desert with Elena",
+        "C": "crossing the desert with Elena",
+        "D": "Crossing the desert with elena"
+      },
+      "correct": "A",
+      "correctAnswer": "Crossing the desert with Elena",
+      "explanation": "Sentence style capitalizes the opening word Crossing and the proper name Elena while keeping the ordinary word desert lowercase."
+    },
+    {
+      "id": "HSPT-L14-049",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the hyphenated historical adjective?",
+      "choices": {
+        "A": "The carvings are pre-Columbian.",
+        "B": "The carvings are Pre-Columbian.",
+        "C": "The carvings are pre-columbian.",
+        "D": "The carvings are Pre-columbian."
+      },
+      "correct": "A",
+      "correctAnswer": "The carvings are pre-Columbian.",
+      "explanation": "Columbian derives from a proper name and remains capitalized; the attached prefix pre- stays lowercase within the sentence."
+    },
+    {
+      "id": "HSPT-L14-050",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names an elected county law-enforcement officer?",
+      "choices": {
+        "A": "sherriff",
+        "B": "sheriff",
+        "C": "sherif",
+        "D": "sherrif"
+      },
+      "correct": "B",
+      "correctAnswer": "sheriff",
+      "explanation": "Sheriff has one r and two final f letters; the alternatives incorrectly double r, omit an f, or do both."
+    },
+    {
+      "id": "HSPT-L14-051",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a device or technique that helps a person remember information?",
+      "choices": {
+        "A": "mnemonic",
+        "B": "mneumonic",
+        "C": "mnemonick",
+        "D": "nemmonic"
+      },
+      "correct": "A",
+      "correctAnswer": "mnemonic",
+      "explanation": "Mnemonic begins with the unusual mn sequence and ends in ic; the alternatives insert, omit, or transpose letters."
+    },
+    {
+      "id": "HSPT-L14-052",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a person with expert appreciation of a particular art or field?",
+      "choices": {
+        "A": "connoiseur",
+        "B": "connoisseur",
+        "C": "connoissour",
+        "D": "conosseur"
+      },
+      "correct": "B",
+      "correctAnswer": "connoisseur",
+      "explanation": "Connoisseur retains double n, the oi sequence, double s, and the ending eur; each alternative changes part of that spelling."
+    },
+    {
+      "id": "HSPT-L14-053",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the pair of verbs that correctly completes the sentence.\nA number of lenses ___ to be missing, but the number of missing lenses ___ unchanged.",
+      "choices": {
+        "A": "seem; remain",
+        "B": "seems; remains",
+        "C": "seems; remain",
+        "D": "seem; remains"
+      },
+      "correct": "D",
+      "correctAnswer": "seem; remains",
+      "explanation": "A number of means several and takes seem; the number refers to one numerical total and takes remains."
+    },
+    {
+      "id": "HSPT-L14-054",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the phrase that correctly expresses \"if the weather allows it\" at the beginning of this sentence.\n___, the balloon flight will begin at dawn.",
+      "choices": {
+        "A": "Weather permits",
+        "B": "Weather to permit",
+        "C": "Weather has permitted",
+        "D": "Weather permitting"
+      },
+      "correct": "D",
+      "correctAnswer": "Weather permitting",
+      "explanation": "Weather permitting is an absolute phrase with its own subject and participle, giving a condition without introducing a separate finite clause."
+    },
+    {
+      "id": "HSPT-L14-055",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the verb form required by the phrase \"had better.\"\nYou had better ___ for the earlier ferry.",
+      "choices": {
+        "A": "to leave",
+        "B": "leaving",
+        "C": "leave",
+        "D": "left"
+      },
+      "correct": "C",
+      "correctAnswer": "leave",
+      "explanation": "Had better is followed by the base form of the main verb, so leave is required despite the word had."
+    },
+    {
+      "id": "HSPT-L14-056",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the correct word.\nBefore choosing a route, the navigator would ___ over the chart for several minutes.",
+      "choices": {
+        "A": "pour",
+        "B": "poor",
+        "C": "pore",
+        "D": "paw"
+      },
+      "correct": "C",
+      "correctAnswer": "pore",
+      "explanation": "To pore over something is to examine it closely; pour concerns liquid, poor is an adjective, and paw does not fit the phrase."
+    },
+    {
+      "id": "HSPT-L14-057",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence.\nThe chemist sealed the sample in a ___ and described its smell as ___.",
+      "choices": {
+        "A": "vile; vial",
+        "B": "vial; vial",
+        "C": "vial; vile",
+        "D": "vile; vile"
+      },
+      "correct": "C",
+      "correctAnswer": "vial; vile",
+      "explanation": "A vial is a small container, while vile describes something extremely unpleasant, such as the smell in the sentence."
+    },
+    {
+      "id": "HSPT-L14-058",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence.\nOne inspector was so ___ about his own method that he ignored warnings; the other was so ___ that she agreed to every request.",
+      "choices": {
+        "A": "complaisant; complacent",
+        "B": "complacent; complaisant",
+        "C": "complacent; complacent",
+        "D": "complaisant; complaisant"
+      },
+      "correct": "B",
+      "correctAnswer": "complacent; complaisant",
+      "explanation": "Complacent means excessively self-satisfied, explaining ignored warnings; complaisant means eager to accommodate others, explaining agreement to every request."
+    },
+    {
+      "id": "HSPT-L14-059",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Use the passage's definition method with these facts: a wicket gate is a small gate set within a larger gate, allowing passage without opening the larger one. Which sentence best uses both a general class and a distinguishing feature?",
+      "choices": {
+        "A": "A wicket gate is something people may notice at an entrance.",
+        "B": "A wicket gate is a gate known as a wicket gate.",
+        "C": "A wicket gate is not a cantilever or a projecting balcony.",
+        "D": "A wicket gate is a small gate within a larger gate that permits passage without opening the larger one."
+      },
+      "correct": "D",
+      "correctAnswer": "A wicket gate is a small gate within a larger gate that permits passage without opening the larger one.",
+      "explanation": "The correct sentence identifies the class, small gate, and the distinguishing placement and function; the alternatives are vague, circular, or merely negative.",
+      "stimulusId": "HSPT-L14-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Definition Needs an Edge",
+      "stimulusText": "(1) A definition for beginners should name a general class and then supply the feature that distinguishes the item within that class. (2) For example, a cantilever is a beam fixed at one end and unsupported at the other. (3) Beam identifies the kind of object, while the support arrangement sets it apart. (4) A bridge may contain cantilevers, but a cantilever need not be an entire bridge. (5) A projecting balcony can also use this arrangement. (6) Definitions can therefore be more useful than a list of familiar examples. (7) An example helps readers picture something, but the distinguishing feature helps them recognize another instance they have never seen. (8) A useful definition marks a boundary as well as naming a group."
+    },
+    {
+      "id": "HSPT-L14-060",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence added after sentence 2 would most clearly establish the definition's boundary by providing a contrasting nonexample?",
+      "choices": {
+        "A": "A beam resting on supports at both ends is not a cantilever, even when its middle has no support.",
+        "B": "A cantilever must always be a complete bridge.",
+        "C": "Any beam with an unsupported middle is therefore a cantilever.",
+        "D": "Every type of beam can be defined only by listing places where it appears."
+      },
+      "correct": "A",
+      "correctAnswer": "A beam resting on supports at both ends is not a cantilever, even when its middle has no support.",
+      "explanation": "The contrasting beam lacks the required free end, making the boundary explicit without replacing the definition with examples or an incorrect broader claim.",
+      "stimulusId": "HSPT-L14-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Definition Needs an Edge",
+      "stimulusText": "(1) A definition for beginners should name a general class and then supply the feature that distinguishes the item within that class. (2) For example, a cantilever is a beam fixed at one end and unsupported at the other. (3) Beam identifies the kind of object, while the support arrangement sets it apart. (4) A bridge may contain cantilevers, but a cantilever need not be an entire bridge. (5) A projecting balcony can also use this arrangement. (6) Definitions can therefore be more useful than a list of familiar examples. (7) An example helps readers picture something, but the distinguishing feature helps them recognize another instance they have never seen. (8) A useful definition marks a boundary as well as naming a group."
+    }
+  ]
+}

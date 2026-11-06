@@ -1,0 +1,1097 @@
+{
+  "title": "HSPT Mathematics Practice Test 13",
+  "examFamily": "hspt",
+  "examNumber": 13,
+  "section": "Mathematics",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": "HSPT-M13-001",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which equality illustrates regrouping in addition without changing the order of the numbers?",
+      "choices": {
+        "A": "3 + 5 = 5 + 3",
+        "B": "3 × (5 + 7) = 3 × 5 + 3 × 7",
+        "C": "3 + 0 = 3",
+        "D": "(3 + 5) + 7 = 3 + (5 + 7)"
+      },
+      "correct": "D",
+      "correctAnswer": "(3 + 5) + 7 = 3 + (5 + 7)",
+      "explanation": "Only the parentheses move in the correct equality; the numbers keep their order, illustrating addition's associative property rather than reordering, distribution, or identity."
+    },
+    {
+      "id": "HSPT-M13-002",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which expression has no real-number value?",
+      "choices": {
+        "A": "−√16",
+        "B": "√(−16)",
+        "C": "√(16/4)",
+        "D": "(−4)²"
+      },
+      "correct": "B",
+      "correctAnswer": "√(−16)",
+      "explanation": "No real number has a negative square, so √(−16) is not real; the other expressions evaluate to −4, 2, and 16."
+    },
+    {
+      "id": "HSPT-M13-003",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Positive real numbers a and b satisfy 2 < a < 3 and 4 < b < 5. Which interval must contain a/b?",
+      "choices": {
+        "A": "1/2 < a/b < 3/5",
+        "B": "2/5 < a/b < 3/5",
+        "C": "2/5 < a/b < 3/4",
+        "D": "1/2 < a/b < 3/4"
+      },
+      "correct": "C",
+      "correctAnswer": "2/5 < a/b < 3/4",
+      "explanation": "The smallest limiting quotient uses the lower numerator and upper denominator, 2/5; the largest uses the upper numerator and lower denominator, 3/4."
+    },
+    {
+      "id": "HSPT-M13-004",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the value of (3²)³ ÷ 3³?",
+      "choices": {
+        "A": "9",
+        "B": "243",
+        "C": "27",
+        "D": "729"
+      },
+      "correct": "C",
+      "correctAnswer": "27",
+      "explanation": "Cubing 3² gives 3 raised to 6; dividing by 3³ leaves 3³ = 27, so exponents multiply before they subtract."
+    },
+    {
+      "id": "HSPT-M13-005",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which choice is an inequality rather than an equation or an expression?",
+      "choices": {
+        "A": "2x + 5 = 17",
+        "B": "2x + 5",
+        "C": "17 − 5",
+        "D": "2x + 5 < 17"
+      },
+      "correct": "D",
+      "correctAnswer": "2x + 5 < 17",
+      "explanation": "The less-than sign compares unequal quantities, making the correct choice an inequality; the others are an equation or expressions without a comparison."
+    },
+    {
+      "id": "HSPT-M13-006",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which ordered pair (x, y) satisfies BOTH y > 2x and x + y ≤ 7?",
+      "choices": {
+        "A": "(2, 5)",
+        "B": "(3, 4)",
+        "C": "(2, 6)",
+        "D": "(0, 0)"
+      },
+      "correct": "A",
+      "correctAnswer": "(2, 5)",
+      "explanation": "For (2, 5), 5 > 4 and 2 + 5 = 7. The alternatives fail either the first strict inequality or the second bound."
+    },
+    {
+      "id": "HSPT-M13-007",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The equation x² + kx + 12 = 0 has x = 3 as a solution. What is its other solution?",
+      "choices": {
+        "A": "−4",
+        "B": "4",
+        "C": "−3",
+        "D": "7"
+      },
+      "correct": "B",
+      "correctAnswer": "4",
+      "explanation": "Substituting 3 gives 21 + 3k = 0, so k = −7. Then x² − 7x + 12 = (x − 3)(x − 4), giving the other solution 4."
+    },
+    {
+      "id": "HSPT-M13-008",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A function has domain {−3, −1, 1, 3} and rule f(x) = x². What is its range, the set of distinct outputs?",
+      "choices": {
+        "A": "{1, 9}",
+        "B": "{−3, −1, 1, 3}",
+        "C": "{−9, −1, 1, 9}",
+        "D": "{1, 3}"
+      },
+      "correct": "A",
+      "correctAnswer": "{1, 9}",
+      "explanation": "Squaring the four inputs gives 9, 1, 1, and 9; the distinct outputs are therefore just 1 and 9."
+    },
+    {
+      "id": "HSPT-M13-009",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two distinct points are marked in a plane. How many straight lines pass through both?",
+      "choices": {
+        "A": "Zero",
+        "B": "Exactly one",
+        "C": "Exactly two",
+        "D": "Infinitely many"
+      },
+      "correct": "B",
+      "correctAnswer": "Exactly one",
+      "explanation": "Two distinct points determine one straight line; many lines can pass through either point separately, but only one passes through both."
+    },
+    {
+      "id": "HSPT-M13-010",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle of radius 3 units lies inside a circle of radius 8 units and touches it at exactly one point. What is the distance between their centers?",
+      "choices": {
+        "A": "5 units",
+        "B": "11 units",
+        "C": "8 units",
+        "D": "3 units"
+      },
+      "correct": "A",
+      "correctAnswer": "5 units",
+      "explanation": "At internal tangency, the centers and contact point lie on one line; the center distance is the difference of the radii, 8 − 3 = 5."
+    },
+    {
+      "id": "HSPT-M13-011",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A five-tip star is traced in one continuous path, changing direction only at its tips. Each turn has the same size and direction, and the direction completes two full 360° turns altogether. What is the smaller angle between the two segments meeting at a tip?",
+      "choices": {
+        "A": "72°",
+        "B": "36°",
+        "C": "144°",
+        "D": "216°"
+      },
+      "correct": "B",
+      "correctAnswer": "36°",
+      "explanation": "The five equal turns total 720°, so each turn is 144°. The smaller angle between the meeting segments is its supplement, 180° − 144° = 36°."
+    },
+    {
+      "id": "HSPT-M13-012",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "An engineering drawing has scale 1:60. It is printed at 150% of its original linear dimensions. What is the new scale?",
+      "choices": {
+        "A": "1:40",
+        "B": "1:90",
+        "C": "1:60",
+        "D": "1:120"
+      },
+      "correct": "A",
+      "correctAnswer": "1:40",
+      "explanation": "Each printed length becomes 1.5 times as large while the real object stays unchanged; the scale becomes 1.5:60, equivalent to 1:40."
+    },
+    {
+      "id": "HSPT-M13-013",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A detector uses a scale in which each increase of 2 display units means a fivefold increase in measured intensity. If the display rises from 3 to 9, what is the intensity multiplier?",
+      "choices": {
+        "A": "15",
+        "B": "30",
+        "C": "25",
+        "D": "125"
+      },
+      "correct": "D",
+      "correctAnswer": "125",
+      "explanation": "The display increases by 6 units, or three 2-unit steps. Applying the fivefold change three times gives 5 × 5 × 5 = 125."
+    },
+    {
+      "id": "HSPT-M13-014",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Which recorded variable is a numerical measurement rather than an identifying code?",
+      "choices": {
+        "A": "a postal code",
+        "B": "a bus route number",
+        "C": "an object's mass in grams",
+        "D": "an athlete's jersey number"
+      },
+      "correct": "C",
+      "correctAnswer": "an object's mass in grams",
+      "explanation": "Mass in grams measures an amount; the other numbers label locations, routes, or people and do not measure their quantities."
+    },
+    {
+      "id": "HSPT-M13-015",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Reader A decodes 90% of clear codes and 20% of blurred codes correctly; reader B gets 80% and 10%, respectively. A reads 10 clear and 100 blurred codes; B reads 100 clear and 10 blurred codes. Which comparison is correct?",
+      "choices": {
+        "A": "A has higher accuracy within each category and overall.",
+        "B": "B has higher accuracy within each category and overall.",
+        "C": "A has higher accuracy within each category, but B has higher accuracy overall.",
+        "D": "The two readers have equal overall accuracy."
+      },
+      "correct": "C",
+      "correctAnswer": "A has higher accuracy within each category, but B has higher accuracy overall.",
+      "explanation": "A gets 9 + 20 = 29 of 110 correct; B gets 80 + 1 = 81 of 110. Different category mixes reverse the overall comparison."
+    },
+    {
+      "id": "HSPT-M13-016",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A fair coin selects jar A or jar B. A contains 3 green tokens and 1 white token; B contains 1 green and 1 white. A token is drawn uniformly from the selected jar and is green. What is the probability that jar A was selected?",
+      "choices": {
+        "A": "1/2",
+        "B": "3/4",
+        "C": "3/8",
+        "D": "3/5"
+      },
+      "correct": "D",
+      "correctAnswer": "3/5",
+      "explanation": "The A-and-green probability is 3/8; the total green probability is 3/8 + 1/4 = 5/8. Conditioning gives (3/8)/(5/8) = 3/5."
+    },
+    {
+      "id": "HSPT-M13-017",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "On the real number line, how does −0 compare with 0?",
+      "choices": {
+        "A": "They name the same point.",
+        "B": "−0 is one unit to the left.",
+        "C": "−0 is positive, while 0 is negative.",
+        "D": "Their order depends on the scale used."
+      },
+      "correct": "A",
+      "correctAnswer": "They name the same point.",
+      "explanation": "Zero is its own additive opposite, so −0 equals 0 and names exactly the same point on the real number line."
+    },
+    {
+      "id": "HSPT-M13-018",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which sum is rational even though both of its displayed addends are irrational?",
+      "choices": {
+        "A": "√2 + √2",
+        "B": "√2 + (3 − √2)",
+        "C": "√3 + √3",
+        "D": "√5 + (2 + √5)"
+      },
+      "correct": "B",
+      "correctAnswer": "√2 + (3 − √2)",
+      "explanation": "The opposite square-root terms cancel, leaving 3. The other sums retain nonzero multiples of irrational square roots."
+    },
+    {
+      "id": "HSPT-M13-019",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "The notation 0.999… means that the digit 9 repeats forever, not that the decimal stops. What is its exact value?",
+      "choices": {
+        "A": "a number less than 1 by a final decimal place",
+        "B": "1",
+        "C": "0.999",
+        "D": "9/10"
+      },
+      "correct": "B",
+      "correctAnswer": "1",
+      "explanation": "Since 1/3 = 0.333…, multiplying both sides by 3 gives 1 = 0.999…; an endless decimal has no final place containing a gap."
+    },
+    {
+      "id": "HSPT-M13-020",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For any real numbers a and b, which expression equals the SMALLER of a and b?",
+      "choices": {
+        "A": "(a + b + |a − b|)/2",
+        "B": "(a + b − |a − b|)/2",
+        "C": "(a + b)/2",
+        "D": "|a − b|/2"
+      },
+      "correct": "B",
+      "correctAnswer": "(a + b − |a − b|)/2",
+      "explanation": "If a ≤ b, then |a − b| = b − a and the expression becomes a; reversing their order makes it become b."
+    },
+    {
+      "id": "HSPT-M13-021",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which product is equivalent to xy + x + y + 1 for all x and y?",
+      "choices": {
+        "A": "(x + y)(x + 1)",
+        "B": "(x + 1)(y − 1)",
+        "C": "(x + 1)(y + 1)",
+        "D": "xy(x + y + 1)"
+      },
+      "correct": "C",
+      "correctAnswer": "(x + 1)(y + 1)",
+      "explanation": "Grouping gives x(y + 1) + (y + 1); taking out the shared factor y + 1 yields (x + 1)(y + 1)."
+    },
+    {
+      "id": "HSPT-M13-022",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "What real value of x satisfies 2 raised to x = 8 raised to (x − 2)? Equal positive powers of the same base 2 have equal exponents.",
+      "choices": {
+        "A": "1",
+        "B": "2",
+        "C": "6",
+        "D": "3"
+      },
+      "correct": "D",
+      "correctAnswer": "3",
+      "explanation": "Since 8 = 2³, the equation becomes 2 raised to x = 2 raised to (3x − 6). Thus x = 3x − 6, giving x = 3."
+    },
+    {
+      "id": "HSPT-M13-023",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A machine replaces an input x with x/2 + 6. Which input is left unchanged by the machine?",
+      "choices": {
+        "A": "12",
+        "B": "3",
+        "C": "6",
+        "D": "18"
+      },
+      "correct": "A",
+      "correctAnswer": "12",
+      "explanation": "An unchanged input satisfies x = x/2 + 6. Subtracting x/2 gives x/2 = 6, so the fixed input is 12."
+    },
+    {
+      "id": "HSPT-M13-024",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two lines in space neither intersect nor lie in the same plane. Such lines are called skew. Which description must be true of skew lines?",
+      "choices": {
+        "A": "They meet at a right angle.",
+        "B": "They are parallel lines in one plane.",
+        "C": "They are not coplanar.",
+        "D": "They are the same line."
+      },
+      "correct": "C",
+      "correctAnswer": "They are not coplanar.",
+      "explanation": "Coplanar means lying in one plane; the definition explicitly excludes that condition for skew lines."
+    },
+    {
+      "id": "HSPT-M13-025",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Reflect point (4, −3) across the x-axis and then across the y-axis. Which single transformation has the same effect?",
+      "choices": {
+        "A": "a reflection across the line y = x",
+        "B": "a 180° rotation about the origin",
+        "C": "a translation 8 units to the right",
+        "D": "a 90° clockwise rotation about the origin"
+      },
+      "correct": "B",
+      "correctAnswer": "a 180° rotation about the origin",
+      "explanation": "The reflections produce (4, 3) and then (−4, 3). A half-turn about the origin also changes both coordinate signs."
+    },
+    {
+      "id": "HSPT-M13-026",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two concentric circles have radii R and r, with R > r. A chord of the outer circle is tangent to the inner circle and has length 10. What is the area between the circles?",
+      "choices": {
+        "A": "10π square units",
+        "B": "50π square units",
+        "C": "100π square units",
+        "D": "25π square units"
+      },
+      "correct": "D",
+      "correctAnswer": "25π square units",
+      "explanation": "Half the chord is 5, and its distance from the common center is r. The right triangle gives R² − r² = 25, so the annular area is 25π."
+    },
+    {
+      "id": "HSPT-M13-027",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "One degree contains 60 arcminutes. How many degrees are 2 degrees 30 arcminutes?",
+      "choices": {
+        "A": "2.3°",
+        "B": "2.05°",
+        "C": "2.6°",
+        "D": "2.5°"
+      },
+      "correct": "D",
+      "correctAnswer": "2.5°",
+      "explanation": "Thirty arcminutes equal 30/60 = 0.5 degree, so the total is 2 + 0.5 = 2.5 degrees."
+    },
+    {
+      "id": "HSPT-M13-028",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A microliter is 0.001 cubic centimeter. A cube-shaped chamber holds exactly 1 microliter. What is the length of each inside edge?",
+      "choices": {
+        "A": "0.001 centimeter",
+        "B": "0.01 centimeter",
+        "C": "0.1 centimeter",
+        "D": "1 centimeter"
+      },
+      "correct": "C",
+      "correctAnswer": "0.1 centimeter",
+      "explanation": "A cube's volume is its edge length cubed. Since 0.1 × 0.1 × 0.1 = 0.001, each edge measures 0.1 centimeter."
+    },
+    {
+      "id": "HSPT-M13-029",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A material requires 200 joules per kilogram for each 1°C temperature increase. With no energy loss or change of state, 8,000 joules heat a 5-kilogram sample. What is its temperature increase?",
+      "choices": {
+        "A": "0.125°C",
+        "B": "40°C",
+        "C": "8°C",
+        "D": "200°C"
+      },
+      "correct": "C",
+      "correctAnswer": "8°C",
+      "explanation": "Heating all 5 kilograms by 1°C requires 5 × 200 = 1,000 joules. The supplied 8,000 joules therefore raises the temperature by 8°C."
+    },
+    {
+      "id": "HSPT-M13-030",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A cumulative tally says \"18 measurements are at most 30 seconds.\" What does this statement mean?",
+      "choices": {
+        "A": "Eighteen measurements are 30 seconds or shorter.",
+        "B": "Exactly eighteen measurements equal 30 seconds.",
+        "C": "Every measurement is longer than 30 seconds.",
+        "D": "Eighteen measurements fall between 29 and 30 seconds only."
+      },
+      "correct": "A",
+      "correctAnswer": "Eighteen measurements are 30 seconds or shorter.",
+      "explanation": "A cumulative count includes every observation at or below the stated boundary; it does not refer only to values equal or immediately adjacent to it."
+    },
+    {
+      "id": "HSPT-M13-031",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A scatter plot contains the points (−2, 4), (−1, 1), (0, 0), (1, 1), and (2, 4). Which description best fits the relationship?",
+      "choices": {
+        "A": "A curved pattern falls to a minimum and then rises.",
+        "B": "A single increasing straight line passes through all points.",
+        "C": "A single decreasing straight line passes through all points.",
+        "D": "All y-values are equal."
+      },
+      "correct": "A",
+      "correctAnswer": "A curved pattern falls to a minimum and then rises.",
+      "explanation": "From left to right, y falls from 4 to 0 and rises back to 4, forming a U-shaped pattern rather than a straight trend."
+    },
+    {
+      "id": "HSPT-M13-032",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A coin has probability 4/5 of heads on each independent toss. It is tossed twice, and you are told the two results differ. What is the probability that the FIRST toss was heads?",
+      "choices": {
+        "A": "4/5",
+        "B": "1/5",
+        "C": "16/25",
+        "D": "1/2"
+      },
+      "correct": "D",
+      "correctAnswer": "1/2",
+      "explanation": "Heads-then-tails and tails-then-heads each have probability (4/5)(1/5) = 4/25. Conditioning on these equally likely alternatives gives 1/2."
+    },
+    {
+      "id": "HSPT-M13-033",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which estimate is closest to 1/198 + 1/202?",
+      "choices": {
+        "A": "0.01",
+        "B": "0.0001",
+        "C": "0.1",
+        "D": "1.0"
+      },
+      "correct": "A",
+      "correctAnswer": "0.01",
+      "explanation": "Both fractions are close to 1/200, so their sum is close to 2/200 = 1/100 = 0.01."
+    },
+    {
+      "id": "HSPT-M13-034",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A design uses 300 strips, each exactly 2/3 meter long. A planning program substitutes 0.67 meter for every strip. By how much does its computed total exceed the exact total?",
+      "choices": {
+        "A": "0.0033 meter",
+        "B": "0.3 meter",
+        "C": "1 meter",
+        "D": "3 meters"
+      },
+      "correct": "C",
+      "correctAnswer": "1 meter",
+      "explanation": "The exact total is 300 × 2/3 = 200 meters; the program obtains 300 × 0.67 = 201 meters, an excess of 1 meter."
+    },
+    {
+      "id": "HSPT-M13-035",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Write (6 × 10³) + (7 × 10²) in scientific notation with a coefficient at least 1 and less than 10.",
+      "choices": {
+        "A": "6.07 × 10³",
+        "B": "13 × 10³",
+        "C": "6.7 × 10²",
+        "D": "6.7 × 10³"
+      },
+      "correct": "D",
+      "correctAnswer": "6.7 × 10³",
+      "explanation": "The terms are 6,000 and 700, totaling 6,700. Keeping the common scale of 1,000 gives the normalized coefficient 6.7."
+    },
+    {
+      "id": "HSPT-M13-036",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "For how many positive integers n are BOTH n and n + 24 perfect squares?",
+      "choices": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "Infinitely many"
+      },
+      "correct": "B",
+      "correctAnswer": "2",
+      "explanation": "Write n = a² and n + 24 = b². Then (b − a)(b + a) = 24; even factor pairs (2, 12) and (4, 6) give n = 25 and 1."
+    },
+    {
+      "id": "HSPT-M13-037",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which expression has the same value for EVERY real value of x?",
+      "choices": {
+        "A": "x + 4",
+        "B": "4x",
+        "C": "(x + 4) − x",
+        "D": "x² + 4"
+      },
+      "correct": "C",
+      "correctAnswer": "(x + 4) − x",
+      "explanation": "The two x terms cancel in (x + 4) − x, leaving the constant 4; the other expressions vary as x changes."
+    },
+    {
+      "id": "HSPT-M13-038",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Two rules are f(x) = 2x − 5 and g(x) = x². What is g(f(4)), found by using f(4) as the input to g?",
+      "choices": {
+        "A": "27",
+        "B": "9",
+        "C": "11",
+        "D": "−1"
+      },
+      "correct": "B",
+      "correctAnswer": "9",
+      "explanation": "First f(4) = 8 − 5 = 3; then g(3) = 3² = 9, so the first output becomes the second input."
+    },
+    {
+      "id": "HSPT-M13-039",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A function satisfies f(2) = 5 and f(3) = 7. No other rule is given. What can be concluded about f(5)?",
+      "choices": {
+        "A": "Its value cannot be determined from those facts.",
+        "B": "Its value must be 12.",
+        "C": "Its value must be 11.",
+        "D": "Its value must be 17."
+      },
+      "correct": "A",
+      "correctAnswer": "Its value cannot be determined from those facts.",
+      "explanation": "The two facts fix outputs at inputs 2 and 3 only; additivity or a linear rule cannot be assumed for the different input 5."
+    },
+    {
+      "id": "HSPT-M13-040",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For which complete set of x-values do the two rules y = x² and y = x + 2 give the same output?",
+      "choices": {
+        "A": "{1, 2}",
+        "B": "{−2, 1}",
+        "C": "{−1, 1}",
+        "D": "{−1, 2}"
+      },
+      "correct": "D",
+      "correctAnswer": "{−1, 2}",
+      "explanation": "Set x² = x + 2. Then x² − x − 2 = (x − 2)(x + 1) = 0, giving x = 2 or x = −1."
+    },
+    {
+      "id": "HSPT-M13-041",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A convex polyhedron satisfies V − E + F = 2, where V, E, and F count vertices, edges, and faces. If V = 10 and E = 15, how many faces does it have?",
+      "choices": {
+        "A": "5",
+        "B": "12",
+        "C": "27",
+        "D": "7"
+      },
+      "correct": "D",
+      "correctAnswer": "7",
+      "explanation": "Substitute the counts: 10 − 15 + F = 2. Thus F − 5 = 2, so the polyhedron has 7 faces."
+    },
+    {
+      "id": "HSPT-M13-042",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Triangle ABC has A = (0, 0), B = (4, 0), and C = (6, 3). The altitude from C is perpendicular to the LINE through AB. Where does it meet that line?",
+      "choices": {
+        "A": "(4, 0), at B",
+        "B": "(6, 0), beyond B",
+        "C": "(3, 0), between A and B",
+        "D": "(0, 3), beside C"
+      },
+      "correct": "B",
+      "correctAnswer": "(6, 0), beyond B",
+      "explanation": "AB lies on the horizontal line y = 0, so the perpendicular from C keeps x = 6 and meets the extended line at (6, 0)."
+    },
+    {
+      "id": "HSPT-M13-043",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Points A and B are 10 units apart. Which set consists of ALL points P for which PA + PB = 10?",
+      "choices": {
+        "A": "the entire straight line through A and B",
+        "B": "the segment AB, including A and B",
+        "C": "the circle with center A and radius 10",
+        "D": "the perpendicular bisector of segment AB"
+      },
+      "correct": "B",
+      "correctAnswer": "the segment AB, including A and B",
+      "explanation": "On segment AB, the two distances add to AB. Beyond either endpoint or off the line, their sum is greater than 10."
+    },
+    {
+      "id": "HSPT-M13-044",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A sealed package is moved from Earth to the Moon without changing its contents. Local gravity is weaker on the Moon. Which quantity remains unchanged?",
+      "choices": {
+        "A": "the package's gravitational weight in newtons",
+        "B": "the local gravitational acceleration",
+        "C": "the package's mass in kilograms",
+        "D": "the force needed to support the package at rest"
+      },
+      "correct": "C",
+      "correctAnswer": "the package's mass in kilograms",
+      "explanation": "Mass measures the amount of matter and remains unchanged; gravitational weight and the supporting force depend on the weaker local gravity."
+    },
+    {
+      "id": "HSPT-M13-045",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "On a flat floor, a robot travels 5 meters east, then 12 meters north, then returns directly to its starting point. How much TOTAL distance does its travel recorder register?",
+      "choices": {
+        "A": "0 meters",
+        "B": "13 meters",
+        "C": "30 meters",
+        "D": "17 meters"
+      },
+      "correct": "C",
+      "correctAnswer": "30 meters",
+      "explanation": "The direct return is √(5² + 12²) = 13 meters. The total path length is 5 + 12 + 13 = 30 meters."
+    },
+    {
+      "id": "HSPT-M13-046",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "In a survey, each person may choose several preferred fabrics. The percentages choosing wool, cotton, and linen total 170%. Which conclusion is justified?",
+      "choices": {
+        "A": "The survey must contain an arithmetic error.",
+        "B": "Exactly 70% of the people chose all three fabrics.",
+        "C": "Every person chose at least two fabrics.",
+        "D": "The total can exceed 100% because one person can be counted in several categories."
+      },
+      "correct": "D",
+      "correctAnswer": "The total can exceed 100% because one person can be counted in several categories.",
+      "explanation": "Multiple selections let the categories overlap, so their percentages need not sum to 100%; the total alone does not determine individual combinations."
+    },
+    {
+      "id": "HSPT-M13-047",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Eleven integer measurements are grouped as follows: 0–9 has 2 observations; 10–19 has 6; 20–29 has 3. What can be concluded about the median?",
+      "choices": {
+        "A": "It is between 10 and 19, inclusive.",
+        "B": "It is exactly 15.",
+        "C": "It is exactly 6.",
+        "D": "It is between 20 and 29, inclusive."
+      },
+      "correct": "A",
+      "correctAnswer": "It is between 10 and 19, inclusive.",
+      "explanation": "The median is the sixth ordered observation. Positions 3 through 8 fall in the 10–19 group, but their individual values are not supplied."
+    },
+    {
+      "id": "HSPT-M13-048",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A point (x, y) is selected uniformly from the square 0 ≤ x ≤ 1 and 0 ≤ y ≤ 1, so equal areas are equally likely. What is the probability that y < x/2?",
+      "choices": {
+        "A": "1/4",
+        "B": "1/2",
+        "C": "1/8",
+        "D": "3/4"
+      },
+      "correct": "A",
+      "correctAnswer": "1/4",
+      "explanation": "The favorable region is the triangle below y = x/2, with base 1 and height 1/2. Its area is (1/2)(1)(1/2) = 1/4 of the unit square."
+    },
+    {
+      "id": "HSPT-M13-049",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number multiplied by 1 3/5 equals 1?",
+      "choices": {
+        "A": "8/5",
+        "B": "3/5",
+        "C": "5/8",
+        "D": "5/3"
+      },
+      "correct": "C",
+      "correctAnswer": "5/8",
+      "explanation": "The mixed number is 8/5. Its reciprocal is 5/8 because (8/5)(5/8) = 1; merely reversing the fractional part would be incorrect."
+    },
+    {
+      "id": "HSPT-M13-050",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "The decimal 0.416416416… repeats the block 416 forever. What is the sum of the FIRST 20 digits after the decimal point?",
+      "choices": {
+        "A": "71",
+        "B": "66",
+        "C": "70",
+        "D": "77"
+      },
+      "correct": "A",
+      "correctAnswer": "71",
+      "explanation": "Twenty digits contain six full 416 blocks and the next digits 4 and 1. Their sum is 6(4 + 1 + 6) + 4 + 1 = 71."
+    },
+    {
+      "id": "HSPT-M13-051",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Pieces of lengths 4 and 7 units may be joined end to end, using any nonnegative whole number of each. What is the LARGEST positive integer length that cannot be made?",
+      "choices": {
+        "A": "17",
+        "B": "13",
+        "C": "18",
+        "D": "21"
+      },
+      "correct": "A",
+      "correctAnswer": "17",
+      "explanation": "17 cannot equal 4a + 7b for nonnegative integers. Lengths 18, 19, 20, and 21 are possible; adding 4 covers every larger length, so 17 is the largest gap."
+    },
+    {
+      "id": "HSPT-M13-052",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Terms are separated by addition or subtraction outside parentheses. How many terms does 3x² − 4x + 7 have?",
+      "choices": {
+        "A": "2",
+        "B": "4",
+        "C": "3",
+        "D": "7"
+      },
+      "correct": "C",
+      "correctAnswer": "3",
+      "explanation": "The terms are 3x², −4x, and 7; the exponent does not create an extra term, and the constant counts as a term."
+    },
+    {
+      "id": "HSPT-M13-053",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Positive numbers p, q, and r satisfy p = qr². Which formula gives r?",
+      "choices": {
+        "A": "p/q²",
+        "B": "(√p)/q",
+        "C": "p²/q",
+        "D": "√(p/q)"
+      },
+      "correct": "D",
+      "correctAnswer": "√(p/q)",
+      "explanation": "Divide by positive q to get r² = p/q. Since r is positive, take the positive square root: r = √(p/q)."
+    },
+    {
+      "id": "HSPT-M13-054",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For real inputs, g(x) = 1/(x² − 9). Which inputs must be excluded from its domain?",
+      "choices": {
+        "A": "3 only",
+        "B": "−9 and 9",
+        "C": "−3 and 3",
+        "D": "0 only"
+      },
+      "correct": "C",
+      "correctAnswer": "−3 and 3",
+      "explanation": "The denominator must not be zero. Solving x² − 9 = 0 gives x = −3 or x = 3, so both inputs are excluded."
+    },
+    {
+      "id": "HSPT-M13-055",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which interval gives ALL real solutions of (x − 2)(x + 3) < 0?",
+      "choices": {
+        "A": "x < −3 or x > 2",
+        "B": "x < −3",
+        "C": "x > 2",
+        "D": "−3 < x < 2"
+      },
+      "correct": "D",
+      "correctAnswer": "−3 < x < 2",
+      "explanation": "A negative product requires opposite signs. Between −3 and 2, x + 3 is positive and x − 2 is negative; outside that interval their signs match."
+    },
+    {
+      "id": "HSPT-M13-056",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A polygon does not cross itself and has an interior angle of 225°. Which statement must be true?",
+      "choices": {
+        "A": "It is concave.",
+        "B": "It is a regular polygon.",
+        "C": "Every interior angle is 225°.",
+        "D": "It has exactly three sides."
+      },
+      "correct": "A",
+      "correctAnswer": "It is concave.",
+      "explanation": "An interior angle greater than 180° creates an inward indentation, making a noncrossing polygon concave rather than convex."
+    },
+    {
+      "id": "HSPT-M13-057",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "On a standard analog clock at exactly 3:20, what is the smaller angle between the hour and minute hands?",
+      "choices": {
+        "A": "10°",
+        "B": "20°",
+        "C": "30°",
+        "D": "120°"
+      },
+      "correct": "B",
+      "correctAnswer": "20°",
+      "explanation": "The minute hand is 120° clockwise from 12. The hour hand is 90° + (20/60) × 30° = 100°, leaving a 20° angle."
+    },
+    {
+      "id": "HSPT-M13-058",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A square has side length 10. At EACH corner, cut along the segment joining points 3 units from that corner on its two adjacent sides. What is the perimeter of the remaining octagon?",
+      "choices": {
+        "A": "40 + 12√2 units",
+        "B": "16 + 6√2 units",
+        "C": "16 + 12√2 units",
+        "D": "28 units"
+      },
+      "correct": "C",
+      "correctAnswer": "16 + 12√2 units",
+      "explanation": "Four original side portions remain, each 10 − 3 − 3 = 4. Each of four cuts has length √(3² + 3²) = 3√2, giving 16 + 12√2."
+    },
+    {
+      "id": "HSPT-M13-059",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Which sum can represent a single physically meaningful measurement after converting units, without changing the type of quantity?",
+      "choices": {
+        "A": "3 meters + 40 centimeters",
+        "B": "3 meters + 40 square centimeters",
+        "C": "3 kilograms + 40 seconds",
+        "D": "3 liters + 40 degrees"
+      },
+      "correct": "A",
+      "correctAnswer": "3 meters + 40 centimeters",
+      "explanation": "Meters and centimeters both measure length; converting 40 centimeters to 0.4 meter gives a valid total length of 3.4 meters."
+    },
+    {
+      "id": "HSPT-M13-060",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Water fills a straight trough uniformly along its 2-meter length. Its triangular water cross section has base 6 centimeters and height 3 centimeters. If 1 liter = 1,000 cubic centimeters, how many liters are in the trough?",
+      "choices": {
+        "A": "3.6 liters",
+        "B": "0.018 liter",
+        "C": "1,800 liters",
+        "D": "1.8 liters"
+      },
+      "correct": "D",
+      "correctAnswer": "1.8 liters",
+      "explanation": "The cross-sectional area is (1/2)(6)(3) = 9 square centimeters. Multiplying by 200 centimeters gives 1,800 cubic centimeters, or 1.8 liters."
+    },
+    {
+      "id": "HSPT-M13-061",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Counting CALENDAR DAYS, a period runs from the beginning of a month to the beginning of the following month. Neither month nor year is specified. Which statement about the number of days is correct?",
+      "choices": {
+        "A": "It must be exactly 30 days.",
+        "B": "It must be exactly four weeks.",
+        "C": "It must be exactly 31 days.",
+        "D": "It can be 28, 29, 30, or 31 days."
+      },
+      "correct": "D",
+      "correctAnswer": "It can be 28, 29, 30, or 31 days.",
+      "explanation": "Calendar months have different lengths, including February's year-dependent length; one calendar month therefore cannot be replaced by one fixed number of days."
+    },
+    {
+      "id": "HSPT-M13-062",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Which decimal is a possible probability?",
+      "choices": {
+        "A": "−0.25",
+        "B": "0.65",
+        "C": "1.05",
+        "D": "2.0"
+      },
+      "correct": "B",
+      "correctAnswer": "0.65",
+      "explanation": "A probability must lie between 0 and 1, inclusive. The value 0.65 meets that bound, while the other listed values do not."
+    },
+    {
+      "id": "HSPT-M13-063",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A population contains 72 marked animals. A later sample of 30 contains 6 marked animals. A model assumes the marked fraction in the sample equals the marked fraction in the population. What population size does it estimate?",
+      "choices": {
+        "A": "144",
+        "B": "360",
+        "C": "216",
+        "D": "432"
+      },
+      "correct": "B",
+      "correctAnswer": "360",
+      "explanation": "The marked fraction is 6/30 = 1/5. Under the stated model, 72 is one-fifth of the population, so the estimated size is 72 × 5 = 360."
+    },
+    {
+      "id": "HSPT-M13-064",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Two fair six-sided number cubes, labeled 1 through 6, are rolled independently. Given that their PRODUCT is even, what is the probability that their SUM is odd?",
+      "choices": {
+        "A": "1/2",
+        "B": "2/3",
+        "C": "3/4",
+        "D": "1/3"
+      },
+      "correct": "B",
+      "correctAnswer": "2/3",
+      "explanation": "Of 36 pairs, the 9 odd-odd pairs are excluded. Of the 27 remaining pairs, 18 have mixed parity and an odd sum, giving 18/27 = 2/3."
+    }
+  ]
+}

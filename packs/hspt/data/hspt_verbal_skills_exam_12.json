@@ -1,0 +1,1029 @@
+{
+  "title": "HSPT Verbal Skills Practice Test 12",
+  "examFamily": "hspt",
+  "examNumber": 12,
+  "section": "Verbal Skills",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-V12-001",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to proximity?",
+      "choices": {
+        "A": "height",
+        "B": "nearness",
+        "C": "direction",
+        "D": "distance traveled"
+      },
+      "correct": "B",
+      "correctAnswer": "nearness",
+      "explanation": "Proximity describes how near something is to another thing, rather than its height, direction, or total movement."
+    },
+    {
+      "id": "HSPT-V12-002",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to expedite?",
+      "choices": {
+        "A": "inspect",
+        "B": "distribute",
+        "C": "hasten",
+        "D": "complicate"
+      },
+      "correct": "C",
+      "correctAnswer": "hasten",
+      "explanation": "To expedite something is to help it happen more quickly, so hasten expresses the intended action."
+    },
+    {
+      "id": "HSPT-V12-003",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best expresses the meaning of nostalgia?",
+      "choices": {
+        "A": "affectionate longing for the past",
+        "B": "uneasiness about an approaching event",
+        "C": "satisfaction in another person's success",
+        "D": "curiosity about an unfamiliar place"
+      },
+      "correct": "A",
+      "correctAnswer": "affectionate longing for the past",
+      "explanation": "Nostalgia combines fond remembrance with longing for an earlier time, rather than concern about the future or interest in something unfamiliar."
+    },
+    {
+      "id": "HSPT-V12-004",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to skeptical, as in skeptical of an explanation?",
+      "choices": {
+        "A": "doubtful",
+        "B": "convinced",
+        "C": "questioning",
+        "D": "uncertain"
+      },
+      "correct": "B",
+      "correctAnswer": "convinced",
+      "explanation": "Someone skeptical doubts an explanation, while someone convinced accepts it as true rather than continuing to question it."
+    },
+    {
+      "id": "HSPT-V12-005",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to fluent, as in a fluent delivery of a speech?",
+      "choices": {
+        "A": "flowing",
+        "B": "smooth",
+        "C": "halting",
+        "D": "effortless"
+      },
+      "correct": "C",
+      "correctAnswer": "halting",
+      "explanation": "A fluent delivery proceeds smoothly, whereas a halting delivery is interrupted by pauses or hesitation that disrupt its flow."
+    },
+    {
+      "id": "HSPT-V12-006",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to heterogeneous, as in a heterogeneous mixture?",
+      "choices": {
+        "A": "varied",
+        "B": "diverse",
+        "C": "mixed",
+        "D": "uniform"
+      },
+      "correct": "D",
+      "correctAnswer": "uniform",
+      "explanation": "A heterogeneous mixture contains unlike components, whereas uniform describes a mixture that is consistent throughout rather than varied."
+    },
+    {
+      "id": "HSPT-V12-007",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Fault is to blame as achievement is to ____.",
+      "choices": {
+        "A": "credit",
+        "B": "delay",
+        "C": "practice",
+        "D": "effort"
+      },
+      "correct": "A",
+      "correctAnswer": "credit",
+      "explanation": "Blame is assigned for a fault, just as credit is assigned for an achievement; both are judgments attributed to their respective grounds."
+    },
+    {
+      "id": "HSPT-V12-008",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Encrypt is to decrypt as compress is to ____.",
+      "choices": {
+        "A": "record",
+        "B": "archive",
+        "C": "decompress",
+        "D": "transmit"
+      },
+      "correct": "C",
+      "correctAnswer": "decompress",
+      "explanation": "Decrypting reverses encryption, just as decompressing reverses compression; the second operation undoes the change made by the first."
+    },
+    {
+      "id": "HSPT-V12-009",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Exile is to country as eviction is to ____.",
+      "choices": {
+        "A": "tenant",
+        "B": "home",
+        "C": "lease",
+        "D": "rent"
+      },
+      "correct": "B",
+      "correctAnswer": "home",
+      "explanation": "Exile involves being forced from a country, while eviction involves being forced from a home; each action is paired with the place left."
+    },
+    {
+      "id": "HSPT-V12-010",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with canal, duct, and tunnel as a constructed passage?",
+      "choices": {
+        "A": "corridor",
+        "B": "precipice",
+        "C": "lagoon",
+        "D": "meadow"
+      },
+      "correct": "A",
+      "correctAnswer": "corridor",
+      "explanation": "A corridor is a constructed passage, like a canal, duct, or tunnel; the other choices name natural landscape features."
+    },
+    {
+      "id": "HSPT-V12-011",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Three choices describe being or extending all around something. Which describes crossing something instead?",
+      "choices": {
+        "A": "encircle",
+        "B": "intersect",
+        "C": "surround",
+        "D": "envelop"
+      },
+      "correct": "B",
+      "correctAnswer": "intersect",
+      "explanation": "Intersect means cross or meet, while encircle, surround, and envelop describe an all-around relation to something."
+    },
+    {
+      "id": "HSPT-V12-012",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair consists of nouns whose standard singular and plural forms are spelled identically?",
+      "choices": {
+        "A": "analysis; basis",
+        "B": "criterion; phenomenon",
+        "C": "medium; radius",
+        "D": "series; species"
+      },
+      "correct": "D",
+      "correctAnswer": "series; species",
+      "explanation": "One series and several series use the same spelling, as do one species and several species; the other pairs change in the plural."
+    },
+    {
+      "id": "HSPT-V12-013",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A guide gives these complete instructions: \"If the flag is not red, use the upper path. If the flag is red, use the lower path unless the bell is sounding; in that case, wait.\" A traveler hears the bell and correctly waits. What must be true?",
+      "choices": {
+        "A": "The flag is not red.",
+        "B": "The upper path is closed.",
+        "C": "The lower path is closed.",
+        "D": "The flag is red."
+      },
+      "correct": "D",
+      "correctAnswer": "The flag is red.",
+      "explanation": "Waiting is prescribed only in the red-flag branch when the bell sounds; a sounding bell alone does not override the nonred instruction."
+    },
+    {
+      "id": "HSPT-V12-014",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Four flags appear from left to right as J, K, L, M. First, the two middle flags exchange places. Then the entire row is reversed. What is the final left-to-right order?",
+      "choices": {
+        "A": "J, L, K, M",
+        "B": "M, L, K, J",
+        "C": "M, K, L, J",
+        "D": "K, J, M, L"
+      },
+      "correct": "C",
+      "correctAnswer": "M, K, L, J",
+      "explanation": "Exchanging the middle flags gives J, L, K, M; reversing that whole row then gives M, K, L, J."
+    },
+    {
+      "id": "HSPT-V12-015",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A viewing booth is acceptable only if it has a seat and at least one of these: a window or a camera feed. Which booth meets these requirements?",
+      "choices": {
+        "A": "A booth with a seat and a window but no camera feed",
+        "B": "A booth with a window and a camera feed but no seat",
+        "C": "A booth with a seat but neither a window nor a camera feed",
+        "D": "A booth with a camera feed but neither a seat nor a window"
+      },
+      "correct": "A",
+      "correctAnswer": "A booth with a seat and a window but no camera feed",
+      "explanation": "The seat is mandatory, while the window and camera feed are alternatives; the seated booth with a window satisfies both parts."
+    },
+    {
+      "id": "HSPT-V12-016",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to sentry?",
+      "choices": {
+        "A": "passenger",
+        "B": "customer",
+        "C": "host",
+        "D": "guard"
+      },
+      "correct": "D",
+      "correctAnswer": "guard",
+      "explanation": "A sentry is a person assigned to stand watch or guard a place, rather than someone merely visiting or receiving service."
+    },
+    {
+      "id": "HSPT-V12-017",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to tacit, as in tacit approval?",
+      "choices": {
+        "A": "reluctant",
+        "B": "unspoken",
+        "C": "public",
+        "D": "temporary"
+      },
+      "correct": "B",
+      "correctAnswer": "unspoken",
+      "explanation": "Tacit approval is understood without being stated directly; the word describes how approval is conveyed, not how long it lasts."
+    },
+    {
+      "id": "HSPT-V12-018",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best expresses vicarious, as in vicarious excitement?",
+      "choices": {
+        "A": "felt only after a long delay",
+        "B": "deliberately hidden from everyone",
+        "C": "caused by an unexpected danger",
+        "D": "experienced through another person"
+      },
+      "correct": "D",
+      "correctAnswer": "experienced through another person",
+      "explanation": "Vicarious excitement comes through another person's experience, such as sharing a traveler's adventures through that person's account."
+    },
+    {
+      "id": "HSPT-V12-019",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to peripheral, as in a peripheral issue?",
+      "choices": {
+        "A": "central",
+        "B": "minor",
+        "C": "secondary",
+        "D": "incidental"
+      },
+      "correct": "A",
+      "correctAnswer": "central",
+      "explanation": "A peripheral issue lies outside the main concern, while a central issue belongs to the heart of that concern."
+    },
+    {
+      "id": "HSPT-V12-020",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to finite?",
+      "choices": {
+        "A": "bounded",
+        "B": "restricted",
+        "C": "unlimited",
+        "D": "measurable"
+      },
+      "correct": "C",
+      "correctAnswer": "unlimited",
+      "explanation": "Finite means having limits or an end, whereas unlimited describes something without the limiting boundary expressed by finite."
+    },
+    {
+      "id": "HSPT-V12-021",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to benevolent?",
+      "choices": {
+        "A": "charitable",
+        "B": "kindly",
+        "C": "malevolent",
+        "D": "well-meaning"
+      },
+      "correct": "C",
+      "correctAnswer": "malevolent",
+      "explanation": "Benevolent describes wishing others well, while malevolent describes wishing them harm, making the intentions directly opposed."
+    },
+    {
+      "id": "HSPT-V12-022",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Parody is to style as caricature is to ____.",
+      "choices": {
+        "A": "appearance",
+        "B": "ownership",
+        "C": "distance",
+        "D": "chronology"
+      },
+      "correct": "A",
+      "correctAnswer": "appearance",
+      "explanation": "A parody humorously exaggerates features of a style, just as a caricature humorously exaggerates features of someone's appearance."
+    },
+    {
+      "id": "HSPT-V12-023",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Bilingual is to languages as ambidextrous is to ____.",
+      "choices": {
+        "A": "feet",
+        "B": "eyes",
+        "C": "ears",
+        "D": "hands"
+      },
+      "correct": "D",
+      "correctAnswer": "hands",
+      "explanation": "A bilingual person can use two languages; an ambidextrous person can use both hands skillfully, pairing each ability with its domain."
+    },
+    {
+      "id": "HSPT-V12-024",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Aroma is to smell as musical pitch is to ____.",
+      "choices": {
+        "A": "sight",
+        "B": "taste",
+        "C": "balance",
+        "D": "hearing"
+      },
+      "correct": "D",
+      "correctAnswer": "hearing",
+      "explanation": "An aroma is perceived through smell, while musical pitch is perceived through hearing; each quality is paired with its direct sensory channel."
+    },
+    {
+      "id": "HSPT-V12-025",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with aunt, niece, and cousin as a family relationship?",
+      "choices": {
+        "A": "nephew",
+        "B": "colleague",
+        "C": "visitor",
+        "D": "coach"
+      },
+      "correct": "A",
+      "correctAnswer": "nephew",
+      "explanation": "Nephew names a family relationship, whereas colleague, visitor, and coach identify other kinds of relationships or roles."
+    },
+    {
+      "id": "HSPT-V12-026",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Three choices describe ways a liquid can move. Which describes slow burning instead?",
+      "choices": {
+        "A": "gush",
+        "B": "smolder",
+        "C": "trickle",
+        "D": "seep"
+      },
+      "correct": "B",
+      "correctAnswer": "smolder",
+      "explanation": "Smolder means burn slowly without a strong flame; gush, trickle, and seep describe different ways liquid moves."
+    },
+    {
+      "id": "HSPT-V12-027",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which phrase combines words with directly opposing literal meanings?",
+      "choices": {
+        "A": "constant noise",
+        "B": "distant thunder",
+        "C": "deafening silence",
+        "D": "gentle whisper"
+      },
+      "correct": "C",
+      "correctAnswer": "deafening silence",
+      "explanation": "Deafening suggests overwhelming sound, while silence means absence of sound; their literal opposition creates a deliberate contradiction."
+    },
+    {
+      "id": "HSPT-V12-028",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Every visitor to an exhibition chooses at least one postcard. No postcard is chosen by every visitor. Which statement must be true?",
+      "choices": {
+        "A": "All visitors choose the same single postcard.",
+        "B": "Not all visitors choose exactly the same set of postcards.",
+        "C": "No visitor chooses more than one postcard.",
+        "D": "Some visitor chooses no postcard at all."
+      },
+      "correct": "B",
+      "correctAnswer": "Not all visitors choose exactly the same set of postcards.",
+      "explanation": "If everyone chose an identical nonempty set, each postcard in that set would be chosen by everyone, contradicting the stated condition."
+    },
+    {
+      "id": "HSPT-V12-029",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Files are sorted first by room, with Elm before Pine, and then by priority within each room, with urgent before ordinary. K is Elm ordinary; L is Pine urgent; M is Elm urgent; N is Pine ordinary. What is the correct order?",
+      "choices": {
+        "A": "L, M, K, N",
+        "B": "M, L, K, N",
+        "C": "M, K, L, N",
+        "D": "K, M, N, L"
+      },
+      "correct": "C",
+      "correctAnswer": "M, K, L, N",
+      "explanation": "The Elm files must come first, with urgent M before ordinary K; the Pine files follow, with urgent L before ordinary N."
+    },
+    {
+      "id": "HSPT-V12-030",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Cards R, S, and T are stacked with R at the bottom and T at the top. Remove the top card, add U to the top, remove the top card, and remove the top card again. Which card remains?",
+      "choices": {
+        "A": "S",
+        "B": "R",
+        "C": "T",
+        "D": "U"
+      },
+      "correct": "B",
+      "correctAnswer": "R",
+      "explanation": "Removing T leaves R and S; adding and removing U leaves that pair again, and removing S leaves R."
+    },
+    {
+      "id": "HSPT-V12-031",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase is closest in meaning to tether in the phrase a dog's tether?",
+      "choices": {
+        "A": "restraining line",
+        "B": "covered shelter",
+        "C": "trail marker",
+        "D": "feeding dish"
+      },
+      "correct": "A",
+      "correctAnswer": "restraining line",
+      "explanation": "A tether is a line or similar fastening that restrains an animal by connecting it to a fixed point."
+    },
+    {
+      "id": "HSPT-V12-032",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best expresses relegate, as in relegate someone to a minor role?",
+      "choices": {
+        "A": "promote to higher authority",
+        "B": "ask for an expert opinion",
+        "C": "assign to a lower position",
+        "D": "copy a distinctive manner"
+      },
+      "correct": "C",
+      "correctAnswer": "assign to a lower position",
+      "explanation": "To relegate someone is to assign that person a less important position, rather than promote or consult the person."
+    },
+    {
+      "id": "HSPT-V12-033",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase is closest in meaning to recant a stated belief?",
+      "choices": {
+        "A": "reaffirm it firmly",
+        "B": "explain it more clearly",
+        "C": "postpone discussing it",
+        "D": "withdraw it publicly"
+      },
+      "correct": "D",
+      "correctAnswer": "withdraw it publicly",
+      "explanation": "Recant means take back a previously stated belief or opinion; explaining or delaying discussion does not withdraw the original claim."
+    },
+    {
+      "id": "HSPT-V12-034",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to convergent, as in convergent paths?",
+      "choices": {
+        "A": "divergent",
+        "B": "meeting",
+        "C": "approaching",
+        "D": "joining"
+      },
+      "correct": "A",
+      "correctAnswer": "divergent",
+      "explanation": "Convergent paths move toward a common point, whereas divergent paths move apart, reversing the direction of their relationship."
+    },
+    {
+      "id": "HSPT-V12-035",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to legible?",
+      "choices": {
+        "A": "bold",
+        "B": "neat",
+        "C": "printed",
+        "D": "unreadable"
+      },
+      "correct": "D",
+      "correctAnswer": "unreadable",
+      "explanation": "Legible writing can be read, while unreadable writing cannot; the other choices describe appearance or production without reversing readability."
+    },
+    {
+      "id": "HSPT-V12-036",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to synchronous, describing events occurring at the same time?",
+      "choices": {
+        "A": "simultaneous",
+        "B": "concurrent",
+        "C": "staggered",
+        "D": "coincident"
+      },
+      "correct": "C",
+      "correctAnswer": "staggered",
+      "explanation": "Synchronous events occur together in time, whereas staggered events are arranged at different times; the other choices preserve temporal coincidence."
+    },
+    {
+      "id": "HSPT-V12-037",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Invitation is to guest as invoice is to ____.",
+      "choices": {
+        "A": "bystander",
+        "B": "spectator",
+        "C": "customer",
+        "D": "tourist"
+      },
+      "correct": "C",
+      "correctAnswer": "customer",
+      "explanation": "An invitation is addressed to an intended guest; an invoice is addressed to a customer expected to pay for goods or services."
+    },
+    {
+      "id": "HSPT-V12-038",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Reference asterisk is to footnote as map symbol is to ____.",
+      "choices": {
+        "A": "border",
+        "B": "legend",
+        "C": "latitude",
+        "D": "projection"
+      },
+      "correct": "B",
+      "correctAnswer": "legend",
+      "explanation": "A reference asterisk directs a reader to an explanatory footnote, just as a map symbol directs the reader to its explanation in a legend."
+    },
+    {
+      "id": "HSPT-V12-039",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Anonymous is to name as undated is to ____.",
+      "choices": {
+        "A": "location",
+        "B": "signature",
+        "C": "date",
+        "D": "price"
+      },
+      "correct": "C",
+      "correctAnswer": "date",
+      "explanation": "Anonymous describes something whose source is unnamed; undated describes something without a stated date, pairing each adjective with missing identifying information."
+    },
+    {
+      "id": "HSPT-V12-040",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with yesterday, today, and tomorrow as an expression of time?",
+      "choices": {
+        "A": "nearby",
+        "B": "below",
+        "C": "outside",
+        "D": "soon"
+      },
+      "correct": "D",
+      "correctAnswer": "soon",
+      "explanation": "Soon identifies when something occurs, like yesterday, today, and tomorrow; the other choices indicate location rather than time."
+    },
+    {
+      "id": "HSPT-V12-041",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "What do memorial, tribute, and eulogy have in common?",
+      "choices": {
+        "A": "They request forgiveness for an offense.",
+        "B": "They can honor or remember a person.",
+        "C": "They formally announce disagreement.",
+        "D": "They promise a particular future action."
+      },
+      "correct": "B",
+      "correctAnswer": "They can honor or remember a person.",
+      "explanation": "Each can express honor or remembrance; none necessarily requests forgiveness, declares disagreement, or commits its speaker to future conduct."
+    },
+    {
+      "id": "HSPT-V12-042",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which group forms three standard adverbs by adding only the letters ly, without changing or adding any other letters?",
+      "choices": {
+        "A": "calm, brief, stern",
+        "B": "happy, easy, angry",
+        "C": "basic, tragic, automatic",
+        "D": "gentle, simple, humble"
+      },
+      "correct": "A",
+      "correctAnswer": "calm, brief, stern",
+      "explanation": "Calmly, briefly, and sternly simply append ly; the other groups require changing y, adding extra letters, or altering the final e."
+    },
+    {
+      "id": "HSPT-V12-043",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A copper panel can enter Station C only if it is flat and dry. It can enter Station S only if it has exactly one of a red tag and a green tag. A dry, nonflat panel has both tags. Which preparation satisfies both stations' requirements?",
+      "choices": {
+        "A": "Flatten it without changing its tags.",
+        "B": "Flatten it and remove its green tag.",
+        "C": "Remove its green tag without flattening it.",
+        "D": "Flatten it and wet it without changing its tags."
+      },
+      "correct": "B",
+      "correctAnswer": "Flatten it and remove its green tag.",
+      "explanation": "Flattening supplies the missing condition for Station C, and removing one tag satisfies Station S without sacrificing the panel's dryness."
+    },
+    {
+      "id": "HSPT-V12-044",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Recording R starts before recording S starts and ends after S ends. Recording T begins after S ends but before R ends. What must be true?",
+      "choices": {
+        "A": "T begins after R starts and before R ends.",
+        "B": "T must finish before R ends.",
+        "C": "R ends before T begins.",
+        "D": "S and T must overlap in time."
+      },
+      "correct": "A",
+      "correctAnswer": "T begins after R starts and before R ends.",
+      "explanation": "R has already started when S begins; T begins after S ends but before R ends, placing T's beginning inside R's interval."
+    },
+    {
+      "id": "HSPT-V12-045",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A valid label begins and ends with the same letter and contains no pair of identical letters side by side. Which label is valid?",
+      "choices": {
+        "A": "KABYA",
+        "B": "KAAYK",
+        "C": "KKBYK",
+        "D": "KABYK"
+      },
+      "correct": "D",
+      "correctAnswer": "KABYK",
+      "explanation": "KABYK begins and ends with K without adjacent repeated letters; each alternative violates either the endpoint condition or the adjacency condition."
+    },
+    {
+      "id": "HSPT-V12-046",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase is closest in meaning to coax?",
+      "choices": {
+        "A": "accuse publicly",
+        "B": "describe precisely",
+        "C": "depart suddenly",
+        "D": "persuade gently"
+      },
+      "correct": "D",
+      "correctAnswer": "persuade gently",
+      "explanation": "To coax someone is to persuade that person gently or patiently, rather than force compliance through an accusation or command."
+    },
+    {
+      "id": "HSPT-V12-047",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best expresses impetus, as in the impetus for a change?",
+      "choices": {
+        "A": "final destination",
+        "B": "written description",
+        "C": "driving force",
+        "D": "unintended obstacle"
+      },
+      "correct": "C",
+      "correctAnswer": "driving force",
+      "explanation": "An impetus supplies the force or encouragement that sets something in motion; it is the push behind the change."
+    },
+    {
+      "id": "HSPT-V12-048",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best expresses arbitrary, as in an arbitrary decision?",
+      "choices": {
+        "A": "required by a clearly stated standard",
+        "B": "supported by an established calculation",
+        "C": "reached through a formal agreement",
+        "D": "made without a consistent reason or rule"
+      },
+      "correct": "D",
+      "correctAnswer": "made without a consistent reason or rule",
+      "explanation": "An arbitrary decision depends on preference or chance rather than a consistent principle; the alternatives describe systematic grounds for deciding."
+    },
+    {
+      "id": "HSPT-V12-049",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to callous, describing someone's response to another person's suffering?",
+      "choices": {
+        "A": "compassionate",
+        "B": "indifferent",
+        "C": "unfeeling",
+        "D": "insensitive"
+      },
+      "correct": "A",
+      "correctAnswer": "compassionate",
+      "explanation": "Callous describes a lack of concern for another person's suffering, while compassionate describes sympathetic concern and sensitivity to that suffering."
+    },
+    {
+      "id": "HSPT-V12-050",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to counterfeit, as in a counterfeit signature?",
+      "choices": {
+        "A": "authentic",
+        "B": "imitated",
+        "C": "forged",
+        "D": "fraudulent"
+      },
+      "correct": "A",
+      "correctAnswer": "authentic",
+      "explanation": "A counterfeit signature falsely imitates a real one; an authentic signature is genuine rather than presented as someone else's work."
+    },
+    {
+      "id": "HSPT-V12-051",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to coercion?",
+      "choices": {
+        "A": "compliance obtained through threats",
+        "B": "obedience secured by force",
+        "C": "freely given consent",
+        "D": "agreement extracted under pressure"
+      },
+      "correct": "C",
+      "correctAnswer": "freely given consent",
+      "explanation": "Coercion obtains compliance through force or threats; freely given consent reverses the essential lack of voluntary choice."
+    },
+    {
+      "id": "HSPT-V12-052",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "An alibi supports a claim of presence elsewhere, just as a receipt supports a claim of ____.",
+      "choices": {
+        "A": "payment merely requested",
+        "B": "payment already made",
+        "C": "a price newly increased",
+        "D": "delivery promised for the future"
+      },
+      "correct": "B",
+      "correctAnswer": "payment already made",
+      "explanation": "An alibi supports someone's claim of being elsewhere; a receipt supports a claim that a payment occurred, rather than merely being requested."
+    },
+    {
+      "id": "HSPT-V12-053",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A palindrome retains the same letter sequence after reversal. In a similar relationship, a perfect sphere retains the same appearance after ____ about its center.",
+      "choices": {
+        "A": "rotation",
+        "B": "stretching",
+        "C": "flattening",
+        "D": "slicing"
+      },
+      "correct": "A",
+      "correctAnswer": "rotation",
+      "explanation": "Reversal leaves a palindrome's letter order unchanged; rotation leaves a perfect sphere's appearance unchanged, pairing each with a form-preserving transformation."
+    },
+    {
+      "id": "HSPT-V12-054",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Intermission is to a play as halftime is to ____.",
+      "choices": {
+        "A": "an archery round",
+        "B": "a marathon run",
+        "C": "a swimming race",
+        "D": "a basketball game"
+      },
+      "correct": "D",
+      "correctAnswer": "a basketball game",
+      "explanation": "Intermission temporarily interrupts a play, while halftime temporarily interrupts a basketball game; each pause occurs within an event that will resume."
+    },
+    {
+      "id": "HSPT-V12-055",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word does NOT name a taste?",
+      "choices": {
+        "A": "bitter",
+        "B": "chilly",
+        "C": "sour",
+        "D": "salty"
+      },
+      "correct": "B",
+      "correctAnswer": "chilly",
+      "explanation": "Chilly describes a low-temperature sensation; bitter, sour, and salty identify tastes rather than temperature."
+    },
+    {
+      "id": "HSPT-V12-056",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which group consists entirely of words that make a claim less definite?",
+      "choices": {
+        "A": "always, certainly, undoubtedly",
+        "B": "perhaps, possibly, presumably",
+        "C": "therefore, hence, consequently",
+        "D": "before, afterward, meanwhile"
+      },
+      "correct": "B",
+      "correctAnswer": "perhaps, possibly, presumably",
+      "explanation": "Perhaps, possibly, and presumably qualify certainty; the other groups strengthen certainty, mark consequences, or indicate time."
+    },
+    {
+      "id": "HSPT-V12-057",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair uses the same verb first for removing a fine material and then for adding one?",
+      "choices": {
+        "A": "wash the cloth; wash the plate",
+        "B": "peel the orange; peel the potato",
+        "C": "dust the shelf; dust the pastry with sugar",
+        "D": "polish the spoon; polish the buckle"
+      },
+      "correct": "C",
+      "correctAnswer": "dust the shelf; dust the pastry with sugar",
+      "explanation": "Dusting a shelf removes dust, while dusting pastry with sugar adds a fine coating; the other verbs keep the same general action."
+    },
+    {
+      "id": "HSPT-V12-058",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Only three sketches are possible: a crane with curves but no shading, a boat with curves and shading, or a pine with shading but no curves. You learn that the sketch has curves. Which yes-or-no question will now identify it?",
+      "choices": {
+        "A": "Does it have curves?",
+        "B": "Is it either the crane or the boat?",
+        "C": "Is it the pine?",
+        "D": "Does it have shading?"
+      },
+      "correct": "D",
+      "correctAnswer": "Does it have shading?",
+      "explanation": "Curves eliminate the pine, leaving crane and boat; asking about shading separates those two possibilities, while the other questions give identical answers for both."
+    },
+    {
+      "id": "HSPT-V12-059",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A grandparent is a parent of someone's parent. Nora and Venn have exactly the same parents. Dara is Venn's parent, and Orr is Dara's parent. What must Orr be to Nora?",
+      "choices": {
+        "A": "a parent",
+        "B": "a child",
+        "C": "a grandparent",
+        "D": "a sibling"
+      },
+      "correct": "C",
+      "correctAnswer": "a grandparent",
+      "explanation": "Dara must also be Nora's parent because Nora and Venn share all parents; Orr, as Dara's parent, is therefore Nora's grandparent."
+    },
+    {
+      "id": "HSPT-V12-060",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "In a contact network, every direct link works both ways. Links through a third person do not establish a direct link. Ena is directly linked to Fenn, and Fenn is directly linked to Goro. Which statement must be true?",
+      "choices": {
+        "A": "Ena is directly linked to Goro.",
+        "B": "Fenn is directly linked to Ena.",
+        "C": "Ena cannot be directly linked to Goro.",
+        "D": "Goro has no direct link to Fenn."
+      },
+      "correct": "B",
+      "correctAnswer": "Fenn is directly linked to Ena.",
+      "explanation": "The two-way rule reverses Ena's stated link with Fenn; it neither establishes nor rules out a separate direct link between Ena and Goro."
+    }
+  ]
+}

@@ -1,0 +1,1069 @@
+{
+  "title": "HSPT Language Practice Test 12",
+  "examFamily": "hspt",
+  "examNumber": 12,
+  "section": "Language",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-L12-001",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which choice correctly contracts the words we will?",
+      "choices": {
+        "A": "well",
+        "B": "wel'l",
+        "C": "we'll",
+        "D": "w'ell"
+      },
+      "correct": "C",
+      "correctAnswer": "we'll",
+      "explanation": "The apostrophe in we'll marks the omitted letters from will, leaving we plus ll as the contracted form."
+    },
+    {
+      "id": "HSPT-L12-002",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "In a formal American business letter, which salutation uses the conventional ending punctuation?",
+      "choices": {
+        "A": "Dear Director Patel;",
+        "B": "Dear Director Patel.",
+        "C": "Dear Director Patel?",
+        "D": "Dear Director Patel:"
+      },
+      "correct": "D",
+      "correctAnswer": "Dear Director Patel:",
+      "explanation": "A formal business-letter salutation conventionally ends with a colon, distinguishing it from ordinary sentences and questions."
+    },
+    {
+      "id": "HSPT-L12-003",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Two brothers-in-law each have a workbench. Which phrase correctly refers to both men's workbenches?",
+      "choices": {
+        "A": "the brothers-in-law's workbenches",
+        "B": "the brother-in-law's workbenches",
+        "C": "the brothers'-in-law workbenches",
+        "D": "the brother-in-laws' workbenches"
+      },
+      "correct": "A",
+      "correctAnswer": "the brothers-in-law's workbenches",
+      "explanation": "The compound noun becomes plural at brothers, but its possessive ending attaches to the end of the entire compound: brothers-in-law's."
+    },
+    {
+      "id": "HSPT-L12-004",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes a brand name while leaving the general product and landscape words lowercase?",
+      "choices": {
+        "A": "We used a nikon camera to photograph the dunes.",
+        "B": "We used a Nikon camera to photograph the dunes.",
+        "C": "We used a Nikon Camera to photograph the dunes.",
+        "D": "We used a Nikon camera to photograph the Dunes."
+      },
+      "correct": "B",
+      "correctAnswer": "We used a Nikon camera to photograph the dunes.",
+      "explanation": "Nikon is a brand name and takes a capital letter; camera and dunes are common nouns in this sentence."
+    },
+    {
+      "id": "HSPT-L12-005",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence distinguishes the formal numbered course title from the general subject?",
+      "choices": {
+        "A": "She enrolled in oceanography 205 after taking introductory Oceanography.",
+        "B": "She enrolled in Oceanography 205 after taking introductory Oceanography.",
+        "C": "She enrolled in oceanography 205 after taking introductory oceanography.",
+        "D": "She enrolled in Oceanography 205 after taking introductory oceanography."
+      },
+      "correct": "D",
+      "correctAnswer": "She enrolled in Oceanography 205 after taking introductory oceanography.",
+      "explanation": "The numbered course title Oceanography 205 is capitalized, while the general subject oceanography remains lowercase."
+    },
+    {
+      "id": "HSPT-L12-006",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Select the standard spelling of the noun meaning a difficult choice between alternatives.",
+      "choices": {
+        "A": "dilemna",
+        "B": "dilemma",
+        "C": "dilema",
+        "D": "dillemma"
+      },
+      "correct": "B",
+      "correctAnswer": "dilemma",
+      "explanation": "Dilemma contains one l followed later by a double m; none of the other spellings preserves that standard arrangement."
+    },
+    {
+      "id": "HSPT-L12-007",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nThe diagram showed the company's management ____.",
+      "choices": {
+        "A": "heirarchy",
+        "B": "hiearchy",
+        "C": "hierachy",
+        "D": "hierarchy"
+      },
+      "correct": "D",
+      "correctAnswer": "hierarchy",
+      "explanation": "Hierarchy begins with hier and includes the sequence archy; the alternatives reverse the opening vowels or omit a required r."
+    },
+    {
+      "id": "HSPT-L12-008",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence?\nThe telescope, ____ lens had cracked, was placed in its case.",
+      "choices": {
+        "A": "who's",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct": "C",
+      "correctAnswer": "whose",
+      "explanation": "Whose marks the relationship between the telescope and its lens; this possessive relative pronoun can refer to an inanimate object."
+    },
+    {
+      "id": "HSPT-L12-009",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which form correctly completes the sentence?\nThe mechanic had the axle ____ before the next trip.",
+      "choices": {
+        "A": "repair",
+        "B": "repairing",
+        "C": "repaired",
+        "D": "to repair"
+      },
+      "correct": "C",
+      "correctAnswer": "repaired",
+      "explanation": "In the construction had an object acted on, the past participle follows the object: had the axle repaired."
+    },
+    {
+      "id": "HSPT-L12-010",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which phrase correctly completes the sentence in formal written English?\nNo sooner ____ than the alarm rang.",
+      "choices": {
+        "A": "had the door closed",
+        "B": "the door had closed",
+        "C": "the door has closed",
+        "D": "did the door closed"
+      },
+      "correct": "A",
+      "correctAnswer": "had the door closed",
+      "explanation": "Beginning with no sooner requires auxiliary-subject inversion, so had precedes the subject the door in the completed sentence."
+    },
+    {
+      "id": "HSPT-L12-011",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nPlease ____ the guest that the path is safe, and ____ that the gate is closed.",
+      "choices": {
+        "A": "ensure; assure",
+        "B": "assure; ensure",
+        "C": "assure; assure",
+        "D": "ensure; ensure"
+      },
+      "correct": "B",
+      "correctAnswer": "assure; ensure",
+      "explanation": "Assure addresses a person's concern, while ensure means make certain that a condition is satisfied, here the gate's being closed."
+    },
+    {
+      "id": "HSPT-L12-012",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nThe inventor devised an ____ clasp; the child answered with an ____ sincerity that showed no attempt to deceive.",
+      "choices": {
+        "A": "ingenuous; ingenious",
+        "B": "ingenious; ingenious",
+        "C": "ingenious; ingenuous",
+        "D": "ingenuous; ingenuous"
+      },
+      "correct": "C",
+      "correctAnswer": "ingenious; ingenuous",
+      "explanation": "Ingenious describes clever invention, while ingenuous describes innocent, straightforward openness, matching the two contexts respectively."
+    },
+    {
+      "id": "HSPT-L12-013",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "The writer wants to reorganize sentences 2–7 by feature: first construction, then opening behavior, then production. Which order of sentence pairs accomplishes that goal?",
+      "choices": {
+        "A": "(2, 3), then (4, 5), then (6, 7)",
+        "B": "(3, 7), then (2, 5), then (4, 6)",
+        "C": "(4, 6), then (3, 7), then (2, 5)",
+        "D": "(2, 5), then (3, 7), then (4, 6)"
+      },
+      "correct": "D",
+      "correctAnswer": "(2, 5), then (3, 7), then (4, 6)",
+      "explanation": "Sentences 2 and 5 explain joining pages, 3 and 7 address opening, and 4 and 6 discuss production.",
+      "stimulusId": "HSPT-L12-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Two Ways to Bind a Notebook",
+      "stimulusText": "(1) A notebook can be bound with thread or with adhesive. (2) Thread binding joins folded groups of pages with stitches. (3) This construction can allow the notebook to lie relatively flat when open. (4) It often involves more assembly steps and can take longer to produce. (5) Adhesive binding joins a stack of pages by gluing their prepared edges into the cover. (6) This method can be efficient when many notebooks must be produced. (7) Some adhesive-bound notebooks resist lying flat, although opening behavior varies with their materials and construction. (8) A buyer choosing between the methods should consider how the notebook will be used rather than assuming that one method is best for every purpose."
+    },
+    {
+      "id": "HSPT-L12-014",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence best combines the information in sentences 2 and 5 while emphasizing the difference between the methods?",
+      "choices": {
+        "A": "Thread binding stitches folded page groups together, whereas adhesive binding glues prepared page edges into the cover.",
+        "B": "Both methods stitch folded page groups together before gluing the same stitches into the cover.",
+        "C": "Adhesive binding stitches folded page groups, whereas thread binding glues their edges into the cover.",
+        "D": "Thread binding and adhesive binding are two names for a process whose construction is identical."
+      },
+      "correct": "A",
+      "correctAnswer": "Thread binding stitches folded page groups together, whereas adhesive binding glues prepared page edges into the cover.",
+      "explanation": "Whereas presents the contrast while retaining which method uses stitches and which uses glue, without reversing or merging the processes.",
+      "stimulusId": "HSPT-L12-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Two Ways to Bind a Notebook",
+      "stimulusText": "(1) A notebook can be bound with thread or with adhesive. (2) Thread binding joins folded groups of pages with stitches. (3) This construction can allow the notebook to lie relatively flat when open. (4) It often involves more assembly steps and can take longer to produce. (5) Adhesive binding joins a stack of pages by gluing their prepared edges into the cover. (6) This method can be efficient when many notebooks must be produced. (7) Some adhesive-bound notebooks resist lying flat, although opening behavior varies with their materials and construction. (8) A buyer choosing between the methods should consider how the notebook will be used rather than assuming that one method is best for every purpose."
+    },
+    {
+      "id": "HSPT-L12-015",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which addition immediately after sentence 1 would best preview the comparison for readers unfamiliar with bookbinding?",
+      "choices": {
+        "A": "Both methods attach pages to a cover, but they differ in construction, opening behavior, and production.",
+        "B": "Only experts should purchase notebooks, because ordinary readers cannot understand their covers.",
+        "C": "Thread binding must be best in every situation because this passage discusses it first.",
+        "D": "Before buying a notebook, readers should learn the complete history of every writing instrument."
+      },
+      "correct": "A",
+      "correctAnswer": "Both methods attach pages to a cover, but they differ in construction, opening behavior, and production.",
+      "explanation": "The addition identifies the common purpose and previews the three comparison features that organize the following descriptions.",
+      "stimulusId": "HSPT-L12-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Two Ways to Bind a Notebook",
+      "stimulusText": "(1) A notebook can be bound with thread or with adhesive. (2) Thread binding joins folded groups of pages with stitches. (3) This construction can allow the notebook to lie relatively flat when open. (4) It often involves more assembly steps and can take longer to produce. (5) Adhesive binding joins a stack of pages by gluing their prepared edges into the cover. (6) This method can be efficient when many notebooks must be produced. (7) Some adhesive-bound notebooks resist lying flat, although opening behavior varies with their materials and construction. (8) A buyer choosing between the methods should consider how the notebook will be used rather than assuming that one method is best for every purpose."
+    },
+    {
+      "id": "HSPT-L12-016",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "The original sentence is \"We waited through the cold afternoon before the gate opened.\" Which excerpt uses an ellipsis to mark the omitted words?",
+      "choices": {
+        "A": "\"We waited, before the gate opened.\"",
+        "B": "\"We waited; before the gate opened.\"",
+        "C": "\"We waited: before the gate opened.\"",
+        "D": "\"We waited ... before the gate opened.\""
+      },
+      "correct": "D",
+      "correctAnswer": "\"We waited ... before the gate opened.\"",
+      "explanation": "An ellipsis marks words omitted from a quotation; the three dots replace through the cold afternoon without changing the remaining word order."
+    },
+    {
+      "id": "HSPT-L12-017",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Several pilots attend a briefing. The name Lena Cho is essential to identify which pilot will speak first. Which sentence punctuates that identifying name accordingly?",
+      "choices": {
+        "A": "The pilot Lena Cho will speak first.",
+        "B": "The pilot, Lena Cho, will speak first.",
+        "C": "The pilot Lena Cho, will speak first.",
+        "D": "The pilot, Lena Cho will speak first."
+      },
+      "correct": "A",
+      "correctAnswer": "The pilot Lena Cho will speak first.",
+      "explanation": "Because the name identifies which pilot among several is meant, it is essential information and should not be set off by commas."
+    },
+    {
+      "id": "HSPT-L12-018",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the name of a historical era?",
+      "choices": {
+        "A": "Artists of the renaissance studied proportion.",
+        "B": "Artists of the Renaissance studied Proportion.",
+        "C": "Artists of the Renaissance studied proportion.",
+        "D": "Artists of the Renaissance Studied proportion."
+      },
+      "correct": "C",
+      "correctAnswer": "Artists of the Renaissance studied proportion.",
+      "explanation": "Renaissance names a historical era and is capitalized; studied and proportion remain ordinary lowercase words in this sentence."
+    },
+    {
+      "id": "HSPT-L12-019",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "When diesel names an engine type rather than a person, which sentence uses standard capitalization?",
+      "choices": {
+        "A": "The harbor tug uses a Diesel engine.",
+        "B": "The harbor tug uses a diesel Engine.",
+        "C": "The Harbor Tug uses a diesel engine.",
+        "D": "The harbor tug uses a diesel engine."
+      },
+      "correct": "D",
+      "correctAnswer": "The harbor tug uses a diesel engine.",
+      "explanation": "The common noun diesel is lowercase when naming an engine type, even though it originated from a person's surname."
+    },
+    {
+      "id": "HSPT-L12-020",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nThe cleaner connected the hose to the ____.",
+      "choices": {
+        "A": "vaccum",
+        "B": "vacum",
+        "C": "vacuum",
+        "D": "vaccuum"
+      },
+      "correct": "C",
+      "correctAnswer": "vacuum",
+      "explanation": "Vacuum contains one c and two consecutive u's; its spelling differs from forms that double c or omit a u."
+    },
+    {
+      "id": "HSPT-L12-021",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Select the correctly spelled word for a meeting arranged in advance.",
+      "choices": {
+        "A": "rendevous",
+        "B": "rendezvouz",
+        "C": "rendezvousz",
+        "D": "rendezvous"
+      },
+      "correct": "D",
+      "correctAnswer": "rendezvous",
+      "explanation": "Rendezvous includes the z before vous and ends in s; the alternatives omit that z or change the ending."
+    },
+    {
+      "id": "HSPT-L12-022",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which word is spelled correctly?",
+      "choices": {
+        "A": "liason",
+        "B": "liaison",
+        "C": "laison",
+        "D": "liasion"
+      },
+      "correct": "B",
+      "correctAnswer": "liaison",
+      "explanation": "Liaison has the letter sequence l-i-a-i-s-o-n, retaining both i's in the correct positions rather than omitting or moving one."
+    },
+    {
+      "id": "HSPT-L12-023",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence uses herself to emphasize the subject rather than as the receiver of the verb's action?",
+      "choices": {
+        "A": "The potter photographed herself.",
+        "B": "The potter accidentally cut herself.",
+        "C": "The potter congratulated herself.",
+        "D": "The potter herself signed the base."
+      },
+      "correct": "D",
+      "correctAnswer": "The potter herself signed the base.",
+      "explanation": "In the correct sentence, herself emphasizes the potter and can be removed; the base, rather than herself, receives the action."
+    },
+    {
+      "id": "HSPT-L12-024",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which pair of articles correctly completes the sentence?\n____ honest witness gave ____ useful account.",
+      "choices": {
+        "A": "A; a",
+        "B": "An; a",
+        "C": "An; an",
+        "D": "A; an"
+      },
+      "correct": "B",
+      "correctAnswer": "An; a",
+      "explanation": "Honest begins with a vowel sound because h is silent; useful begins with a consonant y sound, requiring an and a respectively."
+    },
+    {
+      "id": "HSPT-L12-025",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which pair correctly completes the sentence?\nHe used to ____ at noon; now he is used to ____ at dawn.",
+      "choices": {
+        "A": "swim; swimming",
+        "B": "swimming; swim",
+        "C": "swim; swim",
+        "D": "swimming; swimming"
+      },
+      "correct": "A",
+      "correctAnswer": "swim; swimming",
+      "explanation": "Used to takes a base verb for a former habit, while is used to takes a gerund to describe being accustomed to something."
+    },
+    {
+      "id": "HSPT-L12-026",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that means accept officially and modify to fit, respectively.\nThe board will ____ the proposal, and the technicians will ____ the old frame.",
+      "choices": {
+        "A": "adopt; adapt",
+        "B": "adapt; adopt",
+        "C": "adopt; adopt",
+        "D": "adapt; adapt"
+      },
+      "correct": "A",
+      "correctAnswer": "adopt; adapt",
+      "explanation": "Adopt means accept formally or take as one's own, while adapt means modify something to suit a particular use or condition."
+    },
+    {
+      "id": "HSPT-L12-027",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nAn introduction will ____ the demonstration; afterward, the speaker will ____ to questions.",
+      "choices": {
+        "A": "precede; proceed",
+        "B": "proceed; precede",
+        "C": "precede; precede",
+        "D": "proceed; proceed"
+      },
+      "correct": "A",
+      "correctAnswer": "precede; proceed",
+      "explanation": "Precede means come before, fitting the introduction; proceed means move on or continue, fitting the transition to questions."
+    },
+    {
+      "id": "HSPT-L12-028",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which heading would best draw attention to both actual changes announced in the notice?",
+      "choices": {
+        "A": "Second Demonstration Added for October 14",
+        "B": "Starting Time Changed and All Reservations Canceled",
+        "C": "Demonstration Moved to October 21 in the North Room",
+        "D": "South Room Event Continues at a New Starting Time"
+      },
+      "correct": "C",
+      "correctAnswer": "Demonstration Moved to October 21 in the North Room",
+      "explanation": "The date and room change, while the time and confirmed reservations remain unchanged; the heading accurately highlights the two updates.",
+      "stimulusId": "HSPT-L12-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Corrected Demonstration Notice",
+      "stimulusText": "(1) The cloth-dyeing demonstration was originally announced for October 14 in the South Room at 4 p.m. (2) The organizer has moved it to October 21 and the North Room; the starting time will remain 4 p.m. (3) Anyone whose place has already been confirmed will keep that place without taking further action. (4) People without a reservation may still request one before October 18. (5) Originally printed tickets will be accepted despite showing the old date and room. (6) This notice corrects the earlier announcement; it does not announce a second demonstration. (7) Questions about access to the new room may be directed to the organizer."
+    },
+    {
+      "id": "HSPT-L12-029",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence should NOT be added to the notice because it would mislead people who already have confirmed places?",
+      "choices": {
+        "A": "Your confirmed place remains reserved for the rescheduled demonstration.",
+        "B": "Please cancel your old reservations and book again before October 18.",
+        "C": "You may use your originally printed ticket even though its date is outdated.",
+        "D": "Please note the new date and room before attending."
+      },
+      "correct": "B",
+      "correctAnswer": "Please cancel your old reservations and book again before October 18.",
+      "explanation": "The notice preserves confirmed places without further action, so instructing those guests to cancel and rebook directly contradicts its purpose.",
+      "stimulusId": "HSPT-L12-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Corrected Demonstration Notice",
+      "stimulusText": "(1) The cloth-dyeing demonstration was originally announced for October 14 in the South Room at 4 p.m. (2) The organizer has moved it to October 21 and the North Room; the starting time will remain 4 p.m. (3) Anyone whose place has already been confirmed will keep that place without taking further action. (4) People without a reservation may still request one before October 18. (5) Originally printed tickets will be accepted despite showing the old date and room. (6) This notice corrects the earlier announcement; it does not announce a second demonstration. (7) Questions about access to the new room may be directed to the organizer."
+    },
+    {
+      "id": "HSPT-L12-030",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "On October 16, someone without a reservation asks for the relevant information. Which short reply accurately applies the notice without promising a place?",
+      "choices": {
+        "A": "Your place is already guaranteed for October 21 in the North Room at 4 p.m.",
+        "B": "You may request a place before October 18 for the October 21 demonstration in the North Room at 4 p.m.",
+        "C": "Request a place before October 18 for the October 14 event in the South Room at 4 p.m.",
+        "D": "You may wait until after October 21 to request a place for that day's demonstration."
+      },
+      "correct": "B",
+      "correctAnswer": "You may request a place before October 18 for the October 21 demonstration in the North Room at 4 p.m.",
+      "explanation": "The reply preserves the request deadline, revised date and room, unchanged time, and the distinction between requesting a place and already having one.",
+      "stimulusId": "HSPT-L12-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Corrected Demonstration Notice",
+      "stimulusText": "(1) The cloth-dyeing demonstration was originally announced for October 14 in the South Room at 4 p.m. (2) The organizer has moved it to October 21 and the North Room; the starting time will remain 4 p.m. (3) Anyone whose place has already been confirmed will keep that place without taking further action. (4) People without a reservation may still request one before October 18. (5) Originally printed tickets will be accepted despite showing the old date and room. (6) This notice corrects the earlier announcement; it does not announce a second demonstration. (7) Questions about access to the new room may be directed to the organizer."
+    },
+    {
+      "id": "HSPT-L12-031",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which choice uses standard American comma grouping for the whole number 1234567?",
+      "choices": {
+        "A": "12,34,567",
+        "B": "123,45,67",
+        "C": "1,23,45,67",
+        "D": "1,234,567"
+      },
+      "correct": "D",
+      "correctAnswer": "1,234,567",
+      "explanation": "American notation groups whole-number digits in threes from the right; commas therefore separate 1 from 234 and 567."
+    },
+    {
+      "id": "HSPT-L12-032",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "The original quotation is \"She returned before sunset.\" A writer adds Dr. Miro to explain who she means. Which version uses the standard editorial marks for an added clarification?",
+      "choices": {
+        "A": "\"She {Dr. Miro} returned before sunset.\"",
+        "B": "\"She /Dr. Miro/ returned before sunset.\"",
+        "C": "\"She [Dr. Miro] returned before sunset.\"",
+        "D": "\"She ... Dr. Miro ... returned before sunset.\""
+      },
+      "correct": "C",
+      "correctAnswer": "\"She [Dr. Miro] returned before sunset.\"",
+      "explanation": "Square brackets identify wording supplied by an editor inside a quotation, distinguishing the clarification from the original speaker's words."
+    },
+    {
+      "id": "HSPT-L12-033",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly uses a colon to introduce an explanation of the complete statement before it?",
+      "choices": {
+        "A": "The casting had one serious flaw: a crack ran through its base.",
+        "B": "The casting had one serious flaw, a crack ran through its base.",
+        "C": "The casting had: one serious flaw a crack ran through its base.",
+        "D": "The casting had one: serious flaw a crack ran through its base."
+      },
+      "correct": "A",
+      "correctAnswer": "The casting had one serious flaw: a crack ran through its base.",
+      "explanation": "The complete first clause identifies a flaw; the colon introduces the second clause explaining it, without splitting a verb from its object."
+    },
+    {
+      "id": "HSPT-L12-034",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "In a two-word scientific species name, capitalize the first word but not the second. Which choice follows this rule?",
+      "choices": {
+        "A": "Canis lupus",
+        "B": "canis lupus",
+        "C": "Canis Lupus",
+        "D": "CANIS LUPUS"
+      },
+      "correct": "A",
+      "correctAnswer": "Canis lupus",
+      "explanation": "Canis begins the scientific name and is capitalized; lupus is the second word and remains lowercase under the stated rule."
+    },
+    {
+      "id": "HSPT-L12-035",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence uses conventional capitalization for the doctoral-degree abbreviation shown?",
+      "choices": {
+        "A": "She holds a ph.d. in geology.",
+        "B": "She holds a PH.d. in geology.",
+        "C": "She holds a pH.D. in geology.",
+        "D": "She holds a Ph.D. in geology."
+      },
+      "correct": "D",
+      "correctAnswer": "She holds a Ph.D. in geology.",
+      "explanation": "The conventional abbreviation Ph.D. capitalizes P and D while leaving h lowercase; the ordinary field name geology stays lowercase."
+    },
+    {
+      "id": "HSPT-L12-036",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a burial ground?",
+      "choices": {
+        "A": "cemetary",
+        "B": "cemeterry",
+        "C": "cemetery",
+        "D": "cemetry"
+      },
+      "correct": "C",
+      "correctAnswer": "cemetery",
+      "explanation": "Cemetery uses e in each of its first three syllables and one r; the alternatives replace, omit, or double a letter."
+    },
+    {
+      "id": "HSPT-L12-037",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nThe recipe calls for steamed ____.",
+      "choices": {
+        "A": "brocolli",
+        "B": "broccoli",
+        "C": "brocoli",
+        "D": "broccolli"
+      },
+      "correct": "B",
+      "correctAnswer": "broccoli",
+      "explanation": "Broccoli contains two c letters and one l; the alternatives omit a c or incorrectly double the l."
+    },
+    {
+      "id": "HSPT-L12-038",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the standard negative question tag that asks for confirmation.\nThe gates have closed, ____?",
+      "choices": {
+        "A": "haven't it",
+        "B": "haven't they",
+        "C": "hasn't they",
+        "D": "have they"
+      },
+      "correct": "B",
+      "correctAnswer": "haven't they",
+      "explanation": "An affirmative clause with have takes the negative tag haven't, and the plural subject gates is represented by they."
+    },
+    {
+      "id": "HSPT-L12-039",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence?\n____ seemed that the gate was open.",
+      "choices": {
+        "A": "It",
+        "B": "There",
+        "C": "They",
+        "D": "These"
+      },
+      "correct": "A",
+      "correctAnswer": "It",
+      "explanation": "It serves as the introductory subject for the following that clause; the sentence does not identify a plural group or introduce a noun after there."
+    },
+    {
+      "id": "HSPT-L12-040",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "In which sentence can that be deleted while keeping the same meaning and a grammatically complete sentence?",
+      "choices": {
+        "A": "The rope that we bought is strong.",
+        "B": "The rope that supports the awning is strong.",
+        "C": "The rope that crosses the channel is strong.",
+        "D": "The rope that protects the opening is strong."
+      },
+      "correct": "A",
+      "correctAnswer": "The rope that we bought is strong.",
+      "explanation": "In the correct sentence, we supplies the relative clause's subject, so object that can disappear; the other clauses need that as their subject."
+    },
+    {
+      "id": "HSPT-L12-041",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nDespite ____ weather, the crew was ____ to postponing the crossing.",
+      "choices": {
+        "A": "averse; adverse",
+        "B": "adverse; adverse",
+        "C": "adverse; averse",
+        "D": "averse; averse"
+      },
+      "correct": "C",
+      "correctAnswer": "adverse; averse",
+      "explanation": "Adverse means unfavorable, describing the weather; averse means opposed or unwilling, describing the crew's attitude toward postponement."
+    },
+    {
+      "id": "HSPT-L12-042",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that means careful not to attract attention and separate, respectively.\nA ____ inquiry concerned four ____ sections of the display.",
+      "choices": {
+        "A": "discrete; discreet",
+        "B": "discreet; discrete",
+        "C": "discreet; discreet",
+        "D": "discrete; discrete"
+      },
+      "correct": "B",
+      "correctAnswer": "discreet; discrete",
+      "explanation": "Discreet describes tactful or unobtrusive behavior, while discrete means distinct or separate; the inquiry and the sections require those different meanings."
+    },
+    {
+      "id": "HSPT-L12-043",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "A report compares a tunnel and a viaduct, in that order. In a later sentence, the former refers to ____ and the latter refers to ____.",
+      "choices": {
+        "A": "the viaduct; the tunnel",
+        "B": "the tunnel; the tunnel",
+        "C": "the viaduct; the viaduct",
+        "D": "the tunnel; the viaduct"
+      },
+      "correct": "D",
+      "correctAnswer": "the tunnel; the viaduct",
+      "explanation": "Former points to the first of two previously mentioned things, while latter points to the second, preserving the report's stated order."
+    },
+    {
+      "id": "HSPT-L12-044",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which additional example after sentence 4 would best extend the principle that a description depends on the image's purpose?",
+      "choices": {
+        "A": "A cookbook and a chef's profile should use identical descriptions whenever their pages contain the same photograph.",
+        "B": "A photograph with more visible objects always needs a longer description, whatever topic the surrounding text discusses.",
+        "C": "A cookbook might describe how dough is folded, while a chef's profile might identify the person in the same photograph.",
+        "D": "Descriptions should list distant background objects before explaining anything connected with the article's topic."
+      },
+      "correct": "C",
+      "correctAnswer": "A cookbook might describe how dough is folded, while a chef's profile might identify the person in the same photograph.",
+      "explanation": "The new example applies the same-image, different-purpose principle to another subject; the other choices ignore purpose or prescribe irrelevant priorities.",
+      "stimulusId": "HSPT-L12-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Describing What an Image Contributes",
+      "stimulusText": "(1) A description accompanying an image should communicate the information that readers need from that image. (2) The same photograph may need different wording in different settings. (3) In an article about stoneworking techniques, an image of a mason holding a chisel should help readers understand the tool's position and action. (4) In a biographical profile, the same image might instead identify the mason and the place of work. (5) Descriptions should not automatically list every visible detail, such as shoelaces or distant clouds. (6) If a caption already gives an important fact, the description should add what the image contributes rather than merely repeat that fact. (7) The guiding question is what purpose that particular image serves for its readers."
+    },
+    {
+      "id": "HSPT-L12-045",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "An article explains chisel placement. Its caption already says \"Mason Lea Ortiz at work.\" The photograph shows a chisel resting on the stone's upper edge, a raised hammer, and clouds in the distance. Which description best applies sentences 3, 5, and 6?",
+      "choices": {
+        "A": "Mason Lea Ortiz at work.",
+        "B": "The chisel rests on the stone's upper edge, with the mason holding the hammer above it.",
+        "C": "Several clouds appear beyond the workshop in the distance.",
+        "D": "Lea Ortiz is the finest stoneworker in the entire region."
+      },
+      "correct": "B",
+      "correctAnswer": "The chisel rests on the stone's upper edge, with the mason holding the hammer above it.",
+      "explanation": "The correct description adds visible tool placement relevant to the article; the alternatives repeat the caption, emphasize background, or make an unsupported judgment.",
+      "stimulusId": "HSPT-L12-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Describing What an Image Contributes",
+      "stimulusText": "(1) A description accompanying an image should communicate the information that readers need from that image. (2) The same photograph may need different wording in different settings. (3) In an article about stoneworking techniques, an image of a mason holding a chisel should help readers understand the tool's position and action. (4) In a biographical profile, the same image might instead identify the mason and the place of work. (5) Descriptions should not automatically list every visible detail, such as shoelaces or distant clouds. (6) If a caption already gives an important fact, the description should add what the image contributes rather than merely repeat that fact. (7) The guiding question is what purpose that particular image serves for its readers."
+    },
+    {
+      "id": "HSPT-L12-046",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which mark should end this ordinary declarative sentence?\nThe guard asked whether the gate was locked____",
+      "choices": {
+        "A": "?",
+        "B": ",",
+        "C": ";",
+        "D": "."
+      },
+      "correct": "D",
+      "correctAnswer": ".",
+      "explanation": "The sentence reports a question rather than directly asking it; its main clause is declarative and therefore ends with a period."
+    },
+    {
+      "id": "HSPT-L12-047",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Use double quotation marks for Rina's speech and single quotation marks for the sign's exact words. Which sentence is punctuated correctly in American English?",
+      "choices": {
+        "A": "Rina said, \"The sign reads 'Keep clear'\".",
+        "B": "Rina said \"The sign reads 'Keep clear.'\"",
+        "C": "Rina said, \"The sign reads 'Keep clear\".'",
+        "D": "Rina said, \"The sign reads 'Keep clear.'\""
+      },
+      "correct": "D",
+      "correctAnswer": "Rina said, \"The sign reads 'Keep clear.'\"",
+      "explanation": "The introductory comma precedes the outer quotation, the inner quotation closes first, and the final period goes inside both closing quotation marks."
+    },
+    {
+      "id": "HSPT-L12-048",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A witness addresses a judge by a formal title. Which sentence uses standard capitalization?",
+      "choices": {
+        "A": "The diagram is ready, your honor.",
+        "B": "The diagram is ready, Your honor.",
+        "C": "The diagram is ready, Your Honor.",
+        "D": "The diagram is ready, your Honor."
+      },
+      "correct": "C",
+      "correctAnswer": "The diagram is ready, Your Honor.",
+      "explanation": "Your Honor is a formal title used in direct address, so both words are capitalized when the witness addresses the judge."
+    },
+    {
+      "id": "HSPT-L12-049",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A reviewer uses the exact phrase a quiet farewell within a larger sentence, not as a complete quoted statement or a title. Which capitalization is correct?",
+      "choices": {
+        "A": "The reviewer called the final movement \"A quiet farewell.\"",
+        "B": "The reviewer called the final movement \"A Quiet Farewell.\"",
+        "C": "The reviewer called the Final Movement \"a quiet farewell.\"",
+        "D": "The reviewer called the final movement \"a quiet farewell.\""
+      },
+      "correct": "D",
+      "correctAnswer": "The reviewer called the final movement \"a quiet farewell.\"",
+      "explanation": "An integrated quoted phrase keeps its ordinary lowercase beginning; quotation marks alone do not turn it into a new sentence or title."
+    },
+    {
+      "id": "HSPT-L12-050",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a fine ceramic material?",
+      "choices": {
+        "A": "porcelin",
+        "B": "porcelainn",
+        "C": "porcelain",
+        "D": "porcelane"
+      },
+      "correct": "C",
+      "correctAnswer": "porcelain",
+      "explanation": "Porcelain ends with the letter sequence l-a-i-n; the alternatives omit the a, add an n, or replace the final letters."
+    },
+    {
+      "id": "HSPT-L12-051",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nSudden ____ disturbed the smooth airflow.",
+      "choices": {
+        "A": "turbulance",
+        "B": "turbelence",
+        "C": "turbulencee",
+        "D": "turbulence"
+      },
+      "correct": "D",
+      "correctAnswer": "turbulence",
+      "explanation": "Turbulence has u after turb and the ending lence; the alternatives replace a vowel or add an extra final e."
+    },
+    {
+      "id": "HSPT-L12-052",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled verb meaning replace something with a newer alternative.",
+      "choices": {
+        "A": "supercede",
+        "B": "supersede",
+        "C": "superceed",
+        "D": "superseed"
+      },
+      "correct": "B",
+      "correctAnswer": "supersede",
+      "explanation": "The replacement verb uses the ending sede; substituting cede or ceed follows a tempting but incorrect spelling pattern."
+    },
+    {
+      "id": "HSPT-L12-053",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which pair correctly completes the sentence?\nThe instructions were ____, and the readers became ____.",
+      "choices": {
+        "A": "confused; confusing",
+        "B": "confusing; confusing",
+        "C": "confusing; confused",
+        "D": "confused; confused"
+      },
+      "correct": "C",
+      "correctAnswer": "confusing; confused",
+      "explanation": "Confusing describes what causes confusion; confused describes the people experiencing it, so the participial adjectives require different endings."
+    },
+    {
+      "id": "HSPT-L12-054",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Each diver checked the other diver's clip. Which sentence preserves that mutual meaning with the correct possessive pronoun phrase?",
+      "choices": {
+        "A": "The divers checked their own clips.",
+        "B": "The divers checked each other's clips.",
+        "C": "The divers checked each others' clips.",
+        "D": "The divers checked each other clips."
+      },
+      "correct": "B",
+      "correctAnswer": "The divers checked each other's clips.",
+      "explanation": "Each other expresses the reciprocal action, and its possessive form is each other's; their own would change the action to checking personal equipment."
+    },
+    {
+      "id": "HSPT-L12-055",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "The opening is scheduled for tomorrow. Which verb correctly completes the future-time clause?\nWe will begin when the director ____.",
+      "choices": {
+        "A": "will arrive",
+        "B": "arrived",
+        "C": "arrives",
+        "D": "had arrived"
+      },
+      "correct": "C",
+      "correctAnswer": "arrives",
+      "explanation": "A future-time clause introduced by when normally uses the present tense; the main clause's will begin already locates the event in the future."
+    },
+    {
+      "id": "HSPT-L12-056",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence uses flaunt or flout correctly?",
+      "choices": {
+        "A": "The visitor was warned not to flout the rules.",
+        "B": "She flouted her new bracelet for everyone to admire.",
+        "C": "He flaunted the ban by entering a closed area.",
+        "D": "The tailor flouted the vibrant fabric in the display window."
+      },
+      "correct": "A",
+      "correctAnswer": "The visitor was warned not to flout the rules.",
+      "explanation": "Flout means openly disregard a rule, while flaunt means display something conspicuously; the other sentences exchange those meanings."
+    },
+    {
+      "id": "HSPT-L12-057",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word correctly completes the sentence?\nThe counselor asks open questions to ____ responses from quiet participants.",
+      "choices": {
+        "A": "elicit",
+        "B": "illicit",
+        "C": "emit",
+        "D": "omit"
+      },
+      "correct": "A",
+      "correctAnswer": "elicit",
+      "explanation": "Elicit means draw out a response; illicit means unlawful, emit means send out, and omit means leave out, none matching the counselor's purpose."
+    },
+    {
+      "id": "HSPT-L12-058",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word correctly completes the sentence?\nThe narrow table stands directly ____ the armchair.",
+      "choices": {
+        "A": "beside",
+        "B": "besides",
+        "C": "between",
+        "D": "through"
+      },
+      "correct": "A",
+      "correctAnswer": "beside",
+      "explanation": "Beside means next to, describing the table's position; besides means in addition to, while between and through do not fit the stated arrangement."
+    },
+    {
+      "id": "HSPT-L12-059",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Sentences 1–2 form the first paragraph. Which topic sentence would best introduce a second paragraph containing sentences 3–7?",
+      "choices": {
+        "A": "Every computer display must be constructed exactly like an opening in a wall.",
+        "B": "A familiar name can acquire a new use through one important resemblance.",
+        "C": "Physical windows have appeared in many buildings of different sizes.",
+        "D": "The history of every word can be explained by the invention of computer screens."
+      },
+      "correct": "B",
+      "correctAnswer": "A familiar name can acquire a new use through one important resemblance.",
+      "explanation": "The proposed topic introduces the transfer of a familiar name through a shared feature, preparing both the digital example and the comparison's limits.",
+      "stimulusId": "HSPT-L12-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Word with a Second View",
+      "stimulusText": "(1) A physical window is an opening that frames a view of part of the surroundings. (2) Its edges select what can be seen from a particular position. (3) A computer window is a bounded region of a screen containing a document or a program's contents. (4) The display outside that region may contain other information, just as a physical window shows only part of a larger scene. (5) The shared name draws attention to a limited resemblance: both uses involve a framed view. (6) The comparison does not claim that the two things share every material or mechanism. (7) A familiar word can thus help a reader understand something new while leaving important differences intact."
+    },
+    {
+      "id": "HSPT-L12-060",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "A writer proposes adding: \"Every physical feature of the original kind must also exist in the newer kind.\" How should this proposal be handled?",
+      "choices": {
+        "A": "Omit it because it turns a limited resemblance into an unsupported claim about all features.",
+        "B": "Put it before sentence 1 as a definition of every possible opening.",
+        "C": "Put it after sentence 4 as proof that screen regions must contain glass.",
+        "D": "Put it after sentence 7 as a conclusion that eliminates all differences."
+      },
+      "correct": "A",
+      "correctAnswer": "Omit it because it turns a limited resemblance into an unsupported claim about all features.",
+      "explanation": "The passage bases the borrowed name on a framed view while preserving other differences; the proposed sentence wrongly extends the resemblance to every feature.",
+      "stimulusId": "HSPT-L12-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Word with a Second View",
+      "stimulusText": "(1) A physical window is an opening that frames a view of part of the surroundings. (2) Its edges select what can be seen from a particular position. (3) A computer window is a bounded region of a screen containing a document or a program's contents. (4) The display outside that region may contain other information, just as a physical window shows only part of a larger scene. (5) The shared name draws attention to a limited resemblance: both uses involve a framed view. (6) The comparison does not claim that the two things share every material or mechanism. (7) A familiar word can thus help a reader understand something new while leaving important differences intact."
+    }
+  ]
+}

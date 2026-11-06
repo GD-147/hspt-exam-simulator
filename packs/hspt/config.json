@@ -35,7 +35,15 @@
         "hspt_verbal_skills_exam_05.json",
         "hspt_verbal_skills_exam_06.json",
         "hspt_verbal_skills_exam_07.json",
-        "hspt_verbal_skills_exam_08.json"
+        "hspt_verbal_skills_exam_08.json",
+        "hspt_verbal_skills_exam_09.json",
+        "hspt_verbal_skills_exam_10.json",
+        "hspt_verbal_skills_exam_11.json",
+        "hspt_verbal_skills_exam_12.json",
+        "hspt_verbal_skills_exam_13.json",
+        "hspt_verbal_skills_exam_14.json",
+        "hspt_verbal_skills_exam_15.json",
+        "hspt_verbal_skills_exam_16.json"
       ]
     },
     {
@@ -54,7 +62,15 @@
         "hspt_quantitative_skills_exam_05.json",
         "hspt_quantitative_skills_exam_06.json",
         "hspt_quantitative_skills_exam_07.json",
-        "hspt_quantitative_skills_exam_08.json"
+        "hspt_quantitative_skills_exam_08.json",
+        "hspt_quantitative_skills_exam_09.json",
+        "hspt_quantitative_skills_exam_10.json",
+        "hspt_quantitative_skills_exam_11.json",
+        "hspt_quantitative_skills_exam_12.json",
+        "hspt_quantitative_skills_exam_13.json",
+        "hspt_quantitative_skills_exam_14.json",
+        "hspt_quantitative_skills_exam_15.json",
+        "hspt_quantitative_skills_exam_16.json"
       ]
     },
     {
@@ -73,7 +89,15 @@
         "hspt_reading_comprehension_exam_05.json",
         "hspt_reading_comprehension_exam_06.json",
         "hspt_reading_comprehension_exam_07.json",
-        "hspt_reading_comprehension_exam_08.json"
+        "hspt_reading_comprehension_exam_08.json",
+        "hspt_reading_comprehension_exam_09.json",
+        "hspt_reading_comprehension_exam_10.json",
+        "hspt_reading_comprehension_exam_11.json",
+        "hspt_reading_comprehension_exam_12.json",
+        "hspt_reading_comprehension_exam_13.json",
+        "hspt_reading_comprehension_exam_14.json",
+        "hspt_reading_comprehension_exam_15.json",
+        "hspt_reading_comprehension_exam_16.json"
       ]
     },
     {
@@ -92,7 +116,15 @@
         "hspt_mathematics_exam_05.json",
         "hspt_mathematics_exam_06.json",
         "hspt_mathematics_exam_07.json",
-        "hspt_mathematics_exam_08.json"
+        "hspt_mathematics_exam_08.json",
+        "hspt_mathematics_exam_09.json",
+        "hspt_mathematics_exam_10.json",
+        "hspt_mathematics_exam_11.json",
+        "hspt_mathematics_exam_12.json",
+        "hspt_mathematics_exam_13.json",
+        "hspt_mathematics_exam_14.json",
+        "hspt_mathematics_exam_15.json",
+        "hspt_mathematics_exam_16.json"
       ]
     },
     {
@@ -111,7 +143,15 @@
         "hspt_language_exam_05.json",
         "hspt_language_exam_06.json",
         "hspt_language_exam_07.json",
-        "hspt_language_exam_08.json"
+        "hspt_language_exam_08.json",
+        "hspt_language_exam_09.json",
+        "hspt_language_exam_10.json",
+        "hspt_language_exam_11.json",
+        "hspt_language_exam_12.json",
+        "hspt_language_exam_13.json",
+        "hspt_language_exam_14.json",
+        "hspt_language_exam_15.json",
+        "hspt_language_exam_16.json"
       ]
     }
   ],
@@ -155,6 +195,46 @@
       "family": "hspt",
       "file": "hspt_full_exam_08.pdf",
       "label": "HSPT Full-Length Practice Exam 08"
+    },
+    {
+      "family": "hspt",
+      "file": "hspt_full_exam_09.pdf",
+      "label": "HSPT Full-Length Practice Exam 09"
+    },
+    {
+      "family": "hspt",
+      "file": "hspt_full_exam_10.pdf",
+      "label": "HSPT Full-Length Practice Exam 10"
+    },
+    {
+      "family": "hspt",
+      "file": "hspt_full_exam_11.pdf",
+      "label": "HSPT Full-Length Practice Exam 11"
+    },
+    {
+      "family": "hspt",
+      "file": "hspt_full_exam_12.pdf",
+      "label": "HSPT Full-Length Practice Exam 12"
+    },
+    {
+      "family": "hspt",
+      "file": "hspt_full_exam_13.pdf",
+      "label": "HSPT Full-Length Practice Exam 13"
+    },
+    {
+      "family": "hspt",
+      "file": "hspt_full_exam_14.pdf",
+      "label": "HSPT Full-Length Practice Exam 14"
+    },
+    {
+      "family": "hspt",
+      "file": "hspt_full_exam_15.pdf",
+      "label": "HSPT Full-Length Practice Exam 15"
+    },
+    {
+      "family": "hspt",
+      "file": "hspt_full_exam_16.pdf",
+      "label": "HSPT Full-Length Practice Exam 16"
     }
   ],
   "flashcards": []

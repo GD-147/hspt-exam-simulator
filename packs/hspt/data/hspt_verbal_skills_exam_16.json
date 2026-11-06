@@ -1,0 +1,1029 @@
+{
+  "title": "HSPT Verbal Skills Practice Test 16",
+  "examFamily": "hspt",
+  "examNumber": 16,
+  "section": "Verbal Skills",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-V16-001",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "After missing lunch and walking all afternoon, Niko was RAVENOUS. RAVENOUS most nearly means:",
+      "choices": {
+        "A": "slightly impatient",
+        "B": "extremely hungry",
+        "C": "unusually sleepy",
+        "D": "pleasantly surprised"
+      },
+      "correct": "B",
+      "correctAnswer": "extremely hungry",
+      "explanation": "Ravenous means extremely hungry; the missed meal and long walk support that meaning rather than a mood or a need for sleep."
+    },
+    {
+      "id": "HSPT-V16-002",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "The abandoned shed was DILAPIDATED, with a sagging roof and broken boards. DILAPIDATED most nearly means:",
+      "choices": {
+        "A": "in a state of serious disrepair",
+        "B": "recently enlarged",
+        "C": "carefully concealed",
+        "D": "unusually expensive"
+      },
+      "correct": "A",
+      "correctAnswer": "in a state of serious disrepair",
+      "explanation": "Dilapidated describes a structure that has deteriorated through age or neglect, as the damaged roof and boards demonstrate."
+    },
+    {
+      "id": "HSPT-V16-003",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "The historian made a FERVENT appeal to preserve the recordings. FERVENT most nearly means:",
+      "choices": {
+        "A": "intensely passionate",
+        "B": "deliberately confusing",
+        "C": "barely audible",
+        "D": "strictly impartial"
+      },
+      "correct": "A",
+      "correctAnswer": "intensely passionate",
+      "explanation": "Fervent describes strong, passionate feeling; it characterizes the intensity of the appeal rather than its volume or clarity."
+    },
+    {
+      "id": "HSPT-V16-004",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite to SLUGGISH when describing a worker's movements?",
+      "choices": {
+        "A": "lethargic",
+        "B": "slow",
+        "C": "torpid",
+        "D": "brisk"
+      },
+      "correct": "D",
+      "correctAnswer": "brisk",
+      "explanation": "Sluggish movements are slow and lacking energy; brisk movements are quick and energetic, reversing the intended description."
+    },
+    {
+      "id": "HSPT-V16-005",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Attendance at the briefing is OBLIGATORY. Which word most nearly expresses the opposite of OBLIGATORY?",
+      "choices": {
+        "A": "mandatory",
+        "B": "compulsory",
+        "C": "optional",
+        "D": "required"
+      },
+      "correct": "C",
+      "correctAnswer": "optional",
+      "explanation": "Obligatory means required by a rule or duty; optional means left to a person's choice rather than required."
+    },
+    {
+      "id": "HSPT-V16-006",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite to MOROSE, describing someone's mood?",
+      "choices": {
+        "A": "cheerful",
+        "B": "sullen",
+        "C": "gloomy",
+        "D": "doleful"
+      },
+      "correct": "A",
+      "correctAnswer": "cheerful",
+      "explanation": "Morose describes a gloomy or sullen mood; cheerful expresses the contrasting positive, pleasant state of mind."
+    },
+    {
+      "id": "HSPT-V16-007",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Changing a length from centimeters to meters changes its expression without changing the length itself. A faithful translation similarly:",
+      "choices": {
+        "A": "adds a new claim that the original never made",
+        "B": "replaces the original subject with an unrelated subject",
+        "C": "removes every detail needed to understand the original",
+        "D": "changes the language while preserving the stated meaning"
+      },
+      "correct": "D",
+      "correctAnswer": "changes the language while preserving the stated meaning",
+      "explanation": "Both change a form of expression while preserving what is expressed: the measured quantity in one case and the meaning in the other."
+    },
+    {
+      "id": "HSPT-V16-008",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A sieve lets smaller particles pass while holding larger ones back. Which action follows a similar selective principle?",
+      "choices": {
+        "A": "A program deletes every incoming message without examining it.",
+        "B": "A printer makes a second copy of every message.",
+        "C": "An email filter separates marked junk messages while admitting other messages.",
+        "D": "A program rearranges all messages alphabetically without excluding any."
+      },
+      "correct": "C",
+      "correctAnswer": "An email filter separates marked junk messages while admitting other messages.",
+      "explanation": "Both apply a criterion to separate admitted material from excluded material; indiscriminate deletion, copying, and rearrangement do not perform that selective function."
+    },
+    {
+      "id": "HSPT-V16-009",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A terrain model exaggerates heights while keeping horizontal positions unchanged, making slopes easier to notice. Which operation changes another dimension in a comparable way?",
+      "choices": {
+        "A": "A slow-motion replay expands time intervals while preserving the movement's path and order.",
+        "B": "A reversed replay makes events occur in the opposite order.",
+        "C": "A cropped photograph removes everything near its edges.",
+        "D": "An invented map adds a mountain that does not exist."
+      },
+      "correct": "A",
+      "correctAnswer": "A slow-motion replay expands time intervals while preserving the movement's path and order.",
+      "explanation": "Both expand one dimension to reveal detail while preserving other relationships; reversal, cropping, and invention instead alter or remove those relationships."
+    },
+    {
+      "id": "HSPT-V16-010",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which description names a span of time rather than a single point in time?",
+      "choices": {
+        "A": "Noon",
+        "B": "The instant of arrival",
+        "C": "An intermission",
+        "D": "The scheduled starting moment"
+      },
+      "correct": "C",
+      "correctAnswer": "An intermission",
+      "explanation": "An intermission extends between a beginning and an end; the other choices identify particular moments rather than durations."
+    },
+    {
+      "id": "HSPT-V16-011",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which group contains ONLY changes between physical states of matter?",
+      "choices": {
+        "A": "boiling; walking; melting",
+        "B": "melting; freezing; evaporating",
+        "C": "drifting; freezing; floating",
+        "D": "climbing; turning; sinking"
+      },
+      "correct": "B",
+      "correctAnswer": "melting; freezing; evaporating",
+      "explanation": "Melting, freezing, and evaporating change physical state; the other groups include actions that merely move an object or substance."
+    },
+    {
+      "id": "HSPT-V16-012",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair names complementary roles that require each other by definition, rather than roles that are only sometimes associated?",
+      "choices": {
+        "A": "writer; publisher",
+        "B": "singer; conductor",
+        "C": "lender; borrower",
+        "D": "traveler; guide"
+      },
+      "correct": "C",
+      "correctAnswer": "lender; borrower",
+      "explanation": "A loan necessarily connects a lender and borrower; writers, singers, and travelers can act without publishers, conductors, or guides."
+    },
+    {
+      "id": "HSPT-V16-013",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Three notice boards display the same weather report, but all copied it from one original notice. A reader calls this three independent confirmations. Why is that reasoning weak?",
+      "choices": {
+        "A": "A report becomes false whenever someone copies it.",
+        "B": "Weather reports can be confirmed only by being printed in color.",
+        "C": "Different boards cannot display identical wording.",
+        "D": "The agreement comes from a shared source rather than separate checks."
+      },
+      "correct": "D",
+      "correctAnswer": "The agreement comes from a shared source rather than separate checks.",
+      "explanation": "Copies can repeat one source's information or error; their agreement does not show that separate sources independently checked the report."
+    },
+    {
+      "id": "HSPT-V16-014",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "It is false that every repaired instrument that passed inspection was delivered. Which statement must be true?",
+      "choices": {
+        "A": "Every repaired instrument was withheld from delivery.",
+        "B": "At least one repaired instrument passed inspection but was not delivered.",
+        "C": "At least one undelivered instrument failed inspection.",
+        "D": "Every delivered instrument failed inspection."
+      },
+      "correct": "B",
+      "correctAnswer": "At least one repaired instrument passed inspection but was not delivered.",
+      "explanation": "A false universal claim requires a counterexample meeting its conditions: repaired, passed inspection, and not delivered."
+    },
+    {
+      "id": "HSPT-V16-015",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Three switches are each on or off. P is on exactly when Q is off. Q is on exactly when R is on. R is on exactly when P is on. Which conclusion is correct?",
+      "choices": {
+        "A": "All three switches can be on while satisfying every rule.",
+        "B": "The three rules cannot all be satisfied.",
+        "C": "P and R must have opposite states under the rules.",
+        "D": "All three switches can be off while satisfying every rule."
+      },
+      "correct": "B",
+      "correctAnswer": "The three rules cannot all be satisfied.",
+      "explanation": "The last two rules make P, Q, and R agree, while the first requires P and Q to disagree, creating a contradiction."
+    },
+    {
+      "id": "HSPT-V16-016",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "The instructions already included a clear diagram, so a second identical diagram was SUPERFLUOUS. SUPERFLUOUS most nearly means:",
+      "choices": {
+        "A": "misleading",
+        "B": "incomplete",
+        "C": "unnecessary",
+        "D": "compulsory"
+      },
+      "correct": "C",
+      "correctAnswer": "unnecessary",
+      "explanation": "Superfluous means more than is needed; the second identical diagram adds nothing necessary to the already clear instructions."
+    },
+    {
+      "id": "HSPT-V16-017",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "The stain was INDELIBLE; repeated washing could not remove it. INDELIBLE most nearly means:",
+      "choices": {
+        "A": "impossible to erase",
+        "B": "difficult to notice",
+        "C": "quick to spread",
+        "D": "pleasant to recall"
+      },
+      "correct": "A",
+      "correctAnswer": "impossible to erase",
+      "explanation": "Indelible describes a mark that cannot be removed or erased; the failed attempts to wash away the stain establish that sense."
+    },
+    {
+      "id": "HSPT-V16-018",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "A RANCOROUS argument left both neighbors nursing bitter resentment. RANCOROUS most nearly means:",
+      "choices": {
+        "A": "conducted in secret",
+        "B": "settled without delay",
+        "C": "based on careful measurements",
+        "D": "filled with deep hostility"
+      },
+      "correct": "D",
+      "correctAnswer": "filled with deep hostility",
+      "explanation": "Rancorous describes bitterness and lasting resentment, which the neighbors continue to feel after their argument has ended."
+    },
+    {
+      "id": "HSPT-V16-019",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "The hillside had only SPARSE vegetation. Which word most nearly expresses the opposite of SPARSE here?",
+      "choices": {
+        "A": "dense",
+        "B": "scattered",
+        "C": "meager",
+        "D": "thin"
+      },
+      "correct": "A",
+      "correctAnswer": "dense",
+      "explanation": "Sparse vegetation is thinly distributed; dense vegetation grows thickly, reversing the description of how closely the plants are grouped."
+    },
+    {
+      "id": "HSPT-V16-020",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "The arrangement was declared IRREVOCABLE. Which word most nearly expresses the opposite of IRREVOCABLE?",
+      "choices": {
+        "A": "binding",
+        "B": "revocable",
+        "C": "unalterable",
+        "D": "permanent"
+      },
+      "correct": "B",
+      "correctAnswer": "revocable",
+      "explanation": "Irrevocable means unable to be withdrawn or canceled; revocable means that withdrawal or cancellation remains possible."
+    },
+    {
+      "id": "HSPT-V16-021",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "The hall had a STAID atmosphere, restrained and solemn. Which word most nearly expresses the opposite of STAID?",
+      "choices": {
+        "A": "sedate",
+        "B": "dignified",
+        "C": "sober",
+        "D": "exuberant"
+      },
+      "correct": "D",
+      "correctAnswer": "exuberant",
+      "explanation": "Staid suggests restraint and seriousness; exuberant suggests lively, overflowing energy, providing the strongest contrast in atmosphere."
+    },
+    {
+      "id": "HSPT-V16-022",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A photograph negative reverses light and dark while keeping the positions of features. Which operation preserves positions while similarly reversing a pair of opposed labels?",
+      "choices": {
+        "A": "Moving the last checklist entry to the beginning",
+        "B": "Erasing entries that seem unimportant",
+        "C": "Changing every yes on a fixed checklist to no and every no to yes",
+        "D": "Making an additional identical copy of the checklist"
+      },
+      "correct": "C",
+      "correctAnswer": "Changing every yes on a fixed checklist to no and every no to yes",
+      "explanation": "Both exchange opposed values at each position while preserving the arrangement; rearranging, deleting, and copying perform different operations."
+    },
+    {
+      "id": "HSPT-V16-023",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A bookmark records where a reader stopped so reading can resume there. Which feature serves the most similar purpose?",
+      "choices": {
+        "A": "A cover illustration that suggests a story's subject",
+        "B": "A saved checkpoint that lets a game resume from recorded progress",
+        "C": "A clock that reports the present time",
+        "D": "A list that ranks games by popularity"
+      },
+      "correct": "B",
+      "correctAnswer": "A saved checkpoint that lets a game resume from recorded progress",
+      "explanation": "Both preserve a stopping position for later continuation; the alternatives describe content, report time, or rank items without preserving progress."
+    },
+    {
+      "id": "HSPT-V16-024",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A removable casting model is sacrificed to create a cavity that the finished material will occupy. Which action follows the most similar relationship?",
+      "choices": {
+        "A": "Using a temporary spacer, then removing it so a permanent piece can fit in the reserved opening",
+        "B": "Adding a decorative border that remains around the finished piece",
+        "C": "Measuring a finished piece after all construction is complete",
+        "D": "Polishing a surface without changing which parts occupy it"
+      },
+      "correct": "A",
+      "correctAnswer": "Using a temporary spacer, then removing it so a permanent piece can fit in the reserved opening",
+      "explanation": "Both use a temporary occupant to establish space for a later occupant; decoration, measurement, and polishing do not create space by removal."
+    },
+    {
+      "id": "HSPT-V16-025",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which document records that payment has been received rather than proposing a price before a purchase or job?",
+      "choices": {
+        "A": "estimate",
+        "B": "receipt",
+        "C": "quotation",
+        "D": "bid"
+      },
+      "correct": "B",
+      "correctAnswer": "receipt",
+      "explanation": "A receipt acknowledges a completed payment; an estimate, quotation, or bid states a proposed price before the transaction is completed."
+    },
+    {
+      "id": "HSPT-V16-026",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which group consists entirely of words that can describe a result produced without deliberate intention?",
+      "choices": {
+        "A": "accidental; calculated; unplanned",
+        "B": "deliberate; inadvertent; designed",
+        "C": "accidental; inadvertent; unplanned",
+        "D": "planned; calculated; intentional"
+      },
+      "correct": "C",
+      "correctAnswer": "accidental; inadvertent; unplanned",
+      "explanation": "Accidental, inadvertent, and unplanned all exclude deliberate planning; each other group includes at least one word that explicitly indicates intention."
+    },
+    {
+      "id": "HSPT-V16-027",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word does NOT belong with HUSK, RIND, and PEEL as an outer covering that can be removed from food?",
+      "choices": {
+        "A": "shell",
+        "B": "skin",
+        "C": "kernel",
+        "D": "hull"
+      },
+      "correct": "C",
+      "correctAnswer": "kernel",
+      "explanation": "A kernel is an inner seed or edible core; shell, skin, and hull name removable outer coverings, like the three given words."
+    },
+    {
+      "id": "HSPT-V16-028",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A hinged door has an accurate PUSH sign on one face and an accurate PULL sign on its opposite face. Why need the signs not contradict each other?",
+      "choices": {
+        "A": "Both signs require one person to push and pull at the same moment.",
+        "B": "Opposite verbs necessarily make one of the signs inaccurate.",
+        "C": "Both signs prohibit anyone from moving the door.",
+        "D": "Actions taken from opposite sides can move the same door in the same direction."
+      },
+      "correct": "D",
+      "correctAnswer": "Actions taken from opposite sides can move the same door in the same direction.",
+      "explanation": "Pushing from one side can produce the same door movement as pulling from the other; the instructions apply to different positions."
+    },
+    {
+      "id": "HSPT-V16-029",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "An inspection rule says a crate may receive a seal only if both its lock and its lining pass inspection. A sealed crate is found with a lining that failed. Which statement must be true?",
+      "choices": {
+        "A": "The lock must also have failed.",
+        "B": "The sealing rule was violated, regardless of the lock's result.",
+        "C": "The lining must have passed because a seal is present.",
+        "D": "The rule permits a seal whenever the lock passes."
+      },
+      "correct": "B",
+      "correctAnswer": "The sealing rule was violated, regardless of the lock's result.",
+      "explanation": "Passing both checks is necessary for a seal; a failed lining defeats that requirement whether the lock passed or failed."
+    },
+    {
+      "id": "HSPT-V16-030",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Ravi says, \"The engine is idling or the indicator is lit (or both).\" Lena says, \"If the engine is idling, the indicator is lit.\" Both statements are true. What must be true?",
+      "choices": {
+        "A": "The engine is idling.",
+        "B": "The engine is not idling.",
+        "C": "The indicator is not lit.",
+        "D": "The indicator is lit."
+      },
+      "correct": "D",
+      "correctAnswer": "The indicator is lit.",
+      "explanation": "If the engine is not idling, Ravi's statement requires a lit indicator; if it is idling, Lena's statement requires a lit indicator."
+    },
+    {
+      "id": "HSPT-V16-031",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Lena grew PENSIVE as she considered the question in silence. PENSIVE most nearly means:",
+      "choices": {
+        "A": "openly boastful",
+        "B": "physically restless",
+        "C": "deeply thoughtful",
+        "D": "eager to interrupt"
+      },
+      "correct": "C",
+      "correctAnswer": "deeply thoughtful",
+      "explanation": "Pensive describes quiet, serious thought; Lena's silent consideration supports that meaning rather than pride, movement, or impatience."
+    },
+    {
+      "id": "HSPT-V16-032",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "The cottage's tiny windows and old-fashioned shutters gave it a QUAINT appearance. QUAINT most nearly means:",
+      "choices": {
+        "A": "dangerously unstable",
+        "B": "strictly modern",
+        "C": "charmingly old-fashioned",
+        "D": "deliberately hidden"
+      },
+      "correct": "C",
+      "correctAnswer": "charmingly old-fashioned",
+      "explanation": "Quaint suggests an appealingly unusual or old-fashioned quality; the traditional windows and shutters establish that intended sense."
+    },
+    {
+      "id": "HSPT-V16-033",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "The review's CAUSTIC remarks wounded the performer's pride. CAUSTIC most nearly means:",
+      "choices": {
+        "A": "mildly encouraging",
+        "B": "harshly biting",
+        "C": "carefully numerical",
+        "D": "deliberately vague"
+      },
+      "correct": "B",
+      "correctAnswer": "harshly biting",
+      "explanation": "Caustic language is sharply critical or cutting; the effect on the performer supports the figurative meaning rather than a chemical one."
+    },
+    {
+      "id": "HSPT-V16-034",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "A FUTILE effort achieves nothing useful. Which word most nearly expresses the opposite of FUTILE?",
+      "choices": {
+        "A": "pointless",
+        "B": "useless",
+        "C": "unproductive",
+        "D": "effective"
+      },
+      "correct": "D",
+      "correctAnswer": "effective",
+      "explanation": "Futile describes an effort that cannot produce a useful result; effective describes one that accomplishes its intended purpose."
+    },
+    {
+      "id": "HSPT-V16-035",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "The agreement was CLANDESTINE, known only to its secret participants. Which word most nearly expresses the opposite of CLANDESTINE?",
+      "choices": {
+        "A": "public",
+        "B": "covert",
+        "C": "concealed",
+        "D": "undercover"
+      },
+      "correct": "A",
+      "correctAnswer": "public",
+      "explanation": "Clandestine means deliberately kept secret; public describes something openly known, while the other choices preserve the secrecy."
+    },
+    {
+      "id": "HSPT-V16-036",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "The critic called the description PROSAIC, ordinary and uninspired. Which word most nearly expresses the opposite of PROSAIC here?",
+      "choices": {
+        "A": "imaginative",
+        "B": "mundane",
+        "C": "commonplace",
+        "D": "unremarkable"
+      },
+      "correct": "A",
+      "correctAnswer": "imaginative",
+      "explanation": "In this context, prosaic means lacking imagination or distinction; imaginative reverses that judgment, whereas the remaining choices reinforce it."
+    },
+    {
+      "id": "HSPT-V16-037",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A Braille cell distinguishes symbols through the positions of raised dots. Which feature uses position to distinguish another kind of information?",
+      "choices": {
+        "A": "A metronome produces regularly timed clicks.",
+        "B": "A conductor signals when a group should begin.",
+        "C": "A padded case protects an instrument during travel.",
+        "D": "The height of a note on a musical staff indicates its pitch."
+      },
+      "correct": "D",
+      "correctAnswer": "The height of a note on a musical staff indicates its pitch.",
+      "explanation": "Both assign meaning to a mark's position; timing a beat, signaling an entrance, and protecting an instrument serve other functions."
+    },
+    {
+      "id": "HSPT-V16-038",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A thermostat changes a heater's operation in response to measured temperature. Which action uses a comparable feedback process?",
+      "choices": {
+        "A": "A potter examines each fired test tile and adjusts the next firing according to the result.",
+        "B": "A potter follows an unchanged firing schedule without checking any results.",
+        "C": "A clerk records firing dates but never changes the procedure.",
+        "D": "A customer selects a finished tile solely because its color matches a wall."
+      },
+      "correct": "A",
+      "correctAnswer": "A potter examines each fired test tile and adjusts the next firing according to the result.",
+      "explanation": "Feedback uses an observed result to adjust a later action; fixed schedules, unused records, and a customer's selection do not form that loop."
+    },
+    {
+      "id": "HSPT-V16-039",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A subscription's expiration ends access unless the subscriber renews it. Which relationship follows the same time-limited authorization pattern?",
+      "choices": {
+        "A": "A receipt records that a payment already occurred.",
+        "B": "A temporary pass stops permitting entry when its stated period ends unless it is extended.",
+        "C": "A biography describes events that happened long ago.",
+        "D": "A permanent scratch remains visible after an object is moved."
+      },
+      "correct": "B",
+      "correctAnswer": "A temporary pass stops permitting entry when its stated period ends unless it is extended.",
+      "explanation": "Both grant a benefit for a limited period and require further authorization to continue it; records and physical marks do not expire that way."
+    },
+    {
+      "id": "HSPT-V16-040",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which term names an animal's den rather than a type of manufactured container?",
+      "choices": {
+        "A": "crate",
+        "B": "canister",
+        "C": "carton",
+        "D": "lair"
+      },
+      "correct": "D",
+      "correctAnswer": "lair",
+      "explanation": "A lair is an animal's den or hiding place; crates, canisters, and cartons are manufactured containers for storing or transporting objects."
+    },
+    {
+      "id": "HSPT-V16-041",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which group contains ONLY words that name an action that, by definition, undoes a corresponding earlier action?",
+      "choices": {
+        "A": "untie; polish; enlarge",
+        "B": "untie; disconnect; unwrap",
+        "C": "decorate; disconnect; photograph",
+        "D": "unwrap; inspect; measure"
+      },
+      "correct": "B",
+      "correctAnswer": "untie; disconnect; unwrap",
+      "explanation": "Untie, disconnect, and unwrap undo tying, connecting, and wrapping; the other groups include actions that need not reverse an earlier operation."
+    },
+    {
+      "id": "HSPT-V16-042",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which expression does NOT belong with the others as a way of conveying ridicule?",
+      "choices": {
+        "A": "a sneering imitation",
+        "B": "a sarcastic jibe",
+        "C": "a sincere tribute",
+        "D": "a mocking taunt"
+      },
+      "correct": "C",
+      "correctAnswer": "a sincere tribute",
+      "explanation": "A sincere tribute expresses genuine respect; sneering, sarcastic, and mocking expressions belittle or ridicule their targets rather than honor them."
+    },
+    {
+      "id": "HSPT-V16-043",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Every statement in a notice is attributed to its actual speaker. The notice reports, \"Mara claims that the tunnel is open.\" What does the notice establish by itself?",
+      "choices": {
+        "A": "Mara made that claim, but the tunnel's actual condition is not thereby established.",
+        "B": "The tunnel is definitely open.",
+        "C": "The tunnel is definitely closed.",
+        "D": "Mara has personally walked through the tunnel."
+      },
+      "correct": "A",
+      "correctAnswer": "Mara made that claim, but the tunnel's actual condition is not thereby established.",
+      "explanation": "Accurately attributing a claim establishes who said it, not whether its content is true or how the speaker obtained it."
+    },
+    {
+      "id": "HSPT-V16-044",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "The sentence \"The guide saw a traveler with a telescope\" has two possible interpretations. Which information would resolve its grammatical ambiguity?",
+      "choices": {
+        "A": "Whether the traveler was standing or sitting",
+        "B": "Whether the guide had met the traveler before",
+        "C": "Whether the path continued beyond the traveler",
+        "D": "Whether the telescope was the guide's viewing instrument or an object accompanying the traveler"
+      },
+      "correct": "D",
+      "correctAnswer": "Whether the telescope was the guide's viewing instrument or an object accompanying the traveler",
+      "explanation": "With a telescope can describe how the guide saw or what accompanied the traveler; the other details do not identify that phrase's role."
+    },
+    {
+      "id": "HSPT-V16-045",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A critic says a proposal cannot work because its author once made an unrelated spelling mistake. Which additional fact would most directly address whether the proposal can work?",
+      "choices": {
+        "A": "The number of people who noticed the spelling mistake",
+        "B": "The color of the paper on which the proposal appeared",
+        "C": "Evidence testing the proposal's actual steps and results",
+        "D": "The critic's preference for shorter proposals"
+      },
+      "correct": "C",
+      "correctAnswer": "Evidence testing the proposal's actual steps and results",
+      "explanation": "Testing the proposal addresses its operation directly; an unrelated error and the other personal or presentation details do not establish whether its method succeeds."
+    },
+    {
+      "id": "HSPT-V16-046",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "The NIMBLE climber moved quickly and lightly across the narrow ledge. NIMBLE most nearly means:",
+      "choices": {
+        "A": "motionless",
+        "B": "careless",
+        "C": "agile",
+        "D": "exhausted"
+      },
+      "correct": "C",
+      "correctAnswer": "agile",
+      "explanation": "Nimble describes quick, light, coordinated movement; agile preserves that meaning without suggesting recklessness, stillness, or fatigue."
+    },
+    {
+      "id": "HSPT-V16-047",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Only a TENUOUS connection linked the rumor to the actual event. TENUOUS most nearly means:",
+      "choices": {
+        "A": "firmly established",
+        "B": "needlessly complicated",
+        "C": "widely celebrated",
+        "D": "weak and uncertain"
+      },
+      "correct": "D",
+      "correctAnswer": "weak and uncertain",
+      "explanation": "A tenuous connection is weak or slight and provides little support; the phrase concerns the strength of the link rather than its popularity."
+    },
+    {
+      "id": "HSPT-V16-048",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "The editor's INCISIVE questions exposed the argument's hidden weakness. INCISIVE most nearly means:",
+      "choices": {
+        "A": "politely evasive",
+        "B": "sharply perceptive",
+        "C": "carelessly repetitive",
+        "D": "unusually lengthy"
+      },
+      "correct": "B",
+      "correctAnswer": "sharply perceptive",
+      "explanation": "Incisive questions penetrate to an important issue with clear, sharp understanding; exposing the hidden weakness demonstrates that perceptiveness."
+    },
+    {
+      "id": "HSPT-V16-049",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "The normally DOCILE animal resisted every attempt to lead it away. Which word most nearly expresses the opposite of DOCILE?",
+      "choices": {
+        "A": "defiant",
+        "B": "obedient",
+        "C": "compliant",
+        "D": "tractable"
+      },
+      "correct": "A",
+      "correctAnswer": "defiant",
+      "explanation": "Docile means readily guided or controlled; defiant describes resistance to control, while the other choices retain the original cooperative meaning."
+    },
+    {
+      "id": "HSPT-V16-050",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "The water was PRISTINE, untouched by pollutants. Which word most nearly expresses the opposite of PRISTINE in this context?",
+      "choices": {
+        "A": "unspoiled",
+        "B": "pure",
+        "C": "contaminated",
+        "D": "untainted"
+      },
+      "correct": "C",
+      "correctAnswer": "contaminated",
+      "explanation": "Pristine here means clean and unspoiled; contaminated indicates the presence of unwanted substances and directly reverses that description."
+    },
+    {
+      "id": "HSPT-V16-051",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Her EBULLIENT greeting overflowed with excitement. Which word most nearly expresses the opposite of EBULLIENT?",
+      "choices": {
+        "A": "subdued",
+        "B": "exuberant",
+        "C": "animated",
+        "D": "high-spirited"
+      },
+      "correct": "A",
+      "correctAnswer": "subdued",
+      "explanation": "Ebullient means visibly overflowing with enthusiasm; subdued describes a restrained, quiet manner rather than an energetic display of excitement."
+    },
+    {
+      "id": "HSPT-V16-052",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A hinge permits a panel to turn around an axis while restricting other movement. Which device similarly permits one kind of movement while limiting others?",
+      "choices": {
+        "A": "A brake slows a wheel by resisting its rotation.",
+        "B": "A counterweight offsets the weight of a load.",
+        "C": "A grooved track lets a sliding panel travel along one path while preventing sideways motion.",
+        "D": "A rough handle improves the user's grip on a tool."
+      },
+      "correct": "C",
+      "correctAnswer": "A grooved track lets a sliding panel travel along one path while preventing sideways motion.",
+      "explanation": "Both guide movement by allowing a particular path and restricting departures from it; braking, balancing, and gripping perform different functions."
+    },
+    {
+      "id": "HSPT-V16-053",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A staple joins sheets while leaving each sheet distinct. Which arrangement similarly joins participants without merging their separate identities?",
+      "choices": {
+        "A": "A blender mixes several ingredients into a uniform liquid.",
+        "B": "A furnace melts scraps together into one casting.",
+        "C": "A shredder cuts several pages into mixed fragments.",
+        "D": "An alliance lets separate organizations cooperate while each remains an organization."
+      },
+      "correct": "D",
+      "correctAnswer": "An alliance lets separate organizations cooperate while each remains an organization.",
+      "explanation": "The staple and alliance establish connections among parts that retain their identities; blending, melting together, and shredding erase or disrupt those distinctions."
+    },
+    {
+      "id": "HSPT-V16-054",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A fingerprint can distinguish one person from others. Which label has the most similar identifying role for instruments manufactured to the same design?",
+      "choices": {
+        "A": "A model number shared by every instrument of that design",
+        "B": "A temperature reading that changes during use",
+        "C": "A size category containing many different instruments",
+        "D": "A unique serial number assigned to one individual instrument"
+      },
+      "correct": "D",
+      "correctAnswer": "A unique serial number assigned to one individual instrument",
+      "explanation": "A unique serial number distinguishes an individual unit; model and size labels group units, while a temperature reading describes a changing condition."
+    },
+    {
+      "id": "HSPT-V16-055",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which expression belongs with FIRST, MIDDLE, and LAST as a position in an ordered sequence?",
+      "choices": {
+        "A": "clockwise",
+        "B": "next to last",
+        "C": "upward",
+        "D": "outward"
+      },
+      "correct": "B",
+      "correctAnswer": "next to last",
+      "explanation": "Next to last locates an item within an ordered sequence; clockwise, upward, and outward describe directions of movement rather than sequence positions."
+    },
+    {
+      "id": "HSPT-V16-056",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which statement expresses an obligation rather than a prediction or possibility?",
+      "choices": {
+        "A": "The forecast suggests that a report will arrive tomorrow.",
+        "B": "The rules require every inspector to submit a report.",
+        "C": "A report may arrive before the office closes.",
+        "D": "Reports usually arrive during the afternoon."
+      },
+      "correct": "B",
+      "correctAnswer": "The rules require every inspector to submit a report.",
+      "explanation": "Require states what inspectors are obligated to do; the other statements describe expected, possible, or customary events without imposing a duty."
+    },
+    {
+      "id": "HSPT-V16-057",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word does NOT belong with HEAP, STACK, and CLUSTER as a collection of separate things?",
+      "choices": {
+        "A": "pile",
+        "B": "bunch",
+        "C": "shard",
+        "D": "bundle"
+      },
+      "correct": "C",
+      "correctAnswer": "shard",
+      "explanation": "A shard is one broken piece of a solid object; piles, bunches, and bundles are collections, like heaps, stacks, and clusters."
+    },
+    {
+      "id": "HSPT-V16-058",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "An inspector examines only the top layer of a crate and finds no scratched tiles. She concludes that no tile anywhere in the crate is scratched. Why is that conclusion not established?",
+      "choices": {
+        "A": "A top-layer tile cannot ever have a scratch.",
+        "B": "Finding an undamaged tile proves every lower tile is damaged.",
+        "C": "The conclusion depends only on the inspector's handwriting.",
+        "D": "The unexamined lower layers could differ in the condition being generalized."
+      },
+      "correct": "D",
+      "correctAnswer": "The unexamined lower layers could differ in the condition being generalized.",
+      "explanation": "The observations establish the condition of the inspected layer, but they supply no guarantee about unexamined tiles elsewhere in the crate."
+    },
+    {
+      "id": "HSPT-V16-059",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A scan may begin only after an approval is complete. The approval may begin only after a copy is complete. The copy may begin only after the scan is complete. None is complete, and no exceptions or outside records are allowed. What follows?",
+      "choices": {
+        "A": "The scan may begin because it was mentioned first.",
+        "B": "None of the three tasks can begin under these rules.",
+        "C": "The approval is automatically complete without any work.",
+        "D": "Any order will work if every task is performed quickly."
+      },
+      "correct": "B",
+      "correctAnswer": "None of the three tasks can begin under these rules.",
+      "explanation": "Every possible first task requires another task already to be complete; with no completed starting record, the circular prerequisites block every first step."
+    },
+    {
+      "id": "HSPT-V16-060",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Call two words linked when they share at least one letter. MINT is linked to TONE, and TONE is linked to SOUR. Which statement is correct?",
+      "choices": {
+        "A": "MINT and SOUR are not linked; sharing a letter with an intermediate word does not guarantee a shared letter with each other.",
+        "B": "MINT and SOUR must be linked because any chain of links guarantees a direct link.",
+        "C": "All three words are linked simply because they are English words.",
+        "D": "The links cannot be evaluated without knowing the words' meanings."
+      },
+      "correct": "A",
+      "correctAnswer": "MINT and SOUR are not linked; sharing a letter with an intermediate word does not guarantee a shared letter with each other.",
+      "explanation": "MINT shares letters with TONE, and TONE shares O with SOUR, but MINT and SOUR share none; the defined relation is not transitive."
+    }
+  ]
+}

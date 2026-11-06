@@ -1,0 +1,1069 @@
+{
+  "title": "HSPT Language Practice Test 11",
+  "examFamily": "hspt",
+  "examNumber": 11,
+  "section": "Language",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-L11-001",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly shows that the handwriting belongs to another person?",
+      "choices": {
+        "A": "The note was in someones else handwriting.",
+        "B": "The note was in someone elses' handwriting.",
+        "C": "The note was in someone's else handwriting.",
+        "D": "The note was in someone else's handwriting."
+      },
+      "correct": "D",
+      "correctAnswer": "The note was in someone else's handwriting.",
+      "explanation": "The possessive of someone else is someone else's, with the apostrophe and s attached to else."
+    },
+    {
+      "id": "HSPT-L11-002",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly uses semicolons to separate three city-and-state entries?",
+      "choices": {
+        "A": "The route ends in Salem; Oregon, Boise; Idaho, and Reno; Nevada.",
+        "B": "The route ends in Salem, Oregon; Boise; Idaho, and Reno, Nevada.",
+        "C": "The route ends in Salem, Oregon; Boise, Idaho; and Reno, Nevada.",
+        "D": "The route ends in Salem, Oregon, Boise, Idaho; and Reno; Nevada."
+      },
+      "correct": "C",
+      "correctAnswer": "The route ends in Salem, Oregon; Boise, Idaho; and Reno, Nevada.",
+      "explanation": "Semicolons separate the complete city-and-state entries, while commas remain within each entry between the city and state."
+    },
+    {
+      "id": "HSPT-L11-003",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly punctuates a question about a short story titled Night Ferry?",
+      "choices": {
+        "A": "Have you read \"Night Ferry\"?",
+        "B": "Have you read \"Night Ferry?\"",
+        "C": "Have you read, \"Night Ferry\"?",
+        "D": "Have you read \"Night Ferry\"."
+      },
+      "correct": "A",
+      "correctAnswer": "Have you read \"Night Ferry\"?",
+      "explanation": "The sentence asks the question, not the story title, so the question mark goes outside the title's closing quotation mark."
+    },
+    {
+      "id": "HSPT-L11-004",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence uses capitalization correctly?",
+      "choices": {
+        "A": "Our model shows mars and its two moons.",
+        "B": "Our model shows Mars and its two moons.",
+        "C": "Our model shows Mars and its Two Moons.",
+        "D": "Our Model shows mars and its two moons."
+      },
+      "correct": "B",
+      "correctAnswer": "Our model shows Mars and its two moons.",
+      "explanation": "Mars is a planet's proper name and takes a capital letter, while model, two, and moons are common words."
+    },
+    {
+      "id": "HSPT-L11-005",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence uses capitalization correctly?",
+      "choices": {
+        "A": "The actor delivered a Shakespearean speech in a modern costume.",
+        "B": "The actor delivered a shakespearean speech in a modern costume.",
+        "C": "The actor delivered a Shakespearean Speech in a modern costume.",
+        "D": "The actor delivered a Shakespearean speech in a Modern Costume."
+      },
+      "correct": "A",
+      "correctAnswer": "The actor delivered a Shakespearean speech in a modern costume.",
+      "explanation": "Shakespearean is an adjective derived from the proper name Shakespeare, so it is capitalized; speech and modern costume remain lowercase."
+    },
+    {
+      "id": "HSPT-L11-006",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nThe sealed compartment increased the raft's ____.",
+      "choices": {
+        "A": "bouyancy",
+        "B": "buoyency",
+        "C": "buoyancy",
+        "D": "buyoancy"
+      },
+      "correct": "C",
+      "correctAnswer": "buoyancy",
+      "explanation": "Buoyancy is the standard spelling, preserving buoy at the beginning and ending with ancy rather than ency."
+    },
+    {
+      "id": "HSPT-L11-007",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which word is spelled correctly?",
+      "choices": {
+        "A": "rythm",
+        "B": "rhythym",
+        "C": "rhythem",
+        "D": "rhythm"
+      },
+      "correct": "D",
+      "correctAnswer": "rhythm",
+      "explanation": "Rhythm is spelled r-h-y-t-h-m, with no added vowel between the final consonants in its singular form."
+    },
+    {
+      "id": "HSPT-L11-008",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence in formal written English?\nThe foreman requested that each latch ____ tested before shipment.",
+      "choices": {
+        "A": "was",
+        "B": "were",
+        "C": "be",
+        "D": "being"
+      },
+      "correct": "C",
+      "correctAnswer": "be",
+      "explanation": "After requested that, the subjunctive uses the base form be to express an action being required."
+    },
+    {
+      "id": "HSPT-L11-009",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence?\nA drainage trench has been ____ beside the runway.",
+      "choices": {
+        "A": "dug",
+        "B": "dig",
+        "C": "digged",
+        "D": "digging"
+      },
+      "correct": "A",
+      "correctAnswer": "dug",
+      "explanation": "The passive verb phrase has been requires the past participle; the irregular past participle of dig is dug."
+    },
+    {
+      "id": "HSPT-L11-010",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which revision correctly compares this crane's reach with the reaches of all the other cranes in the yard?",
+      "choices": {
+        "A": "This crane's reach is longer than any crane in the yard.",
+        "B": "This crane's reach is longer than that of any crane, including itself, in the yard.",
+        "C": "This crane's reach is longer than those of itself in the yard.",
+        "D": "This crane's reach is longer than that of any other crane in the yard."
+      },
+      "correct": "D",
+      "correctAnswer": "This crane's reach is longer than that of any other crane in the yard.",
+      "explanation": "That substitutes for reach, keeping like things in the comparison, and other excludes the crane from comparison with itself."
+    },
+    {
+      "id": "HSPT-L11-011",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word correctly completes the sentence?\nThe drone hovered above a ____ marker that did not move.",
+      "choices": {
+        "A": "stationery",
+        "B": "stationary",
+        "C": "stationer",
+        "D": "stationed"
+      },
+      "correct": "B",
+      "correctAnswer": "stationary",
+      "explanation": "Stationary means not moving; stationery refers to writing supplies, and the other forms do not fit the stated meaning."
+    },
+    {
+      "id": "HSPT-L11-012",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence preserves the restriction on who may act in \"Only the night operator may restart the press\"?",
+      "choices": {
+        "A": "No one except the night operator may restart the press.",
+        "B": "The night operator may restart only the press.",
+        "C": "The operator may restart the press only at night.",
+        "D": "The night operator may only restart the press."
+      },
+      "correct": "A",
+      "correctAnswer": "No one except the night operator may restart the press.",
+      "explanation": "Only limits the person permitted to act; no one except preserves that restriction without changing the permitted action or time."
+    },
+    {
+      "id": "HSPT-L11-013",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which additional finding would most strengthen the claim in sentence 6?",
+      "choices": {
+        "A": "The knobs were available in six colors.",
+        "B": "The company printed its name in blue on each box.",
+        "C": "In repeated trials, the combined arrangement used fewer grams of packaging than full trays and prevented the knobs from touching.",
+        "D": "Most shipments left the factory on weekday mornings."
+      },
+      "correct": "C",
+      "correctAnswer": "In repeated trials, the combined arrangement used fewer grams of packaging than full trays and prevented the knobs from touching.",
+      "explanation": "This finding directly supports both parts of sentence 6: reduced material use and separation of the knobs.",
+      "stimulusId": "HSPT-L11-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Choosing a Shipping Cushion",
+      "stimulusText": "(1) A company shipping ceramic knobs must choose padding that prevents chips without making each package much heavier. (2) In an initial test, molded paper trays kept all the knobs intact, but the trays occupied almost half the box. (3) Inflatable cushions used less storage space before packing and added very little weight. (4) However, knobs sometimes shifted between the cushions during a sudden drop. (5) The company then tried a fitted paper divider with one small cushion placed above it. (6) This arrangement held the knobs apart while using less material than a full tray. (7) This packaging is the best choice for every fragile product shipped by any company."
+    },
+    {
+      "id": "HSPT-L11-014",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "The writer wants two paragraphs: one comparing the original options and one explaining the combined approach. Where should the second paragraph begin?",
+      "choices": {
+        "A": "Before sentence 2",
+        "B": "Before sentence 3",
+        "C": "Before sentence 7",
+        "D": "Before sentence 5"
+      },
+      "correct": "D",
+      "correctAnswer": "Before sentence 5",
+      "explanation": "Sentences 1–4 introduce the problem and compare the original options; sentence 5 shifts to the combined design.",
+      "stimulusId": "HSPT-L11-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Choosing a Shipping Cushion",
+      "stimulusText": "(1) A company shipping ceramic knobs must choose padding that prevents chips without making each package much heavier. (2) In an initial test, molded paper trays kept all the knobs intact, but the trays occupied almost half the box. (3) Inflatable cushions used less storage space before packing and added very little weight. (4) However, knobs sometimes shifted between the cushions during a sudden drop. (5) The company then tried a fitted paper divider with one small cushion placed above it. (6) This arrangement held the knobs apart while using less material than a full tray. (7) This packaging is the best choice for every fragile product shipped by any company."
+    },
+    {
+      "id": "HSPT-L11-015",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision of sentence 7 makes a conclusion supported by the tests described?",
+      "choices": {
+        "A": "The tests prove that every company should immediately stop using paper trays.",
+        "B": "For these ceramic knobs, the divider-and-cushion arrangement offers a useful balance of protection and material use.",
+        "C": "Inflatable cushions are always unsuitable for shipping any kind of object.",
+        "D": "No further testing could ever improve this arrangement for any fragile product."
+      },
+      "correct": "B",
+      "correctAnswer": "For these ceramic knobs, the divider-and-cushion arrangement offers a useful balance of protection and material use.",
+      "explanation": "The evidence concerns these knobs and this arrangement, so the conclusion should avoid unsupported claims about all products or companies.",
+      "stimulusId": "HSPT-L11-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Choosing a Shipping Cushion",
+      "stimulusText": "(1) A company shipping ceramic knobs must choose padding that prevents chips without making each package much heavier. (2) In an initial test, molded paper trays kept all the knobs intact, but the trays occupied almost half the box. (3) Inflatable cushions used less storage space before packing and added very little weight. (4) However, knobs sometimes shifted between the cushions during a sudden drop. (5) The company then tried a fitted paper divider with one small cushion placed above it. (6) This arrangement held the knobs apart while using less material than a full tray. (7) This packaging is the best choice for every fragile product shipped by any company."
+    },
+    {
+      "id": "HSPT-L11-016",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly separates the two coordinate adjectives describing the crate?",
+      "choices": {
+        "A": "The workers lifted the heavy awkward, crate.",
+        "B": "The workers lifted, the heavy awkward crate.",
+        "C": "The workers lifted the heavy awkward crate.",
+        "D": "The workers lifted the heavy, awkward crate."
+      },
+      "correct": "D",
+      "correctAnswer": "The workers lifted the heavy, awkward crate.",
+      "explanation": "Heavy and awkward independently describe the crate, so a comma separates these coordinate adjectives without separating them from the noun."
+    },
+    {
+      "id": "HSPT-L11-017",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Marin and Keon jointly own one workshop. Which sentence correctly shows that shared ownership?",
+      "choices": {
+        "A": "Marin's and Keon's workshop occupies one room.",
+        "B": "Marin and Keons' workshop occupies one room.",
+        "C": "Marins and Keon's workshop occupies one room.",
+        "D": "Marin and Keon's workshop occupies one room."
+      },
+      "correct": "D",
+      "correctAnswer": "Marin and Keon's workshop occupies one room.",
+      "explanation": "For joint ownership, only the final name takes the possessive ending: Marin and Keon's workshop."
+    },
+    {
+      "id": "HSPT-L11-018",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes a job title used as a description after a person's name?",
+      "choices": {
+        "A": "We spoke with Helen Tran, the director of operations.",
+        "B": "We spoke with Helen Tran, the Director of Operations.",
+        "C": "We spoke with Helen tran, the director of operations.",
+        "D": "We spoke with Helen Tran, the director of operations Manager."
+      },
+      "correct": "A",
+      "correctAnswer": "We spoke with Helen Tran, the director of operations.",
+      "explanation": "A job title used descriptively after a name remains lowercase; the person's proper name retains its capitals."
+    },
+    {
+      "id": "HSPT-L11-019",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly writes the initials for Global Positioning System?",
+      "choices": {
+        "A": "The hikers carried a gps receiver.",
+        "B": "The hikers carried a Gps receiver.",
+        "C": "The hikers carried a GPS receiver.",
+        "D": "The hikers carried a gPS receiver."
+      },
+      "correct": "C",
+      "correctAnswer": "The hikers carried a GPS receiver.",
+      "explanation": "The established initialism GPS uses all three capital letters, while the common noun receiver stays lowercase."
+    },
+    {
+      "id": "HSPT-L11-020",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which word is spelled correctly?",
+      "choices": {
+        "A": "sincerly",
+        "B": "sincerely",
+        "C": "sincereley",
+        "D": "sinserely"
+      },
+      "correct": "B",
+      "correctAnswer": "sincerely",
+      "explanation": "Sincerely is formed from sincere plus ly, retaining the final e before the added ending."
+    },
+    {
+      "id": "HSPT-L11-021",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nThe ____ puppy hid the gardener's gloves.",
+      "choices": {
+        "A": "mischievious",
+        "B": "mischevous",
+        "C": "mischievous",
+        "D": "mischivous"
+      },
+      "correct": "C",
+      "correctAnswer": "mischievous",
+      "explanation": "Mischievous is spelled with ie after the ch and without an additional i between the v and ous."
+    },
+    {
+      "id": "HSPT-L11-022",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which word is spelled correctly?",
+      "choices": {
+        "A": "perserverance",
+        "B": "perseverence",
+        "C": "persevarance",
+        "D": "perseverance"
+      },
+      "correct": "D",
+      "correctAnswer": "perseverance",
+      "explanation": "Perseverance contains persever followed by ance, without an added r after the first se or an ence ending."
+    },
+    {
+      "id": "HSPT-L11-023",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence?\nOf all the proposed routes, this one is the ____.",
+      "choices": {
+        "A": "worse",
+        "B": "badly",
+        "C": "baddest",
+        "D": "worst"
+      },
+      "correct": "D",
+      "correctAnswer": "worst",
+      "explanation": "The sentence compares one route with all the others, requiring the irregular superlative worst rather than the comparative worse."
+    },
+    {
+      "id": "HSPT-L11-024",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Adira began practicing in March and still practices every morning now. Which phrase correctly completes the sentence?\nSince March, Adira ____ every morning.",
+      "choices": {
+        "A": "has been practicing",
+        "B": "will be practicing",
+        "C": "had practiced",
+        "D": "was practicing"
+      },
+      "correct": "A",
+      "correctAnswer": "has been practicing",
+      "explanation": "The present perfect progressive has been practicing connects an activity begun in the past with its continuation into the present."
+    },
+    {
+      "id": "HSPT-L11-025",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the pronoun that makes the sentence mean that Ravi trusts Elena more than I trust Elena.\nRavi trusts Elena more than ____.",
+      "choices": {
+        "A": "me",
+        "B": "my",
+        "C": "I",
+        "D": "mine"
+      },
+      "correct": "C",
+      "correctAnswer": "I",
+      "explanation": "The comparison leaves out the words trust Elena after I, so the subject pronoun I preserves the intended meaning."
+    },
+    {
+      "id": "HSPT-L11-026",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nThe lemon's sourness ____ the rich sauce, and the chef accepted the guest's ____.",
+      "choices": {
+        "A": "compliments; complement",
+        "B": "complements; compliment",
+        "C": "complements; complement",
+        "D": "compliments; compliment"
+      },
+      "correct": "B",
+      "correctAnswer": "complements; compliment",
+      "explanation": "Complements means balances or completes the sauce; compliment is the noun meaning a favorable remark made by the guest."
+    },
+    {
+      "id": "HSPT-L11-027",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence has the same meaning as \"Not every compartment is sealed\"?",
+      "choices": {
+        "A": "No compartment is sealed.",
+        "B": "At least one compartment is not sealed.",
+        "C": "Every compartment is sealed.",
+        "D": "Exactly one compartment is sealed."
+      },
+      "correct": "B",
+      "correctAnswer": "At least one compartment is not sealed.",
+      "explanation": "Not every denies universal coverage: at least one compartment is unsealed, without specifying whether any other compartment is sealed."
+    },
+    {
+      "id": "HSPT-L11-028",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which order of sentences 2, 3, and 4 gives the clearest sequence of steps?",
+      "choices": {
+        "A": "2, 4, 3",
+        "B": "3, 2, 4",
+        "C": "4, 3, 2",
+        "D": "2, 3, 4"
+      },
+      "correct": "A",
+      "correctAnswer": "2, 4, 3",
+      "explanation": "The slit must be cut before its edges can overlap, and the edges must overlap before they can be taped together.",
+      "stimulusId": "HSPT-L11-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Making a Paper Funnel",
+      "stimulusText": "(1) A temporary paper funnel can guide dry rice into a narrow-necked bottle without scattering grains across the counter. (2) First, cut a slit from the edge of a paper circle to its center. (3) Tape the overlapping edges together so that the cone keeps its shape. (4) Overlap the two cut edges to form a cone, leaving a small opening at the point. (5) The small opening should fit inside the bottle's neck, while the upper rim remains above it. (6) Test the funnel with a few grains before pouring the rest, since an opening that is too small may clog. (7) Use this funnel for dry ingredients rather than liquids, which can soften the paper."
+    },
+    {
+      "id": "HSPT-L11-029",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which opening phrase could be added to sentence 6 to clarify the purpose of testing the funnel?",
+      "choices": {
+        "A": "Despite the paper's color,",
+        "B": "To check that the opening works,",
+        "C": "At the same time last year,",
+        "D": "Because every bottle is identical,"
+      },
+      "correct": "B",
+      "correctAnswer": "To check that the opening works,",
+      "explanation": "The test checks whether grains pass through the opening, so the added phrase states the purpose of that action directly.",
+      "stimulusId": "HSPT-L11-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Making a Paper Funnel",
+      "stimulusText": "(1) A temporary paper funnel can guide dry rice into a narrow-necked bottle without scattering grains across the counter. (2) First, cut a slit from the edge of a paper circle to its center. (3) Tape the overlapping edges together so that the cone keeps its shape. (4) Overlap the two cut edges to form a cone, leaving a small opening at the point. (5) The small opening should fit inside the bottle's neck, while the upper rim remains above it. (6) Test the funnel with a few grains before pouring the rest, since an opening that is too small may clog. (7) Use this funnel for dry ingredients rather than liquids, which can soften the paper."
+    },
+    {
+      "id": "HSPT-L11-030",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "The directions are intended for children who may not know the word clog. Which replacement for the final clause of sentence 6 best clarifies its meaning?",
+      "choices": {
+        "A": "because grains may bunch together and block an opening that is too small.",
+        "B": "because funnels are useful in several different rooms.",
+        "C": "because rice comes in many varieties and colors.",
+        "D": "because paper can be folded in more than one direction."
+      },
+      "correct": "A",
+      "correctAnswer": "because grains may bunch together and block an opening that is too small.",
+      "explanation": "The replacement explains clog through the concrete action of grains bunching together and blocking the opening, while preserving the warning.",
+      "stimulusId": "HSPT-L11-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Making a Paper Funnel",
+      "stimulusText": "(1) A temporary paper funnel can guide dry rice into a narrow-necked bottle without scattering grains across the counter. (2) First, cut a slit from the edge of a paper circle to its center. (3) Tape the overlapping edges together so that the cone keeps its shape. (4) Overlap the two cut edges to form a cone, leaving a small opening at the point. (5) The small opening should fit inside the bottle's neck, while the upper rim remains above it. (6) Test the funnel with a few grains before pouring the rest, since an opening that is too small may clog. (7) Use this funnel for dry ingredients rather than liquids, which can soften the paper."
+    },
+    {
+      "id": "HSPT-L11-031",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly punctuates the compound modifier before route?",
+      "choices": {
+        "A": "We followed a five mile route.",
+        "B": "We followed a five-miles route.",
+        "C": "We followed a five, mile route.",
+        "D": "We followed a five-mile route."
+      },
+      "correct": "D",
+      "correctAnswer": "We followed a five-mile route.",
+      "explanation": "A number and a singular unit form a hyphenated compound modifier before a noun: five-mile route."
+    },
+    {
+      "id": "HSPT-L11-032",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "The speaker is addressing Rosa. Which sentence correctly punctuates that direct address?",
+      "choices": {
+        "A": "Please bring, the blue folder Rosa.",
+        "B": "Please, bring the blue folder Rosa.",
+        "C": "Please bring the blue folder, Rosa.",
+        "D": "Please bring the blue, folder Rosa."
+      },
+      "correct": "C",
+      "correctAnswer": "Please bring the blue folder, Rosa.",
+      "explanation": "A comma separates the name of the person addressed, Rosa, from the rest of the request."
+    },
+    {
+      "id": "HSPT-L11-033",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly places the period with a parenthetical phrase that is not a complete sentence?",
+      "choices": {
+        "A": "The detour added two miles (about thirty minutes).",
+        "B": "The detour added two miles (about thirty minutes.)",
+        "C": "The detour added two miles. (about thirty minutes)",
+        "D": "The detour added two miles (about thirty minutes). ."
+      },
+      "correct": "A",
+      "correctAnswer": "The detour added two miles (about thirty minutes).",
+      "explanation": "The parenthetical words are a phrase within the larger sentence, so the sentence's period belongs after the closing parenthesis."
+    },
+    {
+      "id": "HSPT-L11-034",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the first word of a directly quoted complete sentence?",
+      "choices": {
+        "A": "The ranger said, \"follow the orange markers.\"",
+        "B": "The ranger said, \"follow the Orange markers.\"",
+        "C": "The ranger said, \"follow the orange Markers.\"",
+        "D": "The ranger said, \"Follow the orange markers.\""
+      },
+      "correct": "D",
+      "correctAnswer": "The ranger said, \"Follow the orange markers.\"",
+      "explanation": "A complete sentence quoted directly begins with a capital letter; orange and markers remain ordinary lowercase words."
+    },
+    {
+      "id": "HSPT-L11-035",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the first-person pronoun?",
+      "choices": {
+        "A": "Across the courtyard, i heard a door close.",
+        "B": "Across the courtyard, I heard a door close.",
+        "C": "Across the courtyard, i Heard a door close.",
+        "D": "Across the courtyard, i heard a Door close."
+      },
+      "correct": "B",
+      "correctAnswer": "Across the courtyard, I heard a door close.",
+      "explanation": "The first-person singular pronoun I is always capitalized, even when it appears in the middle of a sentence."
+    },
+    {
+      "id": "HSPT-L11-036",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which word is spelled correctly?",
+      "choices": {
+        "A": "calender",
+        "B": "calandar",
+        "C": "calendar",
+        "D": "callendar"
+      },
+      "correct": "C",
+      "correctAnswer": "calendar",
+      "explanation": "Calendar ends in ar, not er, and uses one l; this is the standard spelling of the word."
+    },
+    {
+      "id": "HSPT-L11-037",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which word is spelled correctly?",
+      "choices": {
+        "A": "guarentee",
+        "B": "garantee",
+        "C": "guarantee",
+        "D": "guarante"
+      },
+      "correct": "C",
+      "correctAnswer": "guarantee",
+      "explanation": "Guarantee begins with guar and ends with antee, including both final e's in its standard spelling."
+    },
+    {
+      "id": "HSPT-L11-038",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which pair correctly completes the sentence?\nHalf of the cables ____ new, but half of the wire ____ brittle.",
+      "choices": {
+        "A": "is; are",
+        "B": "are; is",
+        "C": "are; are",
+        "D": "is; is"
+      },
+      "correct": "B",
+      "correctAnswer": "are; is",
+      "explanation": "With half of, agreement follows the noun: plural cables takes are, while the mass noun wire takes is."
+    },
+    {
+      "id": "HSPT-L11-039",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence uses the correct word order for an indirect question?",
+      "choices": {
+        "A": "Do you know where is the spare spool?",
+        "B": "Do you know where the spare spool is?",
+        "C": "Do you know where does the spare spool?",
+        "D": "Do you know where the spare spool?"
+      },
+      "correct": "B",
+      "correctAnswer": "Do you know where the spare spool is?",
+      "explanation": "Inside an indirect question, the subject precedes its verb: the spare spool is, rather than the direct-question order is the spare spool."
+    },
+    {
+      "id": "HSPT-L11-040",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence?\nAfter the carpenter polished it, the handle felt ____.",
+      "choices": {
+        "A": "smooth",
+        "B": "smoothly",
+        "C": "smoothness",
+        "D": "smoothen"
+      },
+      "correct": "A",
+      "correctAnswer": "smooth",
+      "explanation": "Felt is a linking verb here, so the adjective smooth describes the handle rather than modifying an action."
+    },
+    {
+      "id": "HSPT-L11-041",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word correctly completes the sentence?\nA basic ____ of the design is that every part can be replaced separately.",
+      "choices": {
+        "A": "principle",
+        "B": "principal",
+        "C": "principally",
+        "D": "principality"
+      },
+      "correct": "A",
+      "correctAnswer": "principle",
+      "explanation": "Principle means a guiding rule or idea, which fits the statement about how the design is organized."
+    },
+    {
+      "id": "HSPT-L11-042",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nLina plans to ____ from Brazil and ____ to Canada.",
+      "choices": {
+        "A": "immigrate; emigrate",
+        "B": "emigrate; immigrate",
+        "C": "emigrate; emigrate",
+        "D": "immigrate; immigrate"
+      },
+      "correct": "B",
+      "correctAnswer": "emigrate; immigrate",
+      "explanation": "Emigrate describes leaving a country, while immigrate describes entering another country to live there; from and to establish the perspectives."
+    },
+    {
+      "id": "HSPT-L11-043",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "A control panel says, \"Up to six devices can be connected at once.\" Which sentence accurately expresses the stated upper limit?",
+      "choices": {
+        "A": "At least six devices must be connected at once.",
+        "B": "Exactly six devices must be connected at all times.",
+        "C": "More than six devices can always be connected at once.",
+        "D": "No more than six devices can be connected at once."
+      },
+      "correct": "D",
+      "correctAnswer": "No more than six devices can be connected at once.",
+      "explanation": "Up to sets a maximum of six, without requiring that the maximum number actually be connected."
+    },
+    {
+      "id": "HSPT-L11-044",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which replacement for sentence 5 best responds to the concern in sentence 4?",
+      "choices": {
+        "A": "A concise description can often fit on one line beneath each dish name.",
+        "B": "Guests should already know every dish name before they arrive.",
+        "C": "Hot drinks should be listed in a different section from cold drinks.",
+        "D": "Each explanation ought to fill an entire page of the menu."
+      },
+      "correct": "A",
+      "correctAnswer": "A concise description can often fit on one line beneath each dish name.",
+      "explanation": "A one-line description directly addresses the concern about crowding while preserving the proposed benefit of explaining unfamiliar dishes.",
+      "stimulusId": "HSPT-L11-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Names with Useful Descriptions",
+      "stimulusText": "(1) A restaurant menu can retain traditional dish names while adding brief descriptions for newcomers. (2) A name alone may not tell a guest whether a dish is baked, fried, or served cold. (3) A short phrase such as \"steamed dumplings with mushrooms\" provides useful details without replacing the original name. (4) Some owners worry that explanations will make their menus crowded. (5) Menus also include prices for hot drinks. (6) Good descriptions should give concrete information about the food rather than merely promising that it is delicious. (7) The result would be a menu that welcomes unfamiliar readers without discarding the kitchen's own vocabulary."
+    },
+    {
+      "id": "HSPT-L11-045",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "A restaurant calls a dish Pierogi; it consists of boiled dumplings filled with potato and onion. Which menu entry best follows both recommendations in the passage?",
+      "choices": {
+        "A": "Delicious Dumplings: everyone's favorite treat.",
+        "B": "Pierogi: the finest food you will ever taste.",
+        "C": "Pierogi: boiled dumplings filled with potato and onion.",
+        "D": "Boiled dumplings filled with potato and onion."
+      },
+      "correct": "C",
+      "correctAnswer": "Pierogi: boiled dumplings filled with potato and onion.",
+      "explanation": "The entry retains the established name and supplies concise, concrete preparation and ingredient details instead of replacing the name or offering empty praise.",
+      "stimulusId": "HSPT-L11-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Names with Useful Descriptions",
+      "stimulusText": "(1) A restaurant menu can retain traditional dish names while adding brief descriptions for newcomers. (2) A name alone may not tell a guest whether a dish is baked, fried, or served cold. (3) A short phrase such as \"steamed dumplings with mushrooms\" provides useful details without replacing the original name. (4) Some owners worry that explanations will make their menus crowded. (5) Menus also include prices for hot drinks. (6) Good descriptions should give concrete information about the food rather than merely promising that it is delicious. (7) The result would be a menu that welcomes unfamiliar readers without discarding the kitchen's own vocabulary."
+    },
+    {
+      "id": "HSPT-L11-046",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly writes the plural decade?",
+      "choices": {
+        "A": "Technology changed rapidly during the 1990s.",
+        "B": "Technology changed rapidly during the 1990's.",
+        "C": "Technology changed rapidly during the 1990s'.",
+        "D": "Technology changed rapidly during the 1990s's."
+      },
+      "correct": "A",
+      "correctAnswer": "Technology changed rapidly during the 1990s.",
+      "explanation": "A plural decade formed from a complete year takes a plain s; no apostrophe is needed to show the plural."
+    },
+    {
+      "id": "HSPT-L11-047",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly punctuates a month-day-year date within a sentence in American English?",
+      "choices": {
+        "A": "The archive opened on April 9, 2025 in the renovated mill.",
+        "B": "The archive opened on April, 9, 2025, in the renovated mill.",
+        "C": "The archive opened on April 9, 2025, in the renovated mill.",
+        "D": "The archive opened on April 9 2025, in the renovated mill."
+      },
+      "correct": "C",
+      "correctAnswer": "The archive opened on April 9, 2025, in the renovated mill.",
+      "explanation": "In a month-day-year date, a comma separates the day from the year, and another follows the year when the sentence continues."
+    },
+    {
+      "id": "HSPT-L11-048",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the organization's full name while leaving its general description lowercase?",
+      "choices": {
+        "A": "The World meteorological Organization is an international organization.",
+        "B": "The world Meteorological Organization is an international organization.",
+        "C": "The World Meteorological Organization is an international organization.",
+        "D": "The World Meteorological Organization is an International Organization."
+      },
+      "correct": "C",
+      "correctAnswer": "The World Meteorological Organization is an international organization.",
+      "explanation": "The words in the organization's proper name are capitalized, but international organization is a general description and remains lowercase."
+    },
+    {
+      "id": "HSPT-L11-049",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the conventional name suffix meaning Junior?",
+      "choices": {
+        "A": "The certificate lists Miles Carter jr. as the recipient.",
+        "B": "The certificate lists Miles Carter JR. as the recipient.",
+        "C": "The certificate lists Miles Carter jR. as the recipient.",
+        "D": "The certificate lists Miles Carter Jr. as the recipient."
+      },
+      "correct": "D",
+      "correctAnswer": "The certificate lists Miles Carter Jr. as the recipient.",
+      "explanation": "The conventional abbreviation for Junior in a personal name is Jr., with a capital J and lowercase r."
+    },
+    {
+      "id": "HSPT-L11-050",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Select the correctly spelled noun meaning ease of use or suitability.",
+      "choices": {
+        "A": "conveniance",
+        "B": "convenience",
+        "C": "conveneince",
+        "D": "conveniece"
+      },
+      "correct": "B",
+      "correctAnswer": "convenience",
+      "explanation": "Convenience has the sequence venience after con; the other choices change a vowel, reverse letters, or omit the second n."
+    },
+    {
+      "id": "HSPT-L11-051",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence?\nThe change in volume was immediately ____.",
+      "choices": {
+        "A": "noticable",
+        "B": "noticeble",
+        "C": "noticceable",
+        "D": "noticeable"
+      },
+      "correct": "D",
+      "correctAnswer": "noticeable",
+      "explanation": "Noticeable retains the final e of notice before able; the other choices omit a required letter or add an extra c."
+    },
+    {
+      "id": "HSPT-L11-052",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which word names a person's inner sense of right and wrong and is spelled correctly?",
+      "choices": {
+        "A": "conscience",
+        "B": "consience",
+        "C": "consciense",
+        "D": "conscienc"
+      },
+      "correct": "A",
+      "correctAnswer": "conscience",
+      "explanation": "Conscience uses sc after con and ends with ence; the alternatives omit a required letter or substitute s for c."
+    },
+    {
+      "id": "HSPT-L11-053",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence?\nEach pilot must ____ the checklist.",
+      "choices": {
+        "A": "reviews",
+        "B": "review",
+        "C": "reviewed",
+        "D": "reviewing"
+      },
+      "correct": "B",
+      "correctAnswer": "review",
+      "explanation": "A modal verb such as must is followed by the base form of the main verb, so review is required."
+    },
+    {
+      "id": "HSPT-L11-054",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence?\nThey adjusted the light without ____ the camera.",
+      "choices": {
+        "A": "move",
+        "B": "to move",
+        "C": "moved",
+        "D": "moving"
+      },
+      "correct": "D",
+      "correctAnswer": "moving",
+      "explanation": "After the preposition without, a verb takes its ing form to function as the object: without moving the camera."
+    },
+    {
+      "id": "HSPT-L11-055",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which word correctly completes the sentence?\nThe package goes to ____ finishes first.",
+      "choices": {
+        "A": "whoever",
+        "B": "whomever",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct": "A",
+      "correctAnswer": "whoever",
+      "explanation": "Whoever is the subject of finishes within its clause; the entire clause, rather than that pronoun alone, is the object of to."
+    },
+    {
+      "id": "HSPT-L11-056",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nThe crew was ____ when we arrived because they had ____ checked the equipment.",
+      "choices": {
+        "A": "already; all ready",
+        "B": "all ready; all ready",
+        "C": "all ready; already",
+        "D": "already; already"
+      },
+      "correct": "C",
+      "correctAnswer": "all ready; already",
+      "explanation": "All ready means fully prepared, describing the crew; already means before that time, describing when the checking had occurred."
+    },
+    {
+      "id": "HSPT-L11-057",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which pair correctly completes the sentence?\nThe expert will ____ the antique desk and ____ its owner of the result.",
+      "choices": {
+        "A": "apprise; appraise",
+        "B": "appraise; apprise",
+        "C": "appraise; appraise",
+        "D": "apprise; apprise"
+      },
+      "correct": "B",
+      "correctAnswer": "appraise; apprise",
+      "explanation": "Appraise means assess value, fitting the desk; apprise means inform, fitting the owner who will receive the result."
+    },
+    {
+      "id": "HSPT-L11-058",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which revision uses standard formal American English to state that an inspection found zero defects?",
+      "choices": {
+        "A": "The inspection didn't find no defects.",
+        "B": "The inspection found hardly no defects.",
+        "C": "The inspection never found none of the defects.",
+        "D": "The inspection found no defects."
+      },
+      "correct": "D",
+      "correctAnswer": "The inspection found no defects.",
+      "explanation": "Found no defects states the absence directly; the other versions combine negative expressions in ways that do not meet standard formal usage."
+    },
+    {
+      "id": "HSPT-L11-059",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which replacement for \"Now\" at the start of sentence 5 most clearly signals a return from the memory to yesterday's elevator ride?",
+      "choices": {
+        "A": "Two summers before that,",
+        "B": "At the excavation site,",
+        "C": "Back in the elevator,",
+        "D": "Before the tower was planned,"
+      },
+      "correct": "C",
+      "correctAnswer": "Back in the elevator,",
+      "explanation": "Back in the elevator returns readers to the ride interrupted by the memory, clarifying which time and setting sentence 5 resumes.",
+      "stimulusId": "HSPT-L11-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Above the Harbor",
+      "stimulusText": "(1) Yesterday I rode to the top floor of the new observation tower beside the harbor. (2) As the elevator rose, the streets below narrowed into lines between the buildings. (3) I remembered standing on the same site two summers earlier, when only a fenced pit marked where the tower would be. (4) A crane had lowered steel beams past us while my uncle described the height of the future structure. (5) Now the doors opened, and I stepped onto a floor that had existed only in his drawings. (6) From the glass wall, you could trace the whole curve of the harbor."
+    },
+    {
+      "id": "HSPT-L11-060",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "The writer wants sentence 6 to continue the first-person account of a personal experience yesterday. Which revision best maintains both that viewpoint and that time frame?",
+      "choices": {
+        "A": "From the glass wall, I could trace the whole curve of the harbor.",
+        "B": "From the glass wall, visitors will trace the whole curve of the harbor.",
+        "C": "From the glass wall, she could trace the whole curve of the harbor.",
+        "D": "From the glass wall, I will trace the whole curve of the harbor."
+      },
+      "correct": "A",
+      "correctAnswer": "From the glass wall, I could trace the whole curve of the harbor.",
+      "explanation": "I could keeps the narrator's first-person viewpoint and past time; the alternatives shift the person, the time frame, or both.",
+      "stimulusId": "HSPT-L11-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Above the Harbor",
+      "stimulusText": "(1) Yesterday I rode to the top floor of the new observation tower beside the harbor. (2) As the elevator rose, the streets below narrowed into lines between the buildings. (3) I remembered standing on the same site two summers earlier, when only a fenced pit marked where the tower would be. (4) A crane had lowered steel beams past us while my uncle described the height of the future structure. (5) Now the doors opened, and I stepped onto a floor that had existed only in his drawings. (6) From the glass wall, you could trace the whole curve of the harbor."
+    }
+  ]
+}

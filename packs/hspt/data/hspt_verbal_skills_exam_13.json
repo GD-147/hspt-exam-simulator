@@ -1,0 +1,1029 @@
+{
+  "title": "HSPT Verbal Skills Practice Test 13",
+  "examFamily": "hspt",
+  "examNumber": 13,
+  "section": "Verbal Skills",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-V13-001",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase is closest in meaning to debris?",
+      "choices": {
+        "A": "a complete structure",
+        "B": "a detailed plan",
+        "C": "scattered remains",
+        "D": "an untouched supply"
+      },
+      "correct": "C",
+      "correctAnswer": "scattered remains",
+      "explanation": "Debris consists of scattered fragments or remains, especially after something has been broken, damaged, or destroyed."
+    },
+    {
+      "id": "HSPT-V13-002",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to tedious, as in a tedious task?",
+      "choices": {
+        "A": "hazardous",
+        "B": "profitable",
+        "C": "wearisome",
+        "D": "unpredictable"
+      },
+      "correct": "C",
+      "correctAnswer": "wearisome",
+      "explanation": "A tedious task is tiresome because it is boring or repetitive; the word does not necessarily imply danger or uncertainty."
+    },
+    {
+      "id": "HSPT-V13-003",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best expresses ambivalence about a choice?",
+      "choices": {
+        "A": "complete absence of interest",
+        "B": "unquestioning acceptance of advice",
+        "C": "simultaneous conflicting feelings",
+        "D": "inability to remember the alternatives"
+      },
+      "correct": "C",
+      "correctAnswer": "simultaneous conflicting feelings",
+      "explanation": "Ambivalence involves opposing feelings toward the same choice, such as wanting its advantages while also resisting its disadvantages."
+    },
+    {
+      "id": "HSPT-V13-004",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to reticent, describing a person reluctant to speak?",
+      "choices": {
+        "A": "guarded",
+        "B": "reserved",
+        "C": "tight-lipped",
+        "D": "talkative"
+      },
+      "correct": "D",
+      "correctAnswer": "talkative",
+      "explanation": "Reticent describes someone inclined to hold back speech, whereas talkative describes someone inclined to speak freely and at length."
+    },
+    {
+      "id": "HSPT-V13-005",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to external, as in an external coating?",
+      "choices": {
+        "A": "internal",
+        "B": "outer",
+        "C": "exterior",
+        "D": "outside"
+      },
+      "correct": "A",
+      "correctAnswer": "internal",
+      "explanation": "External locates something on the outside; internal locates it on the inside, directly reversing the stated spatial relationship."
+    },
+    {
+      "id": "HSPT-V13-006",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to magnanimous toward someone who has caused an offense?",
+      "choices": {
+        "A": "vindictive",
+        "B": "forgiving",
+        "C": "charitable",
+        "D": "noble"
+      },
+      "correct": "A",
+      "correctAnswer": "vindictive",
+      "explanation": "A magnanimous response rises above resentment and forgives, while a vindictive response seeks revenge for the offense."
+    },
+    {
+      "id": "HSPT-V13-007",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Nocturnal is to night as diurnal is to ____.",
+      "choices": {
+        "A": "twilight",
+        "B": "midnight",
+        "C": "daytime",
+        "D": "winter"
+      },
+      "correct": "C",
+      "correctAnswer": "daytime",
+      "explanation": "Nocturnal describes activity during the night, while diurnal describes activity during the day, pairing each adjective with its characteristic active period."
+    },
+    {
+      "id": "HSPT-V13-008",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "An embargo restricts trade. In a similar relationship, a quarantine restricts ____.",
+      "choices": {
+        "A": "recovery",
+        "B": "nutrition",
+        "C": "diagnosis",
+        "D": "movement"
+      },
+      "correct": "D",
+      "correctAnswer": "movement",
+      "explanation": "An embargo limits trade, while a quarantine limits movement; each imposed restriction is paired with the activity it directly controls."
+    },
+    {
+      "id": "HSPT-V13-009",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Alphabetical order is to a dictionary as chronological order is to ____.",
+      "choices": {
+        "A": "a compass",
+        "B": "a timeline",
+        "C": "a portrait",
+        "D": "a balance"
+      },
+      "correct": "B",
+      "correctAnswer": "a timeline",
+      "explanation": "A dictionary typically arranges entries alphabetically; a timeline arranges events chronologically, pairing an organizing rule with a structure that uses it."
+    },
+    {
+      "id": "HSPT-V13-010",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word names a formal agreement rather than a kind of conversation?",
+      "choices": {
+        "A": "treaty",
+        "B": "interview",
+        "C": "banter",
+        "D": "dialogue"
+      },
+      "correct": "A",
+      "correctAnswer": "treaty",
+      "explanation": "A treaty is a formal agreement between parties; interview, banter, and dialogue name different forms of verbal exchange."
+    },
+    {
+      "id": "HSPT-V13-011",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "In which pair does capitalizing the first letter create a different word meaning, rather than merely place the word at the start of a sentence?",
+      "choices": {
+        "A": "polish; Polish",
+        "B": "repair; Repair",
+        "C": "collect; Collect",
+        "D": "observe; Observe"
+      },
+      "correct": "A",
+      "correctAnswer": "polish; Polish",
+      "explanation": "Lowercase polish concerns making a surface smooth or shiny; Polish identifies a connection with Poland, so capitalization changes the word's meaning."
+    },
+    {
+      "id": "HSPT-V13-012",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair consists of two words that imitate the sounds they name?",
+      "choices": {
+        "A": "melody, harmony",
+        "B": "hiss, clang",
+        "C": "volume, resonance",
+        "D": "accent, intonation"
+      },
+      "correct": "B",
+      "correctAnswer": "hiss, clang",
+      "explanation": "Hiss and clang resemble the noises they name; the alternatives concern sound but do not imitate specific noises."
+    },
+    {
+      "id": "HSPT-V13-013",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Start with ABC. A legal move replaces adjacent AB with BA or adjacent BC with CB. Any number of legal moves, including zero, is allowed. Which arrangement can never be reached?",
+      "choices": {
+        "A": "ABC",
+        "B": "CAB",
+        "C": "BAC",
+        "D": "ACB"
+      },
+      "correct": "B",
+      "correctAnswer": "CAB",
+      "explanation": "The legal moves exchange B with a neighbor but never exchange A with C; A therefore stays before C, ruling out CAB."
+    },
+    {
+      "id": "HSPT-V13-014",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A design is ruled out if another design is both lighter and cheaper. A is lighter but more expensive than B. C is lighter and cheaper than B. Nothing compares A with C. Which design must be ruled out?",
+      "choices": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "Every design"
+      },
+      "correct": "B",
+      "correctAnswer": "B",
+      "explanation": "C meets both conditions for ruling out B; the information does not show that either A or C has a lighter, cheaper alternative."
+    },
+    {
+      "id": "HSPT-V13-015",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Someone rejects a claim about a satellite's orbit solely because its author has messy handwriting. What is the flaw in this reasoning?",
+      "choices": {
+        "A": "It proves the orbit calculation uses the wrong units.",
+        "B": "It establishes that every handwritten claim is false.",
+        "C": "It checks the claim against independent observations.",
+        "D": "It substitutes an unrelated personal characteristic for evidence about the claim."
+      },
+      "correct": "D",
+      "correctAnswer": "It substitutes an unrelated personal characteristic for evidence about the claim.",
+      "explanation": "Handwriting quality does not assess the orbital claim; the response rejects the author for an unrelated trait instead of evaluating relevant evidence."
+    },
+    {
+      "id": "HSPT-V13-016",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to discrepancy, as in a discrepancy between two accounts?",
+      "choices": {
+        "A": "agreement",
+        "B": "exaggeration",
+        "C": "explanation",
+        "D": "mismatch"
+      },
+      "correct": "D",
+      "correctAnswer": "mismatch",
+      "explanation": "A discrepancy is a difference between things expected to agree, so mismatch captures the disagreement between the two accounts."
+    },
+    {
+      "id": "HSPT-V13-017",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best expresses savor in the sentence \"He paused to savor the final bite\"?",
+      "choices": {
+        "A": "save for later",
+        "B": "enjoy fully",
+        "C": "examine for flaws",
+        "D": "swallow hurriedly"
+      },
+      "correct": "B",
+      "correctAnswer": "enjoy fully",
+      "explanation": "To savor something is to appreciate and enjoy it attentively; pausing over the bite emphasizes enjoyment rather than speed or postponement."
+    },
+    {
+      "id": "HSPT-V13-018",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase is closest in meaning to rapport between two people?",
+      "choices": {
+        "A": "a relationship of mutual understanding",
+        "B": "a requirement to agree on everything",
+        "C": "a formal division of responsibilities",
+        "D": "a competition for the same position"
+      },
+      "correct": "A",
+      "correctAnswer": "a relationship of mutual understanding",
+      "explanation": "Rapport is a harmonious connection marked by mutual understanding; it does not require identical opinions, a formal agreement, or rivalry."
+    },
+    {
+      "id": "HSPT-V13-019",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to portable, describing equipment?",
+      "choices": {
+        "A": "light in weight",
+        "B": "easily damaged",
+        "C": "fixed in place",
+        "D": "adjustable in height"
+      },
+      "correct": "C",
+      "correctAnswer": "fixed in place",
+      "explanation": "Portable equipment can be carried from place to place; equipment fixed in place has the opposite characteristic."
+    },
+    {
+      "id": "HSPT-V13-020",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to piecemeal, as in introducing changes piecemeal?",
+      "choices": {
+        "A": "little by little",
+        "B": "all at once",
+        "C": "without a plan",
+        "D": "with great reluctance"
+      },
+      "correct": "B",
+      "correctAnswer": "all at once",
+      "explanation": "Piecemeal means in separate portions or stages; introducing everything at once reverses that manner of proceeding."
+    },
+    {
+      "id": "HSPT-V13-021",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to imminent, describing an event?",
+      "choices": {
+        "A": "far off in time",
+        "B": "unlikely to occur",
+        "C": "difficult to predict",
+        "D": "brief in duration"
+      },
+      "correct": "A",
+      "correctAnswer": "far off in time",
+      "explanation": "An imminent event is about to occur; an event far off in time reverses that nearness without making a claim about certainty."
+    },
+    {
+      "id": "HSPT-V13-022",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A pseudonym substitutes for an author's public name as a stage name substitutes for a performer's ____.",
+      "choices": {
+        "A": "audience",
+        "B": "public name",
+        "C": "costume",
+        "D": "place of birth"
+      },
+      "correct": "B",
+      "correctAnswer": "public name",
+      "explanation": "Both are adopted names used publicly in place of another name; the analogy concerns substituted identity labels, not professional equipment or location."
+    },
+    {
+      "id": "HSPT-V13-023",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A lens brings light to a focus. In a similar relationship, a funnel brings a flowing liquid toward ____.",
+      "choices": {
+        "A": "many separate sources",
+        "B": "one narrow outlet",
+        "C": "a frozen surface",
+        "D": "an expanding mist"
+      },
+      "correct": "B",
+      "correctAnswer": "one narrow outlet",
+      "explanation": "The lens converges light toward a focus; the funnel converges liquid toward a narrow outlet, preserving a many-paths-to-one-destination relationship."
+    },
+    {
+      "id": "HSPT-V13-024",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A question is interrogative as a command is ____.",
+      "choices": {
+        "A": "declarative",
+        "B": "conditional",
+        "C": "descriptive",
+        "D": "imperative"
+      },
+      "correct": "D",
+      "correctAnswer": "imperative",
+      "explanation": "Interrogative identifies the asking function of a question; imperative identifies the directing function of a command, pairing each utterance with its sentence type."
+    },
+    {
+      "id": "HSPT-V13-025",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word names a boundary marking where something ends, rather than a feature projecting beyond a surface?",
+      "choices": {
+        "A": "ledge",
+        "B": "spur",
+        "C": "bulge",
+        "D": "limit"
+      },
+      "correct": "D",
+      "correctAnswer": "limit",
+      "explanation": "A limit marks an endpoint or boundary; a ledge, spur, or bulge is a projecting feature rather than the boundary itself."
+    },
+    {
+      "id": "HSPT-V13-026",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair contains words that share pronunciation but differ in both spelling and meaning?",
+      "choices": {
+        "A": "lead; lead",
+        "B": "bright; brilliant",
+        "C": "seam; seem",
+        "D": "rough; tough"
+      },
+      "correct": "C",
+      "correctAnswer": "seam; seem",
+      "explanation": "Seam and seem sound alike but have different spellings and meanings; the alternatives share spelling, approximate meaning, or only a rhyme."
+    },
+    {
+      "id": "HSPT-V13-027",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "In which pair does the second word describe a position dependent on the observer, rather than a fixed compass direction?",
+      "choices": {
+        "A": "east; west",
+        "B": "north; south",
+        "C": "left; right",
+        "D": "northeast; southwest"
+      },
+      "correct": "C",
+      "correctAnswer": "left; right",
+      "explanation": "Left and right depend on which way an observer faces; the compass directions remain geographically fixed when the observer turns."
+    },
+    {
+      "id": "HSPT-V13-028",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "One dial controls volume and another controls brightness. Starting with both low, either dial may be raised without changing the other. Which claim contradicts that independence?",
+      "choices": {
+        "A": "Raising volume always raises brightness.",
+        "B": "Either dial can be adjusted first.",
+        "C": "Brightness may be high while volume is low.",
+        "D": "Both settings can be high together."
+      },
+      "correct": "A",
+      "correctAnswer": "Raising volume always raises brightness.",
+      "explanation": "If volume always raises brightness, its adjustment changes the other setting; that directly conflicts with the stated independent controls."
+    },
+    {
+      "id": "HSPT-V13-029",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A sign says, \"Only permit holders may enter.\" Dev has a permit. What follows from the sign alone?",
+      "choices": {
+        "A": "Dev must be allowed to enter regardless of other rules.",
+        "B": "Anyone without a permit may enter when Dev enters.",
+        "C": "Having a permit is required for entry, but it does not by itself guarantee entry.",
+        "D": "Everyone who has a permit must enter."
+      },
+      "correct": "C",
+      "correctAnswer": "Having a permit is required for entry, but it does not by itself guarantee entry.",
+      "explanation": "Only states a necessary condition: entrants must have permits. It does not say that a permit is sufficient or that entering is compulsory."
+    },
+    {
+      "id": "HSPT-V13-030",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A critic says, \"Design P deserves first place because it is the best design.\" Asked how he knows it is best, he replies, \"Because it deserves first place.\" What is the flaw?",
+      "choices": {
+        "A": "The critic compares two measurements using different units.",
+        "B": "The critic shows that no ranking can ever use evidence.",
+        "C": "The critic supplies a test result that contradicts his conclusion.",
+        "D": "Each claim is offered as support for the other without an independent reason."
+      },
+      "correct": "D",
+      "correctAnswer": "Each claim is offered as support for the other without an independent reason.",
+      "explanation": "The justification circles back to its starting claim; neither statement supplies an independent standard or observation establishing the design's superiority."
+    },
+    {
+      "id": "HSPT-V13-031",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase is closest in meaning to quota, as in a worker's production quota?",
+      "choices": {
+        "A": "required target amount",
+        "B": "unlimited supply",
+        "C": "unexpected reward",
+        "D": "average price"
+      },
+      "correct": "A",
+      "correctAnswer": "required target amount",
+      "explanation": "A production quota specifies an amount expected or required to be produced; it is a target, not a supply, reward, or price."
+    },
+    {
+      "id": "HSPT-V13-032",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best expresses levity during a conversation?",
+      "choices": {
+        "A": "careful secrecy",
+        "B": "deep resentment",
+        "C": "lighthearted humor",
+        "D": "strict obedience"
+      },
+      "correct": "C",
+      "correctAnswer": "lighthearted humor",
+      "explanation": "Levity is a lack of solemn seriousness expressed through lightness or humor; it does not necessarily imply hostility or concealed information."
+    },
+    {
+      "id": "HSPT-V13-033",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best explains a musician's repertoire?",
+      "choices": {
+        "A": "the equipment used to record a performance",
+        "B": "the audience expected at a concert",
+        "C": "the collection of works the musician can perform",
+        "D": "the instructions for repairing an instrument"
+      },
+      "correct": "C",
+      "correctAnswer": "the collection of works the musician can perform",
+      "explanation": "A repertoire consists of the works someone is prepared to perform; it concerns available artistic material rather than equipment, listeners, or maintenance."
+    },
+    {
+      "id": "HSPT-V13-034",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to domestic, describing goods produced within a country?",
+      "choices": {
+        "A": "household",
+        "B": "handmade",
+        "C": "inexpensive",
+        "D": "imported"
+      },
+      "correct": "D",
+      "correctAnswer": "imported",
+      "explanation": "Domestic goods are produced within the country under discussion; imported goods come into that country from elsewhere."
+    },
+    {
+      "id": "HSPT-V13-035",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to squalid, describing living conditions?",
+      "choices": {
+        "A": "small but affordable",
+        "B": "distant and isolated",
+        "C": "clean and well-kept",
+        "D": "crowded but lively"
+      },
+      "correct": "C",
+      "correctAnswer": "clean and well-kept",
+      "explanation": "Squalid conditions are filthy and neglected; clean, well-kept conditions reverse those qualities, whereas size, distance, and liveliness do not."
+    },
+    {
+      "id": "HSPT-V13-036",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to innocuous, describing a substance?",
+      "choices": {
+        "A": "unfamiliar",
+        "B": "colorless",
+        "C": "ineffective",
+        "D": "harmful"
+      },
+      "correct": "D",
+      "correctAnswer": "harmful",
+      "explanation": "An innocuous substance is harmless; harmful reverses that quality without confusing unfamiliarity, appearance, or effectiveness with danger."
+    },
+    {
+      "id": "HSPT-V13-037",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Interest is calculated on loan principal as a percentage-based sales commission is calculated on ____.",
+      "choices": {
+        "A": "the number of hours in a day",
+        "B": "the value of sales",
+        "C": "the age of the salesperson",
+        "D": "the balance of an unrelated loan"
+      },
+      "correct": "B",
+      "correctAnswer": "the value of sales",
+      "explanation": "Each payment is paired with the amount serving as its calculation base: principal for interest and sales value for the specified commission."
+    },
+    {
+      "id": "HSPT-V13-038",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Hatching is to an eggshell as sprouting is to a seed coat. What relationship do both pairs express?",
+      "choices": {
+        "A": "A new organism emerges through its enclosing covering.",
+        "B": "A covering grows thicker as the organism becomes dormant.",
+        "C": "An organism returns inside the covering it previously left.",
+        "D": "A covering supplies the organism with its permanent outer skeleton."
+      },
+      "correct": "A",
+      "correctAnswer": "A new organism emerges through its enclosing covering.",
+      "explanation": "Hatching and sprouting involve emergence through an enclosing shell or coat; neither pair describes thickening, retreat, or acquiring a permanent skeleton."
+    },
+    {
+      "id": "HSPT-V13-039",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A bookmark marks a reader's current place in a text as a cursor marks a user's current ____.",
+      "choices": {
+        "A": "position on a screen",
+        "B": "password for an account",
+        "C": "connection speed",
+        "D": "copy of a printed page"
+      },
+      "correct": "A",
+      "correctAnswer": "position on a screen",
+      "explanation": "Both serve as position indicators within an information space; neither is the information itself or a measure of speed."
+    },
+    {
+      "id": "HSPT-V13-040",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Consider fuel fed into an engine, exhaust released by that engine, ash left by a fire, and sawdust left by sawing. Which substance is an INPUT to its process as described?",
+      "choices": {
+        "A": "fuel",
+        "B": "ash",
+        "C": "sawdust",
+        "D": "exhaust"
+      },
+      "correct": "A",
+      "correctAnswer": "fuel",
+      "explanation": "Fuel is supplied to the engine; the exhaust, ash, and sawdust are described as outputs or residues of their respective processes."
+    },
+    {
+      "id": "HSPT-V13-041",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair contains two blended words formed from parts of longer words, rather than two complete words joined together?",
+      "choices": {
+        "A": "notebook; fireplace",
+        "B": "raincoat; sunrise",
+        "C": "toothbrush; snowball",
+        "D": "smog; brunch"
+      },
+      "correct": "D",
+      "correctAnswer": "smog; brunch",
+      "explanation": "Smog blends smoke with fog; brunch blends breakfast with lunch. The alternatives join complete words instead of blending shortened parts."
+    },
+    {
+      "id": "HSPT-V13-042",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "In which pair does EACH word begin with a consonant letter that is silent in standard American pronunciation?",
+      "choices": {
+        "A": "lamb; debt",
+        "B": "rhyme; wrist",
+        "C": "knot; grip",
+        "D": "knock; write"
+      },
+      "correct": "D",
+      "correctAnswer": "knock; write",
+      "explanation": "The initial k in knock and w in write are silent; the alternatives have silent letters elsewhere or a pronounced initial consonant in one word."
+    },
+    {
+      "id": "HSPT-V13-043",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Two articles repeat the same unverified claim. Both authors obtained it from the same announcement. Why does agreement between the articles fail to provide two independent confirmations?",
+      "choices": {
+        "A": "The agreement proves that the claim is false.",
+        "B": "Every announcement is less reliable than every article.",
+        "C": "The matching claims share one underlying source.",
+        "D": "Different authors are incapable of reaching the same correct conclusion."
+      },
+      "correct": "C",
+      "correctAnswer": "The matching claims share one underlying source.",
+      "explanation": "Both articles transmit the same announcement, so their agreement does not add a separate verification; shared dependence does not itself establish falsity."
+    },
+    {
+      "id": "HSPT-V13-044",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A rule states, \"Every parcel on Cart R has a red label.\" Which situation is consistent with the rule?",
+      "choices": {
+        "A": "Cart R contains a parcel with no label.",
+        "B": "Cart R contains no parcels.",
+        "C": "Cart R contains a parcel whose only label is blue.",
+        "D": "Cart R contains a parcel with a green label and no red label."
+      },
+      "correct": "B",
+      "correctAnswer": "Cart R contains no parcels.",
+      "explanation": "An empty cart provides no parcel violating the universal rule; each other situation supplies a parcel on Cart R without a red label."
+    },
+    {
+      "id": "HSPT-V13-045",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "To know a claim, the claim must be true; a belief may be mistaken. Ivo knows that Rae believes the blue box is empty. What must be true?",
+      "choices": {
+        "A": "The blue box is empty.",
+        "B": "Rae believes that the blue box is empty.",
+        "C": "Rae knows that the blue box is empty.",
+        "D": "Ivo believes that the blue box is not empty."
+      },
+      "correct": "B",
+      "correctAnswer": "Rae believes that the blue box is empty.",
+      "explanation": "Ivo's knowledge establishes the fact of Rae's belief, not the truth of its contents; the box may still contain something."
+    },
+    {
+      "id": "HSPT-V13-046",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase is closest in meaning to haven, as in a haven during a storm?",
+      "choices": {
+        "A": "a warning of danger",
+        "B": "a period of travel",
+        "C": "a place of safety",
+        "D": "a source of noise"
+      },
+      "correct": "C",
+      "correctAnswer": "a place of safety",
+      "explanation": "A haven provides shelter or safety; the storm context emphasizes a secure place rather than a warning, journey, or disturbance."
+    },
+    {
+      "id": "HSPT-V13-047",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to lapse in the phrase \"a lapse in attention\"?",
+      "choices": {
+        "A": "failure",
+        "B": "improvement",
+        "C": "requirement",
+        "D": "exchange"
+      },
+      "correct": "A",
+      "correctAnswer": "failure",
+      "explanation": "A lapse in attention is a temporary failure to remain attentive; it names the break in performance rather than a demand or improvement."
+    },
+    {
+      "id": "HSPT-V13-048",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best explains a harbinger of change?",
+      "choices": {
+        "A": "a person who prevents every change",
+        "B": "a record written after a change",
+        "C": "a sign that change is approaching",
+        "D": "a rule requiring changes to occur regularly"
+      },
+      "correct": "C",
+      "correctAnswer": "a sign that change is approaching",
+      "explanation": "A harbinger signals the approach of something; it points forward to a coming development without necessarily causing or preventing it."
+    },
+    {
+      "id": "HSPT-V13-049",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to urban, describing an area?",
+      "choices": {
+        "A": "crowded",
+        "B": "coastal",
+        "C": "industrial",
+        "D": "rural"
+      },
+      "correct": "D",
+      "correctAnswer": "rural",
+      "explanation": "Urban concerns a city or town; rural concerns the countryside, whereas coastal location and industry can occur in either setting."
+    },
+    {
+      "id": "HSPT-V13-050",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to lopsided, describing a display?",
+      "choices": {
+        "A": "brightly colored",
+        "B": "evenly balanced",
+        "C": "unusually large",
+        "D": "carefully hidden"
+      },
+      "correct": "B",
+      "correctAnswer": "evenly balanced",
+      "explanation": "A lopsided display is unevenly weighted or arranged toward one side; an evenly balanced display reverses that imbalance."
+    },
+    {
+      "id": "HSPT-V13-051",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to infallible, describing a judge?",
+      "choices": {
+        "A": "unable to reach a decision",
+        "B": "capable of making mistakes",
+        "C": "unwilling to hear advice",
+        "D": "certain to make every decision incorrectly"
+      },
+      "correct": "B",
+      "correctAnswer": "capable of making mistakes",
+      "explanation": "Infallible means incapable of error; its opposite allows mistakes without claiming that every decision must be wrong or that decisions are impossible."
+    },
+    {
+      "id": "HSPT-V13-052",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A hinge lets a door swing, while a latch can hold it shut. Similarly, an open valve lets liquid pass, while a ____ is used to block the passage.",
+      "choices": {
+        "A": "plug",
+        "B": "pump",
+        "C": "nozzle",
+        "D": "gauge"
+      },
+      "correct": "A",
+      "correctAnswer": "plug",
+      "explanation": "The relationship contrasts a device permitting movement with one blocking it: hinge and latch for a door, open valve and plug for flow."
+    },
+    {
+      "id": "HSPT-V13-053",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A monologue has one speaker as a monopoly has one ____.",
+      "choices": {
+        "A": "buyer",
+        "B": "product",
+        "C": "advertisement",
+        "D": "seller"
+      },
+      "correct": "D",
+      "correctAnswer": "seller",
+      "explanation": "A monologue has a single speaker despite possibly many listeners; a monopoly has a single seller despite possibly many buyers."
+    },
+    {
+      "id": "HSPT-V13-054",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A footprint is a trace left by the passage of a foot. In the same relationship, a wake on the water is a trace left by a ____.",
+      "choices": {
+        "A": "cloud",
+        "B": "candle",
+        "C": "bell",
+        "D": "boat"
+      },
+      "correct": "D",
+      "correctAnswer": "boat",
+      "explanation": "A foot leaves a footprint as it passes; a boat leaves a wake in the water, pairing a residual passage trace with its source."
+    },
+    {
+      "id": "HSPT-V13-055",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word names a step rather than a shaking movement?",
+      "choices": {
+        "A": "tremor",
+        "B": "shudder",
+        "C": "quiver",
+        "D": "stride"
+      },
+      "correct": "D",
+      "correctAnswer": "stride",
+      "explanation": "Stride names a step or the act of striding; tremor, shudder, and quiver name shaking or trembling movements."
+    },
+    {
+      "id": "HSPT-V13-056",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which group consists entirely of words naming visible light or shine, rather than colors, coloring substances, or lack of light?",
+      "choices": {
+        "A": "crimson, violet, blue",
+        "B": "ink, dye, pigment",
+        "C": "glare, glow, gleam",
+        "D": "shadow, darkness, gloom"
+      },
+      "correct": "C",
+      "correctAnswer": "glare, glow, gleam",
+      "explanation": "Glare, glow, and gleam describe forms of light or shine; the other groups name colors, coloring materials, or the absence of light."
+    },
+    {
+      "id": "HSPT-V13-057",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "A label is self-describing if its meaning accurately describes its own printed form. Which label below is self-describing?",
+      "choices": {
+        "A": "unhyphenated",
+        "B": "uppercase",
+        "C": "hyphenated",
+        "D": "THREE WORDS"
+      },
+      "correct": "A",
+      "correctAnswer": "unhyphenated",
+      "explanation": "Unhyphenated contains no hyphen; uppercase is printed in lowercase, hyphenated has no hyphen, and THREE WORDS contains only two words."
+    },
+    {
+      "id": "HSPT-V13-058",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A reviewer says, \"Either accept every suggested change or refuse all help.\" A writer can accept useful suggestions while rejecting others. What is wrong with the reviewer's argument?",
+      "choices": {
+        "A": "It proves that every suggestion is equally useful.",
+        "B": "It shows that accepting help requires no decisions.",
+        "C": "It excludes a selective option that is available.",
+        "D": "It establishes that rejecting one change makes every other change impossible."
+      },
+      "correct": "C",
+      "correctAnswer": "It excludes a selective option that is available.",
+      "explanation": "The reviewer treats total acceptance and total refusal as exhaustive, but the stated selective approach supplies a third available course."
+    },
+    {
+      "id": "HSPT-V13-059",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A walking route consists of two straight segments. Jo concludes that the whole route must be one straight line. Which fact exposes the flaw?",
+      "choices": {
+        "A": "Each segment has a beginning and an end.",
+        "B": "The two segments may meet at an angle.",
+        "C": "A person may walk slowly along either segment.",
+        "D": "The route can be described using words."
+      },
+      "correct": "B",
+      "correctAnswer": "The two segments may meet at an angle.",
+      "explanation": "Straightness of the individual segments does not fix their directions relative to one another; an angle between them makes the combined route bend."
+    },
+    {
+      "id": "HSPT-V13-060",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Ari and Bea each wear a red or blue badge and can see only the other person's badge. Both reason correctly and know at least one badge is red. Ari truthfully says, \"I cannot determine my own color.\" What must Bea conclude?",
+      "choices": {
+        "A": "Ari's badge is blue.",
+        "B": "Bea's badge is red.",
+        "C": "Ari's badge is red.",
+        "D": "Both badges are blue."
+      },
+      "correct": "B",
+      "correctAnswer": "Bea's badge is red.",
+      "explanation": "If Bea wore blue, Ari would see it and know that Ari must wear red. Ari's uncertainty therefore tells Bea that Bea wears red."
+    }
+  ]
+}

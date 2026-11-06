@@ -1,0 +1,893 @@
+{
+  "title": "HSPT Quantitative Skills Practice Test 16",
+  "examFamily": "hspt",
+  "examNumber": 16,
+  "section": "Quantitative Skills",
+  "questionCount": 52,
+  "questions": [
+    {
+      "id": "HSPT-Q16-001",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "Starting with −2, alternate adding 5 and multiplying by −1. What comes next?\n−2, 3, −3, 2, −2, 3, ...",
+      "choices": {
+        "A": "−2",
+        "B": "−3",
+        "C": "2",
+        "D": "8"
+      },
+      "correct": "B",
+      "correctAnswer": "−3",
+      "explanation": "Adding 5 produced the final 3, so the next operation is multiplication by −1, giving −3."
+    },
+    {
+      "id": "HSPT-Q16-002",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "For n = 1, 2, 3, ... , each entry counts the positive perfect squares not exceeding n. The first nine entries are 1, 1, 1, 2, 2, 2, 2, 2, 3. What is the twentieth entry?",
+      "choices": {
+        "A": "3",
+        "B": "16",
+        "C": "20",
+        "D": "4"
+      },
+      "correct": "D",
+      "correctAnswer": "4",
+      "explanation": "The positive squares not exceeding 20 are 1, 4, 9, and 16; therefore the entry for n = 20 is 4."
+    },
+    {
+      "id": "HSPT-Q16-003",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "Each entry is the difference between successive prime numbers, beginning with 2 and 3. What follows?\n1, 2, 2, 4, 2, 4, ...",
+      "choices": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "6"
+      },
+      "correct": "B",
+      "correctAnswer": "2",
+      "explanation": "The last listed gap is 17 − 13 = 4; the next prime is 19, so the following gap is 19 − 17 = 2."
+    },
+    {
+      "id": "HSPT-Q16-004",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "The nth entry counts EVERY appearance of the digit 9 in the integers from 1 through 10n. For n = 1 through 9, the entries are 1, 2, 3, 4, 5, 6, 7, 8, 10. What is the tenth entry?",
+      "choices": {
+        "A": "10",
+        "B": "18",
+        "C": "20",
+        "D": "19"
+      },
+      "correct": "C",
+      "correctAnswer": "20",
+      "explanation": "Through 100, a 9 occurs ten times in the units place and ten times in the tens place; 99 contributes to both counts."
+    },
+    {
+      "id": "HSPT-Q16-005",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Which integer is even, divisible by 3, and less than 15?",
+      "choices": {
+        "A": "12",
+        "B": "9",
+        "C": "10",
+        "D": "18"
+      },
+      "correct": "A",
+      "correctAnswer": "12",
+      "explanation": "Twelve meets all three conditions; 9 is odd, 10 is not divisible by 3, and 18 exceeds the stated bound."
+    },
+    {
+      "id": "HSPT-Q16-006",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Positive numbers p and q satisfy pq = 1 and p + q = 5/2. What is 1/p + 1/q?",
+      "choices": {
+        "A": "2/5",
+        "B": "5/2",
+        "C": "5/4",
+        "D": "7/2"
+      },
+      "correct": "B",
+      "correctAnswer": "5/2",
+      "explanation": "Combining the reciprocals gives (p + q)/(pq); substituting the given sum and product gives (5/2)/1 = 5/2."
+    },
+    {
+      "id": "HSPT-Q16-007",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "How many two-digit positive integers equal four times the sum of their digits?",
+      "choices": {
+        "A": "3",
+        "B": "5",
+        "C": "9",
+        "D": "4"
+      },
+      "correct": "D",
+      "correctAnswer": "4",
+      "explanation": "Writing the digits as a and b gives 10a + b = 4(a + b), so b = 2a; a can be 1, 2, 3, or 4."
+    },
+    {
+      "id": "HSPT-Q16-008",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "The positive integers m and n are different.\nQuantity A: Their least common multiple\nQuantity B: Their greatest common factor",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "The common factor is at most the smaller integer, while the common multiple is at least the larger; the integers are different, so the inequality is strict."
+    },
+    {
+      "id": "HSPT-Q16-009",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "A first list contains a, b, and c. A second contains a + 7, b − 2, and c − 5.\nQuantity A: The first list's arithmetic mean\nQuantity B: The second list's arithmetic mean",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "The changes sum to 7 − 2 − 5 = 0, so both lists have the same total and the same number of entries."
+    },
+    {
+      "id": "HSPT-Q16-010",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "The positive integers a and b satisfy a > b. The fractional part of a number is what remains after removing its whole-number part.\nQuantity A: The fractional part of a/b\nQuantity B: b/a",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "For a = 3, b = 2, Quantity A is 1/2 < 2/3; for a = 5, b = 3, it is 2/3 > 3/5."
+    },
+    {
+      "id": "HSPT-Q16-011",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A square is inscribed in a circle, with all four vertices on the circle.\nQuantity A: The square's area\nQuantity B: The circle's area",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "The circle contains the whole square and additional regions outside its sides, so its area is strictly greater."
+    },
+    {
+      "id": "HSPT-Q16-012",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "In triangle PQR, PQ = PR and QR < PQ.\nQuantity A: The angle at Q\nQuantity B: The angle at P",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "The angle at Q lies opposite PR, which is longer than QR opposite the angle at P; a longer side has a larger opposite angle."
+    },
+    {
+      "id": "HSPT-Q16-013",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A right prism and an oblique prism have equal base areas and equal perpendicular heights. The oblique prism's side edges lean.\nQuantity A: The right prism's volume\nQuantity B: The oblique prism's volume",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "Each prism's volume is base area times perpendicular height; leaning side edges do not change either given quantity."
+    },
+    {
+      "id": "HSPT-Q16-014",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "Start with 7. Subtract 1 to get the second entry, subtract 2 to get the third, and continue increasing the subtraction by 1 each time. Always take the absolute value after subtracting. What comes next?\n7, 6, 4, 1, 3, ...",
+      "choices": {
+        "A": "2",
+        "B": "−2",
+        "C": "4",
+        "D": "8"
+      },
+      "correct": "A",
+      "correctAnswer": "2",
+      "explanation": "The last step used |1 − 4| = 3. The next step subtracts 5, giving |3 − 5| = 2."
+    },
+    {
+      "id": "HSPT-Q16-015",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "Each entry is the difference between two consecutive positive cubes, beginning with 2³ − 1³. What comes next?\n7, 19, 37, 61, 91, ...",
+      "choices": {
+        "A": "111",
+        "B": "125",
+        "C": "127",
+        "D": "216"
+      },
+      "correct": "C",
+      "correctAnswer": "127",
+      "explanation": "The last given entry is 6³ − 5³ = 91; the next is 7³ − 6³ = 343 − 216 = 127."
+    },
+    {
+      "id": "HSPT-Q16-016",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "For each positive integer n, count the different rectangular arrangements of n unit squares with whole-number side lengths. Rotating an arrangement does not make it different. The first six counts are 1, 1, 1, 2, 1, 2. What is the count for n = 36?",
+      "choices": {
+        "A": "4",
+        "B": "5",
+        "C": "8",
+        "D": "10"
+      },
+      "correct": "B",
+      "correctAnswer": "5",
+      "explanation": "The unordered side pairs are 1 × 36, 2 × 18, 3 × 12, 4 × 9, and 6 × 6, giving five arrangements."
+    },
+    {
+      "id": "HSPT-Q16-017",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Dividing a positive integer by 5 gives remainder 4. The quotient and remainder add to 7. What is the integer?",
+      "choices": {
+        "A": "15",
+        "B": "24",
+        "C": "39",
+        "D": "19"
+      },
+      "correct": "D",
+      "correctAnswer": "19",
+      "explanation": "The quotient is 7 − 4 = 3; reconstructing the dividend gives 5 × 3 + 4 = 19."
+    },
+    {
+      "id": "HSPT-Q16-018",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "What is the greatest positive integer n for which 3n has exactly two digits and 5n has exactly three digits?",
+      "choices": {
+        "A": "19",
+        "B": "33",
+        "C": "20",
+        "D": "34"
+      },
+      "correct": "B",
+      "correctAnswer": "33",
+      "explanation": "The digit conditions give 10 ≤ 3n ≤ 99 and 100 ≤ 5n ≤ 999, so 20 ≤ n ≤ 33."
+    },
+    {
+      "id": "HSPT-Q16-019",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Use each of the digits 0, 2, and 5 exactly once. Which three-digit number is divisible by 4?",
+      "choices": {
+        "A": "205",
+        "B": "250",
+        "C": "520",
+        "D": "502"
+      },
+      "correct": "C",
+      "correctAnswer": "520",
+      "explanation": "Divisibility by 4 depends on the final two digits; only 520 ends in a two-digit multiple of 4, namely 20."
+    },
+    {
+      "id": "HSPT-Q16-020",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Two identical calculations are intended to multiply 46 by 18. One mistakenly multiplies 46 by 19; the other mistakenly multiplies 45 by 18. How much greater is the sum of the mistaken results than the sum of the intended results?",
+      "choices": {
+        "A": "28",
+        "B": "18",
+        "C": "46",
+        "D": "64"
+      },
+      "correct": "A",
+      "correctAnswer": "28",
+      "explanation": "The first error adds 46, while the second subtracts 18; together the errors change the intended sum by 46 − 18 = 28."
+    },
+    {
+      "id": "HSPT-Q16-021",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "a and b are distinct positive numbers.\nQuantity A: a/b + b/a\nQuantity B: 2",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "Subtracting 2 gives (a − b)²/(ab). The numerator and denominator are positive because a and b are positive and unequal."
+    },
+    {
+      "id": "HSPT-Q16-022",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "a and b are positive integers with a > b.\nQuantity A: The greatest common factor of a and b\nQuantity B: The greatest common factor of a − b and b",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "A number divides both a and b exactly when it divides both a − b and b, so the greatest common factors agree."
+    },
+    {
+      "id": "HSPT-Q16-023",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "a, b, and c are integers with a < b < c.\nQuantity A: b − a\nQuantity B: c − b",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "For 1, 2, 5, the first gap is smaller; for 1, 4, 5, it is larger. Ordering alone does not determine gap sizes."
+    },
+    {
+      "id": "HSPT-Q16-024",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "AB is a chord of a circle, and AB does not pass through its center.\nQuantity A: The length of AB\nQuantity B: The diameter of the circle",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "A diameter is the longest chord; because AB does not pass through the center, it is strictly shorter than the diameter."
+    },
+    {
+      "id": "HSPT-Q16-025",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A right rectangular prism has a 3-by-4 base and height 2. A vertical cut through a base diagonal divides it into two triangular prisms.\nQuantity A: The sum of the total surface areas of the two pieces\nQuantity B: 72 square units",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "The original surface area is 52. The cut has area 5 × 2 = 10 and creates two exposed faces, making the sum 52 + 20 = 72."
+    },
+    {
+      "id": "HSPT-Q16-026",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "Circle P has a larger radius than circle Q.\nQuantity A: The area of one semicircle of P\nQuantity B: The area of the entire circle Q",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "If Q has radius 2, P with radius 2.2 gives a smaller semicircle; P with radius 4 gives a larger one."
+    },
+    {
+      "id": "HSPT-Q16-027",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "Each entry after the first is one more than the square of the preceding entry. What comes next?\n1, 2, 5, 26, ...",
+      "choices": {
+        "A": "52",
+        "B": "676",
+        "C": "677",
+        "D": "703"
+      },
+      "correct": "C",
+      "correctAnswer": "677",
+      "explanation": "Apply the stated square-then-add rule to 26: 26² + 1 = 676 + 1 = 677."
+    },
+    {
+      "id": "HSPT-Q16-028",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "To obtain each next entry, multiply all the digits in the current entry. What comes next?\n77, 49, 36, 18, ...",
+      "choices": {
+        "A": "9",
+        "B": "8",
+        "C": "18",
+        "D": "81"
+      },
+      "correct": "B",
+      "correctAnswer": "8",
+      "explanation": "The successive digit products are 7 × 7 = 49, 4 × 9 = 36, 3 × 6 = 18, and 1 × 8 = 8."
+    },
+    {
+      "id": "HSPT-Q16-029",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "Begin with 12345. Reverse the first two digits, then the first three, then the first four, then the first five. Which entry follows?\n12345, 21345, 31245, 42135, ...",
+      "choices": {
+        "A": "53142",
+        "B": "54213",
+        "C": "13524",
+        "D": "53124"
+      },
+      "correct": "D",
+      "correctAnswer": "53124",
+      "explanation": "The next operation reverses all five digits of 42135, placing them in the order 5, 3, 1, 2, 4."
+    },
+    {
+      "id": "HSPT-Q16-030",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "Term n is the greatest number of pieces a flat circular sheet can have after n straight cuts. Arrange every cut to cross all earlier cuts at different interior points. The first four terms are 2, 4, 7, 11. What is term 8?",
+      "choices": {
+        "A": "37",
+        "B": "29",
+        "C": "36",
+        "D": "45"
+      },
+      "correct": "A",
+      "correctAnswer": "37",
+      "explanation": "Cut k can add k pieces because its k − 1 crossings divide it into k segments. Eight cuts therefore give 1 + 1 + 2 + ... + 8 = 37."
+    },
+    {
+      "id": "HSPT-Q16-031",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "The same digit replaces both boxes in 4□ + □7 = 113. What is the digit?",
+      "choices": {
+        "A": "3",
+        "B": "6",
+        "C": "5",
+        "D": "7"
+      },
+      "correct": "B",
+      "correctAnswer": "6",
+      "explanation": "The units sum must end in 3, so the missing digit plus 7 is 13. The digit is 6, and 46 + 67 = 113."
+    },
+    {
+      "id": "HSPT-Q16-032",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Define a ★ b = a + 2b. How much must be added to (1 ★ 2) ★ 3 to equal 1 ★ (2 ★ 3)?",
+      "choices": {
+        "A": "0",
+        "B": "3",
+        "C": "6",
+        "D": "12"
+      },
+      "correct": "C",
+      "correctAnswer": "6",
+      "explanation": "The left expression is 5 ★ 3 = 11; the right is 1 ★ 8 = 17. Their difference is 17 − 11 = 6."
+    },
+    {
+      "id": "HSPT-Q16-033",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Start with 1/1. At each step, choose either to add the denominator to the numerator or to add the numerator to the denominator. Which fraction can result after EXACTLY three steps?",
+      "choices": {
+        "A": "2/3",
+        "B": "3/2",
+        "C": "1/1",
+        "D": "5/3"
+      },
+      "correct": "D",
+      "correctAnswer": "5/3",
+      "explanation": "Changing the numerator, then denominator, then numerator gives 1/1 → 2/1 → 2/3 → 5/3. The other choices do not occur after three steps."
+    },
+    {
+      "id": "HSPT-Q16-034",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "a is positive.\nQuantity A: a + √(a² + 1)\nQuantity B: 2a",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "Because a² + 1 > a² and a is positive, √(a² + 1) > a. Adding a makes Quantity A greater than 2a."
+    },
+    {
+      "id": "HSPT-Q16-035",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "a < 0 < b, and |a| > b.\nQuantity A: a + b\nQuantity B: 0",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "The negative number has greater magnitude than the positive number, so their sum is negative and therefore less than zero."
+    },
+    {
+      "id": "HSPT-Q16-036",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "n is an integer greater than 1. Count 1 and the number itself as positive factors.\nQuantity A: The number of positive factors of n\nQuantity B: The number of positive factors of n + 1",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "For n = 3, the factor counts are 2 and 3; for n = 4, they are 3 and 2. Either quantity can be greater."
+    },
+    {
+      "id": "HSPT-Q16-037",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "In a coordinate plane, a point is reflected first across x = 0 and then across x = 3.\nQuantity A: The final x-coordinate minus the original x-coordinate\nQuantity B: 6",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "An original x-coordinate t becomes −t, then 6 + t after reflection across x = 3; the net displacement is always 6 units right."
+    },
+    {
+      "id": "HSPT-Q16-038",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "Two circular disks have radii 2 and 5 units. Their interiors do not overlap; their boundaries are allowed to touch.\nQuantity A: The distance between their centers\nQuantity B: 7 units",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "The centers are 7 units apart when the disks touch externally, but can be farther apart when separated. Equality and a greater distance are both possible."
+    },
+    {
+      "id": "HSPT-Q16-039",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A triangle has side lengths a, b, and c. The angle opposite c is obtuse.\nQuantity A: c²\nQuantity B: a² + b²",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "An obtuse angle makes the opposite side longer than the hypotenuse of a right triangle with the same two adjacent sides, so c² > a² + b²."
+    },
+    {
+      "id": "HSPT-Q16-040",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "To obtain each next entry, subtract the greatest power of 2 that does not exceed the current entry. Powers of 2 include 1, 2, 4, 8, 16, 32, and so on. What comes next?\n59, 27, 11, 3, ...",
+      "choices": {
+        "A": "0",
+        "B": "2",
+        "C": "1",
+        "D": "4"
+      },
+      "correct": "C",
+      "correctAnswer": "1",
+      "explanation": "The greatest power of 2 not exceeding 3 is 2, so the next entry is 3 − 2 = 1."
+    },
+    {
+      "id": "HSPT-Q16-041",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "Numbers arrive in this order: 60, 36, 48, 30, 45. After each arrival, record the greatest common factor of ALL numbers received so far. What completes the recorded series?\n60, 12, 12, 6, ...",
+      "choices": {
+        "A": "1",
+        "B": "5",
+        "C": "15",
+        "D": "3"
+      },
+      "correct": "D",
+      "correctAnswer": "3",
+      "explanation": "After the fourth arrival the common factor is 6; including 45 changes it to the greatest common factor of 6 and 45, which is 3."
+    },
+    {
+      "id": "HSPT-Q16-042",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "Each next entry counts how many times the current entry appears among the last FOUR entries, including itself. If fewer than four exist, use all of them. Which TWO entries follow?\n1, 1, 2, 1, 3, 1, 2, 1, 2, 2, ...",
+      "choices": {
+        "A": "3, 1",
+        "B": "4, 1",
+        "C": "2, 3",
+        "D": "1, 2"
+      },
+      "correct": "A",
+      "correctAnswer": "3, 1",
+      "explanation": "The window 2, 1, 2, 2 contains three 2s, giving 3. The updated window 1, 2, 2, 3 contains one 3, giving 1."
+    },
+    {
+      "id": "HSPT-Q16-043",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "A positive whole number ends in 0. Erasing that final zero decreases its value by 243. What was the original number?",
+      "choices": {
+        "A": "27",
+        "B": "270",
+        "C": "297",
+        "D": "2430"
+      },
+      "correct": "B",
+      "correctAnswer": "270",
+      "explanation": "Let the shortened number be n; the original is 10n. Their difference is 9n = 243, so n = 27 and the original is 270."
+    },
+    {
+      "id": "HSPT-Q16-044",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Two numbers satisfy a + b = 9 and a² + b² = 45. What is ab?",
+      "choices": {
+        "A": "36",
+        "B": "18",
+        "C": "45",
+        "D": "81"
+      },
+      "correct": "B",
+      "correctAnswer": "18",
+      "explanation": "Squaring a + b gives 81 = a² + 2ab + b² = 45 + 2ab. Thus 2ab = 36 and ab = 18."
+    },
+    {
+      "id": "HSPT-Q16-045",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "A positive number r satisfies r + 1 = 1/r. What is r² + r?",
+      "choices": {
+        "A": "0",
+        "B": "2",
+        "C": "r + 1",
+        "D": "1"
+      },
+      "correct": "D",
+      "correctAnswer": "1",
+      "explanation": "Multiplying both sides of r + 1 = 1/r by the nonzero number r gives r² + r = 1 directly."
+    },
+    {
+      "id": "HSPT-Q16-046",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Positive numbers a, b, and c satisfy ab = 15, bc = 21, and ac = 35. What is a + b + c?",
+      "choices": {
+        "A": "15",
+        "B": "9",
+        "C": "21",
+        "D": "71"
+      },
+      "correct": "A",
+      "correctAnswer": "15",
+      "explanation": "The ratio (ab)(bc)/(ac) gives b² = 9, so b = 3. Then a = 5 and c = 7, making their sum 15."
+    },
+    {
+      "id": "HSPT-Q16-047",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "x is a nonzero real number.\nQuantity A: |x| + x²\nQuantity B: x",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "If x is positive, Quantity A adds a positive square to x. If x is negative, Quantity A is positive while Quantity B is negative."
+    },
+    {
+      "id": "HSPT-Q16-048",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "n is a positive integer.\nQuantity A: The least common multiple of 4n and 6n\nQuantity B: 12n",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "A multiple 4kn is divisible by 6n when 4k is divisible by 6; the least positive such k is 3, giving 12n."
+    },
+    {
+      "id": "HSPT-Q16-049",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "0 < x < y < 1.\nQuantity A: xy\nQuantity B: y − x",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "With x = 1/4 and y = 1/2, the product is smaller; with x = 3/5 and y = 4/5, the product is larger."
+    },
+    {
+      "id": "HSPT-Q16-050",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A triangle is nondegenerate, so each side is shorter than the sum of the other two.\nQuantity A: The longest side\nQuantity B: Half the perimeter",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "If c is the longest side, c < a + b. Adding c gives 2c < a + b + c, so c is less than half the perimeter."
+    },
+    {
+      "id": "HSPT-Q16-051",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A rectangle and a square have the same positive area. The rectangle's length and width are unequal.\nQuantity A: The rectangle's perimeter\nQuantity B: The square's perimeter",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "For rectangle sides a and b, the square side is √(ab). The perimeter difference is 2(a + b − 2√(ab)) = 2(√a − √b)², which is positive."
+    },
+    {
+      "id": "HSPT-Q16-052",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "Two right circular cylinders have the same radius and different positive heights. Lateral area means only the curved side, excluding the circular ends.\nQuantity A: First cylinder's lateral area divided by its volume\nQuantity B: Second cylinder's lateral area divided by its volume",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "Lateral area is 2πrh and volume is πr²h; dividing gives 2/r. Their common radius therefore makes both ratios equal despite different heights."
+    }
+  ]
+}

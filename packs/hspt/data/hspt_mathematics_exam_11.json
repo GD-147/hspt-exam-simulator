@@ -1,0 +1,1097 @@
+{
+  "title": "HSPT Mathematics Practice Test 11",
+  "examFamily": "hspt",
+  "examNumber": 11,
+  "section": "Mathematics",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": "HSPT-M11-001",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Four equally spaced marks on a number line are labeled, from left to right, −1.6, P, Q, and −0.4. What number is at Q?",
+      "choices": {
+        "A": "−0.8",
+        "B": "−1.2",
+        "C": "0.8",
+        "D": "−1.0"
+      },
+      "correct": "A",
+      "correctAnswer": "−0.8",
+      "explanation": "The three equal intervals span 1.2, so each is 0.4; Q is two steps after −1.6, giving −0.8."
+    },
+    {
+      "id": "HSPT-M11-002",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which decimal rounds to 2.7 to the nearest tenth and to 2.65 to the nearest hundredth?",
+      "choices": {
+        "A": "2.646",
+        "B": "2.658",
+        "C": "2.652",
+        "D": "2.704"
+      },
+      "correct": "C",
+      "correctAnswer": "2.652",
+      "explanation": "The thousandths digit makes 2.652 round to 2.65, while its hundredths digit makes it round to 2.7."
+    },
+    {
+      "id": "HSPT-M11-003",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A sailmaker uses 2/5 of a roll of fabric, then sets aside 3/4 of the remaining fabric for repairs. What fraction of the original roll is still available for other work?",
+      "choices": {
+        "A": "1/20",
+        "B": "3/10",
+        "C": "9/20",
+        "D": "3/20"
+      },
+      "correct": "D",
+      "correctAnswer": "3/20",
+      "explanation": "After 2/5 is used, 3/5 remains; the unreserved quarter of that remainder is (1/4) × (3/5) = 3/20."
+    },
+    {
+      "id": "HSPT-M11-004",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "If n is any odd integer, which expression must be divisible by 4?",
+      "choices": {
+        "A": "n² + 1",
+        "B": "n² − 1",
+        "C": "2n",
+        "D": "n + 1"
+      },
+      "correct": "B",
+      "correctAnswer": "n² − 1",
+      "explanation": "Write n = 2k + 1; then n² − 1 = 4k(k + 1), which is divisible by 4."
+    },
+    {
+      "id": "HSPT-M11-005",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If 3r + s = 20, what is the value of 6r + 2s?",
+      "choices": {
+        "A": "20",
+        "B": "40",
+        "C": "23",
+        "D": "60"
+      },
+      "correct": "B",
+      "correctAnswer": "40",
+      "explanation": "The expression 6r + 2s equals 2(3r + s), so its value is 2 × 20 = 40."
+    },
+    {
+      "id": "HSPT-M11-006",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The variables x and y satisfy y = 8 − 2x. Which change in x causes y to increase by 6?",
+      "choices": {
+        "A": "x increases by 3.",
+        "B": "x decreases by 6.",
+        "C": "x increases by 6.",
+        "D": "x decreases by 3."
+      },
+      "correct": "D",
+      "correctAnswer": "x decreases by 3.",
+      "explanation": "The change in y is −2 times the change in x; an increase of 6 requires x to change by −3."
+    },
+    {
+      "id": "HSPT-M11-007",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "An empty freight box weighs 3 kilograms. Each block placed inside weighs 5 kilograms. The loaded box must weigh at least 24 kilograms but less than 34 kilograms. Which list includes all possible numbers of blocks?",
+      "choices": {
+        "A": "5, 6",
+        "B": "4, 5",
+        "C": "4, 5, 6",
+        "D": "5, 6, 7"
+      },
+      "correct": "A",
+      "correctAnswer": "5, 6",
+      "explanation": "The condition 24 ≤ 3 + 5n < 34 gives 4.2 ≤ n < 6.2, so the integer choices are 5 and 6."
+    },
+    {
+      "id": "HSPT-M11-008",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Two numbers u and v satisfy u + v = 18 and u − v = 4. What is uv?",
+      "choices": {
+        "A": "44",
+        "B": "63",
+        "C": "77",
+        "D": "81"
+      },
+      "correct": "C",
+      "correctAnswer": "77",
+      "explanation": "Adding the equations gives 2u = 22, so u = 11 and v = 7; therefore uv = 77."
+    },
+    {
+      "id": "HSPT-M11-009",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A flat slice passes through the interior of a cube parallel to its bottom face. What shape is the cross section?",
+      "choices": {
+        "A": "triangle",
+        "B": "regular hexagon",
+        "C": "circle",
+        "D": "square"
+      },
+      "correct": "D",
+      "correctAnswer": "square",
+      "explanation": "A slice parallel to a cube's bottom face has four equal sides and four right angles, forming a square."
+    },
+    {
+      "id": "HSPT-M11-010",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "How many diagonals can be drawn from one vertex of a convex octagon?",
+      "choices": {
+        "A": "6",
+        "B": "7",
+        "C": "5",
+        "D": "8"
+      },
+      "correct": "C",
+      "correctAnswer": "5",
+      "explanation": "A vertex cannot connect diagonally to itself or its two neighbors, leaving 8 − 3 = 5 other vertices."
+    },
+    {
+      "id": "HSPT-M11-011",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Point (−3, 5) is translated 4 units to the right and then rotated 90° clockwise about the origin. A 90° clockwise rotation sends (a, b) to (b, −a). What is the final point?",
+      "choices": {
+        "A": "(5, −1)",
+        "B": "(−5, 1)",
+        "C": "(1, −5)",
+        "D": "(9, 3)"
+      },
+      "correct": "A",
+      "correctAnswer": "(5, −1)",
+      "explanation": "The translation gives (1, 5); applying (a, b) → (b, −a) then gives (5, −1)."
+    },
+    {
+      "id": "HSPT-M11-012",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A clock is set correctly at 9:00 a.m. It loses 45 seconds during each actual hour. What time does it show when the actual time is 3:00 p.m. that day?",
+      "choices": {
+        "A": "2:59:15 p.m.",
+        "B": "2:55:30 p.m.",
+        "C": "3:04:30 p.m.",
+        "D": "2:54:00 p.m."
+      },
+      "correct": "B",
+      "correctAnswer": "2:55:30 p.m.",
+      "explanation": "Six actual hours pass, producing a loss of 6 × 45 = 270 seconds, or 4 minutes 30 seconds."
+    },
+    {
+      "id": "HSPT-M11-013",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A small metal panel has an area of 0.07 square meter. What is its area in square centimeters?",
+      "choices": {
+        "A": "7 square centimeters",
+        "B": "70 square centimeters",
+        "C": "700 square centimeters",
+        "D": "7,000 square centimeters"
+      },
+      "correct": "C",
+      "correctAnswer": "700 square centimeters",
+      "explanation": "One square meter contains 100 × 100 = 10,000 square centimeters, so 0.07 × 10,000 = 700."
+    },
+    {
+      "id": "HSPT-M11-014",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A skating-rink owner surveys only customers attending the Friday evening session. Most prefer longer evening hours. Why might this survey poorly represent all customers?",
+      "choices": {
+        "A": "The owner asked about hours instead of ticket prices.",
+        "B": "Evening customers are unable to express preferences.",
+        "C": "A survey must contain equal numbers of every possible opinion.",
+        "D": "Customers who attend at other times were not included."
+      },
+      "correct": "D",
+      "correctAnswer": "Customers who attend at other times were not included.",
+      "explanation": "Friday evening attendees may have different scheduling preferences from other customers, whose views were excluded from the sample."
+    },
+    {
+      "id": "HSPT-M11-015",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A tray contains 3 brass gears and 2 steel gears. Two gears are selected at random without replacement. What is the probability that they are made of different materials?",
+      "choices": {
+        "A": "3/10",
+        "B": "3/5",
+        "C": "1/2",
+        "D": "2/5"
+      },
+      "correct": "B",
+      "correctAnswer": "3/5",
+      "explanation": "Either brass then steel or steel then brass qualifies: (3/5 × 2/4) + (2/5 × 3/4) = 3/5."
+    },
+    {
+      "id": "HSPT-M11-016",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A trail report lists 28 trails. Of these, 19 have shade and 15 have water access. Every listed trail has at least one of these features. How many have both?",
+      "choices": {
+        "A": "6",
+        "B": "4",
+        "C": "9",
+        "D": "13"
+      },
+      "correct": "A",
+      "correctAnswer": "6",
+      "explanation": "The two feature counts total 34, counting trails with both twice; subtracting the 28 distinct trails gives 6."
+    },
+    {
+      "id": "HSPT-M11-017",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A number is 5 units to the right of −2 on a number line. What is the opposite of that number?",
+      "choices": {
+        "A": "−3",
+        "B": "3",
+        "C": "−7",
+        "D": "7"
+      },
+      "correct": "A",
+      "correctAnswer": "−3",
+      "explanation": "Moving 5 units right from −2 gives 3; the opposite of 3 is −3, the same distance from zero."
+    },
+    {
+      "id": "HSPT-M11-018",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A diving service has short and long air hoses in a ratio of 2:3. After it adds 6 short hoses and no long hoses, the ratio becomes 4:3. How many hoses did it have originally?",
+      "choices": {
+        "A": "9",
+        "B": "15",
+        "C": "12",
+        "D": "21"
+      },
+      "correct": "B",
+      "correctAnswer": "15",
+      "explanation": "Write the original counts as 2k and 3k; (2k + 6)/(3k) = 4/3 gives k = 3, so the original total was 5k = 15."
+    },
+    {
+      "id": "HSPT-M11-019",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "In base five, digits run from 0 through 4; for example, 12 means 1 × 5 + 2. What is 24 + 13, with both inputs and the answer written in base five?",
+      "choices": {
+        "A": "37",
+        "B": "22",
+        "C": "42",
+        "D": "41"
+      },
+      "correct": "C",
+      "correctAnswer": "42",
+      "explanation": "The inputs represent 14 and 8 in ordinary notation; their sum is 22, which is 4 × 5 + 2, written 42 in base five."
+    },
+    {
+      "id": "HSPT-M11-020",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which equation has no solution?",
+      "choices": {
+        "A": "x + 7 = 9",
+        "B": "2x + 7 = 2x + 9",
+        "C": "2x + 7 = 9",
+        "D": "2x + 7 = 2x + 7"
+      },
+      "correct": "B",
+      "correctAnswer": "2x + 7 = 2x + 9",
+      "explanation": "Subtracting 2x from both sides leaves the false statement 7 = 9, so no value of x satisfies this equation."
+    },
+    {
+      "id": "HSPT-M11-021",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which expression is equivalent to 6pq + 9p?",
+      "choices": {
+        "A": "3p(2q + 9)",
+        "B": "3(2pq + 3)",
+        "C": "3p(2q + 3)",
+        "D": "p(6q + 9p)"
+      },
+      "correct": "C",
+      "correctAnswer": "3p(2q + 3)",
+      "explanation": "Both terms share the factor 3p; factoring it out leaves 2q + 3 inside the parentheses."
+    },
+    {
+      "id": "HSPT-M11-022",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "One pump can drain a full tank in 6 minutes, and another can drain the same tank in 12 minutes. Each works at a constant rate. How long do they take together?",
+      "choices": {
+        "A": "3 minutes",
+        "B": "4 minutes",
+        "C": "6 minutes",
+        "D": "9 minutes"
+      },
+      "correct": "B",
+      "correctAnswer": "4 minutes",
+      "explanation": "Together they drain 1/6 + 1/12 = 1/4 of the tank per minute, so draining one tank takes 4 minutes."
+    },
+    {
+      "id": "HSPT-M11-023",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A machine outputs x + 4 when x < 0 and x² when x ≥ 0. What is the sum of its outputs for inputs −6 and 3?",
+      "choices": {
+        "A": "−3",
+        "B": "7",
+        "C": "13",
+        "D": "45"
+      },
+      "correct": "B",
+      "correctAnswer": "7",
+      "explanation": "The negative input gives −6 + 4 = −2; the nonnegative input gives 3² = 9, and the outputs sum to 7."
+    },
+    {
+      "id": "HSPT-M11-024",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "In triangle ABC, M is the midpoint of AB and N is the midpoint of AC. The segment MN is parallel to BC. If BC = 18 centimeters, how long is MN?",
+      "choices": {
+        "A": "6 centimeters",
+        "B": "12 centimeters",
+        "C": "36 centimeters",
+        "D": "9 centimeters"
+      },
+      "correct": "D",
+      "correctAnswer": "9 centimeters",
+      "explanation": "The segment joining two side midpoints is half the third side, so MN = 18 ÷ 2 = 9 centimeters."
+    },
+    {
+      "id": "HSPT-M11-025",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Which solid has exactly one vertex?",
+      "choices": {
+        "A": "cylinder",
+        "B": "sphere",
+        "C": "cone",
+        "D": "cube"
+      },
+      "correct": "C",
+      "correctAnswer": "cone",
+      "explanation": "A cone has one vertex at its tip; cylinders and spheres have no vertices, while a cube has eight."
+    },
+    {
+      "id": "HSPT-M11-026",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A square plate has sides of 10 centimeters. A rectangular notch, 3 centimeters wide along an edge and 2 centimeters deep, is cut from the middle of one side without reaching a corner. What is the remaining plate's perimeter?",
+      "choices": {
+        "A": "37 centimeters",
+        "B": "40 centimeters",
+        "C": "50 centimeters",
+        "D": "44 centimeters"
+      },
+      "correct": "D",
+      "correctAnswer": "44 centimeters",
+      "explanation": "The notch removes 3 centimeters of boundary but adds 3 + 2 + 2; the new perimeter is 40 − 3 + 7 = 44 centimeters."
+    },
+    {
+      "id": "HSPT-M11-027",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Port B's clock is 2 hours ahead of Port A's. A boat departs Port A at 8:40 a.m. local time and arrives at Port B at 1:10 p.m. local time on the same day. How long is the trip?",
+      "choices": {
+        "A": "2 hours 30 minutes",
+        "B": "4 hours 30 minutes",
+        "C": "6 hours 30 minutes",
+        "D": "1 hour 30 minutes"
+      },
+      "correct": "A",
+      "correctAnswer": "2 hours 30 minutes",
+      "explanation": "The arrival time is 11:10 a.m. on Port A's clock; from 8:40 to 11:10 is 2 hours 30 minutes."
+    },
+    {
+      "id": "HSPT-M11-028",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Wood finish costs $9 for a 2-liter can or $3.60 for a 750-milliliter can. Which statement correctly compares their prices per liter?",
+      "choices": {
+        "A": "The 750-milliliter can costs $0.30 less per liter.",
+        "B": "The 2-liter can costs $0.90 less per liter.",
+        "C": "The 2-liter can costs $0.30 less per liter.",
+        "D": "Both cans have the same price per liter."
+      },
+      "correct": "C",
+      "correctAnswer": "The 2-liter can costs $0.30 less per liter.",
+      "explanation": "The unit prices are $9 ÷ 2 = $4.50 and $3.60 ÷ 0.75 = $4.80 per liter, a $0.30 difference."
+    },
+    {
+      "id": "HSPT-M11-029",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Density is found by dividing mass by volume. If mass is measured in grams and volume in cubic centimeters, which unit correctly expresses density?",
+      "choices": {
+        "A": "cubic centimeters per gram",
+        "B": "grams times cubic centimeters",
+        "C": "centimeters per gram",
+        "D": "grams per cubic centimeter"
+      },
+      "correct": "D",
+      "correctAnswer": "grams per cubic centimeter",
+      "explanation": "Dividing a mass in grams by a volume in cubic centimeters gives grams per cubic centimeter, with mass in the numerator."
+    },
+    {
+      "id": "HSPT-M11-030",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "During 3 shifts, a dock crew handled an average of 8 crates per shift. During 5 other shifts, it averaged 12 crates per shift. What was the average for all 8 shifts?",
+      "choices": {
+        "A": "10.5 crates per shift",
+        "B": "10 crates per shift",
+        "C": "11 crates per shift",
+        "D": "20 crates per shift"
+      },
+      "correct": "A",
+      "correctAnswer": "10.5 crates per shift",
+      "explanation": "The crew handled 3 × 8 + 5 × 12 = 84 crates across 8 shifts; 84 ÷ 8 = 10.5."
+    },
+    {
+      "id": "HSPT-M11-031",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A ticket is chosen at random from tickets numbered 1 through 12. You learn that its number is greater than 8. Given that information, what is the probability that its number is prime?",
+      "choices": {
+        "A": "1/4",
+        "B": "1/12",
+        "C": "1/3",
+        "D": "5/12"
+      },
+      "correct": "A",
+      "correctAnswer": "1/4",
+      "explanation": "The information restricts the possible tickets to 9, 10, 11, and 12; only 11 is prime, giving probability 1/4."
+    },
+    {
+      "id": "HSPT-M11-032",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Ten instrument readings are summarized as follows:\nReading 2: four occurrences.\nReading 3: one occurrence.\nReading 5: five occurrences.\nWhat is the median?",
+      "choices": {
+        "A": "3",
+        "B": "3.6",
+        "C": "5",
+        "D": "4"
+      },
+      "correct": "D",
+      "correctAnswer": "4",
+      "explanation": "In order, the fifth reading is 3 and the sixth is 5; their average, (3 + 5) ÷ 2, is 4."
+    },
+    {
+      "id": "HSPT-M11-033",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number is a perfect cube but is not a perfect square?",
+      "choices": {
+        "A": "16",
+        "B": "36",
+        "C": "64",
+        "D": "8"
+      },
+      "correct": "D",
+      "correctAnswer": "8",
+      "explanation": "Eight equals 2³ and is not an integer square; 16 and 36 are squares, while 64 is both a square and a cube."
+    },
+    {
+      "id": "HSPT-M11-034",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Start with the fraction 4/9. Multiply its numerator by 3 and its denominator by 2, then simplify. What fraction results?",
+      "choices": {
+        "A": "4/3",
+        "B": "2/3",
+        "C": "8/27",
+        "D": "3/2"
+      },
+      "correct": "B",
+      "correctAnswer": "2/3",
+      "explanation": "The changed fraction is (4 × 3)/(9 × 2) = 12/18, which simplifies to 2/3."
+    },
+    {
+      "id": "HSPT-M11-035",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "For which set does multiplying any two members always give another member, while adding any two members never gives a member?",
+      "choices": {
+        "A": "odd integers",
+        "B": "even integers",
+        "C": "positive integers",
+        "D": "negative integers"
+      },
+      "correct": "A",
+      "correctAnswer": "odd integers",
+      "explanation": "An odd integer times an odd integer is odd, while the sum of two odd integers is even and outside the set."
+    },
+    {
+      "id": "HSPT-M11-036",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number has no reciprocal?",
+      "choices": {
+        "A": "−1",
+        "B": "0",
+        "C": "1/2",
+        "D": "10"
+      },
+      "correct": "B",
+      "correctAnswer": "0",
+      "explanation": "A reciprocal must multiply the original number to give 1; zero times any number remains zero, so no reciprocal exists."
+    },
+    {
+      "id": "HSPT-M11-037",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Assume x ≠ y. Which expression represents the sum of x and y divided by their difference, x minus y?",
+      "choices": {
+        "A": "x + y/(x − y)",
+        "B": "(x − y)/(x + y)",
+        "C": "(x + y)/(x − y)",
+        "D": "x/y − x"
+      },
+      "correct": "C",
+      "correctAnswer": "(x + y)/(x − y)",
+      "explanation": "The entire sum must form the numerator, and the entire stated difference must form the denominator of the quotient."
+    },
+    {
+      "id": "HSPT-M11-038",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "If a = b/(b + 1) and a ≠ 1, which expression equals b?",
+      "choices": {
+        "A": "a/(a − 1)",
+        "B": "a/(1 − a)",
+        "C": "1/(a − 1)",
+        "D": "a − 1"
+      },
+      "correct": "B",
+      "correctAnswer": "a/(1 − a)",
+      "explanation": "Multiplying gives ab + a = b; then a = b(1 − a), so b = a/(1 − a)."
+    },
+    {
+      "id": "HSPT-M11-039",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A linear function has f(2) = 9 and f(6) = 21. What is f(0)?",
+      "choices": {
+        "A": "−3",
+        "B": "6",
+        "C": "3",
+        "D": "9"
+      },
+      "correct": "C",
+      "correctAnswer": "3",
+      "explanation": "The rate of change is (21 − 9)/(6 − 2) = 3; moving from input 2 to 0 lowers the output by 6, giving 3."
+    },
+    {
+      "id": "HSPT-M11-040",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A rental shop charges $7 for the first hour or any part of it, then $3 for each additional half hour or any part of one. Which rental duration could produce a $19 charge?",
+      "choices": {
+        "A": "2 hours 30 minutes",
+        "B": "3 hours 15 minutes",
+        "C": "1 hour 45 minutes",
+        "D": "2 hours 45 minutes"
+      },
+      "correct": "D",
+      "correctAnswer": "2 hours 45 minutes",
+      "explanation": "The extra $12 pays for four half-hour intervals after the first hour, requiring a duration greater than 2 hours 30 minutes and at most 3 hours."
+    },
+    {
+      "id": "HSPT-M11-041",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "How many lines of reflection symmetry does a rectangle that is not a square have?",
+      "choices": {
+        "A": "2",
+        "B": "1",
+        "C": "4",
+        "D": "8"
+      },
+      "correct": "A",
+      "correctAnswer": "2",
+      "explanation": "The lines through the midpoints of opposite sides are symmetry lines; the diagonals are not symmetry lines unless the rectangle is a square."
+    },
+    {
+      "id": "HSPT-M11-042",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle lies inside triangle ABC and touches all three sides. Tangent segments from the same vertex to the circle have equal lengths. If AB = 13, AC = 15, and BC = 14, what is the length from A to either tangency point on its sides?",
+      "choices": {
+        "A": "7",
+        "B": "6",
+        "C": "8",
+        "D": "14"
+      },
+      "correct": "A",
+      "correctAnswer": "7",
+      "explanation": "Adding AB and AC and subtracting BC counts the A-tangent twice: 13 + 15 − 14 = 14, so its length is 7."
+    },
+    {
+      "id": "HSPT-M11-043",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A closed triangular pyramid has four triangular faces. Each face has three edges, and every edge belongs to two faces. How many distinct edges does the pyramid have?",
+      "choices": {
+        "A": "4",
+        "B": "8",
+        "C": "6",
+        "D": "12"
+      },
+      "correct": "C",
+      "correctAnswer": "6",
+      "explanation": "Counting three edges on each of four faces gives 12 appearances; each edge is counted twice, so there are 6 distinct edges."
+    },
+    {
+      "id": "HSPT-M11-044",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A graduated cylinder contains 72 milliliters of water. After a solid object that does not absorb water is completely submerged, the reading is 89.5 milliliters. No water spills. Given that 1 milliliter equals 1 cubic centimeter, what is the object's volume?",
+      "choices": {
+        "A": "0.0175 cubic centimeters",
+        "B": "72 cubic centimeters",
+        "C": "17.5 cubic centimeters",
+        "D": "161.5 cubic centimeters"
+      },
+      "correct": "C",
+      "correctAnswer": "17.5 cubic centimeters",
+      "explanation": "The object displaces 89.5 − 72 = 17.5 milliliters, corresponding to a volume of 17.5 cubic centimeters."
+    },
+    {
+      "id": "HSPT-M11-045",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A ventilation fan moves 90 cubic meters of air per hour. Given that 1 cubic meter equals 1,000 liters, how many liters per second is that?",
+      "choices": {
+        "A": "25 liters per second",
+        "B": "1.5 liters per second",
+        "C": "90 liters per second",
+        "D": "1,500 liters per second"
+      },
+      "correct": "A",
+      "correctAnswer": "25 liters per second",
+      "explanation": "Convert to 90,000 liters per hour, then divide by 3,600 seconds per hour to obtain 25 liters per second."
+    },
+    {
+      "id": "HSPT-M11-046",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A timer stops at a randomly selected instant between 0 and 60 seconds, with equal-length intervals equally likely. What is the probability that it stops after 12 seconds but before 27 seconds?",
+      "choices": {
+        "A": "1/5",
+        "B": "9/20",
+        "C": "3/5",
+        "D": "1/4"
+      },
+      "correct": "D",
+      "correctAnswer": "1/4",
+      "explanation": "The favorable interval lasts 27 − 12 = 15 seconds out of 60, so its probability is 15/60 = 1/4."
+    },
+    {
+      "id": "HSPT-M11-047",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A fabric maker records whether each customer chooses cotton, wool, or silk. Which statistic identifies the most frequently chosen fabric?",
+      "choices": {
+        "A": "mean",
+        "B": "median",
+        "C": "range",
+        "D": "mode"
+      },
+      "correct": "D",
+      "correctAnswer": "mode",
+      "explanation": "The mode identifies the most frequent category, making it appropriate for fabric names that have no numerical order."
+    },
+    {
+      "id": "HSPT-M11-048",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Set A contains three numbers and has median 4. Set B contains three numbers and has median 8. Which statement must be true about the median of all six numbers together?",
+      "choices": {
+        "A": "It is always 6.",
+        "B": "It is at least 4 and at most 8.",
+        "C": "It is always 4.",
+        "D": "It is always 8."
+      },
+      "correct": "B",
+      "correctAnswer": "It is at least 4 and at most 8.",
+      "explanation": "At most two observations can be below 4, and at most two can be above 8; therefore both combined middle observations lie between 4 and 8."
+    },
+    {
+      "id": "HSPT-M11-049",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the greatest integer strictly less than −2.6?",
+      "choices": {
+        "A": "−2",
+        "B": "2",
+        "C": "3",
+        "D": "−3"
+      },
+      "correct": "D",
+      "correctAnswer": "−3",
+      "explanation": "On the number line, −3 is below −2.6, while the next integer, −2, is above it."
+    },
+    {
+      "id": "HSPT-M11-050",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "The share of catalog orders placed online rises from 40% to 50%. Which pair correctly gives the percentage-point increase and the relative percent increase?",
+      "choices": {
+        "A": "10 percentage points; 10%",
+        "B": "10 percentage points; 25%",
+        "C": "25 percentage points; 10%",
+        "D": "25 percentage points; 25%"
+      },
+      "correct": "B",
+      "correctAnswer": "10 percentage points; 25%",
+      "explanation": "The share rises by 50 − 40 = 10 percentage points; relative to the original 40, the increase is 10/40 = 25%."
+    },
+    {
+      "id": "HSPT-M11-051",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Two positive decimal numbers are each rounded down to the nearest whole number. Those whole numbers add to 18. Which value could NOT be the sum of the two original decimals?",
+      "choices": {
+        "A": "18.2",
+        "B": "19.1",
+        "C": "19.8",
+        "D": "20.0"
+      },
+      "correct": "D",
+      "correctAnswer": "20.0",
+      "explanation": "Each original exceeds its rounded-down value by less than 1, so the original sum is less than 18 + 2 = 20."
+    },
+    {
+      "id": "HSPT-M11-052",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A rectangular grid has r rows and c columns, with r > 1 and c > 1. Which expression counts the tiles in its outer border, counting each corner tile once?",
+      "choices": {
+        "A": "2r + 2c",
+        "B": "r × c",
+        "C": "2(r − 2) + 2(c − 2)",
+        "D": "2r + 2c − 4"
+      },
+      "correct": "D",
+      "correctAnswer": "2r + 2c − 4",
+      "explanation": "The top and bottom rows contribute 2c tiles; the two side columns contribute another 2(r − 2), excluding corners already counted."
+    },
+    {
+      "id": "HSPT-M11-053",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "What is the coefficient of x in −7x + 4?",
+      "choices": {
+        "A": "7",
+        "B": "−7",
+        "C": "4",
+        "D": "−3"
+      },
+      "correct": "B",
+      "correctAnswer": "−7",
+      "explanation": "The coefficient is the number multiplying the variable; in −7x, that multiplier includes the negative sign and equals −7."
+    },
+    {
+      "id": "HSPT-M11-054",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "An automated cart travels 120 meters at 2 meters per second, then returns the same 120 meters at 3 meters per second. What is its average speed for the whole trip?",
+      "choices": {
+        "A": "2.5 meters per second",
+        "B": "5 meters per second",
+        "C": "1.2 meters per second",
+        "D": "2.4 meters per second"
+      },
+      "correct": "D",
+      "correctAnswer": "2.4 meters per second",
+      "explanation": "The two legs take 60 and 40 seconds. Average speed is total distance divided by total time: 240/100 = 2.4 meters per second."
+    },
+    {
+      "id": "HSPT-M11-055",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which condition on a positive number x is equivalent to 1/x > 1/5?",
+      "choices": {
+        "A": "x > 5",
+        "B": "0 < x < 1/5",
+        "C": "0 < x < 5",
+        "D": "x > 1/5"
+      },
+      "correct": "C",
+      "correctAnswer": "0 < x < 5",
+      "explanation": "Multiplying both sides by the positive number 5x gives 5 > x; together with the given positivity, this means 0 < x < 5."
+    },
+    {
+      "id": "HSPT-M11-056",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "In a circle with center O, chord AB does not pass through O. Segment OM is perpendicular to AB, with M on AB. Which statement must be true?",
+      "choices": {
+        "A": "AM = OM",
+        "B": "AB = 2 × OA",
+        "C": "AM = MB",
+        "D": "OM = OA"
+      },
+      "correct": "C",
+      "correctAnswer": "AM = MB",
+      "explanation": "A perpendicular from the center to a chord bisects the chord, so M divides AB into equal segments AM and MB."
+    },
+    {
+      "id": "HSPT-M11-057",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Which single transformation reverses the clockwise order of a triangle's labeled vertices while preserving all its side lengths?",
+      "choices": {
+        "A": "a reflection",
+        "B": "a translation",
+        "C": "a 90° rotation",
+        "D": "an enlargement with scale factor 2"
+      },
+      "correct": "A",
+      "correctAnswer": "a reflection",
+      "explanation": "A reflection preserves distances but reverses orientation; translations and rotations preserve orientation, while enlargement by 2 changes side lengths."
+    },
+    {
+      "id": "HSPT-M11-058",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Water fills a cylindrical container of radius 2 centimeters to a depth of 25 centimeters. All the water is poured into an empty cylinder of radius 5 centimeters with sufficient capacity. What is the new depth?",
+      "choices": {
+        "A": "10 centimeters",
+        "B": "6.25 centimeters",
+        "C": "4 centimeters",
+        "D": "62.5 centimeters"
+      },
+      "correct": "C",
+      "correctAnswer": "4 centimeters",
+      "explanation": "Conserving volume gives π × 2² × 25 = π × 5² × h; thus 100 = 25h and h = 4 centimeters."
+    },
+    {
+      "id": "HSPT-M11-059",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Accuracy means closeness to the true value; precision means closeness of repeated readings to each other. A true 100-gram mass gives Scale A readings of 102, 102, 102 grams and Scale B readings of 99, 100, 101 grams. Which statement is correct?",
+      "choices": {
+        "A": "Scale A is more precise, and Scale B is more accurate.",
+        "B": "Scale A is both more precise and more accurate.",
+        "C": "Scale B is both more precise and more accurate.",
+        "D": "The scales have the same precision and accuracy."
+      },
+      "correct": "A",
+      "correctAnswer": "Scale A is more precise, and Scale B is more accurate.",
+      "explanation": "Scale A repeats exactly but stays 2 grams high; Scale B varies, yet every reading is closer to 100 and its mean is 100."
+    },
+    {
+      "id": "HSPT-M11-060",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A surveyor faces north and turns clockwise until facing west for the first time. Through how many degrees does the surveyor turn?",
+      "choices": {
+        "A": "90°",
+        "B": "270°",
+        "C": "180°",
+        "D": "360°"
+      },
+      "correct": "B",
+      "correctAnswer": "270°",
+      "explanation": "Clockwise from north passes east at 90° and south at 180° before reaching west at 270°."
+    },
+    {
+      "id": "HSPT-M11-061",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A bin measures 30 × 20 × 10 centimeters internally. Each box measures 6 × 5 × 4 centimeters and must be aligned respectively with those bin dimensions, without rotation. Packed in straight rows and flat layers, how many boxes fit?",
+      "choices": {
+        "A": "50",
+        "B": "20",
+        "C": "40",
+        "D": "60"
+      },
+      "correct": "C",
+      "correctAnswer": "40",
+      "explanation": "The dimensions fit 30/6 = 5 boxes, 20/5 = 4 boxes, and only 2 full layers of height 4; 5 × 4 × 2 = 40."
+    },
+    {
+      "id": "HSPT-M11-062",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Two machines mark a card independently. Machine A adds a star with probability 1/3, and machine B adds a star with probability 1/4. A card qualifies if at least one machine adds a star. What is the probability it qualifies?",
+      "choices": {
+        "A": "1/2",
+        "B": "7/12",
+        "C": "1/12",
+        "D": "5/12"
+      },
+      "correct": "A",
+      "correctAnswer": "1/2",
+      "explanation": "The chance of no star is (2/3)(3/4) = 1/2; subtracting from 1 gives a qualifying probability of 1/2."
+    },
+    {
+      "id": "HSPT-M11-063",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "An unordered pair of distinct numbers is selected from 1, 2, 3, 4, and 5, with every pair equally likely. What is the probability that the sum is at least 8?",
+      "choices": {
+        "A": "1/5",
+        "B": "1/10",
+        "C": "3/10",
+        "D": "2/5"
+      },
+      "correct": "A",
+      "correctAnswer": "1/5",
+      "explanation": "There are 10 unordered pairs. Only {3, 5} and {4, 5} have sums at least 8, giving 2/10 = 1/5."
+    },
+    {
+      "id": "HSPT-M11-064",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "For this question, the lower quartile is the median of the lower half after the overall median is excluded. What is the lower quartile of 3, 5, 8, 11, 14, 18, 24?",
+      "choices": {
+        "A": "3",
+        "B": "5",
+        "C": "8",
+        "D": "11"
+      },
+      "correct": "B",
+      "correctAnswer": "5",
+      "explanation": "Exclude the overall median, 11. The lower half is 3, 5, 8, whose middle value is 5."
+    }
+  ]
+}

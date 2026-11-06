@@ -1,0 +1,1069 @@
+{
+  "title": "HSPT Language Practice Test 09",
+  "examFamily": "hspt",
+  "examNumber": 9,
+  "section": "Language",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-L9-001",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly uses commas to set off the explicit contrast not fragile?",
+      "choices": {
+        "A": "The shell is thin not, fragile and it bends slightly.",
+        "B": "The shell is thin, not fragile and, it bends slightly.",
+        "C": "The shell, is thin not fragile, and it bends slightly.",
+        "D": "The shell is thin, not fragile, and it bends slightly."
+      },
+      "correct": "D",
+      "correctAnswer": "The shell is thin, not fragile, and it bends slightly.",
+      "explanation": "The contrasting interruption not fragile is set off as a unit; commas should not split that phrase or separate the subject from its verb."
+    },
+    {
+      "id": "HSPT-L9-002",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly places the semicolon when joining two complete clauses, with only the word abrupt quoted?",
+      "choices": {
+        "A": "The editor called the ending \"abrupt;\" the writer agreed.",
+        "B": "The editor called the ending; \"abrupt\" the writer agreed.",
+        "C": "The editor called the ending \"abrupt\" the writer; agreed.",
+        "D": "The editor called the ending \"abrupt\"; the writer agreed."
+      },
+      "correct": "D",
+      "correctAnswer": "The editor called the ending \"abrupt\"; the writer agreed.",
+      "explanation": "A semicolon joining independent clauses goes outside quotation marks; it belongs after the complete first clause, not inside the quoted word."
+    },
+    {
+      "id": "HSPT-L9-003",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly uses a colon to introduce three listed items and a semicolon to join the two independent clauses?",
+      "choices": {
+        "A": "The kit holds three essentials; a compass, a map, and a lamp, a separate pouch holds batteries.",
+        "B": "The kit holds three essentials: a compass, a map, and a lamp, a separate pouch holds batteries.",
+        "C": "The kit holds three essentials: a compass, a map, and a lamp; a separate pouch holds batteries.",
+        "D": "The kit holds: three essentials, a compass, a map, and a lamp; a separate pouch holds batteries."
+      },
+      "correct": "C",
+      "correctAnswer": "The kit holds three essentials: a compass, a map, and a lamp; a separate pouch holds batteries.",
+      "explanation": "The complete introductory clause takes a colon before its list; the semicolon then joins that expanded clause to the independent statement about batteries."
+    },
+    {
+      "id": "HSPT-L9-004",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly distinguishes a nationality adjective from the ordinary name of a Greek letter?",
+      "choices": {
+        "A": "The Greek letter delta appears beside the diagram.",
+        "B": "The greek letter delta appears beside the diagram.",
+        "C": "The Greek Letter Delta appears beside the diagram.",
+        "D": "The greek letter Delta appears beside the diagram."
+      },
+      "correct": "A",
+      "correctAnswer": "The Greek letter delta appears beside the diagram.",
+      "explanation": "Greek is a proper adjective and is capitalized; letter and delta are ordinary nouns in this sentence and remain lowercase."
+    },
+    {
+      "id": "HSPT-L9-005",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A heading must use SENTENCE CASE: capitalize its first word and proper nouns only. Which heading follows that instruction?",
+      "choices": {
+        "A": "Crossing the Atlantic in winter",
+        "B": "Crossing The Atlantic In Winter",
+        "C": "crossing the Atlantic in winter",
+        "D": "Crossing the atlantic in Winter"
+      },
+      "correct": "A",
+      "correctAnswer": "Crossing the Atlantic in winter",
+      "explanation": "Sentence case capitalizes Crossing as the first word and Atlantic as a geographic proper noun; ordinary words, including winter, remain lowercase."
+    },
+    {
+      "id": "HSPT-L9-006",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled name of the frozen fruit dessert.",
+      "choices": {
+        "A": "sherbet",
+        "B": "sherbitt",
+        "C": "sherbett",
+        "D": "sherbit"
+      },
+      "correct": "A",
+      "correctAnswer": "sherbet",
+      "explanation": "Sherbet uses e in its final syllable and one final t; these alternatives alter that vowel or add an unnecessary consonant."
+    },
+    {
+      "id": "HSPT-L9-007",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence? The scarf was a vivid ___, a purplish-red color.",
+      "choices": {
+        "A": "fuschia",
+        "B": "fuchsia",
+        "C": "fushcia",
+        "D": "fuchisa"
+      },
+      "correct": "B",
+      "correctAnswer": "fuchsia",
+      "explanation": "Fuchsia places ch before s and ends ia; each alternative rearranges or omits part of that distinctive consonant and vowel sequence."
+    },
+    {
+      "id": "HSPT-L9-008",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the grammatically correct completion: \"The steep path is worth ___.\"",
+      "choices": {
+        "A": "to climb",
+        "B": "climbed",
+        "C": "climbing",
+        "D": "climb"
+      },
+      "correct": "C",
+      "correctAnswer": "climbing",
+      "explanation": "Worth takes a noun or gerund complement in this construction, so climbing correctly names the activity being judged valuable."
+    },
+    {
+      "id": "HSPT-L9-009",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "A flight began at noon and landed at 3 p.m. In a past-tense account, which completion uses the PAST PERFECT PROGRESSIVE to express its duration up to landing? \"When we landed, we ___ for three hours.\"",
+      "choices": {
+        "A": "have been flying",
+        "B": "will be flying",
+        "C": "are flying",
+        "D": "had been flying"
+      },
+      "correct": "D",
+      "correctAnswer": "had been flying",
+      "explanation": "Had been flying places an ongoing action before the past reference point landed and expresses its duration up to that point."
+    },
+    {
+      "id": "HSPT-L9-010",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which revision correctly places NOT ONLY at the beginning of the sentence? \"The guide found the path and also explained how it had formed.\"",
+      "choices": {
+        "A": "Not only the guide found the path, but the guide also explained how it had formed.",
+        "B": "Not only did the guide find the path, but the guide also explained how it had formed.",
+        "C": "Not only did the guide found the path, but the guide also explained how it had formed.",
+        "D": "Not only does the guide found the path, but the guide also explained how it had formed."
+      },
+      "correct": "B",
+      "correctAnswer": "Not only did the guide find the path, but the guide also explained how it had formed.",
+      "explanation": "Initial not only triggers auxiliary-subject inversion; did carries the past tense, so the following main verb stays in its base form find."
+    },
+    {
+      "id": "HSPT-L9-011",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that means CONVENIENT FOR AN IMMEDIATE PURPOSE in the first blank and QUICK AND EFFICIENT in the second: \"A temporary patch was ___; the repair crew's response was ___.\"",
+      "choices": {
+        "A": "expeditious; expedient",
+        "B": "expedient; expedient",
+        "C": "expedient; expeditious",
+        "D": "expeditious; expeditious"
+      },
+      "correct": "C",
+      "correctAnswer": "expedient; expeditious",
+      "explanation": "Expedient means suited to an immediate practical purpose; expeditious means prompt and efficient, so the patch and response require different adjectives."
+    },
+    {
+      "id": "HSPT-L9-012",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The supervisor ___ authority to the deputy but ___ obsolete paperwork to storage.\"",
+      "choices": {
+        "A": "relegated; delegated",
+        "B": "delegated; relegated",
+        "C": "delegated; delegated",
+        "D": "relegated; relegated"
+      },
+      "correct": "B",
+      "correctAnswer": "delegated; relegated",
+      "explanation": "Delegated means entrusted responsibility or authority to another person; relegated means assigned something to a lower or less important position."
+    },
+    {
+      "id": "HSPT-L9-013",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision of sentence 5 adds useful information about the insert rather than merely repeating what sentence 3 already says?",
+      "choices": {
+        "A": "The cardboard insert is an insert made of cardboard.",
+        "B": "Many different objects are made from many different materials.",
+        "C": "The maker once bought a blue pen for an unrelated drawing.",
+        "D": "A small arrow printed beside the ridge can show which side should face up."
+      },
+      "correct": "D",
+      "correctAnswer": "A small arrow printed beside the ridge can show which side should face up.",
+      "explanation": "The arrow adds a specific link between the protective ridge and the handling instruction; the alternatives repeat information or introduce irrelevant details.",
+      "stimulusId": "HSPT-L9-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Envelope That Explains Its Shape",
+      "stimulusText": "(1) A maker sells paper ornaments in envelopes. (2) Some buyers press the envelopes flat when placing them in a bag. (3) Therefore, the maker folds a shallow ridge into a cardboard insert. (4) The ridge holds the envelope away from the ornament's delicate raised center. (5) The insert uses cardboard. (6) The package should also say, \"Keep the raised side facing up; do not flatten.\" (7) The ridge provides physical protection, while the instruction explains how to preserve it. (8) Together, the shape and the message help the buyer carry the ornament without crushing the feature the package was designed to protect."
+    },
+    {
+      "id": "HSPT-L9-014",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which transition could replace Therefore at the start of sentence 3 while preserving its logical connection to sentence 2?",
+      "choices": {
+        "A": "For a contrary reason,",
+        "B": "Despite that protection,",
+        "C": "To prevent this,",
+        "D": "Long before this happened,"
+      },
+      "correct": "C",
+      "correctAnswer": "To prevent this,",
+      "explanation": "Sentence 3 describes a design intended to prevent the flattening problem in sentence 2; To prevent this makes that problem-solution connection explicit.",
+      "stimulusId": "HSPT-L9-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Envelope That Explains Its Shape",
+      "stimulusText": "(1) A maker sells paper ornaments in envelopes. (2) Some buyers press the envelopes flat when placing them in a bag. (3) Therefore, the maker folds a shallow ridge into a cardboard insert. (4) The ridge holds the envelope away from the ornament's delicate raised center. (5) The insert uses cardboard. (6) The package should also say, \"Keep the raised side facing up; do not flatten.\" (7) The ridge provides physical protection, while the instruction explains how to preserve it. (8) Together, the shape and the message help the buyer carry the ornament without crushing the feature the package was designed to protect."
+    },
+    {
+      "id": "HSPT-L9-015",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which added sentence would most weaken the unity of this passage?",
+      "choices": {
+        "A": "The maker prefers painting large outdoor walls to decorating small paper objects.",
+        "B": "The ridge should remain higher than the raised center of the ornament.",
+        "C": "Printing the instruction near the opening makes it visible before handling.",
+        "D": "An arrow can match the words raised side facing up."
+      },
+      "correct": "A",
+      "correctAnswer": "The maker prefers painting large outdoor walls to decorating small paper objects.",
+      "explanation": "The preference for painting walls does not develop the package's protection or instructions; the other sentences explain features relevant to the stated packaging problem.",
+      "stimulusId": "HSPT-L9-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Envelope That Explains Its Shape",
+      "stimulusText": "(1) A maker sells paper ornaments in envelopes. (2) Some buyers press the envelopes flat when placing them in a bag. (3) Therefore, the maker folds a shallow ridge into a cardboard insert. (4) The ridge holds the envelope away from the ornament's delicate raised center. (5) The insert uses cardboard. (6) The package should also say, \"Keep the raised side facing up; do not flatten.\" (7) The ridge provides physical protection, while the instruction explains how to preserve it. (8) Together, the shape and the message help the buyer carry the ornament without crushing the feature the package was designed to protect."
+    },
+    {
+      "id": "HSPT-L9-016",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly writes the familiar expression for an exact hour?",
+      "choices": {
+        "A": "The bell rang at five oclock.",
+        "B": "The bell rang at five oc'lock.",
+        "C": "The bell rang at five ocloc'k.",
+        "D": "The bell rang at five o'clock."
+      },
+      "correct": "D",
+      "correctAnswer": "The bell rang at five o'clock.",
+      "explanation": "The fixed expression o'clock places the apostrophe immediately after o to mark the omitted letters in the older expression of the clock."
+    },
+    {
+      "id": "HSPT-L9-017",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "The quoted words are a STATEMENT, but the whole sentence is a QUESTION about that statement. Which version places the question mark correctly?",
+      "choices": {
+        "A": "Did the guide write, \"The gate is closed\"?",
+        "B": "Did the guide write, \"The gate is closed?\"",
+        "C": "Did the guide write, \"The gate is closed.\"?",
+        "D": "Did the guide write, \"The gate is closed?\"?"
+      },
+      "correct": "A",
+      "correctAnswer": "Did the guide write, \"The gate is closed\"?",
+      "explanation": "The question belongs to the complete surrounding sentence, not to the quoted statement, so its single question mark goes outside the closing quotation mark."
+    },
+    {
+      "id": "HSPT-L9-018",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly distinguishes a person's name from the ordinary name of a measurement unit?",
+      "choices": {
+        "A": "The force is measured in newtons, a unit named after Newton.",
+        "B": "The force is measured in Newtons, a unit named after newton.",
+        "C": "The force is measured in Newtons, a Unit named after Newton.",
+        "D": "The force is measured in newtons, a unit named after newton."
+      },
+      "correct": "A",
+      "correctAnswer": "The force is measured in newtons, a unit named after Newton.",
+      "explanation": "Newton is a person's proper name; the spelled-out unit name newton is a common noun and remains lowercase."
+    },
+    {
+      "id": "HSPT-L9-019",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes a named storm and a later generic reference to it?",
+      "choices": {
+        "A": "hurricane Iris weakened overnight; the Hurricane continued north.",
+        "B": "Hurricane iris weakened overnight; the hurricane continued north.",
+        "C": "Hurricane Iris weakened overnight; the hurricane continued north.",
+        "D": "Hurricane Iris weakened overnight; the Hurricane continued North."
+      },
+      "correct": "C",
+      "correctAnswer": "Hurricane Iris weakened overnight; the hurricane continued north.",
+      "explanation": "Hurricane Iris is the storm's proper name; the later generic hurricane and the compass direction north are lowercase."
+    },
+    {
+      "id": "HSPT-L9-020",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names the pasta in the sentence? \"The cook stirred the ___ into the sauce.\"",
+      "choices": {
+        "A": "macaroni",
+        "B": "macaronee",
+        "C": "macaronni",
+        "D": "macarony"
+      },
+      "correct": "A",
+      "correctAnswer": "macaroni",
+      "explanation": "Macaroni has one n and ends oni; the alternatives change its final vowel spelling or unnecessarily double the n."
+    },
+    {
+      "id": "HSPT-L9-021",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a woven decorative wall hanging?",
+      "choices": {
+        "A": "tapestry",
+        "B": "tapistry",
+        "C": "tapestrie",
+        "D": "tappestry"
+      },
+      "correct": "A",
+      "correctAnswer": "tapestry",
+      "explanation": "Tapestry has one p, uses e after tap, and ends try; the alternatives change that vowel, double p, or alter the ending."
+    },
+    {
+      "id": "HSPT-L9-022",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names an intermediate floor between two main floors of a building?",
+      "choices": {
+        "A": "mezanine",
+        "B": "mezzannine",
+        "C": "mezzanene",
+        "D": "mezzanine"
+      },
+      "correct": "D",
+      "correctAnswer": "mezzanine",
+      "explanation": "Mezzanine uses double z, one n before i, and the ending ine; the alternatives omit a z, double n, or change a vowel."
+    },
+    {
+      "id": "HSPT-L9-023",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "The family surname is Rowley. Which plural names the family members without showing possession? \"The ___ arrived together.\"",
+      "choices": {
+        "A": "Rowlies",
+        "B": "Rowleys",
+        "C": "Rowley's",
+        "D": "Rowleys'"
+      },
+      "correct": "B",
+      "correctAnswer": "Rowleys",
+      "explanation": "A family surname ending in y keeps the y and adds s for the plural; no apostrophe is needed without possession."
+    },
+    {
+      "id": "HSPT-L9-024",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which form correctly completes the sentence? \"The ceramics ___ by the potter on Monday are ready for firing.\"",
+      "choices": {
+        "A": "shaping",
+        "B": "were shaped",
+        "C": "shaped",
+        "D": "shape"
+      },
+      "correct": "C",
+      "correctAnswer": "shaped",
+      "explanation": "Shaped begins a reduced passive relative clause modifying ceramics; are supplies the main verb, so another finite verb would break the sentence."
+    },
+    {
+      "id": "HSPT-L9-025",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the compound pronoun required in formal written English: \"___ the captain selects will guide the group.\"",
+      "choices": {
+        "A": "Whoever",
+        "B": "Whosever",
+        "C": "Whomever",
+        "D": "Whoever's"
+      },
+      "correct": "C",
+      "correctAnswer": "Whomever",
+      "explanation": "Whomever is the object of selects within its clause; the entire clause serves as the subject of will guide, but that does not change the pronoun's role."
+    },
+    {
+      "id": "HSPT-L9-026",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the words that correctly complete the sentence: \"The hikers found ___ shelter after the steep ___; there was no ___ about staying there.\"",
+      "choices": {
+        "A": "decent; dissent; descent",
+        "B": "decent; descent; dissent",
+        "C": "descent; decent; dissent",
+        "D": "dissent; descent; decent"
+      },
+      "correct": "B",
+      "correctAnswer": "decent; descent; dissent",
+      "explanation": "Decent means satisfactory, descent is downward movement, and dissent is disagreement; shelter, the steep route, and the group's agreement require those respective meanings."
+    },
+    {
+      "id": "HSPT-L9-027",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The current has ___ the boat past the village where its builder was ___.\"",
+      "choices": {
+        "A": "born; borne",
+        "B": "borne; born",
+        "C": "borne; borne",
+        "D": "born; born"
+      },
+      "correct": "B",
+      "correctAnswer": "borne; born",
+      "explanation": "Borne is the past participle meaning carried; born is used for coming into life, so the moving boat and the builder require different forms."
+    },
+    {
+      "id": "HSPT-L9-028",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "In which order should sentences 3, 4, and 5 appear so that the stated sequence of actions is followed?",
+      "choices": {
+        "A": "3, 4, 5",
+        "B": "5, 3, 4",
+        "C": "4, 3, 5",
+        "D": "4, 5, 3"
+      },
+      "correct": "D",
+      "correctAnswer": "4, 5, 3",
+      "explanation": "Sentence 4 draws the line, sentence 5 checks readability through it, and sentence 3 expressly permits adding the correction only after that check.",
+      "stimulusId": "HSPT-L9-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Keeping a Correction Visible",
+      "stimulusText": "(1) At an equipment desk, a log records every item issued and returned. (2) Erasing an incorrect entry removes both the error and evidence that the record changed. (3) Only after checking that the old entry is readable should the writer add the corrected information, date, and initials beside it. (4) First, draw a single line through the incorrect entry. (5) Check that the old entry can still be read through this line. (6) The corrected information shows what changed. (7) The initials show who made the change. (8) The log can then be reviewed without guessing which words used to be on the page."
+    },
+    {
+      "id": "HSPT-L9-029",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence best concludes the passage while preserving its purpose?",
+      "choices": {
+        "A": "The log should be decorated so that it looks more expensive.",
+        "B": "Because errors occur, equipment should never be issued.",
+        "C": "Every incorrect entry must be erased completely before review.",
+        "D": "Readable corrections let later readers check the log's history without losing the original record."
+      },
+      "correct": "D",
+      "correctAnswer": "Readable corrections let later readers check the log's history without losing the original record.",
+      "explanation": "The conclusion unifies preserved entries, visible corrections, and later review; the alternatives introduce unrelated decoration or contradict the described purpose.",
+      "stimulusId": "HSPT-L9-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Keeping a Correction Visible",
+      "stimulusText": "(1) At an equipment desk, a log records every item issued and returned. (2) Erasing an incorrect entry removes both the error and evidence that the record changed. (3) Only after checking that the old entry is readable should the writer add the corrected information, date, and initials beside it. (4) First, draw a single line through the incorrect entry. (5) Check that the old entry can still be read through this line. (6) The corrected information shows what changed. (7) The initials show who made the change. (8) The log can then be reviewed without guessing which words used to be on the page."
+    },
+    {
+      "id": "HSPT-L9-030",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence best combines sentences 6 and 7 while retaining their distinct information?",
+      "choices": {
+        "A": "The initials show what changed, and the corrected information shows who made the change.",
+        "B": "The corrected information shows what changed, and the initials show who made the change.",
+        "C": "The corrected information and the initials show exactly the same thing.",
+        "D": "The initials show who made the change because mistakes never occur."
+      },
+      "correct": "B",
+      "correctAnswer": "The corrected information shows what changed, and the initials show who made the change.",
+      "explanation": "The combination preserves the separate functions of the correction and initials; the alternatives exchange those functions, erase the distinction, or add an unsupported cause.",
+      "stimulusId": "HSPT-L9-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Keeping a Correction Visible",
+      "stimulusText": "(1) At an equipment desk, a log records every item issued and returned. (2) Erasing an incorrect entry removes both the error and evidence that the record changed. (3) Only after checking that the old entry is readable should the writer add the corrected information, date, and initials beside it. (4) First, draw a single line through the incorrect entry. (5) Check that the old entry can still be read through this line. (6) The corrected information shows what changed. (7) The initials show who made the change. (8) The log can then be reviewed without guessing which words used to be on the page."
+    },
+    {
+      "id": "HSPT-L9-031",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which ending most clearly shows an ABRUPT INTERRUPTION of the unfinished spoken sentence, rather than a voice trailing away?",
+      "choices": {
+        "A": "\"I thought the answer was—\"",
+        "B": "\"I thought the answer was...\"",
+        "C": "\"I thought the answer was:\"",
+        "D": "\"I thought the answer was,\""
+      },
+      "correct": "A",
+      "correctAnswer": "\"I thought the answer was—\"",
+      "explanation": "An em dash signals a sudden break in speech; an ellipsis usually signals trailing off, while a colon or comma does not supply that abrupt ending."
+    },
+    {
+      "id": "HSPT-L9-032",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Two sisters-in-law jointly own a car. Which phrase correctly makes the PLURAL compound noun possessive?",
+      "choices": {
+        "A": "the sisters-in-law’s car",
+        "B": "the sister’s-in-law car",
+        "C": "the sisters’-in-law car",
+        "D": "the sisters-in-laws’ car"
+      },
+      "correct": "A",
+      "correctAnswer": "the sisters-in-law’s car",
+      "explanation": "The plural is sisters-in-law; because the whole compound ends in law rather than s, its possessive adds apostrophe-s at the end."
+    },
+    {
+      "id": "HSPT-L9-033",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "An editor replaces She with Nora in the quotation \"She left at dawn.\" Square brackets must identify the replacement; all other quoted words stay unchanged. Which version follows that rule?",
+      "choices": {
+        "A": "\"[Nora] left at dawn.\"",
+        "B": "\"Nora left at dawn.\"",
+        "C": "\"(Nora) left at dawn.\"",
+        "D": "\"Nora [left at dawn].\""
+      },
+      "correct": "A",
+      "correctAnswer": "\"[Nora] left at dawn.\"",
+      "explanation": "Square brackets identify the editor’s replacement Nora; marking another portion or using parentheses would not identify the specified editorial change."
+    },
+    {
+      "id": "HSPT-L9-034",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the first-person pronoun while preserving the specified LOWERCASE letter being discussed?",
+      "choices": {
+        "A": "i wrote a lowercase i below the line.",
+        "B": "I wrote a lowercase I below the line.",
+        "C": "I wrote a lowercase i below the line.",
+        "D": "i wrote a Lowercase i below the line."
+      },
+      "correct": "C",
+      "correctAnswer": "I wrote a lowercase i below the line.",
+      "explanation": "The first-person pronoun I is always capitalized; the letter explicitly described as lowercase remains i, and lowercase is an ordinary adjective."
+    },
+    {
+      "id": "HSPT-L9-035",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the name of a specific historical period while leaving ordinary descriptive words lowercase?",
+      "choices": {
+        "A": "The chapter compares bronze age metalwork with modern casting.",
+        "B": "The chapter compares Bronze age metalwork with Modern Casting.",
+        "C": "The chapter compares bronze Age metalwork with modern casting.",
+        "D": "The chapter compares Bronze Age metalwork with modern casting."
+      },
+      "correct": "D",
+      "correctAnswer": "The chapter compares Bronze Age metalwork with modern casting.",
+      "explanation": "Bronze Age names a particular historical period and takes capitals on both words; metalwork, modern, and casting are ordinary descriptive words."
+    },
+    {
+      "id": "HSPT-L9-036",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names the animal with a ringed tail and dark markings around its eyes?",
+      "choices": {
+        "A": "raccon",
+        "B": "raccoonn",
+        "C": "raccoan",
+        "D": "raccoon"
+      },
+      "correct": "D",
+      "correctAnswer": "raccoon",
+      "explanation": "Raccoon has double c and double o, followed by one n; the alternatives omit a vowel, add a consonant, or change a vowel."
+    },
+    {
+      "id": "HSPT-L9-037",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a soft leather shoe?",
+      "choices": {
+        "A": "moccasinn",
+        "B": "moccasan",
+        "C": "moccasim",
+        "D": "moccasin"
+      },
+      "correct": "D",
+      "correctAnswer": "moccasin",
+      "explanation": "Moccasin ends asin, with one final n; the alternatives double that n, change i to a, or replace the final n with m."
+    },
+    {
+      "id": "HSPT-L9-038",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "What is the understood subject of the complete command \"Pass the towel to Ken\"?",
+      "choices": {
+        "A": "the towel",
+        "B": "Ken",
+        "C": "you",
+        "D": "There is no understood subject."
+      },
+      "correct": "C",
+      "correctAnswer": "you",
+      "explanation": "An imperative normally addresses an understood you; the towel is the direct object, and Ken is the object of the preposition to."
+    },
+    {
+      "id": "HSPT-L9-039",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The criteria ___ clear, but one criterion ___ more weight than the others.\"",
+      "choices": {
+        "A": "is; carries",
+        "B": "are; carry",
+        "C": "are; carries",
+        "D": "is; carry"
+      },
+      "correct": "C",
+      "correctAnswer": "are; carries",
+      "explanation": "Criteria is plural and takes are; one criterion is singular and takes carries, regardless of the nearby plural word others."
+    },
+    {
+      "id": "HSPT-L9-040",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which choice is a complete, grammatically correct sentence in formal written English?",
+      "choices": {
+        "A": "The final note had faded, the audience remained still.",
+        "B": "The final note having faded while the audience remained still.",
+        "C": "The final note having faded, the audience remained still.",
+        "D": "The final note having faded, the audience remaining still."
+      },
+      "correct": "C",
+      "correctAnswer": "The final note having faded, the audience remained still.",
+      "explanation": "Having faded forms a nonfinite opening phrase with its own subject; remained supplies the main verb, completing the sentence without a comma splice."
+    },
+    {
+      "id": "HSPT-L9-041",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The cook sliced a ___ while the plumber repaired a ___.\"",
+      "choices": {
+        "A": "leak; leek",
+        "B": "leek; leak",
+        "C": "leek; leek",
+        "D": "leak; leak"
+      },
+      "correct": "B",
+      "correctAnswer": "leek; leak",
+      "explanation": "A leek is a vegetable that can be sliced; a leak is an unintended escape of liquid or gas that can be repaired."
+    },
+    {
+      "id": "HSPT-L9-042",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The climber became ___ after passing the enormous ___.\"",
+      "choices": {
+        "A": "boulder; bolder",
+        "B": "bolder; boulder",
+        "C": "bolder; bolder",
+        "D": "boulder; boulder"
+      },
+      "correct": "B",
+      "correctAnswer": "bolder; boulder",
+      "explanation": "Bolder is the comparative adjective meaning more courageous; a boulder is a large rock, so the two blanks require different meanings."
+    },
+    {
+      "id": "HSPT-L9-043",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The reviewers ___ about the design, so they will ___ the decision until Friday.\"",
+      "choices": {
+        "A": "defer; differ",
+        "B": "differ; defer",
+        "C": "differ; differ",
+        "D": "defer; defer"
+      },
+      "correct": "B",
+      "correctAnswer": "differ; defer",
+      "explanation": "Differ means disagree or hold different views; defer means postpone, which fits delaying the decision until a later day."
+    },
+    {
+      "id": "HSPT-L9-044",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which title best represents the whole discussion of measuring flour?",
+      "choices": {
+        "A": "Why Equal Cupfuls Can Have Different Masses",
+        "B": "Why Every Recipe Needs More Flour",
+        "C": "How to Repair a Kitchen Scale",
+        "D": "Why All Volume Measurements Are Incorrect"
+      },
+      "correct": "A",
+      "correctAnswer": "Why Equal Cupfuls Can Have Different Masses",
+      "explanation": "The passage explains how packing changes the mass in a fixed volume and why recipes should specify a clear measurement method, without rejecting volume altogether.",
+      "stimulusId": "HSPT-L9-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Equal Cupfuls, Different Amounts",
+      "stimulusText": "(1) A cup measures volume, while a scale measures mass. (2) Lightly filling a cup with flour and packing it firmly can produce different masses at the same fill line. (3) Spaces between the particles affect how much flour the fixed volume contains. (4) A recipe written in grams specifies the intended amount of flour by mass. (5) Weighing that amount does not depend on the air spaces left by different filling methods. (6) A scale cannot, however, supply the writer's intended gram amount if the recipe says only \"one cup.\" (7) Precise instructions must either specify mass or clearly describe how to measure by volume."
+    },
+    {
+      "id": "HSPT-L9-045",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which added sentence would most directly support the claim in sentence 2 about filling methods?",
+      "choices": {
+        "A": "A cup of sugar has a different mass from a cup of flour.",
+        "B": "Using one batch of flour and the same cup, a cook records 120 grams when loosely filled and 145 grams when packed to the same level.",
+        "C": "A larger cup holds more flour than a smaller cup.",
+        "D": "One brand of flour costs more than another brand."
+      },
+      "correct": "B",
+      "correctAnswer": "Using one batch of flour and the same cup, a cook records 120 grams when loosely filled and 145 grams when packed to the same level.",
+      "explanation": "The comparison keeps flour, cup, and fill level constant while changing packing; the other observations change the material, capacity, or price instead.",
+      "stimulusId": "HSPT-L9-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Equal Cupfuls, Different Amounts",
+      "stimulusText": "(1) A cup measures volume, while a scale measures mass. (2) Lightly filling a cup with flour and packing it firmly can produce different masses at the same fill line. (3) Spaces between the particles affect how much flour the fixed volume contains. (4) A recipe written in grams specifies the intended amount of flour by mass. (5) Weighing that amount does not depend on the air spaces left by different filling methods. (6) A scale cannot, however, supply the writer's intended gram amount if the recipe says only \"one cup.\" (7) Precise instructions must either specify mass or clearly describe how to measure by volume."
+    },
+    {
+      "id": "HSPT-L9-046",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly distinguishes the contraction for LET US from the verb meaning ALLOWS?",
+      "choices": {
+        "A": "Lets begin; this switch let’s us open the door.",
+        "B": "Let’s begin; this switch let’s us open the door.",
+        "C": "Lets begin; this switch lets us open the door.",
+        "D": "Let’s begin; this switch lets us open the door."
+      },
+      "correct": "D",
+      "correctAnswer": "Let’s begin; this switch lets us open the door.",
+      "explanation": "Let’s contracts let us and needs an apostrophe; lets means allows and contains no omitted word to mark."
+    },
+    {
+      "id": "HSPT-L9-047",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Three discs are digital video discs, abbreviated DVD. Which sentence correctly writes the ordinary PLURAL abbreviation without possession?",
+      "choices": {
+        "A": "Three DVD’s arrived in one box.",
+        "B": "Three DVDs’ arrived in one box.",
+        "C": "Three DVDs arrived in one box.",
+        "D": "Three DVD’s’ arrived in one box."
+      },
+      "correct": "C",
+      "correctAnswer": "Three DVDs arrived in one box.",
+      "explanation": "The plural of this abbreviation adds s without an apostrophe; no ownership or omitted letters are being expressed."
+    },
+    {
+      "id": "HSPT-L9-048",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly distinguishes the street NAME from an ordinary direction?",
+      "choices": {
+        "A": "The shop on West Street is west of the station.",
+        "B": "The shop on west street is west of the station.",
+        "C": "The shop on West Street is West of the station.",
+        "D": "The shop on west Street is West of the station."
+      },
+      "correct": "A",
+      "correctAnswer": "The shop on West Street is west of the station.",
+      "explanation": "West Street is a proper street name; the later west states a direction rather than naming a place."
+    },
+    {
+      "id": "HSPT-L9-049",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A title style capitalizes its FIRST and LAST words, even if they are short prepositions, and capitalizes other major words. Which title follows that rule?",
+      "choices": {
+        "A": "The Room We Looked in",
+        "B": "the Room We Looked In",
+        "C": "The Room we looked In",
+        "D": "The Room We Looked In"
+      },
+      "correct": "D",
+      "correctAnswer": "The Room We Looked In",
+      "explanation": "In is capitalized because it is the last title word; The is first, and Room, We, and Looked are major words."
+    },
+    {
+      "id": "HSPT-L9-050",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled name of the musical instrument.",
+      "choices": {
+        "A": "saxaphone",
+        "B": "saxofone",
+        "C": "saxophone",
+        "D": "saxophonne"
+      },
+      "correct": "C",
+      "correctAnswer": "saxophone",
+      "explanation": "Saxophone contains xo followed by phone; the alternatives change the internal vowel, replace ph, or add an extra n."
+    },
+    {
+      "id": "HSPT-L9-051",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling names the slender, swift antelope?",
+      "choices": {
+        "A": "gazelle",
+        "B": "gazzelle",
+        "C": "gazele",
+        "D": "gazzel"
+      },
+      "correct": "A",
+      "correctAnswer": "gazelle",
+      "explanation": "Gazelle uses one z and double l before its final e; the alternatives alter those consonant counts or the ending."
+    },
+    {
+      "id": "HSPT-L9-052",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names the garden flower?",
+      "choices": {
+        "A": "dalhia",
+        "B": "dahlia",
+        "C": "dahila",
+        "D": "dahliah"
+      },
+      "correct": "B",
+      "correctAnswer": "dahlia",
+      "explanation": "Dahlia places h directly after a and ends lia; the alternatives reverse letters or add an unnecessary final h."
+    },
+    {
+      "id": "HSPT-L9-053",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which choice is a complete sentence, even though it has no direct object?",
+      "choices": {
+        "A": "Because the balloon burst.",
+        "B": "The balloon burst.",
+        "C": "After the balloon burst.",
+        "D": "The balloon bursting."
+      },
+      "correct": "B",
+      "correctAnswer": "The balloon burst.",
+      "explanation": "Burst is an intransitive main verb here and needs no direct object; the alternatives lack an independent main clause."
+    },
+    {
+      "id": "HSPT-L9-054",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence correctly distinguishes the two constructions involving NUMBER?",
+      "choices": {
+        "A": "A number of windows is open, but the number of broken panes is small.",
+        "B": "A number of windows are open, but the number of broken panes are small.",
+        "C": "A number of windows are open, but the number of broken panes is small.",
+        "D": "A number of windows is open, but the number of broken panes are small."
+      },
+      "correct": "C",
+      "correctAnswer": "A number of windows are open, but the number of broken panes is small.",
+      "explanation": "A number of means several and takes a plural verb; the number identifies one total and takes a singular verb."
+    },
+    {
+      "id": "HSPT-L9-055",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which revision preserves the meaning of \"If I had known, I would have waited\" while omitting IF?",
+      "choices": {
+        "A": "Had I knew, I would have waited.",
+        "B": "Had I known, I would have waited.",
+        "C": "I had known, I would have waited.",
+        "D": "Known I had, I would have waited."
+      },
+      "correct": "B",
+      "correctAnswer": "Had I known, I would have waited.",
+      "explanation": "A past counterfactual conditional can omit if by placing had before the subject, while retaining the past participle known."
+    },
+    {
+      "id": "HSPT-L9-056",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair: \"The ___ traveler remained energetic even as the ___ rattled against the shutters.\"",
+      "choices": {
+        "A": "hail; hale",
+        "B": "hale; hale",
+        "C": "hail; hail",
+        "D": "hale; hail"
+      },
+      "correct": "D",
+      "correctAnswer": "hale; hail",
+      "explanation": "Hale describes robust health, while hail names frozen precipitation; the traveler’s condition and the falling ice require those different words."
+    },
+    {
+      "id": "HSPT-L9-057",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair: \"The organizer will ___ the late fee and ___ to the departing visitors.\"",
+      "choices": {
+        "A": "wave; waive",
+        "B": "waive; waive",
+        "C": "waive; wave",
+        "D": "wave; wave"
+      },
+      "correct": "C",
+      "correctAnswer": "waive; wave",
+      "explanation": "Waive means relinquish or choose not to enforce; wave means make the hand gesture, so the fee and visitors require different verbs."
+    },
+    {
+      "id": "HSPT-L9-058",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair: \"The mechanic will ___ the motor; the dishonest witness may ___ to hide the truth.\"",
+      "choices": {
+        "A": "disassemble; dissemble",
+        "B": "dissemble; disassemble",
+        "C": "disassemble; disassemble",
+        "D": "dissemble; dissemble"
+      },
+      "correct": "A",
+      "correctAnswer": "disassemble; dissemble",
+      "explanation": "Disassemble means take apart; dissemble means conceal one’s true motives or feelings through pretense, which fits the witness’s attempt to hide the truth."
+    },
+    {
+      "id": "HSPT-L9-059",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision gives sentence 1 the most precise topic for the paragraph?",
+      "choices": {
+        "A": "A crossword editor checks whether answers fit their spaces, match their clues, and agree at crossings.",
+        "B": "Every attractive cover guarantees an accurate crossword.",
+        "C": "The most important task is choosing the book’s cover color.",
+        "D": "A crossword answer needs only the correct number of letters."
+      },
+      "correct": "A",
+      "correctAnswer": "A crossword editor checks whether answers fit their spaces, match their clues, and agree at crossings.",
+      "explanation": "The revision includes the paragraph’s linked tests of length, meaning, grammatical number, and crossing consistency without reducing editing to one check.",
+      "stimulusId": "HSPT-L9-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Checking Crossword Clues",
+      "stimulusText": "(1) Crossword editing involves several connected checks. (2) An answer must have the number of letters available in its entry. (3) A clue asking for several objects should ordinarily lead to a plural answer, while a singular clue calls for a singular one. (4) An editor must also verify that the answer really matches the clue's intended meaning; fitting the space alone is insufficient. (5) Some puzzle books have glossy covers with brightly colored titles. (6) Where entries cross, the shared square must represent the same letter in both answers. (7) These checks work together, because an entry can satisfy one requirement while failing another."
+    },
+    {
+      "id": "HSPT-L9-060",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence should be removed because it does not develop the stated editing checks?",
+      "choices": {
+        "A": "Sentence 2: An answer must have the number of letters available in its entry.",
+        "B": "Sentence 4: An editor must also verify that the answer really matches the clue’s intended meaning; fitting the space alone is insufficient.",
+        "C": "Sentence 6: Where entries cross, the shared square must represent the same letter in both answers.",
+        "D": "Sentence 5: Some puzzle books have glossy covers with brightly colored titles."
+      },
+      "correct": "D",
+      "correctAnswer": "Sentence 5: Some puzzle books have glossy covers with brightly colored titles.",
+      "explanation": "Sentence 5 concerns cover appearance, whereas the other sentences explain constraints on the fit, meaning, or shared letters of entries.",
+      "stimulusId": "HSPT-L9-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Checking Crossword Clues",
+      "stimulusText": "(1) Crossword editing involves several connected checks. (2) An answer must have the number of letters available in its entry. (3) A clue asking for several objects should ordinarily lead to a plural answer, while a singular clue calls for a singular one. (4) An editor must also verify that the answer really matches the clue's intended meaning; fitting the space alone is insufficient. (5) Some puzzle books have glossy covers with brightly colored titles. (6) Where entries cross, the shared square must represent the same letter in both answers. (7) These checks work together, because an entry can satisfy one requirement while failing another."
+    }
+  ]
+}

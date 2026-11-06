@@ -1,0 +1,1029 @@
+{
+  "title": "HSPT Verbal Skills Practice Test 14",
+  "examFamily": "hspt",
+  "examNumber": 14,
+  "section": "Verbal Skills",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-V14-001",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase is closest in meaning to foyer?",
+      "choices": {
+        "A": "an upper balcony",
+        "B": "a storage cellar",
+        "C": "a rear courtyard",
+        "D": "an entrance hall"
+      },
+      "correct": "D",
+      "correctAnswer": "an entrance hall",
+      "explanation": "A foyer is an entrance hall or lobby through which people pass when entering a building, rather than an outdoor or storage area."
+    },
+    {
+      "id": "HSPT-V14-002",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "What does a smattering of knowledge mean?",
+      "choices": {
+        "A": "a complete lack of knowledge",
+        "B": "a small amount of knowledge",
+        "C": "a thorough command of a subject",
+        "D": "an organized method of teaching"
+      },
+      "correct": "B",
+      "correctAnswer": "a small amount of knowledge",
+      "explanation": "A smattering is a small or slight amount of knowledge, insufficient to suggest thorough understanding but greater than complete ignorance."
+    },
+    {
+      "id": "HSPT-V14-003",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best explains palpable tension between two people?",
+      "choices": {
+        "A": "tension that is readily noticeable",
+        "B": "tension that has completely disappeared",
+        "C": "tension invented for an audience",
+        "D": "tension that neither person can detect"
+      },
+      "correct": "A",
+      "correctAnswer": "tension that is readily noticeable",
+      "explanation": "Palpable can describe something so evident that it seems almost touchable; here it makes the tension readily noticeable rather than literally solid."
+    },
+    {
+      "id": "HSPT-V14-004",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to waning, as in waning interest?",
+      "choices": {
+        "A": "fading",
+        "B": "increasing",
+        "C": "declining",
+        "D": "dwindling"
+      },
+      "correct": "B",
+      "correctAnswer": "increasing",
+      "explanation": "Waning interest is decreasing in strength or amount; increasing interest moves in the opposite direction, while the other choices continue the decline."
+    },
+    {
+      "id": "HSPT-V14-005",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "A substance described as chemically inert does not readily react. Which word is most nearly opposite in meaning to inert here?",
+      "choices": {
+        "A": "reactive",
+        "B": "inactive",
+        "C": "unresponsive",
+        "D": "unchanging"
+      },
+      "correct": "A",
+      "correctAnswer": "reactive",
+      "explanation": "In the stated chemical sense, inert means not readily reacting; reactive identifies the opposite tendency rather than a different physical appearance."
+    },
+    {
+      "id": "HSPT-V14-006",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to offhand in \"an offhand judgment made without reflection\"?",
+      "choices": {
+        "A": "casually offered",
+        "B": "quickly improvised",
+        "C": "carefully considered",
+        "D": "thoughtlessly expressed"
+      },
+      "correct": "C",
+      "correctAnswer": "carefully considered",
+      "explanation": "An offhand judgment is casual and unconsidered; carefully considered directly reverses that lack of reflection without merely changing how the judgment is delivered."
+    },
+    {
+      "id": "HSPT-V14-007",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A ransom is demanded in exchange for release. In a similar relationship, a toll is charged in exchange for ____.",
+      "choices": {
+        "A": "ownership",
+        "B": "employment",
+        "C": "passage",
+        "D": "repayment"
+      },
+      "correct": "C",
+      "correctAnswer": "passage",
+      "explanation": "A ransom is demanded as the price of release; a toll is charged as the price of passage, pairing each payment with what it obtains."
+    },
+    {
+      "id": "HSPT-V14-008",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "To intercept a message is to stop it before its arrival. To preempt an action is to stop it before its ____.",
+      "choices": {
+        "A": "completion after it starts",
+        "B": "description in a report",
+        "C": "beginning",
+        "D": "repetition after it ends"
+      },
+      "correct": "C",
+      "correctAnswer": "beginning",
+      "explanation": "Intercepting prevents a message from reaching its destination; preempting prevents an anticipated action from beginning, identifying the stage each intervention forestalls."
+    },
+    {
+      "id": "HSPT-V14-009",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A concession relaxes a demand. In a similar relationship, an exception relaxes a ____ in a particular case.",
+      "choices": {
+        "A": "rumor",
+        "B": "rule",
+        "C": "memory",
+        "D": "prediction"
+      },
+      "correct": "B",
+      "correctAnswer": "rule",
+      "explanation": "A concession reduces what is demanded; an exception sets aside a rule for a particular case, reducing the force of an otherwise applicable requirement."
+    },
+    {
+      "id": "HSPT-V14-010",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word names a final ending rather than a temporary interruption?",
+      "choices": {
+        "A": "hiatus",
+        "B": "lull",
+        "C": "respite",
+        "D": "finale"
+      },
+      "correct": "D",
+      "correctAnswer": "finale",
+      "explanation": "A finale is a concluding part; a hiatus, lull, or respite is a temporary break during which activity or difficulty subsides."
+    },
+    {
+      "id": "HSPT-V14-011",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair names actions that both normally create an obligation to return what is transferred, unlike giving a gift?",
+      "choices": {
+        "A": "lending; borrowing",
+        "B": "donating; receiving a gift",
+        "C": "discarding; finding",
+        "D": "displaying; watching"
+      },
+      "correct": "A",
+      "correctAnswer": "lending; borrowing",
+      "explanation": "Lending and borrowing describe opposite sides of a temporary transfer with an obligation to return the item, unlike the other action pairs."
+    },
+    {
+      "id": "HSPT-V14-012",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word has different pronunciations in its two stated meanings, while retaining exactly the same spelling?",
+      "choices": {
+        "A": "bark: a tree covering; a dog's cry",
+        "B": "match: a contest; a fire-lighting stick",
+        "C": "bat: a flying mammal; a striking implement",
+        "D": "wind: moving air; to turn a handle"
+      },
+      "correct": "D",
+      "correctAnswer": "wind: moving air; to turn a handle",
+      "explanation": "Wind has a short i for moving air and a long i for turning; each other listed pair keeps the same pronunciation across meanings."
+    },
+    {
+      "id": "HSPT-V14-013",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A sign says, \"A fine applies for parking here.\" Someone reasons, \"Fine means excellent, so the sign says parking here is excellent.\" What is the error?",
+      "choices": {
+        "A": "The reasoning changes the meaning of the same word between statements.",
+        "B": "The reasoning compares two different parking locations.",
+        "C": "The reasoning shows that the sign contains no rule.",
+        "D": "The reasoning assumes the sign was written yesterday."
+      },
+      "correct": "A",
+      "correctAnswer": "The reasoning changes the meaning of the same word between statements.",
+      "explanation": "Fine names a monetary penalty in the sign but means excellent in the response; changing meanings breaks the supposed logical connection."
+    },
+    {
+      "id": "HSPT-V14-014",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A claim about an unknown mechanism has not been disproved. A writer concludes that the claim must therefore be true. What is the main weakness in that conclusion?",
+      "choices": {
+        "A": "An unknown mechanism can never be investigated by any method.",
+        "B": "The absence of disproof alone does not establish that the claim is true.",
+        "C": "A claim without disproof must be false rather than true.",
+        "D": "The writer has demonstrated that every competing claim is false."
+      },
+      "correct": "B",
+      "correctAnswer": "The absence of disproof alone does not establish that the claim is true.",
+      "explanation": "Failing to disprove a claim leaves its truth unsettled unless further evidence supports it; absence of refutation alone does not prove the claim."
+    },
+    {
+      "id": "HSPT-V14-015",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A lamp lights exactly when its cell and bulb both work. Exactly one of those two parts is faulty. A working replacement bulb is installed, but the lamp remains dark. What follows?",
+      "choices": {
+        "A": "The original bulb must have been faulty.",
+        "B": "Both original parts must have been faulty.",
+        "C": "The original cell is faulty.",
+        "D": "The working replacement bulb proves the cell works."
+      },
+      "correct": "C",
+      "correctAnswer": "The original cell is faulty.",
+      "explanation": "With a working bulb installed, darkness identifies the cell as faulty; the exactly-one-fault condition then rules out a faulty original bulb."
+    },
+    {
+      "id": "HSPT-V14-016",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best explains showing gumption when faced with a difficult task?",
+      "choices": {
+        "A": "waiting for someone else to begin",
+        "B": "displaying confusion about the instructions",
+        "C": "showing initiative and determination",
+        "D": "avoiding every possible difficulty"
+      },
+      "correct": "C",
+      "correctAnswer": "showing initiative and determination",
+      "explanation": "Gumption combines the initiative to act with the resolve to keep going; it does not mean avoiding difficulty or waiting passively."
+    },
+    {
+      "id": "HSPT-V14-017",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase is closest in meaning to a foible in someone's character?",
+      "choices": {
+        "A": "an outstanding achievement",
+        "B": "a formal duty",
+        "C": "an unbreakable promise",
+        "D": "a minor personal weakness"
+      },
+      "correct": "D",
+      "correctAnswer": "a minor personal weakness",
+      "explanation": "A foible is a small weakness or failing in a person's character, not necessarily a serious vice or a deliberate wrongdoing."
+    },
+    {
+      "id": "HSPT-V14-018",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which phrase best explains the salient points of an argument?",
+      "choices": {
+        "A": "the points deliberately omitted from discussion",
+        "B": "the points that stand out as most important",
+        "C": "the points supported only by numerical calculations",
+        "D": "the points placed last regardless of importance"
+      },
+      "correct": "B",
+      "correctAnswer": "the points that stand out as most important",
+      "explanation": "Salient points are prominent or especially important; the term concerns their significance rather than their position, numerical form, or omission."
+    },
+    {
+      "id": "HSPT-V14-019",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to jovial, describing a person's mood?",
+      "choices": {
+        "A": "merry",
+        "B": "cheerful",
+        "C": "jolly",
+        "D": "gloomy"
+      },
+      "correct": "D",
+      "correctAnswer": "gloomy",
+      "explanation": "Jovial describes a cheerful, good-humored mood; gloomy reverses that positive mood, while the other choices express similar cheerfulness."
+    },
+    {
+      "id": "HSPT-V14-020",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to susceptible to damage?",
+      "choices": {
+        "A": "resistant to damage",
+        "B": "easily harmed",
+        "C": "likely to be affected",
+        "D": "readily weakened"
+      },
+      "correct": "A",
+      "correctAnswer": "resistant to damage",
+      "explanation": "Susceptible means readily affected or harmed; resistant describes the opposite tendency to withstand the same damaging influence."
+    },
+    {
+      "id": "HSPT-V14-021",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to unilateral, as in a unilateral decision by one of the parties?",
+      "choices": {
+        "A": "made jointly by the parties",
+        "B": "made by one party alone",
+        "C": "announced well in advance",
+        "D": "made without telling the other party"
+      },
+      "correct": "A",
+      "correctAnswer": "made jointly by the parties",
+      "explanation": "Unilateral describes one party acting alone; a decision made jointly shares the deciding role rather than merely changing when or how it is announced."
+    },
+    {
+      "id": "HSPT-V14-022",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A boycott involves refusing to buy in order to exert pressure. In a similar relationship, a strike involves refusing to ____.",
+      "choices": {
+        "A": "remember",
+        "B": "work",
+        "C": "travel for pleasure",
+        "D": "make a prediction"
+      },
+      "correct": "B",
+      "correctAnswer": "work",
+      "explanation": "A boycott applies pressure by withholding purchases; a strike applies pressure by withholding labor, pairing each coordinated action with the cooperation withdrawn."
+    },
+    {
+      "id": "HSPT-V14-023",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A glossary directs a reader to a term's meaning. In a similar relationship, an index directs a reader to a topic's ____ within a book.",
+      "choices": {
+        "A": "pronunciation",
+        "B": "location",
+        "C": "truthfulness",
+        "D": "language of origin"
+      },
+      "correct": "B",
+      "correctAnswer": "location",
+      "explanation": "A glossary supplies meanings, while an index supplies locations such as page numbers; each reference feature answers a different kind of lookup question."
+    },
+    {
+      "id": "HSPT-V14-024",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "An adjective can modify a noun. In a similar grammatical relationship, an adverb can modify a ____.",
+      "choices": {
+        "A": "letter of the alphabet",
+        "B": "punctuation mark",
+        "C": "syllable",
+        "D": "verb"
+      },
+      "correct": "D",
+      "correctAnswer": "verb",
+      "explanation": "An adjective can describe a noun, while an adverb can describe how a verb's action occurs; the relationship concerns modification of a grammatical head."
+    },
+    {
+      "id": "HSPT-V14-025",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word names an unintended occurrence rather than a planned course of action?",
+      "choices": {
+        "A": "strategy",
+        "B": "mishap",
+        "C": "policy",
+        "D": "scheme"
+      },
+      "correct": "B",
+      "correctAnswer": "mishap",
+      "explanation": "A mishap is an unfortunate accident, whereas a strategy, policy, or scheme is a plan or guiding course of action."
+    },
+    {
+      "id": "HSPT-V14-026",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair uses the same word first as a noun and then as a verb with a related meaning?",
+      "choices": {
+        "A": "a heavy box; a heavy crate",
+        "B": "an early flight; an early train",
+        "C": "slowly leave; slowly return",
+        "D": "a soft brush; brush away the dust"
+      },
+      "correct": "D",
+      "correctAnswer": "a soft brush; brush away the dust",
+      "explanation": "Brush names an implement in the first phrase and an action in the second; each alternative retains the same word class in both phrases."
+    },
+    {
+      "id": "HSPT-V14-027",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair contains two words whose apparently negative forms express exceptionally great value?",
+      "choices": {
+        "A": "unfair; unjust",
+        "B": "unbroken; unseen",
+        "C": "priceless; invaluable",
+        "D": "unwanted; unwelcome"
+      },
+      "correct": "C",
+      "correctAnswer": "priceless; invaluable",
+      "explanation": "Priceless and invaluable describe extraordinary value despite their negative-looking forms; the alternatives express ordinary negation, absence, or unfavorable judgment."
+    },
+    {
+      "id": "HSPT-V14-028",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A reviewer says, \"I will approve the design if its labels are readable.\" The labels are made readable. The reviewer then refuses approval solely because the border is not gold, a new requirement. What changed?",
+      "choices": {
+        "A": "An additional condition was introduced after the announced condition was met.",
+        "B": "The design was shown to have unreadable labels.",
+        "C": "The original statement required a gold border and omitted readability.",
+        "D": "The new requirement proves that readable labels are impossible."
+      },
+      "correct": "A",
+      "correctAnswer": "An additional condition was introduced after the announced condition was met.",
+      "explanation": "The announced sufficient condition was readable labels; refusing approval solely for a newly introduced border requirement changes the stated standard after it is satisfied."
+    },
+    {
+      "id": "HSPT-V14-029",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A proposal allows quiet conversation only during the interval between acts. A critic responds, \"The proposal demands talking throughout every performance.\" What is wrong with the response?",
+      "choices": {
+        "A": "It accurately preserves the proposal's restriction to the interval.",
+        "B": "It shows that an interval cannot occur between two acts.",
+        "C": "It replaces a limited proposal with a much broader position that was not proposed.",
+        "D": "It establishes that everyone favors the original proposal."
+      },
+      "correct": "C",
+      "correctAnswer": "It replaces a limited proposal with a much broader position that was not proposed.",
+      "explanation": "The original permits conversation during a specific pause; the response changes both permission to a demand and the permitted time to the entire performance."
+    },
+    {
+      "id": "HSPT-V14-030",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Rae must write the exact words printed on a card, rather than carry out the card's instruction. The card reads \"Do not write anything.\" Which response completes Rae's assigned task?",
+      "choices": {
+        "A": "I cannot copy this instruction.",
+        "B": "This card has no words.",
+        "C": "Do not write anything.",
+        "D": "I will leave the response blank."
+      },
+      "correct": "C",
+      "correctAnswer": "Do not write anything.",
+      "explanation": "Rae's assignment is to reproduce the card's wording; the instruction mentioned inside that wording does not replace the outer copying instruction."
+    },
+    {
+      "id": "HSPT-V14-031",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "In the phrase \"a penchant for intricate puzzles,\" PENCHANT most nearly means:",
+      "choices": {
+        "A": "a formal obligation",
+        "B": "a brief doubt",
+        "C": "a deliberate insult",
+        "D": "a strong liking"
+      },
+      "correct": "D",
+      "correctAnswer": "a strong liking",
+      "explanation": "A penchant is a strong preference or inclination, so this person particularly enjoys intricate puzzles."
+    },
+    {
+      "id": "HSPT-V14-032",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Lena had a SCRUPLE about accepting credit for someone else's work. SCRUPLE most nearly means:",
+      "choices": {
+        "A": "an ethical reservation",
+        "B": "physical exhaustion",
+        "C": "a desire for applause",
+        "D": "certainty of a reward"
+      },
+      "correct": "A",
+      "correctAnswer": "an ethical reservation",
+      "explanation": "A scruple is a hesitation based on moral concerns; Lena questions whether accepting the credit would be right."
+    },
+    {
+      "id": "HSPT-V14-033",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "The dancer entered with PANACHE. PANACHE most nearly means:",
+      "choices": {
+        "A": "a confident, stylish manner",
+        "B": "careless indifference",
+        "C": "shy reluctance",
+        "D": "mechanical accuracy"
+      },
+      "correct": "A",
+      "correctAnswer": "a confident, stylish manner",
+      "explanation": "Panache describes a spirited, stylish display of confidence, rather than indifference, reluctance, or mere technical accuracy."
+    },
+    {
+      "id": "HSPT-V14-034",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "The NADIR is the lowest point. Which phrase is its opposite?",
+      "choices": {
+        "A": "the highest point",
+        "B": "the lowest level",
+        "C": "a downward trend",
+        "D": "a temporary rest"
+      },
+      "correct": "A",
+      "correctAnswer": "the highest point",
+      "explanation": "Nadir names the lowest point, so its opposite is the highest point on the same scale."
+    },
+    {
+      "id": "HSPT-V14-035",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to GERMANE TO THE DISCUSSION?",
+      "choices": {
+        "A": "closely connected to the issue",
+        "B": "directly applicable to the subject",
+        "C": "pertinent to the argument",
+        "D": "unrelated to the topic"
+      },
+      "correct": "D",
+      "correctAnswer": "unrelated to the topic",
+      "explanation": "Germane means relevant or closely related to a subject; an unrelated remark has the opposite relationship."
+    },
+    {
+      "id": "HSPT-V14-036",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which description is most nearly opposite in meaning to DOGMATIC?",
+      "choices": {
+        "A": "insistent that one's own views cannot be questioned",
+        "B": "unyielding about an asserted principle",
+        "C": "willing to reconsider firmly held beliefs",
+        "D": "certain that disagreement must be mistaken"
+      },
+      "correct": "C",
+      "correctAnswer": "willing to reconsider firmly held beliefs",
+      "explanation": "A dogmatic person treats beliefs as unquestionable; willingness to reconsider them expresses the opposite intellectual attitude."
+    },
+    {
+      "id": "HSPT-V14-037",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Forced perspective can make objects appear to have different SIZES. In a comparable illusion, ventriloquism makes a voice appear to come from a different:",
+      "choices": {
+        "A": "language",
+        "B": "loudness",
+        "C": "location",
+        "D": "duration"
+      },
+      "correct": "C",
+      "correctAnswer": "location",
+      "explanation": "Forced perspective alters apparent size; ventriloquism alters the apparent location of a voice while its actual source remains elsewhere."
+    },
+    {
+      "id": "HSPT-V14-038",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A sieve separates mixed particles according to SIZE. A prism separates white light according to:",
+      "choices": {
+        "A": "weight",
+        "B": "color",
+        "C": "temperature",
+        "D": "age"
+      },
+      "correct": "B",
+      "correctAnswer": "color",
+      "explanation": "A sieve sorts particles by size; a prism spreads white light into its component colors."
+    },
+    {
+      "id": "HSPT-V14-039",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A narrow doorway limits the WIDTH of an object that can pass through it. A low ceiling similarly limits the object's:",
+      "choices": {
+        "A": "weight",
+        "B": "color",
+        "C": "length",
+        "D": "height"
+      },
+      "correct": "D",
+      "correctAnswer": "height",
+      "explanation": "Doorway width restricts horizontal clearance, while ceiling height restricts vertical clearance for an object passing underneath."
+    },
+    {
+      "id": "HSPT-V14-040",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Three words describe continuing to occupy a place. Which word instead names the act of crossing into it?",
+      "choices": {
+        "A": "residence",
+        "B": "entry",
+        "C": "stay",
+        "D": "occupancy"
+      },
+      "correct": "B",
+      "correctAnswer": "entry",
+      "explanation": "Entry names movement across a boundary into a place; the other words describe remaining or being there."
+    },
+    {
+      "id": "HSPT-V14-041",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "In ordinary English, which pair consists of two tools whose names normally take plural forms, even when each name refers to one instrument?",
+      "choices": {
+        "A": "gloves; socks",
+        "B": "tongs; spoon",
+        "C": "shoes; boots",
+        "D": "scissors; tweezers"
+      },
+      "correct": "D",
+      "correctAnswer": "scissors; tweezers",
+      "explanation": "Scissors and tweezers each name one instrument using a plural form; the other pairs include ordinary countable objects."
+    },
+    {
+      "id": "HSPT-V14-042",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Start with any row of four distinct letters. Which pair contains two instructions that EACH restore the original row when that same instruction is performed twice?",
+      "choices": {
+        "A": "Alphabetize the row; reverse the entire row.",
+        "B": "Move the first letter to the end; exchange its first and last letters.",
+        "C": "Reverse the entire row; exchange its first and last letters.",
+        "D": "Duplicate the first letter; reverse the entire row."
+      },
+      "correct": "C",
+      "correctAnswer": "Reverse the entire row; exchange its first and last letters.",
+      "explanation": "Reversing twice and exchanging the endpoints twice both undo themselves. Sorting, rotating once per application, and duplicating do not."
+    },
+    {
+      "id": "HSPT-V14-043",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A speaker argues, \"This practice has been followed for generations, so it cannot be improved.\" Which response identifies the flaw?",
+      "choices": {
+        "A": "The length of time a practice has existed does not establish that it is the best possible practice.",
+        "B": "Every newer practice is necessarily better than an older one.",
+        "C": "A practice followed for generations can never produce good results.",
+        "D": "The speaker has proved that no one has ever questioned the practice."
+      },
+      "correct": "A",
+      "correctAnswer": "The length of time a practice has existed does not establish that it is the best possible practice.",
+      "explanation": "Long use establishes a tradition, but it does not compare that practice with possible improvements or establish optimality."
+    },
+    {
+      "id": "HSPT-V14-044",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A finite crew has more than half its members able to row and more than half able to sail. Which statement must be true?",
+      "choices": {
+        "A": "Every crew member can both row and sail.",
+        "B": "The rowing and sailing groups have no members in common.",
+        "C": "At least one crew member can both row and sail.",
+        "D": "Exactly one crew member has either skill."
+      },
+      "correct": "C",
+      "correctAnswer": "At least one crew member can both row and sail.",
+      "explanation": "Two disjoint groups cannot each contain more than half the crew; therefore the groups must share at least one member."
+    },
+    {
+      "id": "HSPT-V14-045",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A card was formerly accepted exactly when it was both blue and square. The revised rule accepts a card when it is blue or square or both. Which statement must be true?",
+      "choices": {
+        "A": "Every formerly rejected card is now accepted.",
+        "B": "Every card accepted under the former rule is accepted under the revised rule.",
+        "C": "Only blue cards that are not square are now accepted.",
+        "D": "Cards that are neither blue nor square are now accepted."
+      },
+      "correct": "B",
+      "correctAnswer": "Every card accepted under the former rule is accepted under the revised rule.",
+      "explanation": "A blue square satisfies both conditions and therefore also satisfies the revised rule requiring at least one of them."
+    },
+    {
+      "id": "HSPT-V14-046",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "If a visitor DAWDLES on the way to the exit, the visitor:",
+      "choices": {
+        "A": "leaves a useful object behind",
+        "B": "asks for a different destination",
+        "C": "takes unnecessary time moving along",
+        "D": "travels by the shortest route"
+      },
+      "correct": "C",
+      "correctAnswer": "takes unnecessary time moving along",
+      "explanation": "To dawdle is to move or spend time unnecessarily slowly, delaying progress toward the exit."
+    },
+    {
+      "id": "HSPT-V14-047",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Calling the guest by the wrong name was an unfortunate GAFFE. GAFFE most nearly means:",
+      "choices": {
+        "A": "a private agreement",
+        "B": "an unexpected reward",
+        "C": "an embarrassing social mistake",
+        "D": "a deliberate compliment"
+      },
+      "correct": "C",
+      "correctAnswer": "an embarrassing social mistake",
+      "explanation": "A gaffe is an awkward social blunder, such as mistakenly addressing a guest by the wrong name."
+    },
+    {
+      "id": "HSPT-V14-048",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "A supervisor was accused of NEPOTISM after appointing less-qualified relatives to several jobs. NEPOTISM most nearly means:",
+      "choices": {
+        "A": "favoring family members in appointments",
+        "B": "choosing applicants by lottery",
+        "C": "requiring unusually long training",
+        "D": "promoting workers solely for their achievements"
+      },
+      "correct": "A",
+      "correctAnswer": "favoring family members in appointments",
+      "explanation": "Nepotism is favoritism toward relatives, especially when jobs or other advantages are awarded because of family connections."
+    },
+    {
+      "id": "HSPT-V14-049",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "LAX enforcement allows rules to be ignored without much concern. Which description is most nearly opposite?",
+      "choices": {
+        "A": "casual enforcement",
+        "B": "strict enforcement",
+        "C": "inconsistent enforcement",
+        "D": "lenient enforcement"
+      },
+      "correct": "B",
+      "correctAnswer": "strict enforcement",
+      "explanation": "Lax enforcement is loose and insufficiently strict; strict enforcement requires close attention to whether rules are followed."
+    },
+    {
+      "id": "HSPT-V14-050",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which phrase is most nearly opposite in meaning to TAWDRY, describing decoration that is showy but cheap-looking?",
+      "choices": {
+        "A": "gaudily flashy",
+        "B": "tastefully elegant",
+        "C": "cheaply glittering",
+        "D": "crudely ornamental"
+      },
+      "correct": "B",
+      "correctAnswer": "tastefully elegant",
+      "explanation": "Tawdry combines showiness with cheap appearance; tasteful elegance contrasts with that lack of refinement rather than merely reducing brightness."
+    },
+    {
+      "id": "HSPT-V14-051",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which description is most nearly opposite to FINANCIALLY SOLVENT?",
+      "choices": {
+        "A": "able to meet financial obligations",
+        "B": "capable of settling bills",
+        "C": "possessing enough funds to cover liabilities",
+        "D": "unable to pay debts"
+      },
+      "correct": "D",
+      "correctAnswer": "unable to pay debts",
+      "explanation": "A financially solvent person or business can meet debts; inability to pay them expresses the opposite financial condition."
+    },
+    {
+      "id": "HSPT-V14-052",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A contour line on a map joins locations with equal ELEVATION. In a similar relationship, an isobar on a weather map joins locations with equal air:",
+      "choices": {
+        "A": "temperature",
+        "B": "pressure",
+        "C": "humidity",
+        "D": "direction"
+      },
+      "correct": "B",
+      "correctAnswer": "pressure",
+      "explanation": "Both lines connect points sharing one measured value: contour lines use elevation, while isobars use air pressure."
+    },
+    {
+      "id": "HSPT-V14-053",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A space in printed text reserves room without a letter. A rest in written music similarly reserves time without:",
+      "choices": {
+        "A": "a written symbol",
+        "B": "a measured duration",
+        "C": "a sounded note",
+        "D": "a place in the score"
+      },
+      "correct": "C",
+      "correctAnswer": "a sounded note",
+      "explanation": "Both preserve an interval while leaving out the expected content: a printed letter in the text or a sounded note in the music."
+    },
+    {
+      "id": "HSPT-V14-054",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "A keystroke counter reports the total number of keys pressed, while a typing-rate display reports keys pressed per minute. In the same relationship, a total-volume counter reports accumulated water volume, while a flow-rate meter reports:",
+      "choices": {
+        "A": "the container's entire capacity",
+        "B": "the water's temperature",
+        "C": "the total distance to the water source",
+        "D": "water volume passing per unit of time"
+      },
+      "correct": "D",
+      "correctAnswer": "water volume passing per unit of time",
+      "explanation": "The relationship contrasts an accumulated total with its rate of change; flow rate measures volume passing per unit of time."
+    },
+    {
+      "id": "HSPT-V14-055",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Three expressions guarantee that at least one item exists. Which expression does NOT guarantee this?",
+      "choices": {
+        "A": "some items",
+        "B": "at least one item",
+        "C": "at most one item",
+        "D": "not zero items"
+      },
+      "correct": "C",
+      "correctAnswer": "at most one item",
+      "explanation": "At most one permits either zero or one. Each other expression requires a positive number of items."
+    },
+    {
+      "id": "HSPT-V14-056",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which item differs from the others because its usual purpose is to respond after a dangerous event, rather than serve as a barrier that helps prevent harm?",
+      "choices": {
+        "A": "a floodwall",
+        "B": "a rescue boat",
+        "C": "a guardrail",
+        "D": "a firebreak"
+      },
+      "correct": "B",
+      "correctAnswer": "a rescue boat",
+      "explanation": "A rescue boat helps people after danger arises; the other items are barriers intended to interrupt a harmful path beforehand."
+    },
+    {
+      "id": "HSPT-V14-057",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair consists of words whose plural forms can acquire distinct conventional meanings, rather than merely name several instances of the singular thing?",
+      "choices": {
+        "A": "window/windows; river/rivers",
+        "B": "mouse/mice; tooth/teeth",
+        "C": "goose/geese; child/children",
+        "D": "custom/customs; manner/manners"
+      },
+      "correct": "D",
+      "correctAnswer": "custom/customs; manner/manners",
+      "explanation": "Customs can mean a border-control agency, and manners can mean polite conduct; these are specialized meanings beyond several customs or manners."
+    },
+    {
+      "id": "HSPT-V14-058",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A commentator argues, \"Most viewers believe the forecast, so the forecast must be accurate.\" What is missing from this reasoning?",
+      "choices": {
+        "A": "Evidence connecting the forecast to the conditions it predicts.",
+        "B": "Proof that every popular belief is necessarily false.",
+        "C": "An explanation of why a forecast must please every viewer.",
+        "D": "A requirement that only unpopular forecasts can be accurate."
+      },
+      "correct": "A",
+      "correctAnswer": "Evidence connecting the forecast to the conditions it predicts.",
+      "explanation": "Counting believers measures popularity, not predictive accuracy; evidence about the predicted conditions is needed to support the conclusion."
+    },
+    {
+      "id": "HSPT-V14-059",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A researcher studies only old wooden vessels still afloat and concludes, \"Wooden vessels almost never sink.\" Which missing evidence most directly weakens that conclusion?",
+      "choices": {
+        "A": "Records of wooden vessels that sank and therefore could not enter the study.",
+        "B": "The present paint colors of the vessels still afloat.",
+        "C": "The researcher's preferred kind of vessel.",
+        "D": "The names given to the surviving vessels when they were built."
+      },
+      "correct": "A",
+      "correctAnswer": "Records of wooden vessels that sank and therefore could not enter the study.",
+      "explanation": "Selecting only surviving vessels excludes the failures needed to estimate sinking frequency, so survival in the sample cannot establish general reliability."
+    },
+    {
+      "id": "HSPT-V14-060",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Each strand of a thick rope can be snapped easily by hand. Someone concludes that the complete rope must also snap easily by hand. What has the person assumed without justification?",
+      "choices": {
+        "A": "That a rope contains more than one strand.",
+        "B": "That the separate strands can be examined.",
+        "C": "That the rope and its strands are made of material.",
+        "D": "That a property of each separate component must also hold for the assembled whole."
+      },
+      "correct": "D",
+      "correctAnswer": "That a property of each separate component must also hold for the assembled whole.",
+      "explanation": "Assembling strands changes how a load is shared; the ease of breaking one strand does not establish the strength of the complete rope."
+    }
+  ]
+}

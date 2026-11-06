@@ -1,0 +1,1097 @@
+{
+  "title": "HSPT Mathematics Practice Test 09",
+  "examFamily": "hspt",
+  "examNumber": 9,
+  "section": "Mathematics",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": "HSPT-M9-001",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Define the fractional part of a number as the number minus the greatest integer less than or equal to it. What is the fractional part of −2.7?",
+      "choices": {
+        "A": "0.3",
+        "B": "−0.7",
+        "C": "0.7",
+        "D": "−0.3"
+      },
+      "correct": "A",
+      "correctAnswer": "0.3",
+      "explanation": "The greatest integer not exceeding −2.7 is −3; subtracting it gives −2.7 − (−3) = 0.3."
+    },
+    {
+      "id": "HSPT-M9-002",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A marker begins at −4 on a number line, moves 7 units right, then moves left by HALF the distance it just moved right. Where does it finish?",
+      "choices": {
+        "A": "−3.5",
+        "B": "−0.5",
+        "C": "0.5",
+        "D": "3.5"
+      },
+      "correct": "B",
+      "correctAnswer": "−0.5",
+      "explanation": "The first move ends at −4 + 7 = 3; the return distance is 7/2 = 3.5, so the final position is −0.5."
+    },
+    {
+      "id": "HSPT-M9-003",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Digits a and b form the decimals a.b and b.a, where the digit after the point is in the tenths place. If a.b + b.a = 12.1, what is a + b?",
+      "choices": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "13"
+      },
+      "correct": "B",
+      "correctAnswer": "11",
+      "explanation": "The sum is a + b/10 + b + a/10 = 1.1(a + b); dividing 12.1 by 1.1 gives 11."
+    },
+    {
+      "id": "HSPT-M9-004",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Two-thirds of a batch of tiles are marked. Five marked tiles break and are removed; no other tiles are removed. Then three-fifths of the remaining tiles are marked. How many tiles were in the original batch?",
+      "choices": {
+        "A": "30",
+        "B": "15",
+        "C": "25",
+        "D": "45"
+      },
+      "correct": "A",
+      "correctAnswer": "30",
+      "explanation": "Let the original total be N: 2N/3 − 5 = 3(N − 5)/5; multiplying by 15 gives 10N − 75 = 9N − 45, so N = 30."
+    },
+    {
+      "id": "HSPT-M9-005",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Define f(x) = 2x + 1 and g(x) = x + k. What value of k makes f(g(x)) = g(f(x)) for every real x?",
+      "choices": {
+        "A": "1",
+        "B": "−2",
+        "C": "0",
+        "D": "3"
+      },
+      "correct": "C",
+      "correctAnswer": "0",
+      "explanation": "The expressions are 2x + 2k + 1 and 2x + 1 + k; equality for every x requires 2k = k, so k = 0."
+    },
+    {
+      "id": "HSPT-M9-006",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For which values of x is (x − 1)/(x + 2) negative?",
+      "choices": {
+        "A": "x < −2",
+        "B": "x > 1",
+        "C": "All x < 1",
+        "D": "−2 < x < 1"
+      },
+      "correct": "D",
+      "correctAnswer": "−2 < x < 1",
+      "explanation": "The quotient is negative only when numerator and denominator have opposite signs; that happens for x − 1 < 0 and x + 2 > 0."
+    },
+    {
+      "id": "HSPT-M9-007",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Someone claims that n² + n + 1 is prime for every positive integer n. Which pair gives the SMALLEST counterexample n and the resulting composite value?",
+      "choices": {
+        "A": "n = 1; value = 3",
+        "B": "n = 2; value = 7",
+        "C": "n = 3; value = 13",
+        "D": "n = 4; value = 21"
+      },
+      "correct": "D",
+      "correctAnswer": "n = 4; value = 21",
+      "explanation": "For n = 1, 2, and 3, the values are 3, 7, and 13; n = 4 gives 21 = 3 × 7."
+    },
+    {
+      "id": "HSPT-M9-008",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Which set contains ALL real solutions of |x − 2| + |x − 7| = 5?",
+      "choices": {
+        "A": "Only x = 2 and x = 7",
+        "B": "Every x from 2 through 7, including both endpoints",
+        "C": "Every x greater than or equal to 7",
+        "D": "No real values of x"
+      },
+      "correct": "B",
+      "correctAnswer": "Every x from 2 through 7, including both endpoints",
+      "explanation": "For 2 ≤ x ≤ 7, the sum is (x − 2) + (7 − x) = 5; outside this interval, the sum is greater."
+    },
+    {
+      "id": "HSPT-M9-009",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangle is 3 units wide and 5 units long. Which statement about reflection across a diagonal is true?",
+      "choices": {
+        "A": "The diagonal is a line of symmetry for every rectangle.",
+        "B": "Every point on the diagonal moves to a different point.",
+        "C": "Reflection changes the rectangle's area from 15 to 25 square units.",
+        "D": "The reflected rectangle does not coincide with the original because this rectangle is not a square."
+      },
+      "correct": "D",
+      "correctAnswer": "The reflected rectangle does not coincide with the original because this rectangle is not a square.",
+      "explanation": "Only a square has diagonal reflection symmetry among rectangles; reflection fixes the diagonal and preserves area, but this nonsquare rectangle will not coincide."
+    },
+    {
+      "id": "HSPT-M9-010",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A right triangle has legs 6 and 8 centimeters. A semicircle is built outward on its hypotenuse, using the hypotenuse as diameter, with no overlap of interiors. What is their combined area?",
+      "choices": {
+        "A": "24 + 50π square centimeters",
+        "B": "24 + 25π/2 square centimeters",
+        "C": "48 + 25π/2 square centimeters",
+        "D": "24 + 25π square centimeters"
+      },
+      "correct": "B",
+      "correctAnswer": "24 + 25π/2 square centimeters",
+      "explanation": "The hypotenuse is √(6² + 8²) = 10, so the radius is 5; the areas sum to 6 × 8/2 + π × 5²/2."
+    },
+    {
+      "id": "HSPT-M9-011",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A cube rests on a flat surface. Its faces initially point up, down, north, south, east, and west. It rolls one quarter-turn east, one quarter-turn north, then TWO quarter-turns east. Each roll is over an edge, without twisting. Which ORIGINAL face is now on top?",
+      "choices": {
+        "A": "The face originally pointing south",
+        "B": "The face originally pointing east",
+        "C": "The face originally pointing north",
+        "D": "The face originally pointing down"
+      },
+      "correct": "C",
+      "correctAnswer": "The face originally pointing north",
+      "explanation": "Track the top face after each roll: originally west, then south, then down, then north; the final top face is the original north face."
+    },
+    {
+      "id": "HSPT-M9-012",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A moving walkway is 100 meters long. A traveler walks at 1 meter per second relative to its belt. For the first 20 seconds, the belt moves forward at 0.5 meter per second; it then stops. The traveler keeps walking at the same speed relative to the belt. How long does the trip take?",
+      "choices": {
+        "A": "80 seconds",
+        "B": "100 seconds",
+        "C": "120 seconds",
+        "D": "90 seconds"
+      },
+      "correct": "D",
+      "correctAnswer": "90 seconds",
+      "explanation": "The first 20 seconds cover 20 × (1 + 0.5) = 30 meters; the remaining 70 meters take 70 seconds, for 90 seconds total."
+    },
+    {
+      "id": "HSPT-M9-013",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A 5-minute hourglass and an 8-minute hourglass begin running together. At minute 5, the empty 5-minute glass is flipped. At minute 8, the empty 8-minute glass is flipped. When the 5-minute glass next empties, the 8-minute glass is immediately flipped again. At what time after the original start will the 8-minute glass now empty?",
+      "choices": {
+        "A": "12 minutes",
+        "B": "10 minutes",
+        "C": "13 minutes",
+        "D": "16 minutes"
+      },
+      "correct": "A",
+      "correctAnswer": "12 minutes",
+      "explanation": "The 5-minute glass empties again at minute 10; the 8-minute glass has run 2 minutes since its flip, so reversing it leaves 2 minutes until empty."
+    },
+    {
+      "id": "HSPT-M9-014",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A tile numbered from 1 through 8 is chosen uniformly at random. Independently, a spinner selects red or blue. Given that the spinner shows blue, what is the probability that the tile's number is divisible by 4?",
+      "choices": {
+        "A": "1/4",
+        "B": "1/8",
+        "C": "1/2",
+        "D": "1/3"
+      },
+      "correct": "A",
+      "correctAnswer": "1/4",
+      "explanation": "The qualifying tiles are 4 and 8, giving 2/8 = 1/4; the independent spinner result does not change their probability."
+    },
+    {
+      "id": "HSPT-M9-015",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Fourteen repair times, measured in whole minutes, are grouped as follows: 0–9 minutes, 4 repairs; 10–19 minutes, 7 repairs; 20–29 minutes, 3 repairs. What must be true about the median?",
+      "choices": {
+        "A": "It is exactly 14 minutes.",
+        "B": "It is less than 10 minutes.",
+        "C": "It is between 10 and 19 minutes, inclusive.",
+        "D": "It is greater than 19 minutes."
+      },
+      "correct": "C",
+      "correctAnswer": "It is between 10 and 19 minutes, inclusive.",
+      "explanation": "With fourteen observations, the median averages the seventh and eighth ordered values; both fall in the second group, so their average lies from 10 through 19."
+    },
+    {
+      "id": "HSPT-M9-016",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Four separate tiles bear the letters O, B, O, and E. They are thoroughly mixed, then placed in a row by uniformly random ordering of the four physical tiles. What is the probability that the visible row spells OBOE?",
+      "choices": {
+        "A": "1/24",
+        "B": "1/6",
+        "C": "1/12",
+        "D": "1/4"
+      },
+      "correct": "C",
+      "correctAnswer": "1/12",
+      "explanation": "There are 24 equally likely orders of the physical tiles; the two O tiles can exchange places in the desired word, giving 2/24 = 1/12."
+    },
+    {
+      "id": "HSPT-M9-017",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A red token has value −2 and a blue token has value +3. Which collection has a total value of zero?",
+      "choices": {
+        "A": "2 red tokens and 3 blue tokens",
+        "B": "1 red token and 1 blue token",
+        "C": "1 red token and 2 blue tokens",
+        "D": "3 red tokens and 2 blue tokens"
+      },
+      "correct": "D",
+      "correctAnswer": "3 red tokens and 2 blue tokens",
+      "explanation": "Three red tokens contribute −6 and two blue tokens contribute +6; their values cancel to zero."
+    },
+    {
+      "id": "HSPT-M9-018",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "The greatest common factor of 18 and a positive integer b is 6. Their least common multiple is 90. What is b?",
+      "choices": {
+        "A": "30",
+        "B": "15",
+        "C": "45",
+        "D": "60"
+      },
+      "correct": "A",
+      "correctAnswer": "30",
+      "explanation": "The product of two positive integers equals their greatest common factor times their least common multiple, so b = 6 × 90 ÷ 18 = 30."
+    },
+    {
+      "id": "HSPT-M9-019",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "How many positive integers n from 1 through 50 make √(18n) an integer?",
+      "choices": {
+        "A": "3",
+        "B": "7",
+        "C": "10",
+        "D": "5"
+      },
+      "correct": "D",
+      "correctAnswer": "5",
+      "explanation": "Since 18n = 9 × 2n, 2n must be a square; the qualifying values n are 2, 8, 18, 32, and 50."
+    },
+    {
+      "id": "HSPT-M9-020",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "What value of k makes the equations 3x + 6 = 12 and kx + 4 = 10 have the SAME solution for x?",
+      "choices": {
+        "A": "6",
+        "B": "−3",
+        "C": "3",
+        "D": "12"
+      },
+      "correct": "C",
+      "correctAnswer": "3",
+      "explanation": "The first equation gives x = 2; substituting it into the second gives 2k + 4 = 10, so k = 3."
+    },
+    {
+      "id": "HSPT-M9-021",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A sorting tray has n rows, with n + 4 wells in every row, where n > 2. The first and last rows are reserved; all remaining wells are used. Which expression gives the number of used wells?",
+      "choices": {
+        "A": "n² + 4n − 2",
+        "B": "n² − 8",
+        "C": "n² + 6n + 8",
+        "D": "n² + 2n − 8"
+      },
+      "correct": "D",
+      "correctAnswer": "n² + 2n − 8",
+      "explanation": "There are n − 2 used rows, each with n + 4 wells; expanding (n − 2)(n + 4) gives n² + 2n − 8."
+    },
+    {
+      "id": "HSPT-M9-022",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The formula A = 2h(w + d) relates four quantities, with h ≠ 0. Which expression equals w?",
+      "choices": {
+        "A": "A/(2h) − d",
+        "B": "A/(2h − d)",
+        "C": "A/(2h) + d",
+        "D": "(A − d)/(2h)"
+      },
+      "correct": "A",
+      "correctAnswer": "A/(2h) − d",
+      "explanation": "Divide both sides by 2h to obtain w + d = A/(2h), then subtract d outside the resulting fraction."
+    },
+    {
+      "id": "HSPT-M9-023",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The positive integer x satisfies BOTH x + 4 > 2x − 3 and x² > 25. Which set contains all possible values of x?",
+      "choices": {
+        "A": "x = 5 only",
+        "B": "x = 7 only",
+        "C": "x = 6 only",
+        "D": "x = 5 and x = 6"
+      },
+      "correct": "C",
+      "correctAnswer": "x = 6 only",
+      "explanation": "The first inequality gives x < 7; since x is positive, the second gives x > 5, leaving only the integer 6."
+    },
+    {
+      "id": "HSPT-M9-024",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Two square-based pyramids are joined base to base. The shared square bases are entirely inside the resulting solid. Which description gives all the exposed faces?",
+      "choices": {
+        "A": "8 triangular faces and 2 square faces",
+        "B": "4 triangular faces and 2 square faces",
+        "C": "8 triangular faces",
+        "D": "6 square faces"
+      },
+      "correct": "C",
+      "correctAnswer": "8 triangular faces",
+      "explanation": "Each pyramid contributes four triangular side faces; the two square bases become internal, leaving 4 + 4 = 8 exposed faces."
+    },
+    {
+      "id": "HSPT-M9-025",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle of area 36π square units lies in the region x ≥ 0, y ≥ 0 and is tangent to BOTH coordinate axes. What are its center's coordinates?",
+      "choices": {
+        "A": "(36, 36)",
+        "B": "(6, 6)",
+        "C": "(6, 0)",
+        "D": "(0, 6)"
+      },
+      "correct": "B",
+      "correctAnswer": "(6, 6)",
+      "explanation": "The radius satisfies πr² = 36π, so r = 6; tangency to each axis places the center six units from that axis."
+    },
+    {
+      "id": "HSPT-M9-026",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A cube has edge length 4 units. A sphere has the same center as the cube, and all eight cube vertices lie on the sphere. What is the sphere's radius?",
+      "choices": {
+        "A": "4√3 units",
+        "B": "2√3 units",
+        "C": "2√2 units",
+        "D": "4 units"
+      },
+      "correct": "B",
+      "correctAnswer": "2√3 units",
+      "explanation": "The cube's space diagonal is √(4² + 4² + 4²) = 4√3; the center is its midpoint, so the sphere's radius is 2√3."
+    },
+    {
+      "id": "HSPT-M9-027",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A parcel may weigh at most 2 pounds. Its two parts weigh 13 ounces and 1 pound 1 ounce; wrapping adds 3 ounces. Does the wrapped parcel meet the limit? Use 16 ounces = 1 pound.",
+      "choices": {
+        "A": "Yes; it weighs 30 ounces.",
+        "B": "Yes; it weighs exactly 2 pounds.",
+        "C": "No; it exceeds the limit by 3 ounces.",
+        "D": "No; it exceeds the limit by 1 ounce."
+      },
+      "correct": "D",
+      "correctAnswer": "No; it exceeds the limit by 1 ounce.",
+      "explanation": "The parts and wrapping total 13 + 17 + 3 = 33 ounces; the 2-pound limit is 32 ounces, so the parcel is one ounce over."
+    },
+    {
+      "id": "HSPT-M9-028",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "For this problem, charge used in milliampere-hours equals current in milliamperes multiplied by time in hours. A device uses 300 milliamperes for 40 minutes, then 120 milliamperes for 30 minutes. What total charge does it use?",
+      "choices": {
+        "A": "260 milliampere-hours",
+        "B": "420 milliampere-hours",
+        "C": "200 milliampere-hours",
+        "D": "360 milliampere-hours"
+      },
+      "correct": "A",
+      "correctAnswer": "260 milliampere-hours",
+      "explanation": "Convert the intervals to 2/3 hour and 1/2 hour; the charge is 300 × 2/3 + 120 × 1/2 = 260 milliampere-hours."
+    },
+    {
+      "id": "HSPT-M9-029",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Only the two broad faces of a 25-centimeter-by-40-centimeter plate receive a uniform coating 0.02 millimeter thick. Each cubic centimeter of coating weighs 1.2 grams. How much mass is added? Use 10 millimeters = 1 centimeter.",
+      "choices": {
+        "A": "2.4 grams",
+        "B": "4.8 grams",
+        "C": "48 grams",
+        "D": "0.48 gram"
+      },
+      "correct": "B",
+      "correctAnswer": "4.8 grams",
+      "explanation": "The coated area is 2 × 25 × 40 = 2,000 square centimeters; thickness is 0.002 centimeter, giving 4 cubic centimeters and 4 × 1.2 = 4.8 grams."
+    },
+    {
+      "id": "HSPT-M9-030",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A counter starts at 0 and shows cumulative totals of 18, 47, and 65 pulses at the ends of minutes 1, 2, and 3. During which minute were the MOST new pulses recorded?",
+      "choices": {
+        "A": "Minute 1",
+        "B": "Minute 3",
+        "C": "Minute 2",
+        "D": "Each minute recorded the same number."
+      },
+      "correct": "C",
+      "correctAnswer": "Minute 2",
+      "explanation": "The separate minute counts are 18, 47 − 18 = 29, and 65 − 47 = 18; the largest increase occurs during minute 2."
+    },
+    {
+      "id": "HSPT-M9-031",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Two independent signal units each show green or red. The first shows green with probability 3/4, and the second with probability 2/3. What is the probability that they show DIFFERENT colors?",
+      "choices": {
+        "A": "5/12",
+        "B": "1/2",
+        "C": "11/12",
+        "D": "1/12"
+      },
+      "correct": "A",
+      "correctAnswer": "5/12",
+      "explanation": "Different colors occur as green-red or red-green: (3/4 × 1/3) + (1/4 × 2/3) = 1/4 + 1/6 = 5/12."
+    },
+    {
+      "id": "HSPT-M9-032",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Machine P makes 9 acceptable parts out of 10 in the morning and 36 out of 60 in the evening. Machine Q makes 48 acceptable parts out of 60 in the morning and 5 out of 10 in the evening. Which comparison is correct?",
+      "choices": {
+        "A": "P has the higher rate in each session and overall.",
+        "B": "P has the higher acceptable-part rate in each session, but Q has the higher rate overall.",
+        "C": "Q has the higher rate in each session and overall.",
+        "D": "Their overall rates are equal because both make 70 parts."
+      },
+      "correct": "B",
+      "correctAnswer": "P has the higher acceptable-part rate in each session, but Q has the higher rate overall.",
+      "explanation": "P leads 90% to 80% and 60% to 50% separately; overall P makes 45/70 acceptable parts, while Q makes 53/70, so Q leads overall."
+    },
+    {
+      "id": "HSPT-M9-033",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which decimal writes fifteen hundredths with an extra final zero that does NOT change its value?",
+      "choices": {
+        "A": "1.50",
+        "B": "0.0150",
+        "C": "0.150",
+        "D": "15.0"
+      },
+      "correct": "C",
+      "correctAnswer": "0.150",
+      "explanation": "Fifteen hundredths is 0.15; a zero added at the right end of its decimal digits gives the equal value 0.150."
+    },
+    {
+      "id": "HSPT-M9-034",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A dial moves from zero only in steps of 1/8 unit. Which setting is NOT reachable?",
+      "choices": {
+        "A": "0.70",
+        "B": "0.125",
+        "C": "0.375",
+        "D": "0.625"
+      },
+      "correct": "A",
+      "correctAnswer": "0.70",
+      "explanation": "The other settings equal 1/8, 3/8, and 5/8; 0.70 × 8 = 5.6 is not an integer number of steps."
+    },
+    {
+      "id": "HSPT-M9-035",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "An indicator shows 6 milliliters at the one-quarter mark of a container. What fraction of the full capacity is 4 milliliters?",
+      "choices": {
+        "A": "1/4",
+        "B": "2/3",
+        "C": "1/24",
+        "D": "1/6"
+      },
+      "correct": "D",
+      "correctAnswer": "1/6",
+      "explanation": "The full capacity is 6 × 4 = 24 milliliters; 4 milliliters is 4/24 = 1/6 of that whole."
+    },
+    {
+      "id": "HSPT-M9-036",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the greatest positive two-digit integer whose square ends in 44?",
+      "choices": {
+        "A": "92",
+        "B": "98",
+        "C": "82",
+        "D": "88"
+      },
+      "correct": "D",
+      "correctAnswer": "88",
+      "explanation": "A square ending in 4 comes from a number ending in 2 or 8; above 88, candidates 92 and 98 fail, while 88² = 7,744 qualifies."
+    },
+    {
+      "id": "HSPT-M9-037",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A function satisfies F(a + b) = F(a) + F(b) + 1 for every pair of inputs. If F(2) = 5, what is F(6)?",
+      "choices": {
+        "A": "15",
+        "B": "17",
+        "C": "11",
+        "D": "18"
+      },
+      "correct": "B",
+      "correctAnswer": "17",
+      "explanation": "First F(4) = 5 + 5 + 1 = 11; then F(6) = F(4) + F(2) + 1 = 11 + 5 + 1 = 17."
+    },
+    {
+      "id": "HSPT-M9-038",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The expressions a + b and a − b have values 9 and 4, respectively. What is a² − b²?",
+      "choices": {
+        "A": "5",
+        "B": "13",
+        "C": "36",
+        "D": "65"
+      },
+      "correct": "C",
+      "correctAnswer": "36",
+      "explanation": "The difference of squares factors as (a + b)(a − b), so its value is 9 × 4 = 36."
+    },
+    {
+      "id": "HSPT-M9-039",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For which real values of x is √(x − 1)/(x − 4) defined as a real number?",
+      "choices": {
+        "A": "x > 1",
+        "B": "x ≥ 1 and x ≠ 4",
+        "C": "x ≥ 4",
+        "D": "Every real x except 4"
+      },
+      "correct": "B",
+      "correctAnswer": "x ≥ 1 and x ≠ 4",
+      "explanation": "The square root requires x − 1 ≥ 0, while the denominator requires x − 4 ≠ 0; both restrictions must hold together."
+    },
+    {
+      "id": "HSPT-M9-040",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Consider all four equations together: a + b = 8; b + c = 11; c + d = 9; d + a = 7. Which statement is true?",
+      "choices": {
+        "A": "A unique set of real values satisfies them.",
+        "B": "Infinitely many sets of real values satisfy them.",
+        "C": "They are true for every choice of a, b, c, and d.",
+        "D": "No set of real values satisfies all four equations."
+      },
+      "correct": "D",
+      "correctAnswer": "No set of real values satisfies all four equations.",
+      "explanation": "The first and third equations give a + b + c + d = 17; the second and fourth give the same sum as 18, a contradiction."
+    },
+    {
+      "id": "HSPT-M9-041",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Point P is (−3, 5). Point Q lies on the y-axis at the SAME height as P. What are Q’s coordinates?",
+      "choices": {
+        "A": "(−3, 0)",
+        "B": "(0, −3)",
+        "C": "(5, 0)",
+        "D": "(0, 5)"
+      },
+      "correct": "D",
+      "correctAnswer": "(0, 5)",
+      "explanation": "Every point on the y-axis has x = 0; keeping P’s height preserves its y-coordinate of 5, giving Q = (0, 5)."
+    },
+    {
+      "id": "HSPT-M9-042",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "One transformation moves a point 2 units right. A different transformation reflects it across the vertical line x = 2. Which point lands at the SAME location under either transformation?",
+      "choices": {
+        "A": "(0, 4)",
+        "B": "(1, 4)",
+        "C": "(2, 4)",
+        "D": "(3, 4)"
+      },
+      "correct": "B",
+      "correctAnswer": "(1, 4)",
+      "explanation": "Translating (1, 4) gives (3, 4); reflecting it across x = 2 also gives (3, 4), whereas the other points produce different results."
+    },
+    {
+      "id": "HSPT-M9-043",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A rectangle has long side L and short side W. It is cut into three congruent rectangles, each with dimensions L/3 and W. Each small rectangle has long side W and is similar to the original. What is L/W?",
+      "choices": {
+        "A": "3",
+        "B": "3/2",
+        "C": "√3",
+        "D": "√2"
+      },
+      "correct": "C",
+      "correctAnswer": "√3",
+      "explanation": "Similarity gives L/W = W/(L/3) = 3W/L; therefore (L/W)² = 3, and the positive ratio is √3."
+    },
+    {
+      "id": "HSPT-M9-044",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Clock B is always 2 hours ahead of Clock A. A process starts when Clock A reads 11:50 a.m. and lasts 25 minutes. What does Clock B read when the process ends?",
+      "choices": {
+        "A": "2:15 p.m.",
+        "B": "12:15 p.m.",
+        "C": "1:15 p.m.",
+        "D": "2:25 p.m."
+      },
+      "correct": "A",
+      "correctAnswer": "2:15 p.m.",
+      "explanation": "Clock A reads 12:15 p.m. after 25 minutes; adding the fixed two-hour difference gives Clock B’s reading of 2:15 p.m."
+    },
+    {
+      "id": "HSPT-M9-045",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Ruler A has marks every 1/20 centimeter. Ruler B has marks every 0.4 millimeter. Which ruler has the finer spacing, and by how much? Use 1 centimeter = 10 millimeters.",
+      "choices": {
+        "A": "Ruler B, by 0.1 millimeter",
+        "B": "Ruler A, by 0.1 millimeter",
+        "C": "Ruler A, by 0.35 millimeter",
+        "D": "Ruler B, by 0.35 millimeter"
+      },
+      "correct": "A",
+      "correctAnswer": "Ruler B, by 0.1 millimeter",
+      "explanation": "Ruler A’s spacing is 10/20 = 0.5 millimeter; Ruler B’s 0.4-millimeter spacing is smaller by 0.1 millimeter."
+    },
+    {
+      "id": "HSPT-M9-046",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "An instrument shows either A or B on each of four independent trials, with each label equally likely. Compare each result after the first with the result immediately before it. What is the probability that the label CHANGES exactly twice?",
+      "choices": {
+        "A": "3/8",
+        "B": "3/16",
+        "C": "1/2",
+        "D": "3/4"
+      },
+      "correct": "A",
+      "correctAnswer": "3/8",
+      "explanation": "There are 16 equally likely records; the two changes can occupy three pairs of gaps, with two choices of starting label, giving 6/16 = 3/8."
+    },
+    {
+      "id": "HSPT-M9-047",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A data set has median 8 and range 6. Every value x is replaced by 20 − 2x. What are the new median and range?",
+      "choices": {
+        "A": "Median 4; range −12",
+        "B": "Median 4; range 12",
+        "C": "Median 16; range 12",
+        "D": "Median 4; range 8"
+      },
+      "correct": "B",
+      "correctAnswer": "Median 4; range 12",
+      "explanation": "The decreasing transformation sends the median to 20 − 2 × 8 = 4; distances scale by 2, so the range becomes 12."
+    },
+    {
+      "id": "HSPT-M9-048",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A fair six-sided number cube is rolled. If the result is 1, 2, or 3, that number is recorded. If the result is 4, 5, or 6, the number 1 is recorded. What is the probability that the RECORDED number is 1?",
+      "choices": {
+        "A": "1/3",
+        "B": "1/6",
+        "C": "2/3",
+        "D": "5/6"
+      },
+      "correct": "C",
+      "correctAnswer": "2/3",
+      "explanation": "The recorded number is 1 after original rolls of 1, 4, 5, or 6; those four equally likely outcomes give 4/6 = 2/3."
+    },
+    {
+      "id": "HSPT-M9-049",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which label represents a DIFFERENT value from the other three?",
+      "choices": {
+        "A": "3/5",
+        "B": "0.60",
+        "C": "60%",
+        "D": "0.06"
+      },
+      "correct": "D",
+      "correctAnswer": "0.06",
+      "explanation": "Three fifths, 0.60, and 60% equal six tenths; 0.06 instead represents six hundredths, a smaller value."
+    },
+    {
+      "id": "HSPT-M9-050",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "For how many integers n from 1 through 83 does n/84 reduce to a fraction with denominator 7?",
+      "choices": {
+        "A": "7",
+        "B": "12",
+        "C": "6",
+        "D": "5"
+      },
+      "correct": "C",
+      "correctAnswer": "6",
+      "explanation": "The reduced fraction must be k/7 with k from 1 through 6; multiplying by 12 gives six original numerators."
+    },
+    {
+      "id": "HSPT-M9-051",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Both decimals repeat their two-digit block forever. What is 0.363636... ÷ 0.121212...?",
+      "choices": {
+        "A": "3, exactly",
+        "B": "Approximately 3, but not exactly",
+        "C": "1/3, exactly",
+        "D": "There is not enough information."
+      },
+      "correct": "A",
+      "correctAnswer": "3, exactly",
+      "explanation": "The decimals equal 36/99 and 12/99; division cancels their common denominator and leaves 36/12 = 3 exactly."
+    },
+    {
+      "id": "HSPT-M9-052",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For which x is the proposed shortcut (x + 2)² = x² + 4 actually true?",
+      "choices": {
+        "A": "x = 2 only",
+        "B": "x = 0 only",
+        "C": "Every real x",
+        "D": "No real x"
+      },
+      "correct": "B",
+      "correctAnswer": "x = 0 only",
+      "explanation": "Expanding the left side gives x² + 4x + 4; equality with x² + 4 requires 4x = 0."
+    },
+    {
+      "id": "HSPT-M9-053",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Given x/3 + y/2 = 7, what is 2x + 3y?",
+      "choices": {
+        "A": "42",
+        "B": "14",
+        "C": "21",
+        "D": "7"
+      },
+      "correct": "A",
+      "correctAnswer": "42",
+      "explanation": "Multiplying the entire given equation by 6 yields 2x + 3y = 42 without finding the individual variables."
+    },
+    {
+      "id": "HSPT-M9-054",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "F(x) is the GREATER of x and 5. Which x satisfies F(x) = x + 2?",
+      "choices": {
+        "A": "x = 5",
+        "B": "x = 3",
+        "C": "x = 7",
+        "D": "Every x ≥ 5"
+      },
+      "correct": "B",
+      "correctAnswer": "x = 3",
+      "explanation": "If x ≥ 5, the equation would require x = x + 2; otherwise 5 = x + 2 gives x = 3."
+    },
+    {
+      "id": "HSPT-M9-055",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For x ≠ −2 and x ≠ −1, consider x/(x + 2) = (x − 1)/(x + 1). Which statement is correct?",
+      "choices": {
+        "A": "x = 0 satisfies it.",
+        "B": "No real x in the stated domain satisfies it.",
+        "C": "x = 1 satisfies it.",
+        "D": "Every x in the stated domain satisfies it."
+      },
+      "correct": "B",
+      "correctAnswer": "No real x in the stated domain satisfies it.",
+      "explanation": "Valid cross multiplication gives x² + x = x² + x − 2, a contradiction that no permitted value can satisfy."
+    },
+    {
+      "id": "HSPT-M9-056",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Move from (0, 0) to (3, 4) using only horizontal and vertical unit steps. What is the minimum total distance?",
+      "choices": {
+        "A": "5 units",
+        "B": "12 units",
+        "C": "7 units",
+        "D": "1 unit"
+      },
+      "correct": "C",
+      "correctAnswer": "7 units",
+      "explanation": "Every route requires at least three horizontal and four vertical units; a route without backtracking achieves their sum, 7."
+    },
+    {
+      "id": "HSPT-M9-057",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "An isosceles trapezoid has parallel bases 8 and 14 units long and equal legs 5 units long. What is its height?",
+      "choices": {
+        "A": "3 units",
+        "B": "4 units",
+        "C": "5 units",
+        "D": "√34 units"
+      },
+      "correct": "B",
+      "correctAnswer": "4 units",
+      "explanation": "The 6-unit base difference splits into two 3-unit offsets; a leg forms a right triangle, giving height √(5² − 3²) = 4."
+    },
+    {
+      "id": "HSPT-M9-058",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A 4-by-4-by-4 solid consists of unit cubes. Only the TOP and FRONT faces are painted. How many unit cubes have EXACTLY ONE painted face?",
+      "choices": {
+        "A": "28",
+        "B": "32",
+        "C": "16",
+        "D": "24"
+      },
+      "correct": "D",
+      "correctAnswer": "24",
+      "explanation": "Each painted face contains 16 cubes; their shared edge has 4 double-painted cubes, giving 32 − 2 × 4 = 24."
+    },
+    {
+      "id": "HSPT-M9-059",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Which 24-hour clock reading represents 9:05 p.m.?",
+      "choices": {
+        "A": "09:05",
+        "B": "20:05",
+        "C": "21:50",
+        "D": "21:05"
+      },
+      "correct": "D",
+      "correctAnswer": "21:05",
+      "explanation": "For this p.m. hour, add 12 to the hour and preserve the minutes; 9 + 12 gives 21:05."
+    },
+    {
+      "id": "HSPT-M9-060",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A sound pulse travels to a wall and back in 0.8 second at 340 meters per second throughout. How far away is the wall?",
+      "choices": {
+        "A": "136 meters",
+        "B": "272 meters",
+        "C": "425 meters",
+        "D": "68 meters"
+      },
+      "correct": "A",
+      "correctAnswer": "136 meters",
+      "explanation": "The round-trip distance is 340 × 0.8 = 272 meters; the wall is half that total distance away, or 136 meters."
+    },
+    {
+      "id": "HSPT-M9-061",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A bar is 2.112 meters long. It is cut into seven equal pieces. Ends need no trimming; each separating cut removes 2 millimeters. What is each piece’s EXACT length?",
+      "choices": {
+        "A": "30 6/35 centimeters",
+        "B": "29 34/35 centimeters",
+        "C": "30 centimeters",
+        "D": "300 centimeters"
+      },
+      "correct": "C",
+      "correctAnswer": "30 centimeters",
+      "explanation": "Six cuts lose 12 millimeters, leaving 2,112 − 12 = 2,100 millimeters; dividing by seven gives 300 millimeters, or 30 centimeters."
+    },
+    {
+      "id": "HSPT-M9-062",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A system flags 6 of 20 packages. Four of those six actually have incorrect labels. What fraction of the FLAGGED packages are false alarms?",
+      "choices": {
+        "A": "1/10",
+        "B": "1/5",
+        "C": "2/3",
+        "D": "1/3"
+      },
+      "correct": "D",
+      "correctAnswer": "1/3",
+      "explanation": "Two of the six flagged packages are correctly labeled; the false-alarm fraction among flagged packages is therefore 2/6 = 1/3."
+    },
+    {
+      "id": "HSPT-M9-063",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Four measurements have mean 12. A fifth measurement between 4 and 16 inclusive is added. Which NEW mean CANNOT occur?",
+      "choices": {
+        "A": "11",
+        "B": "12",
+        "C": "10",
+        "D": "12.8"
+      },
+      "correct": "C",
+      "correctAnswer": "10",
+      "explanation": "The old total is 48; the new total ranges from 52 to 64, so the new mean ranges from 10.4 to 12.8."
+    },
+    {
+      "id": "HSPT-M9-064",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Three fair coins are tossed independently. Given that at least one shows heads, what is the probability that EXACTLY TWO show heads?",
+      "choices": {
+        "A": "3/7",
+        "B": "3/8",
+        "C": "1/2",
+        "D": "1/3"
+      },
+      "correct": "A",
+      "correctAnswer": "3/7",
+      "explanation": "Excluding TTT leaves seven equally likely records; HHT, HTH, and THH are the three with exactly two heads."
+    }
+  ]
+}

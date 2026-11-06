@@ -1073,7 +1073,7 @@ def validate_generated_json() -> list[str]:
 
     for family, config in FAMILY_CONFIG.items():
         for section in config["sections"]:
-            for exam_no in range(1, 11):
+            for exam_no in range(1, 17):
                 filename = (
                     f'{family}_{section["slug"]}_exam_{exam_no:02d}.json'
                 )

@@ -1,0 +1,1097 @@
+{
+  "title": "HSPT Mathematics Practice Test 14",
+  "examFamily": "hspt",
+  "examNumber": 14,
+  "section": "Mathematics",
+  "questionCount": 64,
+  "questions": [
+    {
+      "id": "HSPT-M14-001",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which number can replace u so that n × u = n for EVERY real number n?",
+      "choices": {
+        "A": "0",
+        "B": "−1",
+        "C": "1",
+        "D": "n"
+      },
+      "correct": "C",
+      "correctAnswer": "1",
+      "explanation": "Multiplying any real number by 1 leaves it unchanged; using n = 2 already rules out the other proposed replacements."
+    },
+    {
+      "id": "HSPT-M14-002",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the value of √((−14)²)?",
+      "choices": {
+        "A": "−14",
+        "B": "14",
+        "C": "196",
+        "D": "−196"
+      },
+      "correct": "B",
+      "correctAnswer": "14",
+      "explanation": "Squaring −14 gives 196, and the radical sign denotes the nonnegative square root, so the result is 14 rather than −14."
+    },
+    {
+      "id": "HSPT-M14-003",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A decimal is formed by writing a 1, then one 0, then a 1, then two 0s, then a 1, then three 0s, and so on forever, increasing each zero run by one:\n0.101001000100001...\nWhich statement is correct?",
+      "choices": {
+        "A": "It is rational because all its digits follow a rule.",
+        "B": "It is rational because only two different digits occur.",
+        "C": "It is irrational because it never terminates or eventually repeats a fixed block.",
+        "D": "It is an integer because every digit is either 0 or 1."
+      },
+      "correct": "C",
+      "correctAnswer": "It is irrational because it never terminates or eventually repeats a fixed block.",
+      "explanation": "The zero runs grow without bound while 1s keep occurring, ruling out an eventually repeating block; a rule-generated decimal need not be rational."
+    },
+    {
+      "id": "HSPT-M14-004",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "The notation 6! means 1 × 2 × 3 × 4 × 5 × 6. Which listed number is NOT a factor of 6!?",
+      "choices": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "12"
+      },
+      "correct": "B",
+      "correctAnswer": "7",
+      "explanation": "The product is 720: 5, 9, and 12 divide it exactly, whereas 7 does not because no factor contributes a prime factor of 7."
+    },
+    {
+      "id": "HSPT-M14-005",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A function satisfies f(−x) = f(x) for every real x. If f(7) = 12, what is f(−7)?",
+      "choices": {
+        "A": "12",
+        "B": "−12",
+        "C": "7",
+        "D": "−7"
+      },
+      "correct": "A",
+      "correctAnswer": "12",
+      "explanation": "The given identity assigns the same output to opposite inputs; substituting x = 7 gives f(−7) = f(7) = 12."
+    },
+    {
+      "id": "HSPT-M14-006",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A rule sends x to 4x + 11. Which rule, applied to that output, always recovers the original x?",
+      "choices": {
+        "A": "Divide by 4, then subtract 11.",
+        "B": "Add 11, then divide by 4.",
+        "C": "Subtract 4, then divide by 11.",
+        "D": "Subtract 11, then divide by 4."
+      },
+      "correct": "D",
+      "correctAnswer": "Subtract 11, then divide by 4.",
+      "explanation": "Subtracting 11 reverses the final addition; dividing by 4 then reverses the multiplication, so ((4x + 11) − 11)/4 = x."
+    },
+    {
+      "id": "HSPT-M14-007",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For which real values of k does the equation (k − 2)x = k² − 4 have exactly one real solution for x?",
+      "choices": {
+        "A": "Every real k except −2",
+        "B": "Every real k except 2",
+        "C": "Every real k except −2 and 2",
+        "D": "Every real k, including 2"
+      },
+      "correct": "B",
+      "correctAnswer": "Every real k except 2",
+      "explanation": "When k ≠ 2, the nonzero coefficient gives one solution, x = k + 2. At k = 2, the equation becomes 0 = 0 and permits every x."
+    },
+    {
+      "id": "HSPT-M14-008",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "What is the least possible value of x² − 6x + 13 for real x?",
+      "choices": {
+        "A": "−5",
+        "B": "3",
+        "C": "4",
+        "D": "13"
+      },
+      "correct": "C",
+      "correctAnswer": "4",
+      "explanation": "Rewrite the expression as (x − 3)² + 4. The square cannot be negative and equals zero at x = 3, so the minimum is 4."
+    },
+    {
+      "id": "HSPT-M14-009",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "How many points do two distinct parallel planes have in common?",
+      "choices": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinitely many"
+      },
+      "correct": "A",
+      "correctAnswer": "0",
+      "explanation": "Distinct parallel planes do not intersect; any common point would contradict their being separate parallel planes, so they have no points in common."
+    },
+    {
+      "id": "HSPT-M14-010",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A right triangle has perpendicular legs 6 and 3 units long. A square sits at the right-angle vertex with two sides along the legs and its opposite vertex on the hypotenuse. What is the square's side length?",
+      "choices": {
+        "A": "1.5 units",
+        "B": "3 units",
+        "C": "4 units",
+        "D": "2 units"
+      },
+      "correct": "D",
+      "correctAnswer": "2 units",
+      "explanation": "With the legs on coordinate axes, the hypotenuse satisfies x/6 + y/3 = 1. The opposite square vertex is (s, s), giving s/2 = 1 and s = 2."
+    },
+    {
+      "id": "HSPT-M14-011",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Points A and B are at (−2, 0) and (4, 0). Which set consists of ALL points equally far from A and B?",
+      "choices": {
+        "A": "the horizontal line y = 0",
+        "B": "the circle centered at (1, 0) with radius 3",
+        "C": "the vertical line x = 1",
+        "D": "the line segment from A to B"
+      },
+      "correct": "C",
+      "correctAnswer": "the vertical line x = 1",
+      "explanation": "The midpoint is (1, 0), and all equidistant points lie on the perpendicular bisector of AB, the vertical line through that midpoint."
+    },
+    {
+      "id": "HSPT-M14-012",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Temperature readings satisfy C = (5/9)(F − 32). If a temperature falls by 18°F, by how many degrees Celsius does it fall?",
+      "choices": {
+        "A": "10°C",
+        "B": "18°C",
+        "C": "24°C",
+        "D": "50°C"
+      },
+      "correct": "A",
+      "correctAnswer": "10°C",
+      "explanation": "Subtracting the two conversion equations cancels the fixed 32 offset; the change is (5/9) × 18 = 10 degrees Celsius."
+    },
+    {
+      "id": "HSPT-M14-013",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "During each 20-second cycle, a nozzle sprays for 3 seconds and stays off for 17 seconds. While on, it delivers 2 milliliters per second. How much does it deliver during 2 minutes of complete cycles?",
+      "choices": {
+        "A": "36 milliliters",
+        "B": "12 milliliters",
+        "C": "18 milliliters",
+        "D": "240 milliliters"
+      },
+      "correct": "A",
+      "correctAnswer": "36 milliliters",
+      "explanation": "Two minutes contains 120/20 = 6 complete cycles; each delivers 3 × 2 = 6 milliliters, for 6 × 6 = 36 milliliters."
+    },
+    {
+      "id": "HSPT-M14-014",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A grower counts the blossoms on EVERY one of the 48 trees in an orchard. The target group is exactly those 48 trees. Which description fits this collection?",
+      "choices": {
+        "A": "a sample consisting of only some target trees",
+        "B": "an experiment that assigns trees to different treatments",
+        "C": "a prediction made without observing any target trees",
+        "D": "a census of the target group"
+      },
+      "correct": "D",
+      "correctAnswer": "a census of the target group",
+      "explanation": "Because every member of the defined target group is observed, the count is a census; neither partial selection nor an assigned treatment is described."
+    },
+    {
+      "id": "HSPT-M14-015",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A fair coin is tossed independently on each trial until the first tail appears or until three heads have appeared, whichever comes first. The complete possible records are T, HT, HHT, and HHH. What are their probabilities, respectively?",
+      "choices": {
+        "A": "1/4, 1/4, 1/4, 1/4",
+        "B": "1/2, 1/4, 1/8, 1/8",
+        "C": "1/2, 1/4, 1/4, 0",
+        "D": "1/8, 1/8, 1/4, 1/2"
+      },
+      "correct": "B",
+      "correctAnswer": "1/2, 1/4, 1/8, 1/8",
+      "explanation": "T requires one specified toss, HT two, and HHT or HHH three; their probabilities are (1/2), (1/2)², (1/2)³, and (1/2)³."
+    },
+    {
+      "id": "HSPT-M14-016",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Five real scores have a median of 8. Each score x is replaced by 20 − x. What is the new median?",
+      "choices": {
+        "A": "8",
+        "B": "20",
+        "C": "28",
+        "D": "12"
+      },
+      "correct": "D",
+      "correctAnswer": "12",
+      "explanation": "The replacement reverses the ordered list, but its middle observation stays in the middle; replacing that original middle value gives 20 − 8 = 12."
+    },
+    {
+      "id": "HSPT-M14-017",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "For a positive integer n, n! means the product of the integers from 1 through n. What is (8! + 7!)/7!?",
+      "choices": {
+        "A": "1",
+        "B": "8",
+        "C": "72",
+        "D": "9"
+      },
+      "correct": "D",
+      "correctAnswer": "9",
+      "explanation": "Since 8! = 8 × 7!, the numerator is (8 + 1) × 7!; dividing by 7! leaves 9 without computing either full product."
+    },
+    {
+      "id": "HSPT-M14-018",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "For positive numbers, round an exact halfway value upward. Round 2.46 first to the nearest tenth and then round that result to the nearest whole number. Compare this with rounding 2.46 directly to the nearest whole number. What are the results, respectively?",
+      "choices": {
+        "A": "3 and 2",
+        "B": "2 and 2",
+        "C": "2 and 3",
+        "D": "3 and 3"
+      },
+      "correct": "A",
+      "correctAnswer": "3 and 2",
+      "explanation": "Rounding 2.46 to tenths gives 2.5, which rounds upward to 3; direct rounding of 2.46 to a whole number gives 2."
+    },
+    {
+      "id": "HSPT-M14-019",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Percentage error is absolute error divided by the true value, times 100%. A length of 2 meters is reported as 2.2 meters; a length of 100 meters is reported as 105 meters. Which statement is correct?",
+      "choices": {
+        "A": "The first report has both the larger absolute error and the larger percentage error.",
+        "B": "The first report has the smaller absolute error but the larger percentage error.",
+        "C": "The second report has both the smaller absolute error and the smaller percentage error.",
+        "D": "The two reports have equal percentage errors because both are too large."
+      },
+      "correct": "B",
+      "correctAnswer": "The first report has the smaller absolute error but the larger percentage error.",
+      "explanation": "The absolute errors are 0.2 and 5 meters. Their percentage errors are (0.2/2) × 100% = 10% and (5/100) × 100% = 5%, reversing the ranking."
+    },
+    {
+      "id": "HSPT-M14-020",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The variable n counts the number of complete cable reels inspected during a shift. Which value can n have?",
+      "choices": {
+        "A": "−2",
+        "B": "1/2",
+        "C": "√2",
+        "D": "0"
+      },
+      "correct": "D",
+      "correctAnswer": "0",
+      "explanation": "A count of complete reels must be a nonnegative integer, including zero when none are inspected; the other choices are negative or nonintegral."
+    },
+    {
+      "id": "HSPT-M14-021",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A quadratic polynomial has leading coefficient 1 and zeros −2 and 5. Which polynomial is it?",
+      "choices": {
+        "A": "x² + 3x − 10",
+        "B": "x² − 7x + 10",
+        "C": "x² − 3x − 10",
+        "D": "x² + 7x + 10"
+      },
+      "correct": "C",
+      "correctAnswer": "x² − 3x − 10",
+      "explanation": "The required factors are (x + 2)(x − 5); expanding gives x² − 3x − 10, with the stated zeros and leading coefficient."
+    },
+    {
+      "id": "HSPT-M14-022",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "For which real x is (x + 1)/(x − 2) ≥ 1?",
+      "choices": {
+        "A": "x ≥ 2",
+        "B": "x < 2",
+        "C": "x > 2",
+        "D": "Every real x except 2"
+      },
+      "correct": "C",
+      "correctAnswer": "x > 2",
+      "explanation": "Subtracting 1 gives 3/(x − 2) ≥ 0. Its numerator is positive, so its denominator must be positive; x = 2 is undefined."
+    },
+    {
+      "id": "HSPT-M14-023",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A function uses f(x) = x + 2 when x < 0 and f(x) = 2x when x ≥ 0. Which inputs give f(x) = 1?",
+      "choices": {
+        "A": "−1 and 1/2",
+        "B": "Only −1",
+        "C": "Only 1/2",
+        "D": "−1 and 2"
+      },
+      "correct": "A",
+      "correctAnswer": "−1 and 1/2",
+      "explanation": "The negative branch gives x + 2 = 1, so x = −1; the nonnegative branch gives 2x = 1, so x = 1/2, and both satisfy their branch conditions."
+    },
+    {
+      "id": "HSPT-M14-024",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A triangle has a right angle and two equal legs. Which description must apply?",
+      "choices": {
+        "A": "right and scalene",
+        "B": "acute and isosceles",
+        "C": "obtuse and equilateral",
+        "D": "right and isosceles"
+      },
+      "correct": "D",
+      "correctAnswer": "right and isosceles",
+      "explanation": "The right angle determines the angle classification; the equal legs determine the side classification as isosceles, so both descriptions apply together."
+    },
+    {
+      "id": "HSPT-M14-025",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Rectangle A has horizontal coordinates from 0 to 8 and vertical coordinates from 0 to 5. Rectangle B has horizontal coordinates from 3 to 10 and vertical coordinates from 2 to 7. Their sides are parallel to the coordinate axes. What is their overlapping area?",
+      "choices": {
+        "A": "6 square units",
+        "B": "25 square units",
+        "C": "15 square units",
+        "D": "35 square units"
+      },
+      "correct": "C",
+      "correctAnswer": "15 square units",
+      "explanation": "The common horizontal interval is 3 to 8, of length 5; the common vertical interval is 2 to 5, of length 3, giving 5 × 3 = 15."
+    },
+    {
+      "id": "HSPT-M14-026",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A triangle has side lengths 9, 10, and 17 units and area 36 square units. A circle inside the triangle touches all three sides. What is its radius?",
+      "choices": {
+        "A": "1 unit",
+        "B": "2 units",
+        "C": "4 units",
+        "D": "18 units"
+      },
+      "correct": "B",
+      "correctAnswer": "2 units",
+      "explanation": "Joining the center to the vertices forms three triangles with height r; their areas total (1/2)r(9 + 10 + 17) = 18r = 36, so r = 2."
+    },
+    {
+      "id": "HSPT-M14-027",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A nonstretching thread is fitted along a curved line and then straightened against a ruler. One end is at 4 centimeters and the other at 13 centimeters. How long is the curved line?",
+      "choices": {
+        "A": "4 centimeters",
+        "B": "9 centimeters",
+        "C": "13 centimeters",
+        "D": "17 centimeters"
+      },
+      "correct": "B",
+      "correctAnswer": "9 centimeters",
+      "explanation": "The thread preserves the curved line's length when straightened; its ruler span is the difference 13 − 4 = 9 centimeters, not the final reading alone."
+    },
+    {
+      "id": "HSPT-M14-028",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A rectangular panel's actual length can be anywhere from 1.9 to 2.1 meters, inclusive, and its actual width anywhere from 2.9 to 3.1 meters, inclusive. No other constraint relates them. What is its greatest possible area?",
+      "choices": {
+        "A": "6.00 square meters",
+        "B": "6.21 square meters",
+        "C": "6.50 square meters",
+        "D": "6.51 square meters"
+      },
+      "correct": "D",
+      "correctAnswer": "6.51 square meters",
+      "explanation": "With both dimensions positive and independently allowed, area is greatest at both upper endpoints: 2.1 × 3.1 = 6.51 square meters."
+    },
+    {
+      "id": "HSPT-M14-029",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A distance counter displays whole meters using three digits. It counts upward from 000 to 999, then resets to 000. It reads 860 at the start and 140 at the end. It resets exactly twice during that interval. How far has it counted, in kilometers?",
+      "choices": {
+        "A": "1.28 kilometers",
+        "B": "0.28 kilometers",
+        "C": "2.28 kilometers",
+        "D": "2.14 kilometers"
+      },
+      "correct": "A",
+      "correctAnswer": "1.28 kilometers",
+      "explanation": "Two resets account for 2,000 meters of counter progression; adding the final reading and subtracting the initial gives 2,000 + 140 − 860 = 1,280 meters = 1.28 kilometers."
+    },
+    {
+      "id": "HSPT-M14-030",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "For each of 24 small meteorites, a researcher records both mass and volume. Which display best shows whether these two numerical measurements vary together?",
+      "choices": {
+        "A": "a pie chart showing the 24 meteorites as equal portions",
+        "B": "an alphabetical list containing only the meteorites' names",
+        "C": "a scatterplot with one point per meteorite, positioned by its mass and volume",
+        "D": "a bar chart showing only the total number of meteorites"
+      },
+      "correct": "C",
+      "correctAnswer": "a scatterplot with one point per meteorite, positioned by its mass and volume",
+      "explanation": "A scatterplot preserves both measurements for each object as a coordinate pair, allowing their relationship to be examined rather than discarding one or both measurements."
+    },
+    {
+      "id": "HSPT-M14-031",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "In these stem-and-leaf records, the stem is the whole-number part and the leaf is the tenths digit. Sample A has stem 4 with leaves 2, 4 and stem 5 with leaf 1. Sample B has stem 4 with leaves 4, 8 and stem 5 with leaf 0. Which measurement occurs in BOTH samples?",
+      "choices": {
+        "A": "4.2",
+        "B": "4.4",
+        "C": "4.8",
+        "D": "5.1"
+      },
+      "correct": "B",
+      "correctAnswer": "4.4",
+      "explanation": "Sample A represents 4.2, 4.4, and 5.1; Sample B represents 4.4, 4.8, and 5.0, so their common measurement is 4.4."
+    },
+    {
+      "id": "HSPT-M14-032",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Two fair six-sided dice are rolled independently. What is the probability that the larger of the two numbers is EXACTLY 4, including a tie of 4 and 4?",
+      "choices": {
+        "A": "7/36",
+        "B": "1/6",
+        "C": "1/4",
+        "D": "2/9"
+      },
+      "correct": "A",
+      "correctAnswer": "7/36",
+      "explanation": "There are 4² = 16 pairs with both numbers at most 4, and 3² = 9 with both at most 3; the difference gives 7 of 36 pairs."
+    },
+    {
+      "id": "HSPT-M14-033",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the sum of all the multiples of 6 from 6 through 120, inclusive?",
+      "choices": {
+        "A": "1200",
+        "B": "1260",
+        "C": "2520",
+        "D": "120"
+      },
+      "correct": "B",
+      "correctAnswer": "1260",
+      "explanation": "There are 20 terms. Pair the first with the last to make ten pairs of 126, giving 10 × 126 = 1260."
+    },
+    {
+      "id": "HSPT-M14-034",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "Which set contains ALL the integers whose reciprocals are also integers?",
+      "choices": {
+        "A": "{1}",
+        "B": "{−1, 1}",
+        "C": "All nonzero integers",
+        "D": "All negative integers"
+      },
+      "correct": "B",
+      "correctAnswer": "{−1, 1}",
+      "explanation": "The reciprocals of 1 and −1 are integers. Zero has no reciprocal, and integers with greater absolute value have noninteger reciprocals."
+    },
+    {
+      "id": "HSPT-M14-035",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A number has prime factorization 2³ × 5². How many of its positive divisors are perfect squares?",
+      "choices": {
+        "A": "3",
+        "B": "6",
+        "C": "4",
+        "D": "12"
+      },
+      "correct": "C",
+      "correctAnswer": "4",
+      "explanation": "Square divisors require even exponents. The exponent of 2 can be 0 or 2, and that of 5 can be 0 or 2: four choices."
+    },
+    {
+      "id": "HSPT-M14-036",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "What is the value of (1/2 + 1/3) ÷ (1/2 − 1/3)?",
+      "choices": {
+        "A": "1",
+        "B": "1/5",
+        "C": "5/6",
+        "D": "5"
+      },
+      "correct": "D",
+      "correctAnswer": "5",
+      "explanation": "The numerator is 5/6 and the denominator is 1/6. Dividing 5/6 by 1/6 gives 5."
+    },
+    {
+      "id": "HSPT-M14-037",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The degree of a polynomial in one variable is its highest exponent with a nonzero coefficient. What is the degree of 6x⁵ + x² − 4?",
+      "choices": {
+        "A": "3",
+        "B": "5",
+        "C": "6",
+        "D": "2"
+      },
+      "correct": "B",
+      "correctAnswer": "5",
+      "explanation": "The nonzero terms have exponents 5, 2, and 0. The greatest exponent is 5, regardless of the coefficients."
+    },
+    {
+      "id": "HSPT-M14-038",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "The same real number t satisfies x = t + 2 and y = 2t − 1. Which equation relates x and y for every possible t?",
+      "choices": {
+        "A": "y = 2x − 5",
+        "B": "y = 2x + 3",
+        "C": "y = x − 3",
+        "D": "y = 2x − 1"
+      },
+      "correct": "A",
+      "correctAnswer": "y = 2x − 5",
+      "explanation": "From x = t + 2, obtain t = x − 2. Substitution gives y = 2(x − 2) − 1 = 2x − 5."
+    },
+    {
+      "id": "HSPT-M14-039",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Stand P requires 3 metal bars and 1 panel. Stand Q requires 1 metal bar and 2 panels. A workshop has 13 bars and 11 panels. What is the greatest total number of complete stands it can make?",
+      "choices": {
+        "A": "6",
+        "B": "8",
+        "C": "7",
+        "D": "11"
+      },
+      "correct": "C",
+      "correctAnswer": "7",
+      "explanation": "Three P and four Q use 13 bars and 11 panels. Eight stands would require at most two P by the bar limit but at least five P by the panel limit."
+    },
+    {
+      "id": "HSPT-M14-040",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "When (2x − 3)(x² + 5x + 7) is expanded, what is the constant term, the term containing no x?",
+      "choices": {
+        "A": "−21",
+        "B": "21",
+        "C": "14",
+        "D": "−15"
+      },
+      "correct": "A",
+      "correctAnswer": "−21",
+      "explanation": "Only the two constant terms can produce a term without x. Their product is −3 × 7 = −21."
+    },
+    {
+      "id": "HSPT-M14-041",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Which flat shape can be rolled without stretching or twisting, with one pair of opposite edges joined, to form the curved surface of a cylinder open at both ends?",
+      "choices": {
+        "A": "A triangle",
+        "B": "A semicircle",
+        "C": "A rectangle",
+        "D": "A regular pentagon"
+      },
+      "correct": "C",
+      "correctAnswer": "A rectangle",
+      "explanation": "Joining opposite edges of a rectangle makes one dimension the circumference and the other the height of an open cylinder."
+    },
+    {
+      "id": "HSPT-M14-042",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A circle has radius 6 units. Two radii form a 90° sector, and a straight chord joins their endpoints on the circle. What is the area between that chord and the smaller arc?",
+      "choices": {
+        "A": "9π + 18 square units",
+        "B": "18π − 18 square units",
+        "C": "36π − 18 square units",
+        "D": "9π − 18 square units"
+      },
+      "correct": "D",
+      "correctAnswer": "9π − 18 square units",
+      "explanation": "The quarter-circle sector has area 9π. Its right triangle has area 6 × 6 ÷ 2 = 18; subtract to obtain 9π − 18."
+    },
+    {
+      "id": "HSPT-M14-043",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "What is the shortest distance from the point (8, 0) to the line y = x + 2?",
+      "choices": {
+        "A": "5 units",
+        "B": "5√2 units",
+        "C": "10 units",
+        "D": "10√2 units"
+      },
+      "correct": "B",
+      "correctAnswer": "5√2 units",
+      "explanation": "The perpendicular through (8, 0) is y = −x + 8. It meets the given line at (3, 5), whose distance from (8, 0) is √50 = 5√2."
+    },
+    {
+      "id": "HSPT-M14-044",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A road's grade is 100 times its vertical rise divided by its horizontal run, with both lengths in the same unit. A road rises 18 meters over a horizontal run of 0.45 kilometer. What is its grade?",
+      "choices": {
+        "A": "0.04%",
+        "B": "40%",
+        "C": "4000%",
+        "D": "4%"
+      },
+      "correct": "D",
+      "correctAnswer": "4%",
+      "explanation": "Convert 0.45 kilometer to 450 meters. The grade is 100 × 18 ÷ 450 = 4%."
+    },
+    {
+      "id": "HSPT-M14-045",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A hollow plastic tube is 10 cm long, with outer radius 1 cm and uniform wall thickness 2 mm. It has no end caps. Each cubic centimeter of plastic has a mass of 1.5 grams. What is the tube's mass?",
+      "choices": {
+        "A": "15π grams",
+        "B": "9.6π grams",
+        "C": "14.4π grams",
+        "D": "5.4π grams"
+      },
+      "correct": "D",
+      "correctAnswer": "5.4π grams",
+      "explanation": "The inner radius is 1 − 0.2 = 0.8 cm. Plastic volume is π(1² − 0.8²) × 10 = 3.6π cm³; multiply by 1.5 to obtain 5.4π grams."
+    },
+    {
+      "id": "HSPT-M14-046",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Which set consists of categories with a natural order from a lower level to a higher level?",
+      "choices": {
+        "A": "Service ratings: poor, fair, good, excellent",
+        "B": "Paint colors: blue, gray, yellow",
+        "C": "Bolt identification codes: A09, B15, C30",
+        "D": "Tree species: elm, fir, ash"
+      },
+      "correct": "A",
+      "correctAnswer": "Service ratings: poor, fair, good, excellent",
+      "explanation": "The service ratings represent increasing levels of quality. Colors, identification codes, and species do not inherently rank levels."
+    },
+    {
+      "id": "HSPT-M14-047",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Five distinct pennants labeled A, B, C, D, and E are placed in a uniformly random order. What is the probability that A appears before B and B before C? They need not be adjacent.",
+      "choices": {
+        "A": "1/3",
+        "B": "1/10",
+        "C": "1/6",
+        "D": "1/60"
+      },
+      "correct": "C",
+      "correctAnswer": "1/6",
+      "explanation": "The three specified pennants have six equally likely relative orders, regardless of D and E. Exactly one order is A, then B, then C."
+    },
+    {
+      "id": "HSPT-M14-048",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A fair spinner has four equal sectors, exactly one red. For 20 independent spins, Jae claims, \"There must be exactly five red results.\" Which response is correct?",
+      "choices": {
+        "A": "Five is the expected count, but the observed count can be different.",
+        "B": "Exactly five is guaranteed because expected counts are always observed.",
+        "C": "There must be 20 red results because every spin uses a spinner with a red sector.",
+        "D": "Any red count other than five proves that the spinner is unfair."
+      },
+      "correct": "A",
+      "correctAnswer": "Five is the expected count, but the observed count can be different.",
+      "explanation": "The expected count is 20 × 1/4 = 5, but randomness allows other counts, including no red results."
+    },
+    {
+      "id": "HSPT-M14-049",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "A student claims that different decimal strings always represent different real numbers. Which pair disproves that claim? Dots indicate an infinite repetition of the shown pattern.",
+      "choices": {
+        "A": "0.121212... and 0.12",
+        "B": "1.010101... and 1.01",
+        "C": "0.999... and 1",
+        "D": "0.5 and 0.05"
+      },
+      "correct": "C",
+      "correctAnswer": "0.999... and 1",
+      "explanation": "The infinite decimal 0.999... equals 1, giving two representations of one number. The other pairs differ by truncation or place value."
+    },
+    {
+      "id": "HSPT-M14-050",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "For a real number x, the value 3x + 2 is irrational. Which statement must be true?",
+      "choices": {
+        "A": "x is rational.",
+        "B": "x is an integer.",
+        "C": "3x is an integer.",
+        "D": "x is irrational."
+      },
+      "correct": "D",
+      "correctAnswer": "x is irrational.",
+      "explanation": "If x were rational, multiplying by 3 and adding 2 would remain rational. Therefore x must be irrational."
+    },
+    {
+      "id": "HSPT-M14-051",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Numbers and Numeration",
+      "prompt": "How many positive integers n make (n + 12)/n an integer?",
+      "choices": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "12"
+      },
+      "correct": "C",
+      "correctAnswer": "6",
+      "explanation": "The quotient equals 1 + 12/n, so n must divide 12. Its positive possibilities are 1, 2, 3, 4, 6, and 12."
+    },
+    {
+      "id": "HSPT-M14-052",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A monomial is a product of a constant and variables raised to nonnegative integer powers. Which expression is a monomial?",
+      "choices": {
+        "A": "7/x",
+        "B": "7x²y",
+        "C": "x + y",
+        "D": "√x"
+      },
+      "correct": "B",
+      "correctAnswer": "7x²y",
+      "explanation": "The expression 7x²y is one product with exponents 2 and 1. The alternatives involve a variable denominator, a sum, or a fractional power."
+    },
+    {
+      "id": "HSPT-M14-053",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "Two drone-inspection plans charge by flight time m, in minutes. Plan A costs 12 + 3m dollars; Plan B costs 6m dollars. For which flight times is Plan A strictly cheaper?",
+      "choices": {
+        "A": "m < 4",
+        "B": "m > 4",
+        "C": "m ≥ 4",
+        "D": "m > 2"
+      },
+      "correct": "B",
+      "correctAnswer": "m > 4",
+      "explanation": "Require 12 + 3m < 6m. Subtract 3m and divide by 3 to obtain m > 4; at 4 minutes the costs are equal."
+    },
+    {
+      "id": "HSPT-M14-054",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A function satisfies f(u + v) = f(u) + f(v) for all real u and v, and f(1) = 6. What is f(5/3)?",
+      "choices": {
+        "A": "6",
+        "B": "18",
+        "C": "30",
+        "D": "10"
+      },
+      "correct": "D",
+      "correctAnswer": "10",
+      "explanation": "Adding five copies of 1 gives f(5) = 30. Adding three copies of 5/3 gives 3f(5/3) = f(5), so f(5/3) = 10."
+    },
+    {
+      "id": "HSPT-M14-055",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Algebra",
+      "prompt": "A real number x must satisfy BOTH 2x + 1 > 9 and 3x − 2 ≤ 7. Which statement describes the full solution set?",
+      "choices": {
+        "A": "No real value satisfies both inequalities.",
+        "B": "Every real value greater than 4 satisfies both.",
+        "C": "Every real value at most 3 satisfies both.",
+        "D": "Exactly the real values with 3 < x ≤ 4 satisfy both."
+      },
+      "correct": "A",
+      "correctAnswer": "No real value satisfies both inequalities.",
+      "explanation": "The first inequality requires x > 4, while the second requires x ≤ 3. Those intervals have no common values."
+    },
+    {
+      "id": "HSPT-M14-056",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Which condition must every regular polygon satisfy?",
+      "choices": {
+        "A": "All its sides are equal and all its interior angles are equal.",
+        "B": "Its sides are equal, but its angles may differ.",
+        "C": "Its angles are equal, but its side lengths may differ.",
+        "D": "Its opposite sides are parallel, regardless of its other properties."
+      },
+      "correct": "A",
+      "correctAnswer": "All its sides are equal and all its interior angles are equal.",
+      "explanation": "A regular polygon is both equilateral and equiangular; either condition alone permits polygons that are not regular."
+    },
+    {
+      "id": "HSPT-M14-057",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "Chords AB and CD intersect at P inside a circle. Their segment lengths satisfy AP × PB = CP × PD. If AP = 3, PB = 8, and CP = 4, what is PD?",
+      "choices": {
+        "A": "2 units",
+        "B": "6 units",
+        "C": "11 units",
+        "D": "12 units"
+      },
+      "correct": "B",
+      "correctAnswer": "6 units",
+      "explanation": "The first chord's segment product is 3 × 8 = 24. Thus 4 × PD = 24, giving PD = 6 units."
+    },
+    {
+      "id": "HSPT-M14-058",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Geometry",
+      "prompt": "A kite has perpendicular diagonals in the ratio 2:3 and an area of 48 square units. Its area equals half the product of its diagonals. How long is the shorter diagonal?",
+      "choices": {
+        "A": "4 units",
+        "B": "8 units",
+        "C": "12 units",
+        "D": "16 units"
+      },
+      "correct": "B",
+      "correctAnswer": "8 units",
+      "explanation": "Write the diagonals as 2k and 3k. Their area is 3k² = 48, so k = 4 and the shorter diagonal is 2k = 8."
+    },
+    {
+      "id": "HSPT-M14-059",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "Which 24-hour clock reading represents 12:07 a.m., seven minutes after midnight?",
+      "choices": {
+        "A": "00:07",
+        "B": "12:07",
+        "C": "24:07",
+        "D": "07:00"
+      },
+      "correct": "A",
+      "correctAnswer": "00:07",
+      "explanation": "The hour immediately after midnight is written 00 in 24-hour notation; seven minutes after midnight is therefore 00:07."
+    },
+    {
+      "id": "HSPT-M14-060",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "An original map uses 1 centimeter to represent 40 meters. A photocopy enlarges every printed length to 250% of its original length. On the photocopy, 1 centimeter represents how many meters?",
+      "choices": {
+        "A": "16 meters",
+        "B": "100 meters",
+        "C": "40 meters",
+        "D": "10 meters"
+      },
+      "correct": "A",
+      "correctAnswer": "16 meters",
+      "explanation": "The original 1-centimeter distance becomes 2.5 centimeters while still representing 40 meters. Each new centimeter represents 40 ÷ 2.5 = 16 meters."
+    },
+    {
+      "id": "HSPT-M14-061",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Measurement",
+      "prompt": "A sonar transducer is 0.6 meter below the water surface. A pulse travels vertically to the bottom and returns after 80 milliseconds. Sound travels 1,500 meters per second in the water. What is the total water depth?",
+      "choices": {
+        "A": "120.6 meters",
+        "B": "60 meters",
+        "C": "59.4 meters",
+        "D": "60.6 meters"
+      },
+      "correct": "D",
+      "correctAnswer": "60.6 meters",
+      "explanation": "The round trip lasts 0.08 second and covers 120 meters. Half is 60 meters below the transducer; adding its 0.6-meter depth gives 60.6 meters."
+    },
+    {
+      "id": "HSPT-M14-062",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "A modal category has the greatest frequency. Three categories have frequencies X: 4, Y: k, and Z: 6. For which positive integer k are there exactly two modal categories?",
+      "choices": {
+        "A": "4",
+        "B": "7",
+        "C": "6",
+        "D": "9"
+      },
+      "correct": "C",
+      "correctAnswer": "6",
+      "explanation": "Exactly two modes require Y to tie Z at the greatest frequency, 6. A tie at 4 would remain below Z."
+    },
+    {
+      "id": "HSPT-M14-063",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Two archers record hits and attempts at two ranges.\nArcher A: near, 9 hits in 10 attempts; far, 30 hits in 60 attempts.\nArcher B: near, 72 hits in 90 attempts; far, 4 hits in 10 attempts.\nWhich comparison of hit percentages is correct?",
+      "choices": {
+        "A": "A has the higher percentage at each range and overall.",
+        "B": "B has the higher percentage at each range and overall.",
+        "C": "B has the higher percentage at each range; A has the higher percentage overall.",
+        "D": "A has the higher percentage at each range; B has the higher percentage overall."
+      },
+      "correct": "D",
+      "correctAnswer": "A has the higher percentage at each range; B has the higher percentage overall.",
+      "explanation": "A leads 90% to 80% near and 50% to 40% far. Overall A has 39/70, about 55.7%, while B has 76/100 = 76%."
+    },
+    {
+      "id": "HSPT-M14-064",
+      "itemType": "mcq_single",
+      "section": "Mathematics",
+      "category": "Mathematics",
+      "skill": "Statistics, Data, or Basic Probability",
+      "prompt": "Three portraits labeled P, Q, and R are each given one of three nameplates marked P, Q, and R. All six assignments are equally likely. What is the probability that no portrait receives its correct nameplate?",
+      "choices": {
+        "A": "1/6",
+        "B": "1/2",
+        "C": "1/3",
+        "D": "5/6"
+      },
+      "correct": "C",
+      "correctAnswer": "1/3",
+      "explanation": "Of the six assignments, only QRP and RPQ place every nameplate incorrectly on portraits P, Q, R. The probability is 2/6 = 1/3."
+    }
+  ]
+}

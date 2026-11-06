@@ -1,0 +1,1069 @@
+{
+  "title": "HSPT Language Practice Test 15",
+  "examFamily": "hspt",
+  "examNumber": 15,
+  "section": "Language",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-L15-001",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence places a matched pair of parentheses around ONLY the item label a?",
+      "choices": {
+        "A": "Choose item (a) from the list.",
+        "B": "Choose item a) from the list.",
+        "C": "Choose item (a from the list).",
+        "D": "Choose item (a from the list."
+      },
+      "correct": "A",
+      "correctAnswer": "Choose item (a) from the list.",
+      "explanation": "The opening and closing parentheses must immediately surround the label a; enclosing additional words or omitting a mark fails that requirement."
+    },
+    {
+      "id": "HSPT-L15-002",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "These original lines are quoted within one line of prose. Which version uses the standard mark for the line break?\nThe lamps go out\nthe harbor waits",
+      "choices": {
+        "A": "\"The lamps go out, the harbor waits\"",
+        "B": "\"The lamps go out / the harbor waits\"",
+        "C": "\"The lamps go out ... the harbor waits\"",
+        "D": "\"The lamps go out: the harbor waits\""
+      },
+      "correct": "B",
+      "correctAnswer": "\"The lamps go out / the harbor waits\"",
+      "explanation": "A spaced slash marks a poetry line break when lines are quoted within prose; an ellipsis would instead suggest omitted material."
+    },
+    {
+      "id": "HSPT-L15-003",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which reference uses standard punctuation to mean EVERY page from 18 through 24?",
+      "choices": {
+        "A": "pages 18:24",
+        "B": "pages 18;24",
+        "C": "pages 18–24",
+        "D": "pages 18, 24"
+      },
+      "correct": "C",
+      "correctAnswer": "pages 18–24",
+      "explanation": "The range dash connects the endpoints of an inclusive page span; a comma names separate pages rather than every intervening page."
+    },
+    {
+      "id": "HSPT-L15-004",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "A company styles its name eBay. Which sentence preserves that capitalization within a sentence?",
+      "choices": {
+        "A": "I found the listing on Ebay.",
+        "B": "I found the listing on eBay.",
+        "C": "I found the listing on EBay.",
+        "D": "I found the listing on ebay."
+      },
+      "correct": "B",
+      "correctAnswer": "I found the listing on eBay.",
+      "explanation": "The supplied proper name uses a lowercase e followed by an uppercase B; its internal capitalization remains eBay within the sentence."
+    },
+    {
+      "id": "HSPT-L15-005",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Use headline-style capitalization, including the first word of a subtitle. Which form is correct?",
+      "choices": {
+        "A": "Night Routes: a Guide to the Back Roads",
+        "B": "Night Routes: A Guide To The Back Roads",
+        "C": "Night routes: A guide to the back roads",
+        "D": "Night Routes: A Guide to the Back Roads"
+      },
+      "correct": "D",
+      "correctAnswer": "Night Routes: A Guide to the Back Roads",
+      "explanation": "The subtitle begins with capital A even though it is an article; interior to and the remain lowercase while principal words are capitalized."
+    },
+    {
+      "id": "HSPT-L15-006",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names a small baked bread or pastry?",
+      "choices": {
+        "A": "bisquit",
+        "B": "biscuit",
+        "C": "biscut",
+        "D": "biscuitte"
+      },
+      "correct": "B",
+      "correctAnswer": "biscuit",
+      "explanation": "Biscuit retains the sc and uit sequences; the alternatives substitute q, omit an i, or add an unnecessary ending."
+    },
+    {
+      "id": "HSPT-L15-007",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly names an individual's distinctive personal peculiarity?",
+      "choices": {
+        "A": "idiosyncracy",
+        "B": "ideosyncrasy",
+        "C": "idiosyncrasy",
+        "D": "idiosincrasy"
+      },
+      "correct": "C",
+      "correctAnswer": "idiosyncrasy",
+      "explanation": "Idiosyncrasy begins with idio, uses y in syn, and ends in crasy rather than cracy; each alternative changes one of those elements."
+    },
+    {
+      "id": "HSPT-L15-008",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the pair that correctly completes the sentence.\nSeveral unusual ___ were recorded, but only one ___ was explained.",
+      "choices": {
+        "A": "phenomenon; phenomena",
+        "B": "phenomena; phenomena",
+        "C": "phenomena; phenomenon",
+        "D": "phenomenon; phenomenon"
+      },
+      "correct": "C",
+      "correctAnswer": "phenomena; phenomenon",
+      "explanation": "Phenomena is plural and follows several; phenomenon is singular and follows one. The two forms cannot be interchanged or used indiscriminately."
+    },
+    {
+      "id": "HSPT-L15-009",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the word that correctly begins this inverted conditional sentence.\n___ the projector fail, we can use the printed charts instead.",
+      "choices": {
+        "A": "Would",
+        "B": "Had",
+        "C": "Were",
+        "D": "Should"
+      },
+      "correct": "D",
+      "correctAnswer": "Should",
+      "explanation": "Should the projector fail means if the projector should fail; should permits this conditional inversion with the base verb fail."
+    },
+    {
+      "id": "HSPT-L15-010",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the standard verb phrase that states Zora's current knowledge.\nZora ___ the combination to her own suitcase.",
+      "choices": {
+        "A": "is knowing",
+        "B": "know",
+        "C": "has knew",
+        "D": "knows"
+      },
+      "correct": "D",
+      "correctAnswer": "knows",
+      "explanation": "Know describes a state here and normally takes the simple present. Knows also agrees with Zora; the other forms misuse aspect, agreement, or participles."
+    },
+    {
+      "id": "HSPT-L15-011",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence in formal English.\nThe grant may ___ the expense, while the long distance could ___ against participation.",
+      "choices": {
+        "A": "mitigate; militate",
+        "B": "militate; mitigate",
+        "C": "mitigate; mitigate",
+        "D": "militate; militate"
+      },
+      "correct": "A",
+      "correctAnswer": "mitigate; militate",
+      "explanation": "Mitigate means lessen a burden; militate against means operate as a factor opposing something, here participation despite the grant."
+    },
+    {
+      "id": "HSPT-L15-012",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "The ceremony requires a particular opening and forbids advertising. Choose the pair that correctly completes the sentence.\nIts rules ___ a specific opening formula and ___ promotional messages.",
+      "choices": {
+        "A": "prescribe; proscribe",
+        "B": "proscribe; prescribe",
+        "C": "prescribe; prescribe",
+        "D": "proscribe; proscribe"
+      },
+      "correct": "A",
+      "correctAnswer": "prescribe; proscribe",
+      "explanation": "Prescribe means specify or require a practice; proscribe means forbid it. The opening is required, while promotional messages are banned."
+    },
+    {
+      "id": "HSPT-L15-013",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which title best represents the passage's limited proposal?",
+      "choices": {
+        "A": "Why Every Obsolete Word Should Return to Daily Speech",
+        "B": "How to Replace Modern Words with Older Ones",
+        "C": "Why Dictionary Space Never Runs Out",
+        "D": "Why Selected Older Words Still Belong in a Dictionary"
+      },
+      "correct": "D",
+      "correctAnswer": "Why Selected Older Words Still Belong in a Dictionary",
+      "explanation": "The proposal retains selected older entries to aid understanding; it does not urge universal revival, replacement of modern words, or unlimited space.",
+      "stimulusId": "HSPT-L15-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Keeping a Few Old Words",
+      "stimulusText": "(1) A learner's dictionary can help readers by retaining a selected number of obsolete words. (2) An obsolete word has passed out of ordinary current use, but it may still appear in an older letter or poem. (3) A marked entry can help a reader understand that text. (4) Recording the word does not require recommending it for a new email. (5) Space is limited, so current words must remain easy to find. (6) For that reason, every obsolete word deserves the same space as a common current one. (7) Selection should depend on how useful an older entry is likely to be for the dictionary's readers. (8) The goal is to support understanding of earlier language while keeping the guide useful for present-day communication."
+    },
+    {
+      "id": "HSPT-L15-014",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence added after sentence 5 would concede the concern about space while preserving the main proposal?",
+      "choices": {
+        "A": "A learner's dictionary should give current words most of its space, even if it retains a few older ones.",
+        "B": "Limited space means that every older word must be excluded.",
+        "C": "Older words should replace all current entries to make more room.",
+        "D": "An entry's usefulness to readers need never affect its inclusion."
+      },
+      "correct": "A",
+      "correctAnswer": "A learner's dictionary should give current words most of its space, even if it retains a few older ones.",
+      "explanation": "The sentence accepts priority for current vocabulary while allowing a limited older selection; the alternatives abandon the proposal or contradict its selection principle.",
+      "stimulusId": "HSPT-L15-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Keeping a Few Old Words",
+      "stimulusText": "(1) A learner's dictionary can help readers by retaining a selected number of obsolete words. (2) An obsolete word has passed out of ordinary current use, but it may still appear in an older letter or poem. (3) A marked entry can help a reader understand that text. (4) Recording the word does not require recommending it for a new email. (5) Space is limited, so current words must remain easy to find. (6) For that reason, every obsolete word deserves the same space as a common current one. (7) Selection should depend on how useful an older entry is likely to be for the dictionary's readers. (8) The goal is to support understanding of earlier language while keeping the guide useful for present-day communication."
+    },
+    {
+      "id": "HSPT-L15-015",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision of sentence 6 best removes its overstatement while maintaining the passage's purpose?",
+      "choices": {
+        "A": "Every word, however rarely encountered, should receive an equally long entry.",
+        "B": "Only words that everyone uses daily can help any reader.",
+        "C": "A limited selection of older entries can be useful when their value to readers justifies the space.",
+        "D": "A dictionary can recommend older words only by removing all modern ones."
+      },
+      "correct": "C",
+      "correctAnswer": "A limited selection of older entries can be useful when their value to readers justifies the space.",
+      "explanation": "The revision makes inclusion selective and useful to readers, consistent with sentences 1 and 7, instead of granting every obsolete word equal space.",
+      "stimulusId": "HSPT-L15-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Keeping a Few Old Words",
+      "stimulusText": "(1) A learner's dictionary can help readers by retaining a selected number of obsolete words. (2) An obsolete word has passed out of ordinary current use, but it may still appear in an older letter or poem. (3) A marked entry can help a reader understand that text. (4) Recording the word does not require recommending it for a new email. (5) Space is limited, so current words must remain easy to find. (6) For that reason, every obsolete word deserves the same space as a common current one. (7) Selection should depend on how useful an older entry is likely to be for the dictionary's readers. (8) The goal is to support understanding of earlier language while keeping the guide useful for present-day communication."
+    },
+    {
+      "id": "HSPT-L15-016",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly punctuates a direct question quoted within a statement?",
+      "choices": {
+        "A": "The guide asked, \"Which path reaches the saddle first\"?",
+        "B": "The guide asked? \"Which path reaches the saddle first.\"",
+        "C": "The guide asked, \"Which path reaches the saddle first.\"?",
+        "D": "The guide asked, \"Which path reaches the saddle first?\""
+      },
+      "correct": "D",
+      "correctAnswer": "The guide asked, \"Which path reaches the saddle first?\"",
+      "explanation": "The quoted words themselves form a question, so their question mark belongs inside the closing quotation mark."
+    },
+    {
+      "id": "HSPT-L15-017",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly punctuates one quoted sentence interrupted by the speaker's identification?",
+      "choices": {
+        "A": "\"The ink.\" the engraver said, \"will dry unevenly.\"",
+        "B": "\"The ink,\" the engraver said, \"will dry unevenly.\"",
+        "C": "\"The ink,\" the engraver said \"will dry unevenly.\"",
+        "D": "\"The ink,\" the engraver said; \"will dry unevenly.\""
+      },
+      "correct": "B",
+      "correctAnswer": "\"The ink,\" the engraver said, \"will dry unevenly.\"",
+      "explanation": "Commas mark the interruption, and will stays lowercase because the quotation continues the same sentence after the speaker identification."
+    },
+    {
+      "id": "HSPT-L15-018",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly distinguishes the planet's name from a common word for soil?",
+      "choices": {
+        "A": "From earth, the probe carried a small sealed sample of Earth.",
+        "B": "From Earth, the probe carried a small sealed sample of earth.",
+        "C": "From Earth, the probe carried a small sealed sample of Earth.",
+        "D": "From earth, the probe carried a small sealed sample of earth."
+      },
+      "correct": "B",
+      "correctAnswer": "From Earth, the probe carried a small sealed sample of earth.",
+      "explanation": "Earth is capitalized as the planet's proper name; earth meaning soil is a common noun and remains lowercase."
+    },
+    {
+      "id": "HSPT-L15-019",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes a US region while leaving a compass direction lowercase?",
+      "choices": {
+        "A": "They traveled south to study traditional crafts in the South.",
+        "B": "They traveled South to study traditional crafts in the south.",
+        "C": "They traveled South to study traditional crafts in the South.",
+        "D": "They traveled south to study traditional crafts in the south."
+      },
+      "correct": "A",
+      "correctAnswer": "They traveled south to study traditional crafts in the South.",
+      "explanation": "South is capitalized when naming a recognized US region; south indicating a direction of travel remains lowercase."
+    },
+    {
+      "id": "HSPT-L15-020",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correct spelling of the singular noun for a plant with thick, water-storing stems.",
+      "choices": {
+        "A": "caktus",
+        "B": "cactuss",
+        "C": "cactis",
+        "D": "cactus"
+      },
+      "correct": "D",
+      "correctAnswer": "cactus",
+      "explanation": "Cactus is the standard spelling of the singular noun; the alternatives change its consonants or the final syllable."
+    },
+    {
+      "id": "HSPT-L15-021",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled verb: \"The craftsperson will ___ the blade before carrying it.\"",
+      "choices": {
+        "A": "sheeth",
+        "B": "sheathe",
+        "C": "sheatth",
+        "D": "shethe"
+      },
+      "correct": "B",
+      "correctAnswer": "sheathe",
+      "explanation": "The verb meaning to put a blade into its protective covering is spelled sheathe, with ea and a final e."
+    },
+    {
+      "id": "HSPT-L15-022",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence? \"The joyful music was sure to ___ the listeners.\"",
+      "choices": {
+        "A": "exhilerate",
+        "B": "exhiliarate",
+        "C": "exhillarate",
+        "D": "exhilarate"
+      },
+      "correct": "D",
+      "correctAnswer": "exhilarate",
+      "explanation": "Exhilarate, meaning to make someone feel excited or cheerful, uses ilar after exh and contains only one l."
+    },
+    {
+      "id": "HSPT-L15-023",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the form that correctly completes the sentence: \"The technicians let the small glider ___ freely along the wire.\"",
+      "choices": {
+        "A": "to drift",
+        "B": "drift",
+        "C": "drifting",
+        "D": "drifts"
+      },
+      "correct": "B",
+      "correctAnswer": "drift",
+      "explanation": "After let followed by an object, the next verb takes its base form without to: let the glider drift."
+    },
+    {
+      "id": "HSPT-L15-024",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the completion that avoids a misplaced modifier: \"Suspended from four cables, ___.\"",
+      "choices": {
+        "A": "the operators watched the platform carefully",
+        "B": "the motor controlled the height of the platform",
+        "C": "the platform remained level above the water",
+        "D": "the inspector checked the platform from the pier"
+      },
+      "correct": "C",
+      "correctAnswer": "the platform remained level above the water",
+      "explanation": "The opening phrase describes what is suspended, so the platform must be the subject immediately following that phrase."
+    },
+    {
+      "id": "HSPT-L15-025",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence correctly reports the question \"Why did the clock stop?\" after \"Nobody knows\"?",
+      "choices": {
+        "A": "Nobody knows why the clock stopped.",
+        "B": "Nobody knows why did the clock stop.",
+        "C": "Nobody knows why the clock did stopped.",
+        "D": "Nobody knows why stopped the clock."
+      },
+      "correct": "A",
+      "correctAnswer": "Nobody knows why the clock stopped.",
+      "explanation": "An embedded question uses statement word order and the ordinary past-tense verb stopped, rather than direct-question inversion with did."
+    },
+    {
+      "id": "HSPT-L15-026",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence uses DISINTERESTED specifically to mean impartial, rather than bored or inattentive?",
+      "choices": {
+        "A": "Disinterested in the dull broadcast, Arlo switched off the radio.",
+        "B": "The disinterested audience stopped listening and began to yawn.",
+        "C": "With no stake in either side's success, the disinterested referee considered both claims carefully.",
+        "D": "Too disinterested to finish the puzzle, Mina left it untouched."
+      },
+      "correct": "C",
+      "correctAnswer": "With no stake in either side's success, the disinterested referee considered both claims carefully.",
+      "explanation": "Having no stake in either side's success establishes impartiality; attentive consideration also distinguishes that meaning from boredom or lack of interest."
+    },
+    {
+      "id": "HSPT-L15-027",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "An editor removes restricted details from a report. A committee formally condemns an official's conduct. Which pair correctly describes these different actions? \"The editor will ___ the report; the committee will ___ the official.\"",
+      "choices": {
+        "A": "censure; censor",
+        "B": "censor; censor",
+        "C": "censor; censure",
+        "D": "censure; censure"
+      },
+      "correct": "C",
+      "correctAnswer": "censor; censure",
+      "explanation": "Censor means suppress restricted material; censure means formally express strong disapproval of someone's conduct."
+    },
+    {
+      "id": "HSPT-L15-028",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence should be removed because it does not contribute to the passage's focus?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 8",
+        "D": "Sentence 7"
+      },
+      "correct": "D",
+      "correctAnswer": "Sentence 7",
+      "explanation": "Sentence 7 concerns poster colors rather than testing sound equipment under realistic conditions, so it interrupts the passage's focus.",
+      "stimulusId": "HSPT-L15-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Sound Check That Finds Trouble",
+      "stimulusText": "(1) A sound check should test the equipment in conditions close to those of the coming performance. (2) First, the operator connects each microphone to the channel that will carry it during the event. (3) The performer then speaks from the position that will actually be used. (4) A test from beside the control desk may miss problems caused by the performer's distance from a speaker. (5) The operator listens for unwanted noise. (6) The operator also checks whether ordinary speech is clear. (7) Many concert posters use bright colors to attract attention. (8) After adjustments, the performer repeats the test without changing position. (9) Changing several conditions at once can make it difficult to identify what corrected a problem."
+    },
+    {
+      "id": "HSPT-L15-029",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision best combines sentences 5 and 6 while preserving both checks?",
+      "choices": {
+        "A": "The operator listens for unwanted noise and checks whether ordinary speech is clear.",
+        "B": "Because speech is always clear, the operator listens only for unwanted noise.",
+        "C": "The operator listens for noise instead of checking ordinary speech.",
+        "D": "If unwanted noise stops, the operator no longer needs to test speech."
+      },
+      "correct": "A",
+      "correctAnswer": "The operator listens for unwanted noise and checks whether ordinary speech is clear.",
+      "explanation": "The revision retains both parallel checking actions without adding an unsupported cause, replacing one check, or making either check unnecessary.",
+      "stimulusId": "HSPT-L15-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Sound Check That Finds Trouble",
+      "stimulusText": "(1) A sound check should test the equipment in conditions close to those of the coming performance. (2) First, the operator connects each microphone to the channel that will carry it during the event. (3) The performer then speaks from the position that will actually be used. (4) A test from beside the control desk may miss problems caused by the performer's distance from a speaker. (5) The operator listens for unwanted noise. (6) The operator also checks whether ordinary speech is clear. (7) Many concert posters use bright colors to attract attention. (8) After adjustments, the performer repeats the test without changing position. (9) Changing several conditions at once can make it difficult to identify what corrected a problem."
+    },
+    {
+      "id": "HSPT-L15-030",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Where should this sentence be inserted? \"Keeping the same position makes the before-and-after comparison more useful.\"",
+      "choices": {
+        "A": "After sentence 8",
+        "B": "After sentence 1",
+        "C": "After sentence 2",
+        "D": "After sentence 5"
+      },
+      "correct": "A",
+      "correctAnswer": "After sentence 8",
+      "explanation": "Sentence 8 introduces repeating the test without changing position; the added sentence explains that choice before sentence 9 warns against multiple changes.",
+      "stimulusId": "HSPT-L15-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Sound Check That Finds Trouble",
+      "stimulusText": "(1) A sound check should test the equipment in conditions close to those of the coming performance. (2) First, the operator connects each microphone to the channel that will carry it during the event. (3) The performer then speaks from the position that will actually be used. (4) A test from beside the control desk may miss problems caused by the performer's distance from a speaker. (5) The operator listens for unwanted noise. (6) The operator also checks whether ordinary speech is clear. (7) Many concert posters use bright colors to attract attention. (8) After adjustments, the performer repeats the test without changing position. (9) Changing several conditions at once can make it difficult to identify what corrected a problem."
+    },
+    {
+      "id": "HSPT-L15-031",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Two pilots each have a flight bag. Which phrase correctly shows that the bags belong to those pilots?",
+      "choices": {
+        "A": "the pilots' flight bags",
+        "B": "the pilot's flight bags",
+        "C": "the pilots flight bag's",
+        "D": "the pilots' flight bag's"
+      },
+      "correct": "A",
+      "correctAnswer": "the pilots' flight bags",
+      "explanation": "The owners are plural pilots, so the possessive apostrophe follows their final s; bags is an ordinary plural without an apostrophe."
+    },
+    {
+      "id": "HSPT-L15-032",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which version correctly joins the independent clauses with the transition however?",
+      "choices": {
+        "A": "The channel was narrow, however, the barge passed safely.",
+        "B": "The channel was narrow; however the barge passed safely.",
+        "C": "The channel was narrow however; the barge passed safely.",
+        "D": "The channel was narrow; however, the barge passed safely."
+      },
+      "correct": "D",
+      "correctAnswer": "The channel was narrow; however, the barge passed safely.",
+      "explanation": "A semicolon separates the independent clauses, and a comma follows however when it introduces the second clause."
+    },
+    {
+      "id": "HSPT-L15-033",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence most clearly separates three destinations when each city is followed by its state?",
+      "choices": {
+        "A": "The route includes Dover; Delaware, Salem; Oregon, and Helena; Montana.",
+        "B": "The route includes Dover, Delaware; Salem; Oregon, and Helena, Montana.",
+        "C": "The route includes Dover, Delaware; Salem, Oregon; and Helena, Montana.",
+        "D": "The route includes Dover Delaware; Salem Oregon; and Helena Montana."
+      },
+      "correct": "C",
+      "correctAnswer": "The route includes Dover, Delaware; Salem, Oregon; and Helena, Montana.",
+      "explanation": "Commas connect each city with its state, while semicolons separate the three list items that already contain commas."
+    },
+    {
+      "id": "HSPT-L15-034",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the name of a language?",
+      "choices": {
+        "A": "The crew spoke italian while crossing the canal.",
+        "B": "The Crew spoke italian while crossing the canal.",
+        "C": "The crew Spoke italian while crossing the canal.",
+        "D": "The crew spoke Italian while crossing the canal."
+      },
+      "correct": "D",
+      "correctAnswer": "The crew spoke Italian while crossing the canal.",
+      "explanation": "Names of languages are proper nouns and are capitalized; crew, spoke, and canal are ordinary words in this sentence."
+    },
+    {
+      "id": "HSPT-L15-035",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which phrase correctly distinguishes a named historical period from a century description?",
+      "choices": {
+        "A": "renaissance art from the Fifteenth Century",
+        "B": "Renaissance art from the fifteenth century",
+        "C": "Renaissance art from the Fifteenth century",
+        "D": "renaissance Art from the fifteenth Century"
+      },
+      "correct": "B",
+      "correctAnswer": "Renaissance art from the fifteenth century",
+      "explanation": "Renaissance names a historical period and is capitalized; a general century description such as fifteenth century remains lowercase."
+    },
+    {
+      "id": "HSPT-L15-036",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correct spelling for the musical instrument played by expanding and compressing bellows.",
+      "choices": {
+        "A": "accordian",
+        "B": "accordion",
+        "C": "acordion",
+        "D": "accordeon"
+      },
+      "correct": "B",
+      "correctAnswer": "accordion",
+      "explanation": "The standard US English spelling is accordion, with two c's and the ending ion rather than ian or eon."
+    },
+    {
+      "id": "HSPT-L15-037",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence? \"A period of one thousand years is a ___.\"",
+      "choices": {
+        "A": "millennium",
+        "B": "millenium",
+        "C": "milennium",
+        "D": "milleniumm"
+      },
+      "correct": "A",
+      "correctAnswer": "millennium",
+      "explanation": "Millennium, a period of one thousand years, contains both a double l and a double n before its final ium."
+    },
+    {
+      "id": "HSPT-L15-038",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the grammatically correct comparison: \"With the new rollers, the drawer moves ___ than before.\"",
+      "choices": {
+        "A": "more smoother",
+        "B": "most smoothly",
+        "C": "more smoothly",
+        "D": "smoothliest"
+      },
+      "correct": "C",
+      "correctAnswer": "more smoothly",
+      "explanation": "Smoothly forms its comparative with more; the sentence compares two conditions, so neither a double comparative nor a superlative fits."
+    },
+    {
+      "id": "HSPT-L15-039",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the verb that agrees with the subject: \"All but one of the channels ___ clear.\"",
+      "choices": {
+        "A": "are",
+        "B": "is",
+        "C": "was",
+        "D": "has been"
+      },
+      "correct": "A",
+      "correctAnswer": "are",
+      "explanation": "All refers to the remaining channels, a plural subject; but one excludes an item without making the subject singular."
+    },
+    {
+      "id": "HSPT-L15-040",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the correct pronoun: \"The award should go to ___ the panel believes has made the strongest contribution.\"",
+      "choices": {
+        "A": "whomever",
+        "B": "whose",
+        "C": "whoever",
+        "D": "whom"
+      },
+      "correct": "C",
+      "correctAnswer": "whoever",
+      "explanation": "Whoever is the subject of has made within its clause; the entire clause, not that pronoun alone, follows the preposition to."
+    },
+    {
+      "id": "HSPT-L15-041",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the word meaning an upward climb: \"The final ___ to the ridge took an hour.\"",
+      "choices": {
+        "A": "assent",
+        "B": "accent",
+        "C": "ascent",
+        "D": "access"
+      },
+      "correct": "C",
+      "correctAnswer": "ascent",
+      "explanation": "Ascent means an upward climb; assent means agreement, accent concerns pronunciation or emphasis, and access means a means of entry."
+    },
+    {
+      "id": "HSPT-L15-042",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The earlier decision established a ___; in the new plan, safety takes ___ over the timetable.\"",
+      "choices": {
+        "A": "precedent; precedence",
+        "B": "precedence; precedent",
+        "C": "precedent; precedent",
+        "D": "precedence; precedence"
+      },
+      "correct": "A",
+      "correctAnswer": "precedent; precedence",
+      "explanation": "A precedent is an earlier example that guides a later decision; precedence means priority over a competing concern."
+    },
+    {
+      "id": "HSPT-L15-043",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "The path has many bends, and the prolonged noise is painfully unpleasant. Which pair states these meanings precisely? \"The path is ___; the noise is ___.\"",
+      "choices": {
+        "A": "torturous; tortuous",
+        "B": "tortuous; tortuous",
+        "C": "torturous; torturous",
+        "D": "tortuous; torturous"
+      },
+      "correct": "D",
+      "correctAnswer": "tortuous; torturous",
+      "explanation": "Tortuous describes twisting or winding; torturous describes something causing severe discomfort, so the path and noise require different adjectives."
+    },
+    {
+      "id": "HSPT-L15-044",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which transition best fills the blank in sentence 6?",
+      "choices": {
+        "A": "Similarly",
+        "B": "However",
+        "C": "For example",
+        "D": "As a result"
+      },
+      "correct": "B",
+      "correctAnswer": "However",
+      "explanation": "However introduces a limit on the preceding benefit: optional notes help readers, but essential steps must remain in the main explanation.",
+      "stimulusId": "HSPT-L15-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Two Routes Through a Page",
+      "stimulusText": "(1) A footnote can provide a useful second path through an explanation. (2) The main text presents the central idea, while a note may supply the origin of a term or an extra example. (3) Readers who need only the main explanation can continue without stopping. (4) Curious readers can follow the note and then return to the same place. (5) This arrangement offers a choice about how much detail to explore. (6) ___, an essential step should not appear only in a footnote. (7) If skipping that step makes the main explanation impossible to follow, the note no longer provides an optional path. (8) The writer should move that necessary information into the main text."
+    },
+    {
+      "id": "HSPT-L15-045",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence would best conclude this passage?",
+      "choices": {
+        "A": "Readers should always skip every note they encounter.",
+        "B": "A useful footnote adds depth while leaving a complete route through the main explanation.",
+        "C": "All examples and definitions belong outside the main text.",
+        "D": "A page becomes clearer whenever more of its explanation is hidden below it."
+      },
+      "correct": "B",
+      "correctAnswer": "A useful footnote adds depth while leaving a complete route through the main explanation.",
+      "explanation": "The conclusion combines the note's optional added detail with the requirement that the main explanation remain understandable without it.",
+      "stimulusId": "HSPT-L15-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "Two Routes Through a Page",
+      "stimulusText": "(1) A footnote can provide a useful second path through an explanation. (2) The main text presents the central idea, while a note may supply the origin of a term or an extra example. (3) Readers who need only the main explanation can continue without stopping. (4) Curious readers can follow the note and then return to the same place. (5) This arrangement offers a choice about how much detail to explore. (6) ___, an essential step should not appear only in a footnote. (7) If skipping that step makes the main explanation impossible to follow, the note no longer provides an optional path. (8) The writer should move that necessary information into the main text."
+    },
+    {
+      "id": "HSPT-L15-046",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly punctuates the introductory phrase and the list of colors?",
+      "choices": {
+        "A": "To create, the tint mix red white, and a touch of blue.",
+        "B": "To create the tint mix, red, white, and a touch of blue.",
+        "C": "To create the tint, mix red, white, and a touch of blue.",
+        "D": "To create the tint, mix red white and, a touch of blue."
+      },
+      "correct": "C",
+      "correctAnswer": "To create the tint, mix red, white, and a touch of blue.",
+      "explanation": "A comma closes the introductory phrase, and commas separate the three objects being mixed without separating the verb from its objects."
+    },
+    {
+      "id": "HSPT-L15-047",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly uses a colon to introduce a list?",
+      "choices": {
+        "A": "The stencil requires: a knife, a mat, and a ruler.",
+        "B": "The three required tools are: a knife, a mat, and a ruler.",
+        "C": "The stencil requires three tools: a knife, a mat, and a ruler.",
+        "D": "For this stencil, use: a knife, a mat, and a ruler."
+      },
+      "correct": "C",
+      "correctAnswer": "The stencil requires three tools: a knife, a mat, and a ruler.",
+      "explanation": "The correct colon follows a complete clause; the other versions put it directly between a verb and the objects or complement it needs."
+    },
+    {
+      "id": "HSPT-L15-048",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence correctly capitalizes the holiday and day names?",
+      "choices": {
+        "A": "The ferry runs on labor day but not every Monday.",
+        "B": "The ferry runs on Labor day but not every monday.",
+        "C": "The Ferry runs on labor Day but not every monday.",
+        "D": "The ferry runs on Labor Day but not every Monday."
+      },
+      "correct": "D",
+      "correctAnswer": "The ferry runs on Labor Day but not every Monday.",
+      "explanation": "Labor Day is a holiday name and Monday is a day name, so both are capitalized; ferry remains a common noun."
+    },
+    {
+      "id": "HSPT-L15-049",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which version correctly capitalizes the geographic names?",
+      "choices": {
+        "A": "They crossed the strait of Gibraltar before entering the Mediterranean sea.",
+        "B": "They crossed the Strait of Gibraltar before entering the Mediterranean Sea.",
+        "C": "They crossed the Strait Of Gibraltar before entering the Mediterranean Sea.",
+        "D": "They crossed the Strait of gibraltar before entering the mediterranean Sea."
+      },
+      "correct": "B",
+      "correctAnswer": "They crossed the Strait of Gibraltar before entering the Mediterranean Sea.",
+      "explanation": "The full geographic names capitalize Strait, Gibraltar, Mediterranean, and Sea; the connecting preposition of remains lowercase."
+    },
+    {
+      "id": "HSPT-L15-050",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word for an open-sided roofed structure used for shelter or gatherings.",
+      "choices": {
+        "A": "pavillion",
+        "B": "pavilan",
+        "C": "pavilon",
+        "D": "pavilion"
+      },
+      "correct": "D",
+      "correctAnswer": "pavilion",
+      "explanation": "Pavilion is spelled with one l and the ending ion; the alternatives add a letter or omit required vowels."
+    },
+    {
+      "id": "HSPT-L15-051",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which spelling correctly completes the sentence? \"The confectioner sprinkled a chopped ___ over the pastry.\"",
+      "choices": {
+        "A": "pistacio",
+        "B": "pistachio",
+        "C": "pistachoe",
+        "D": "pistachiao"
+      },
+      "correct": "B",
+      "correctAnswer": "pistachio",
+      "explanation": "Pistachio, the name of the nut, includes ch and ends in io rather than oe or iao."
+    },
+    {
+      "id": "HSPT-L15-052",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which word uses the standard US English spelling?",
+      "choices": {
+        "A": "zucchini",
+        "B": "zuchini",
+        "C": "zuccini",
+        "D": "zucchinni"
+      },
+      "correct": "A",
+      "correctAnswer": "zucchini",
+      "explanation": "Zucchini contains two c's followed by h and only one n; the alternatives omit or double the wrong consonant."
+    },
+    {
+      "id": "HSPT-L15-053",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the correct verb form: \"By morning, the last leaf had ___ from the branch.\"",
+      "choices": {
+        "A": "fell",
+        "B": "fall",
+        "C": "falling",
+        "D": "fallen"
+      },
+      "correct": "D",
+      "correctAnswer": "fallen",
+      "explanation": "Had requires a past participle; fallen is the past participle of fall, whereas fell is its simple past form."
+    },
+    {
+      "id": "HSPT-L15-054",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the verb that agrees with the subject: \"Two thirds of the cement ___ still wet.\"",
+      "choices": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "correct": "B",
+      "correctAnswer": "is",
+      "explanation": "The fraction refers to cement, an uncountable substance, so it takes singular agreement: two thirds of the cement is wet."
+    },
+    {
+      "id": "HSPT-L15-055",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence uses the correct word order after the limiting phrase Only after?",
+      "choices": {
+        "A": "Only after the bridge opened traffic did resume.",
+        "B": "Only after the bridge opened did resume traffic.",
+        "C": "Only after the bridge opened did traffic resume.",
+        "D": "Only after the bridge opened traffic resume did."
+      },
+      "correct": "C",
+      "correctAnswer": "Only after the bridge opened did traffic resume.",
+      "explanation": "Fronted Only after requires auxiliary-subject inversion in the main clause: did comes before traffic, while resume follows the subject."
+    },
+    {
+      "id": "HSPT-L15-056",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that correctly completes the sentence: \"The magazine published the story as a ___; breakfast included ___ and milk.\"",
+      "choices": {
+        "A": "serial; cereal",
+        "B": "cereal; serial",
+        "C": "serial; serial",
+        "D": "cereal; cereal"
+      },
+      "correct": "A",
+      "correctAnswer": "serial; cereal",
+      "explanation": "A serial appears in installments; cereal is a grain-based food commonly eaten with milk, so the two contexts require different homophones."
+    },
+    {
+      "id": "HSPT-L15-057",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the correct pair: \"The farm sells its milk through a ___; the traveler records each day's events in a ___.\"",
+      "choices": {
+        "A": "diary; dairy",
+        "B": "dairy; dairy",
+        "C": "diary; diary",
+        "D": "dairy; diary"
+      },
+      "correct": "D",
+      "correctAnswer": "dairy; diary",
+      "explanation": "A dairy handles milk or milk products, while a diary is a personal record of daily events."
+    },
+    {
+      "id": "HSPT-L15-058",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the pair that completes the sentence precisely: \"The exhibition covers the full ___ of styles; the unexpected opening offer was a negotiating ___.\"",
+      "choices": {
+        "A": "gamut; gambit",
+        "B": "gambit; gamut",
+        "C": "gamut; gamut",
+        "D": "gambit; gambit"
+      },
+      "correct": "A",
+      "correctAnswer": "gamut; gambit",
+      "explanation": "Gamut means a complete range; gambit means an opening move or calculated maneuver intended to gain an advantage."
+    },
+    {
+      "id": "HSPT-L15-059",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which topic sentence best belongs in sentence 1?",
+      "choices": {
+        "A": "A pottery wheel should always be cleaned with a dry cloth.",
+        "B": "Readers should ignore the opening once a story has ended.",
+        "C": "Returning to a familiar image in a changed state can give a story's ending a sense of completion.",
+        "D": "Every completed story must describe a finished pot."
+      },
+      "correct": "C",
+      "correctAnswer": "Returning to a familiar image in a changed state can give a story's ending a sense of completion.",
+      "explanation": "The passage explains how a changed closing image connects with an opening image; the pottery details illustrate that general writing technique.",
+      "stimulusId": "HSPT-L15-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Return with a Difference",
+      "stimulusText": "(1) [Topic sentence goes here.] (2) That later mark gains meaning because readers can compare it with the untouched material shown earlier. (3) For example, a story opens with an untouched lump of clay resting on a pottery wheel. (4) At the end, a ring of dried clay remains on the wheel, but the lump has gone. (5) Readers can infer that the character has begun working, even if a completed pot is never described. (6) The return to a familiar object gives the ending a connection to the opening. (7) Repeating the first image without any change, however, might suggest that nothing has happened. (8) The writer should therefore consider what the altered image lets readers understand."
+    },
+    {
+      "id": "HSPT-L15-060",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which order of sentences 2, 3, and 4 most clearly introduces the example, shows its change, and then explains that change's significance?",
+      "choices": {
+        "A": "3, 4, 2",
+        "B": "2, 4, 3",
+        "C": "4, 2, 3",
+        "D": "3, 2, 4"
+      },
+      "correct": "A",
+      "correctAnswer": "3, 4, 2",
+      "explanation": "Sentence 3 establishes the initial clay, sentence 4 presents the later mark, and sentence 2 interprets that mark by comparison.",
+      "stimulusId": "HSPT-L15-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Return with a Difference",
+      "stimulusText": "(1) [Topic sentence goes here.] (2) That later mark gains meaning because readers can compare it with the untouched material shown earlier. (3) For example, a story opens with an untouched lump of clay resting on a pottery wheel. (4) At the end, a ring of dried clay remains on the wheel, but the lump has gone. (5) Readers can infer that the character has begun working, even if a completed pot is never described. (6) The return to a familiar object gives the ending a connection to the opening. (7) Repeating the first image without any change, however, might suggest that nothing has happened. (8) The writer should therefore consider what the altered image lets readers understand."
+    }
+  ]
+}

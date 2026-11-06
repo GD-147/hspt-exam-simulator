@@ -1,0 +1,1029 @@
+{
+  "title": "HSPT Verbal Skills Practice Test 11",
+  "examFamily": "hspt",
+  "examNumber": 11,
+  "section": "Verbal Skills",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-V11-001",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to concur?",
+      "choices": {
+        "A": "hesitate",
+        "B": "predict",
+        "C": "agree",
+        "D": "complain"
+      },
+      "correct": "C",
+      "correctAnswer": "agree",
+      "explanation": "To concur is to agree with another person or share the same judgment about something."
+    },
+    {
+      "id": "HSPT-V11-002",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to frugal?",
+      "choices": {
+        "A": "fearful",
+        "B": "economical",
+        "C": "polished",
+        "D": "fortunate"
+      },
+      "correct": "B",
+      "correctAnswer": "economical",
+      "explanation": "A frugal person uses money or other resources economically, taking care to avoid unnecessary spending."
+    },
+    {
+      "id": "HSPT-V11-003",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to sporadic?",
+      "choices": {
+        "A": "irregular",
+        "B": "widespread",
+        "C": "continuous",
+        "D": "deliberate"
+      },
+      "correct": "A",
+      "correctAnswer": "irregular",
+      "explanation": "Sporadic events occur at irregular intervals rather than continuously or according to a consistent schedule."
+    },
+    {
+      "id": "HSPT-V11-004",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to literal, as in a literal interpretation?",
+      "choices": {
+        "A": "accurate",
+        "B": "written",
+        "C": "detailed",
+        "D": "figurative"
+      },
+      "correct": "D",
+      "correctAnswer": "figurative",
+      "explanation": "A literal interpretation follows the exact words, whereas a figurative interpretation recognizes meaning beyond their direct sense."
+    },
+    {
+      "id": "HSPT-V11-005",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to cumbersome?",
+      "choices": {
+        "A": "bulky",
+        "B": "manageable",
+        "C": "awkward",
+        "D": "complicated"
+      },
+      "correct": "B",
+      "correctAnswer": "manageable",
+      "explanation": "Something cumbersome is awkward or difficult to handle; something manageable can be handled without such difficulty."
+    },
+    {
+      "id": "HSPT-V11-006",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to deferential?",
+      "choices": {
+        "A": "defiant",
+        "B": "courteous",
+        "C": "respectful",
+        "D": "obedient"
+      },
+      "correct": "A",
+      "correctAnswer": "defiant",
+      "explanation": "Deferential behavior shows respectful submission to another person, while defiant behavior openly resists that person's authority."
+    },
+    {
+      "id": "HSPT-V11-007",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Encore is to performance as postscript is to ____.",
+      "choices": {
+        "A": "envelope",
+        "B": "salutation",
+        "C": "letter",
+        "D": "address"
+      },
+      "correct": "C",
+      "correctAnswer": "letter",
+      "explanation": "An encore follows a completed performance, just as a postscript is an addition after the main text of a letter."
+    },
+    {
+      "id": "HSPT-V11-008",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Forecast is to future as recollection is to ____.",
+      "choices": {
+        "A": "past",
+        "B": "possibility",
+        "C": "plan",
+        "D": "warning"
+      },
+      "correct": "A",
+      "correctAnswer": "past",
+      "explanation": "A forecast concerns what may happen in the future; a recollection concerns something that happened in the past."
+    },
+    {
+      "id": "HSPT-V11-009",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Veto is to proposal as cancellation is to ____.",
+      "choices": {
+        "A": "refund",
+        "B": "postponement",
+        "C": "notification",
+        "D": "reservation"
+      },
+      "correct": "D",
+      "correctAnswer": "reservation",
+      "explanation": "A veto prevents a proposal from taking effect, just as a cancellation prevents a reservation from remaining in effect."
+    },
+    {
+      "id": "HSPT-V11-010",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with hinge, swivel, and pivot as a feature that permits rotation?",
+      "choices": {
+        "A": "rivet",
+        "B": "axle",
+        "C": "clamp",
+        "D": "brace"
+      },
+      "correct": "B",
+      "correctAnswer": "axle",
+      "explanation": "An axle supports rotation, matching the movement permitted by a hinge, swivel, or pivot rather than fixing parts rigidly."
+    },
+    {
+      "id": "HSPT-V11-011",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Three choices describe communication without spoken words. Which choice does not belong?",
+      "choices": {
+        "A": "gesture",
+        "B": "nod",
+        "C": "mutter",
+        "D": "wink"
+      },
+      "correct": "C",
+      "correctAnswer": "mutter",
+      "explanation": "To mutter is to speak quietly, whereas gestures, nods, and winks can communicate without spoken words."
+    },
+    {
+      "id": "HSPT-V11-012",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "An auction, a barter, and a purchase all belong to which broad category?",
+      "choices": {
+        "A": "transactions",
+        "B": "financial institutions",
+        "C": "ownership documents",
+        "D": "price reductions"
+      },
+      "correct": "A",
+      "correctAnswer": "transactions",
+      "explanation": "Each is a transaction involving an exchange, although the method of setting terms or making payment differs."
+    },
+    {
+      "id": "HSPT-V11-013",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "An envelope is in exactly one of three drawers: top, middle, or bottom. The labels read:\nTop: \"The envelope is not in this drawer.\"\nMiddle: \"The envelope is in the top drawer.\"\nBottom: \"The envelope is not in the middle drawer.\"\nExactly one label is true. Where is the envelope?",
+      "choices": {
+        "A": "the top drawer",
+        "B": "the middle drawer",
+        "C": "the bottom drawer",
+        "D": "Its location cannot be determined."
+      },
+      "correct": "B",
+      "correctAnswer": "the middle drawer",
+      "explanation": "Only a middle-drawer envelope makes exactly one label true: the top label; either other location makes two labels true."
+    },
+    {
+      "id": "HSPT-V11-014",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Ada, Bo, Cy, and Di sit around a circular table. Ada sits opposite Cy. Bo sits immediately clockwise from Ada. Who sits immediately clockwise from Cy?",
+      "choices": {
+        "A": "Ada",
+        "B": "Bo",
+        "C": "Di",
+        "D": "It cannot be determined."
+      },
+      "correct": "C",
+      "correctAnswer": "Di",
+      "explanation": "The clockwise seating order must be Ada, Bo, Cy, Di, so Di sits immediately clockwise from Cy."
+    },
+    {
+      "id": "HSPT-V11-015",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A costume shop claims, \"Every garment labeled WOOL is washed by hand.\" Which observation would show that the claim is false?",
+      "choices": {
+        "A": "An unlabeled garment is washed by hand.",
+        "B": "A garment labeled WOOL is washed by hand.",
+        "C": "An unlabeled garment is washed in a machine.",
+        "D": "A garment labeled WOOL is washed in a machine."
+      },
+      "correct": "D",
+      "correctAnswer": "A garment labeled WOOL is washed in a machine.",
+      "explanation": "A wool-labeled garment washed by machine directly violates the claimed requirement; observations about unlabeled garments do not."
+    },
+    {
+      "id": "HSPT-V11-016",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to tangible?",
+      "choices": {
+        "A": "touchable",
+        "B": "imaginary",
+        "C": "suitable",
+        "D": "memorable"
+      },
+      "correct": "A",
+      "correctAnswer": "touchable",
+      "explanation": "Something tangible has a physical form that can be touched, rather than existing only as an idea."
+    },
+    {
+      "id": "HSPT-V11-017",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to replenish?",
+      "choices": {
+        "A": "inspect",
+        "B": "refill",
+        "C": "polish",
+        "D": "distribute"
+      },
+      "correct": "B",
+      "correctAnswer": "refill",
+      "explanation": "To replenish a supply is to refill it or restore the amount available after some has been used."
+    },
+    {
+      "id": "HSPT-V11-018",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to cursory?",
+      "choices": {
+        "A": "thorough",
+        "B": "superficial",
+        "C": "habitual",
+        "D": "skeptical"
+      },
+      "correct": "B",
+      "correctAnswer": "superficial",
+      "explanation": "A cursory examination is quick and superficial, giving a subject little detailed attention rather than examining it thoroughly."
+    },
+    {
+      "id": "HSPT-V11-019",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to gregarious?",
+      "choices": {
+        "A": "sociable",
+        "B": "talkative",
+        "C": "welcoming",
+        "D": "solitary"
+      },
+      "correct": "D",
+      "correctAnswer": "solitary",
+      "explanation": "A gregarious person seeks others' company, while a solitary person tends to spend time apart from others."
+    },
+    {
+      "id": "HSPT-V11-020",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to expendable?",
+      "choices": {
+        "A": "replaceable",
+        "B": "disposable",
+        "C": "optional",
+        "D": "essential"
+      },
+      "correct": "D",
+      "correctAnswer": "essential",
+      "explanation": "Something expendable can be sacrificed or dispensed with; something essential is necessary and cannot readily be given up."
+    },
+    {
+      "id": "HSPT-V11-021",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to stagnant, as in stagnant water?",
+      "choices": {
+        "A": "shallow",
+        "B": "muddy",
+        "C": "flowing",
+        "D": "chilly"
+      },
+      "correct": "C",
+      "correctAnswer": "flowing",
+      "explanation": "Stagnant water remains still rather than moving, so flowing directly opposes the meaning established by the phrase."
+    },
+    {
+      "id": "HSPT-V11-022",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Oasis is to desert as clearing is to ____.",
+      "choices": {
+        "A": "forest",
+        "B": "meadow",
+        "C": "path",
+        "D": "shore"
+      },
+      "correct": "A",
+      "correctAnswer": "forest",
+      "explanation": "An oasis interrupts a dry desert landscape, just as a clearing interrupts the tree cover of a forest."
+    },
+    {
+      "id": "HSPT-V11-023",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Inscription is to stone as embroidery is to ____.",
+      "choices": {
+        "A": "needle",
+        "B": "stitch",
+        "C": "pattern",
+        "D": "cloth"
+      },
+      "correct": "D",
+      "correctAnswer": "cloth",
+      "explanation": "An inscription is worked onto a stone surface, while embroidery is worked onto a cloth surface."
+    },
+    {
+      "id": "HSPT-V11-024",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Duplicate is to original as echo is to ____.",
+      "choices": {
+        "A": "silence",
+        "B": "sound",
+        "C": "cavern",
+        "D": "distance"
+      },
+      "correct": "B",
+      "correctAnswer": "sound",
+      "explanation": "A duplicate reproduces an original, just as an echo reproduces a sound after it has been made."
+    },
+    {
+      "id": "HSPT-V11-025",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with refund, rebate, and reimbursement as a return of money?",
+      "choices": {
+        "A": "quotation",
+        "B": "surcharge",
+        "C": "repayment",
+        "D": "invoice"
+      },
+      "correct": "C",
+      "correctAnswer": "repayment",
+      "explanation": "A repayment returns money, matching the return involved in a refund, rebate, or reimbursement rather than a charge or request."
+    },
+    {
+      "id": "HSPT-V11-026",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which group consists entirely of verbs meaning to join separate things?",
+      "choices": {
+        "A": "splice, sever, fuse",
+        "B": "scatter, merge, split",
+        "C": "splice, merge, fuse",
+        "D": "divide, detach, combine"
+      },
+      "correct": "C",
+      "correctAnswer": "splice, merge, fuse",
+      "explanation": "Splice, merge, and fuse all bring separate things together; each other group includes actions that separate things."
+    },
+    {
+      "id": "HSPT-V11-027",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which material belongs to both groups: materials used to make containers, and materials that can melt into a liquid when heated?",
+      "choices": {
+        "A": "paper",
+        "B": "cotton",
+        "C": "glass",
+        "D": "wood"
+      },
+      "correct": "C",
+      "correctAnswer": "glass",
+      "explanation": "Glass can form containers and melt into a liquid; paper, cotton, and wood ordinarily burn or decompose rather than melt."
+    },
+    {
+      "id": "HSPT-V11-028",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Every object labeled FRAGILE requires cushioning. All of a studio's clay models have blue tags. Which additional rule would guarantee that every clay model requires cushioning?",
+      "choices": {
+        "A": "Every object with a blue tag is labeled FRAGILE.",
+        "B": "Every object labeled FRAGILE has a blue tag.",
+        "C": "Some objects with blue tags are labeled FRAGILE.",
+        "D": "Every cushioned object has a blue tag."
+      },
+      "correct": "A",
+      "correctAnswer": "Every object with a blue tag is labeled FRAGILE.",
+      "explanation": "Requiring all blue-tagged objects to be labeled FRAGILE connects every clay model to the stated cushioning requirement."
+    },
+    {
+      "id": "HSPT-V11-029",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A repair procedure requires soldering before sealing and sealing before testing. Which additional requirement would make the procedure impossible to complete in order?",
+      "choices": {
+        "A": "Cleaning must occur before soldering.",
+        "B": "Testing must occur before soldering.",
+        "C": "Labeling must occur after testing.",
+        "D": "Soldering must occur before labeling."
+      },
+      "correct": "B",
+      "correctAnswer": "Testing must occur before soldering.",
+      "explanation": "Putting testing before soldering creates a cycle: soldering must precede sealing, sealing must precede testing, and testing must precede soldering."
+    },
+    {
+      "id": "HSPT-V11-030",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Hana and Ivo stand directly facing each other. A cabinet is beside Hana on her left. As Ivo looks toward Hana, on which side of Ivo is the cabinet?",
+      "choices": {
+        "A": "his left",
+        "B": "directly behind him",
+        "C": "directly in front of him",
+        "D": "his right"
+      },
+      "correct": "D",
+      "correctAnswer": "his right",
+      "explanation": "People facing one another have opposite left-right orientations, so Hana's left is on Ivo's right."
+    },
+    {
+      "id": "HSPT-V11-031",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to jubilant?",
+      "choices": {
+        "A": "overjoyed",
+        "B": "weary",
+        "C": "uncertain",
+        "D": "resentful"
+      },
+      "correct": "A",
+      "correctAnswer": "overjoyed",
+      "explanation": "Jubilant describes great happiness or triumph, so overjoyed expresses the same strong positive feeling rather than a different mood."
+    },
+    {
+      "id": "HSPT-V11-032",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to aloof?",
+      "choices": {
+        "A": "helpful",
+        "B": "detached",
+        "C": "enthusiastic",
+        "D": "jealous"
+      },
+      "correct": "B",
+      "correctAnswer": "detached",
+      "explanation": "An aloof person remains detached or emotionally distant instead of becoming closely involved with other people."
+    },
+    {
+      "id": "HSPT-V11-033",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to conjecture, as in a conjecture about what happened?",
+      "choices": {
+        "A": "proof",
+        "B": "record",
+        "C": "guess",
+        "D": "command"
+      },
+      "correct": "C",
+      "correctAnswer": "guess",
+      "explanation": "A conjecture is a guess or tentative explanation formed without enough evidence to establish that it is correct."
+    },
+    {
+      "id": "HSPT-V11-034",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to innate?",
+      "choices": {
+        "A": "inborn",
+        "B": "natural",
+        "C": "acquired",
+        "D": "inherent"
+      },
+      "correct": "C",
+      "correctAnswer": "acquired",
+      "explanation": "An innate quality is present from birth, whereas an acquired quality develops through experience or learning afterward."
+    },
+    {
+      "id": "HSPT-V11-035",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to humble, as in a humble attitude toward one's achievements?",
+      "choices": {
+        "A": "modest",
+        "B": "arrogant",
+        "C": "thankful",
+        "D": "quiet"
+      },
+      "correct": "B",
+      "correctAnswer": "arrogant",
+      "explanation": "Humble describes a modest view of one's achievements, while arrogant describes an exaggerated sense of one's importance or superiority."
+    },
+    {
+      "id": "HSPT-V11-036",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to vindicate?",
+      "choices": {
+        "A": "justify",
+        "B": "defend",
+        "C": "pardon",
+        "D": "incriminate"
+      },
+      "correct": "D",
+      "correctAnswer": "incriminate",
+      "explanation": "To vindicate is to clear someone of blame; to incriminate is to connect that person with wrongdoing."
+    },
+    {
+      "id": "HSPT-V11-037",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Census is to population as inventory is to ____.",
+      "choices": {
+        "A": "profit",
+        "B": "wage",
+        "C": "price",
+        "D": "stock"
+      },
+      "correct": "D",
+      "correctAnswer": "stock",
+      "explanation": "A census records the members of a population, just as an inventory records the items held in stock."
+    },
+    {
+      "id": "HSPT-V11-038",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Boast is to pride as apology is to ____.",
+      "choices": {
+        "A": "remorse",
+        "B": "curiosity",
+        "C": "certainty",
+        "D": "amusement"
+      },
+      "correct": "A",
+      "correctAnswer": "remorse",
+      "explanation": "A boast expresses pride, while an apology expresses remorse or regret about something the speaker has done."
+    },
+    {
+      "id": "HSPT-V11-039",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Tenant is to landlord as borrower is to ____.",
+      "choices": {
+        "A": "lender",
+        "B": "purchaser",
+        "C": "debtor",
+        "D": "seller"
+      },
+      "correct": "A",
+      "correctAnswer": "lender",
+      "explanation": "A tenant receives the use of property from a landlord, just as a borrower receives a loan from a lender."
+    },
+    {
+      "id": "HSPT-V11-040",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Three choices name parts of a book. Which choice names a kind of book instead?",
+      "choices": {
+        "A": "almanac",
+        "B": "glossary",
+        "C": "appendix",
+        "D": "index"
+      },
+      "correct": "A",
+      "correctAnswer": "almanac",
+      "explanation": "An almanac is a kind of reference book, whereas a glossary, appendix, and index are sections within a book."
+    },
+    {
+      "id": "HSPT-V11-041",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Three choices name things used to control the flow of a liquid. Which choice instead names a device that measures a condition?",
+      "choices": {
+        "A": "valve",
+        "B": "dam",
+        "C": "faucet",
+        "D": "gauge"
+      },
+      "correct": "D",
+      "correctAnswer": "gauge",
+      "explanation": "A gauge measures a condition such as pressure, while a valve, dam, or faucet controls the movement of liquid."
+    },
+    {
+      "id": "HSPT-V11-042",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word can name both a financial institution and the land immediately beside a river?",
+      "choices": {
+        "A": "branch",
+        "B": "reserve",
+        "C": "current",
+        "D": "bank"
+      },
+      "correct": "D",
+      "correctAnswer": "bank",
+      "explanation": "Bank has both specified meanings; branch, reserve, and current do not name both an institution and the land beside a river."
+    },
+    {
+      "id": "HSPT-V11-043",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Jem, Kea, and Luz each choose a different ink: cyan, magenta, or yellow. Jem does not choose yellow, and Kea does not choose cyan. Which additional fact is sufficient to show that Luz chooses yellow?",
+      "choices": {
+        "A": "Jem chooses cyan.",
+        "B": "Luz does not choose cyan.",
+        "C": "Kea chooses magenta.",
+        "D": "Luz does not choose magenta."
+      },
+      "correct": "C",
+      "correctAnswer": "Kea chooses magenta.",
+      "explanation": "If Kea chooses magenta, Jem must choose cyan because yellow is excluded for Jem; that leaves yellow for Luz."
+    },
+    {
+      "id": "HSPT-V11-044",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Three switches, R, S, and T, each point either up or down. R and S must point the same way. S and T must point opposite ways. If R points up, what must be true?",
+      "choices": {
+        "A": "T points up.",
+        "B": "T may point either way.",
+        "C": "T points down.",
+        "D": "The rules cannot be satisfied."
+      },
+      "correct": "C",
+      "correctAnswer": "T points down.",
+      "explanation": "R pointing up forces S to point up as well; because T must oppose S, T points down."
+    },
+    {
+      "id": "HSPT-V11-045",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Doorways connect rooms F–G, G–H, H–J, and F–J. The G–H doorway is blocked. No other doorways exist. Which route can someone follow from G to H?",
+      "choices": {
+        "A": "G, J, H",
+        "B": "G, F, J, H",
+        "C": "G, F, H",
+        "D": "G, H"
+      },
+      "correct": "B",
+      "correctAnswer": "G, F, J, H",
+      "explanation": "The route uses the open G–F, F–J, and J–H doorways; each alternative requires a blocked or nonexistent connection."
+    },
+    {
+      "id": "HSPT-V11-046",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to lucid?",
+      "choices": {
+        "A": "hostile",
+        "B": "cloudy",
+        "C": "clear",
+        "D": "elaborate"
+      },
+      "correct": "C",
+      "correctAnswer": "clear",
+      "explanation": "Lucid describes something expressed clearly and understandably, rather than something confusing, unfriendly, or unnecessarily complicated."
+    },
+    {
+      "id": "HSPT-V11-047",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to adroit?",
+      "choices": {
+        "A": "clumsy",
+        "B": "rigid",
+        "C": "skillful",
+        "D": "hesitant"
+      },
+      "correct": "C",
+      "correctAnswer": "skillful",
+      "explanation": "Adroit describes skill or dexterity in handling a task, so skillful preserves the meaning better than the other choices."
+    },
+    {
+      "id": "HSPT-V11-048",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to camaraderie?",
+      "choices": {
+        "A": "fellowship",
+        "B": "rivalry",
+        "C": "isolation",
+        "D": "obedience"
+      },
+      "correct": "A",
+      "correctAnswer": "fellowship",
+      "explanation": "Camaraderie is the friendly trust and companionship shared within a group, which fellowship expresses rather than competition, separation, or compliance."
+    },
+    {
+      "id": "HSPT-V11-049",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to tenacious, as in tenacious in pursuing a goal?",
+      "choices": {
+        "A": "determined",
+        "B": "wavering",
+        "C": "persistent",
+        "D": "patient"
+      },
+      "correct": "B",
+      "correctAnswer": "wavering",
+      "explanation": "Tenacious describes holding firmly to a purpose; wavering describes uncertainty or loss of firmness in pursuing it."
+    },
+    {
+      "id": "HSPT-V11-050",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to mundane?",
+      "choices": {
+        "A": "routine",
+        "B": "familiar",
+        "C": "extraordinary",
+        "D": "ordinary"
+      },
+      "correct": "C",
+      "correctAnswer": "extraordinary",
+      "explanation": "Mundane describes the ordinary or unremarkable, whereas extraordinary describes something unusual enough to stand apart from everyday experience."
+    },
+    {
+      "id": "HSPT-V11-051",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to equivocal, as in an equivocal reply?",
+      "choices": {
+        "A": "evasive",
+        "B": "uncertain",
+        "C": "definite",
+        "D": "ambiguous"
+      },
+      "correct": "C",
+      "correctAnswer": "definite",
+      "explanation": "An equivocal reply leaves its meaning or commitment uncertain; a definite reply makes the speaker's position clear."
+    },
+    {
+      "id": "HSPT-V11-052",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Ancestor is to descendant as predecessor is to ____.",
+      "choices": {
+        "A": "successor",
+        "B": "colleague",
+        "C": "assistant",
+        "D": "neighbor"
+      },
+      "correct": "A",
+      "correctAnswer": "successor",
+      "explanation": "An ancestor comes earlier in a family line than a descendant; a predecessor similarly comes before a successor in a position."
+    },
+    {
+      "id": "HSPT-V11-053",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "In word sounds, alliteration is to beginnings as rhyme is to ____.",
+      "choices": {
+        "A": "meanings",
+        "B": "endings",
+        "C": "spellings",
+        "D": "definitions"
+      },
+      "correct": "B",
+      "correctAnswer": "endings",
+      "explanation": "Alliteration repeats initial consonant sounds, while rhyme repeats ending sounds; each sound pattern is paired with its location."
+    },
+    {
+      "id": "HSPT-V11-054",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Anagram is to rearrangement as summary is to ____.",
+      "choices": {
+        "A": "repetition",
+        "B": "decoration",
+        "C": "interruption",
+        "D": "condensation"
+      },
+      "correct": "D",
+      "correctAnswer": "condensation",
+      "explanation": "An anagram results from rearranging letters, while a summary results from condensing the main content into a shorter form."
+    },
+    {
+      "id": "HSPT-V11-055",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which choice belongs with satin, denim, and velvet?",
+      "choices": {
+        "A": "granite",
+        "B": "plaster",
+        "C": "bronze",
+        "D": "linen"
+      },
+      "correct": "D",
+      "correctAnswer": "linen",
+      "explanation": "Linen, satin, denim, and velvet are fabrics; the other choices name materials used for different purposes."
+    },
+    {
+      "id": "HSPT-V11-056",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Three choices describe reducing something to smaller pieces. Which choice instead describes joining layers?",
+      "choices": {
+        "A": "crush",
+        "B": "grind",
+        "C": "pulverize",
+        "D": "laminate"
+      },
+      "correct": "D",
+      "correctAnswer": "laminate",
+      "explanation": "To laminate is to join layers, whereas crushing, grinding, and pulverizing break material into smaller pieces."
+    },
+    {
+      "id": "HSPT-V11-057",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "In standard American English, which pair contains two words that stress the first syllable as nouns but the second syllable as verbs?",
+      "choices": {
+        "A": "present; object",
+        "B": "hammer; table",
+        "C": "garden; answer",
+        "D": "whistle; promise"
+      },
+      "correct": "A",
+      "correctAnswer": "present; object",
+      "explanation": "As nouns, PREsent and OBject stress the first syllable; as verbs, preSENT and obJECT stress the second."
+    },
+    {
+      "id": "HSPT-V11-058",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "The claim \"Both beacons are transmitting\" is false. Each beacon either is transmitting or is not. Which statement must be true?",
+      "choices": {
+        "A": "Neither beacon is transmitting.",
+        "B": "At least one beacon is not transmitting.",
+        "C": "Exactly one beacon is not transmitting.",
+        "D": "Both beacons are transmitting."
+      },
+      "correct": "B",
+      "correctAnswer": "At least one beacon is not transmitting.",
+      "explanation": "The original claim fails if one or both beacons are not transmitting; it does not establish whether exactly one or neither is transmitting."
+    },
+    {
+      "id": "HSPT-V11-059",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "During one update, all tags are replaced simultaneously: GOLD becomes SILVER, SILVER becomes BRONZE, and BRONZE stays BRONZE. Each original tag is processed once. What does GOLD, SILVER, BRONZE become?",
+      "choices": {
+        "A": "BRONZE, BRONZE, BRONZE",
+        "B": "SILVER, SILVER, BRONZE",
+        "C": "GOLD, BRONZE, BRONZE",
+        "D": "SILVER, BRONZE, BRONZE"
+      },
+      "correct": "D",
+      "correctAnswer": "SILVER, BRONZE, BRONZE",
+      "explanation": "Each replacement uses the original tag: GOLD changes only to SILVER, while the original SILVER and BRONZE tags both become BRONZE."
+    },
+    {
+      "id": "HSPT-V11-060",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Neri accepts a film, rowing, or skating. Paz accepts rowing, chess, or skating. Rowing is fully booked; the other activities are available. Which available activity do both accept?",
+      "choices": {
+        "A": "a film",
+        "B": "skating",
+        "C": "chess",
+        "D": "rowing"
+      },
+      "correct": "B",
+      "correctAnswer": "skating",
+      "explanation": "The shared choices are rowing and skating; removing the fully booked rowing option leaves skating as the available shared choice."
+    }
+  ]
+}
