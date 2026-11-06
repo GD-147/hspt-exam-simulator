@@ -5,6 +5,26 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Simulator</title>
   <link rel="stylesheet" href="styles.css" />
+
+  <style>
+    #fullLengthConfirm {
+      width: min(520px, calc(100% - 32px));
+      padding: 24px;
+      border: 1px solid #334155;
+      border-radius: 18px;
+      background: #111827;
+      color: #f8fafc;
+      box-shadow: 0 24px 70px rgba(0, 0, 0, .55);
+    }
+
+    #fullLengthConfirm::backdrop {
+      background: rgba(2, 6, 23, .78);
+    }
+
+    #fullLengthConfirm h3 {
+      margin: 0 0 10px;
+    }
+  </style>
 </head>
 <body>
   <header class="topbar">
@@ -122,10 +142,34 @@
       <button id="homeBtn" class="btn" style="margin-top:14px;">Back to Home</button>
     </section>
 
+
+    <dialog id="fullLengthConfirm">
+      <h3 id="fullLengthConfirmTitle">Confirm Action</h3>
+      <p id="fullLengthConfirmMessage" class="helper"></p>
+
+      <div class="row" style="margin-top:18px;">
+        <button
+          id="fullLengthCancelBtn"
+          type="button"
+          class="btn btn-secondary"
+        >
+          Cancel
+        </button>
+
+        <button
+          id="fullLengthConfirmBtn"
+          type="button"
+          class="btn"
+        >
+          Continue
+        </button>
+      </div>
+    </dialog>
+
   </main>
 
   <script src="common.js?v=3"></script>
-  <script src="full-length.js?v=1"></script>
+  <script src="full-length.js?v=2"></script>
   <script src="runner.js?v=10"></script>
 </body>
 </html>

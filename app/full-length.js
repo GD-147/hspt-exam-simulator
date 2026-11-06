@@ -74,6 +74,38 @@ async function runFullLength(examId, cfg, fullConfig) {
     return sessions[sectionIndex];
   }
 
+  function showFullLengthConfirmation(title, message, confirmLabel) {
+    const dialog = qs("fullLengthConfirm");
+    const titleEl = qs("fullLengthConfirmTitle");
+    const messageEl = qs("fullLengthConfirmMessage");
+    const cancelBtn = qs("fullLengthCancelBtn");
+    const confirmBtn = qs("fullLengthConfirmBtn");
+
+    titleEl.textContent = title;
+    messageEl.textContent = message;
+    confirmBtn.textContent = confirmLabel;
+
+    return new Promise(resolve => {
+      let settled = false;
+
+      function closeDialog(result) {
+        if (settled) return;
+        settled = true;
+        if (dialog.open) dialog.close();
+        resolve(result);
+      }
+
+      cancelBtn.onclick = () => closeDialog(false);
+      confirmBtn.onclick = () => closeDialog(true);
+      dialog.oncancel = event => {
+        event.preventDefault();
+        closeDialog(false);
+      };
+
+      dialog.showModal();
+    });
+  }
+
   function renderQuestion() {
     const session = currentSession();
     const section = session.section;
@@ -347,21 +379,22 @@ async function runFullLength(examId, cfg, fullConfig) {
     }
   });
 
-  qs("finishBtn").addEventListener("click", () => {
+  qs("finishBtn").addEventListener("click", async () => {
     const unanswered = currentSession().questions.filter(
       question => !answers[question.id]
     ).length;
-    const label =
-      sectionIndex === sessions.length - 1 ? "exam" : "section";
+    const isFinalSection = sectionIndex === sessions.length - 1;
+    const label = isFinalSection ? "exam" : "section";
 
-    if (
-      unanswered &&
-      !window.confirm(
+    if (unanswered) {
+      const confirmed = await showFullLengthConfirmation(
+        isFinalSection ? "Finish Full-Length Exam?" : "Finish Section?",
         `${unanswered} question${unanswered === 1 ? " is" : "s are"} ` +
-        `unanswered. Finish this ${label}?`
-      )
-    ) {
-      return;
+          `unanswered. Are you sure you want to finish this ${label}?`,
+        isFinalSection ? "Finish Exam" : "Finish Section"
+      );
+
+      if (!confirmed) return;
     }
 
     completeSection(false);
@@ -374,13 +407,16 @@ async function runFullLength(examId, cfg, fullConfig) {
     showCurrentSection();
   });
 
-  qs("backLink").addEventListener("click", event => {
+  qs("backLink").addEventListener("click", async event => {
     event.preventDefault();
-    if (
-      window.confirm(
-        "Leave this Full-Length exam? Current answers will be lost."
-      )
-    ) {
+
+    const confirmed = await showFullLengthConfirmation(
+      "Leave Full-Length Exam?",
+      "Current answers will be lost if you leave this exam.",
+      "Leave Exam"
+    );
+
+    if (confirmed) {
       window.location.href =
         `app.html?exam=${encodeURIComponent(examId)}`;
     }
